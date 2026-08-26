@@ -212,7 +212,9 @@ def find_dataset_root(version: str, data_dir: Path | None = None) -> Path:
         pass
 
     for c in candidates:
-        if (c / "queries.jsonl").is_file():
+        # a version exists once it has queries OR a manifest — a corpus-only
+        # version (manifest before queries) is a legitimate build-time state
+        if (c / "queries.jsonl").is_file() or (c / "manifest.jsonl").is_file():
             return c
     raise FileNotFoundError(
         f"data version {version!r} not found; looked in: "
@@ -248,8 +250,14 @@ def load_qrels(path: Path) -> list[QrelEntry]:
 
 def load_dataset(version: str, data_dir: Path | None = None) -> Dataset:
     root = find_dataset_root(version, data_dir)
-    queries = [Query.model_validate(row) for _, row in _read_jsonl(root / "queries.jsonl")]
-    qrels = load_qrels(root / "qrels.txt")
+    queries_path = root / "queries.jsonl"
+    queries = (
+        [Query.model_validate(row) for _, row in _read_jsonl(queries_path)]
+        if queries_path.is_file()
+        else []
+    )
+    qrels_path = root / "qrels.txt"
+    qrels = load_qrels(qrels_path) if qrels_path.is_file() else []
     manifest_path = root / "manifest.jsonl"
     manifest = (
         [ManifestEntry.model_validate(row) for _, row in _read_jsonl(manifest_path)]
@@ -279,6 +287,12 @@ def validate_dataset(ds: Dataset, check_texts: bool = True) -> ValidationReport:
       where texts are present locally, actually match
     """
     rep = ValidationReport()
+
+    if not ds.queries:
+        rep.warnings.append(
+            "no queries.jsonl — corpus-only version (manifest present, "
+            "query set not generated yet); not runnable"
+        )
 
     query_ids = {q.query_id for q in ds.queries}
     if len(query_ids) != len(ds.queries):

@@ -189,6 +189,13 @@ def run(
     if phase not in ("retrieval", "generation"):
         raise typer.BadParameter("--phase must be 'retrieval' or 'generation'")
     ds = load_dataset(subset, data_dir)
+    if not ds.queries:
+        typer.echo(
+            f"[{subset}] has no query set yet — generate queries.jsonl first "
+            f"(benchmark/build/make_queries.py)",
+            err=True,
+        )
+        raise typer.Exit(code=1)
     rep = validate_dataset(ds, check_texts=False)
     if not rep.ok:
         for e in rep.errors:
