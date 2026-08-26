@@ -61,7 +61,11 @@ survives its author.)
 
 ## Checklist
 
-1. Implement the class; config dict = constructor kwargs.
+1. Implement the class; config dict = constructor kwargs. A single
+   `my_adapter.py` next to `systems.toml` is enough — that directory is put
+   on `sys.path`, so `adapter = "my_adapter:MyClass"` works without
+   packaging. No inheritance or registration: `RagSystem` is a Protocol,
+   structural conformance is all that is checked.
 2. Add it to `systems.toml` (secrets via `${ENV_VAR}`, never literals).
 3. `parallax-bench ingest --system my-system --subset smoke`
 4. `parallax-bench run --system my-system --subset smoke`
