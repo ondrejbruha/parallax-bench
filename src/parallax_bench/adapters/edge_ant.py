@@ -18,6 +18,21 @@ Assistants (generation) are instance administration, not benchmark state:
 create the assistants up front — identical system prompt, provider, model and
 retrieval settings, differing only in their source folders — and hand their
 ids to the adapter via ``assistant_ids``.
+
+Wire contracts below were read off the Edge Ant source, not its documentation,
+because two of them are easy to get wrong in ways that fail silently:
+
+- ``POST /api/v1/search`` returns ``{results: [{text, name, document_id}]}``
+  (``ChunkResp`` in ``src/api/search.rs``) — the chunk's document is ``name``.
+- ``POST /api/v1/assistant/{id}/call`` returns ``{answer, chunks, question_id}``
+  where each chunk is a ``ChunkRef``: ``{document_id, document_name,
+  index_name, chunk_content}`` (``src/api/assistants.rs``). The document is
+  ``document_name`` here — **not** ``name``. Reading ``name`` yields ``None``
+  for every chunk, so retrieval and citation lists come back empty and every
+  generation metric silently scores zero.
+- ``result_count`` and ``prefetch_k`` are both validated to ``1..=100`` and
+  ``prefetch_k >= result_count`` (``src/api/search.rs``); violating either is a
+  422.
 """
 
 from __future__ import annotations
@@ -36,6 +51,9 @@ from tenacity import retry, retry_if_exception_type, stop_after_attempt, wait_ex
 from parallax_bench.adapters.base import Answer, Doc
 
 _CITATION_RE = re.compile(r"\[(\d+)\]")
+
+#: Both search parameters are validated to 1..=100 server-side.
+_API_PARAM_MAX = 100
 
 
 def _b64url(data: bytes) -> str:
@@ -81,11 +99,22 @@ class EdgeAntSystem:
         chunk_pattern: str | None = None,
         chunk_overlap: int | None = None,
         assistant_ids: dict[str, str] | None = None,
+        embeddings_model: str | None = None,
+        reranker_model: str | None = None,
         index_poll_interval_s: float = 2.0,
         index_timeout_s: float = 600.0,
         timeout_search_s: float = 30.0,
         timeout_generate_s: float = 300.0,
     ) -> None:
+        if not 1 <= result_count <= _API_PARAM_MAX:
+            raise ValueError(f"result_count must be 1..{_API_PARAM_MAX}, got {result_count}")
+        if not 1 <= prefetch_k <= _API_PARAM_MAX:
+            raise ValueError(f"prefetch_k must be 1..{_API_PARAM_MAX}, got {prefetch_k}")
+        if prefetch_k < result_count:
+            raise ValueError(
+                f"prefetch_k ({prefetch_k}) must be >= result_count ({result_count}); "
+                f"Edge Ant rejects the request otherwise"
+            )
         self.base_url = base_url.rstrip("/")
         self._jwt_secret = jwt_secret
         self._mail = mail
@@ -97,6 +126,10 @@ class EdgeAntSystem:
         self.chunk_pattern = chunk_pattern
         self.chunk_overlap = chunk_overlap
         self.assistant_ids = assistant_ids or {}
+        # Operator-declared, because Edge Ant exposes neither over HTTP. Kept
+        # separate from probed facts in describe().
+        self.embeddings_model = embeddings_model
+        self.reranker_model = reranker_model
         self.index_poll_interval_s = index_poll_interval_s
         self.index_timeout_s = index_timeout_s
         self.timeout_search_s = timeout_search_s
@@ -140,14 +173,37 @@ class EdgeAntSystem:
     # -- protocol -----------------------------------------------------------
 
     def describe(self) -> dict:
-        """Read what is actually deployed, never assume from configuration."""
-        info: dict = {"adapter": "edge_ant", "base_url": self.base_url}
-        for path in ("/api/v1/info", "/api/v1/health"):
-            try:
-                info["instance"] = self._request("GET", path, None, 10)
-                break
-            except Exception:  # noqa: BLE001 — endpoint availability varies by version
-                continue
+        """Read what is actually deployed, never assume from configuration.
+
+        Edge Ant has no configuration endpoint, so what can genuinely be probed
+        over HTTP is the API version from the public OpenAPI document. The
+        embedder and reranker are process-level environment (``EMBEDDINGS_MODEL``
+        / ``RERANKER_MODEL``) and are not exposed at all — they are recorded
+        under ``declared`` so a reader can never mistake an operator's claim for
+        a measurement. Freeze the instance for the duration of a run.
+        """
+        # describe() lands in runs/<id>/system.json, which is committed — the
+        # real endpoint must never appear there (assignment §9), so it gets the
+        # same stable alias as config.json.
+        info: dict = {"adapter": "edge_ant", "base_url": "<sut-endpoint>"}
+        probed: dict = {}
+        try:
+            doc = self._request("GET", "/api-docs/openapi.json", None, 15)
+            probed["api_version"] = (doc or {}).get("info", {}).get("version")
+        except Exception:  # noqa: BLE001 — provenance is best-effort, never fatal
+            pass
+        try:
+            self._request("GET", "/api/v1/liveness", None, 10)
+            probed["liveness"] = "ok"
+        except Exception:  # noqa: BLE001
+            probed["liveness"] = "unreachable"
+        info["probed"] = probed
+        if self.embeddings_model or self.reranker_model:
+            info["declared"] = {
+                "embeddings_model": self.embeddings_model,
+                "reranker_model": self.reranker_model,
+                "note": "not exposed by any Edge Ant endpoint; operator-declared",
+            }
         info["search"] = {
             "prefetch_k": self.prefetch_k,
             "result_count": self.result_count,
@@ -171,13 +227,15 @@ class EdgeAntSystem:
                 raise RuntimeError(f"document POST returned no id: {created}")
             pending.append((str(doc_ref), doc.doc_id))
         deadline = time.monotonic() + self.index_timeout_s
-        counts = self._chunk_counts.setdefault(index_name, {})
-        for doc_ref, doc_id in pending:
+        for doc_ref, _doc_id in pending:
             while True:
                 status = self._request("GET", f"/api/v1/document/{doc_ref}", None, 30)
+                # Note: the response carries no chunk count. Edge Ant's
+                # ``Document`` struct is {id, name, content, index_name, status,
+                # restricted_to, owner_mail} and no endpoint exposes chunking
+                # results, so ``chunk_counts`` stays empty unless a subclass
+                # computes it (see chunk_counts below).
                 if status.get("status") == "indexed":
-                    if isinstance(status.get("chunk_count"), int):
-                        counts[doc_id] = status["chunk_count"]
                     break
                 if status.get("status") == "failed":
                     raise RuntimeError(f"document {doc_ref} failed to index: {status}")
@@ -188,20 +246,51 @@ class EdgeAntSystem:
                 time.sleep(self.index_poll_interval_s)
 
     def chunk_counts(self, index_name: str) -> dict[str, int]:
-        """Optional introspection hook for manifest.lock (not protocol)."""
+        """Optional introspection hook for manifest.lock (not protocol).
+
+        Empty for this adapter: Edge Ant reports no chunk count anywhere. A
+        subclass can fill ``self._chunk_counts`` — chunking is a pure function
+        of (content, pattern, overlap), so it can be reproduced locally — and
+        the cross-language parity check then has data to work with.
+        """
         return dict(self._chunk_counts.get(index_name, {}))
 
+    def _search_params(self, k: int) -> tuple[int, int]:
+        """(result_count, prefetch_k) for a request that wants depth ``k``.
+
+        The configuration defines the system; ``k`` only says how deep the
+        benchmark wants to look. The two cases differ because of what Edge Ant
+        actually does:
+
+        - **Reranking off** (``prefetch_k == result_count``): the returned list
+          *is* the RRF-fused ranking, so asking for more is simply looking
+          deeper at the same ranking. Both values grow with ``k``, which keeps
+          the rerank-off invariant intact.
+        - **Reranking on**: the cross-encoder scores exactly ``prefetch_k``
+          candidates, so growing the pool would be a *different* system. The
+          pool stays as configured and ``result_count`` may rise only to
+          ``prefetch_k - 1`` — at ``prefetch_k`` Edge Ant skips reranking
+          altogether, which would silently turn the rerank arm into the
+          no-rerank arm mid-run.
+
+        A configured pool of P therefore has no ranking deeper than P-1 with
+        reranking on. That is a property of the system, not a limitation to
+        paper over: to compare the two arms at depth 100, configure both with
+        ``prefetch_k = 100``.
+        """
+        want = max(1, min(k, _API_PARAM_MAX))
+        if self.prefetch_k == self.result_count:
+            return want, want
+        prefetch_k = min(self.prefetch_k, _API_PARAM_MAX)
+        return min(want, prefetch_k - 1), prefetch_k
+
     def search(self, query: str, index_name: str, k: int) -> list[str]:
+        result_count, prefetch_k = self._search_params(k)
         body = {
             "query": query,
             "index_name": index_name,
-            "result_count": max(k, self.result_count),
-            "prefetch_k": (
-                # keep the rerank-off invariant (prefetch_k == result_count)
-                max(k, self.result_count)
-                if self.prefetch_k == self.result_count
-                else max(self.prefetch_k, k)
-            ),
+            "result_count": result_count,
+            "prefetch_k": prefetch_k,
             "min_chunk_length": self.min_chunk_length,
         }
         payload = self._request("POST", "/api/v1/search", body, self.timeout_search_s)
@@ -209,9 +298,11 @@ class EdgeAntSystem:
             payload if isinstance(payload, list)
             else payload.get("results") or payload.get("chunks") or []
         )
+        # Several chunks of one document routinely occupy several positions;
+        # relevance is at document level, so they collapse to the first.
         seen: list[str] = []
         for chunk in chunks:
-            name = chunk.get("name")
+            name = chunk.get("name") or chunk.get("document_name")
             if name and name not in seen:
                 seen.append(name)
         return seen[:k]
@@ -233,18 +324,37 @@ class EdgeAntSystem:
         )
         answer_text = payload.get("answer", "")
         chunks = payload.get("chunks", [])
+
+        # ChunkRef carries `document_name`, not `name` — see the module
+        # docstring. `name` is kept as a fallback only so a differently shaped
+        # response is not silently read as "no documents".
+        def doc_of(chunk: dict) -> str | None:
+            return chunk.get("document_name") or chunk.get("name")
+
         retrieved: list[str] = []
         for chunk in chunks:
-            name = chunk.get("name")
+            name = doc_of(chunk)
             if name and name not in retrieved:
                 retrieved.append(name)
         cited: list[str] = []
         for m in _CITATION_RE.finditer(answer_text):
+            # Edge Ant renders each chunk inside <context id="N"> with N being
+            # the 1-based index into this same `chunks` array, and its prompts
+            # require inline [N] citations — so an N outside the array is a
+            # dangling citation, which is directly measurable.
             idx = int(m.group(1)) - 1
             if 0 <= idx < len(chunks):
-                name = chunks[idx].get("name")
+                name = doc_of(chunks[idx])
                 if name and name not in cited:
                     cited.append(name)
+        # `index_name` per chunk is free language provenance: for a MultiRAG
+        # assistant spanning every language index, this says which language the
+        # answer's evidence actually came from.
+        source_indexes: dict[str, int] = {}
+        for chunk in chunks:
+            ix = chunk.get("index_name")
+            if ix:
+                source_indexes[ix] = source_indexes.get(ix, 0) + 1
         return Answer(
             text=answer_text,
             retrieved_doc_ids=retrieved,
@@ -253,5 +363,6 @@ class EdgeAntSystem:
                 "question_id": payload.get("question_id"),
                 "mode": mode,
                 "n_chunks": len(chunks),
+                "source_indexes": source_indexes,
             },
         )
