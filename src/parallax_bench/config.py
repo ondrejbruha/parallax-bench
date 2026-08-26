@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import os
 import re
+import sys
 import tomllib
 from pathlib import Path
 
@@ -107,6 +108,11 @@ def load_systems(path: Path | None = None) -> dict[str, SystemConfig]:
         default = Path.cwd() / "systems.toml"
         path = default if default.is_file() else None
     if path is not None:
+        # a single-file adapter living next to systems.toml must be importable
+        # without packaging or PYTHONPATH gymnastics
+        toml_dir = str(Path(path).resolve().parent)
+        if toml_dir not in sys.path:
+            sys.path.insert(0, toml_dir)
         with Path(path).open("rb") as fh:
             raw = tomllib.load(fh)
         for entry in raw.get("systems", []):
