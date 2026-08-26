@@ -1,0 +1,8 @@
+# Corpus selection for data version v1 — one CELEX id per line.
+# Input for benchmark/build/make_manifest.py; the binding definition of the
+# dataset is the generated manifest.jsonl, this file documents the selection.
+
+32016R0679   # GDPR — General Data Protection Regulation (2016/679)
+32024R1689   # AI Act — Artificial Intelligence Act (2024/1689)
+32022L2555   # NIS2 — Directive on measures for a high common level of cybersecurity (2022/2555)
+32022R2554   # DORA — Digital Operational Resilience Act (2022/2554)
