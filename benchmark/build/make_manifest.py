@@ -74,12 +74,12 @@ def main() -> None:
             for lang in langs:
                 url = url_for(celex, lang)
                 try:
-                    raw = _download(client, url)
+                    raw = _download(client, url)  # bytes — hashed as sha256_source
                 except Exception as exc:  # noqa: BLE001
                     print(f"  {celex}/{lang}: download failed ({type(exc).__name__})")
                     per_doc = []
                     break
-                text = html_to_text(raw)
+                text = html_to_text(raw.decode("utf-8", errors="replace"))
                 if len(text) < MIN_CHARS or "requested document does not exist" in text.lower():
                     print(f"  {celex}/{lang}: not available in this language")
                     per_doc = []
@@ -94,7 +94,7 @@ def main() -> None:
                         "lang": lang,
                         "url": url,
                         "sha256_text": digest,
-                        "sha256_source": hashlib.sha256(raw.encode("utf-8")).hexdigest(),
+                        "sha256_source": hashlib.sha256(raw).hexdigest(),
                         "extractor": EXTRACTOR_ID,
                         "char_len": len(text),
                     }
