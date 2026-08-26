@@ -1,0 +1,1 @@
+worker: parallax-bench run --system $PARALLAX_SYSTEM --phase $PARALLAX_PHASE --subset $PARALLAX_DATA_VERSION --no-ingest

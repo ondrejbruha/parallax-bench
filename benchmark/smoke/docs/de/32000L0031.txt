@@ -1,0 +1,709 @@
+EUR-Lex - 32000L0031 - DE
+
+
+Avis juridique important
+
+
+|
+
+
+32000L0031
+
+
+Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt ("Richtlinie über den elektronischen Geschäftsverkehr")
+
+
+Amtsblatt Nr. L 178 vom 17/07/2000 S. 0001 - 0016
+
+
+Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates
+
+vom 8. Juni 2000
+
+über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt ("Richtlinie über den elektronischen Geschäftsverkehr")
+
+
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION -
+
+gestützt auf den Vertrag zur Gründung der Europäischen Gemeinschaft, insbesondere auf Artikel 47 Absatz 2 und die Artikel 55 und 95,
+
+auf Vorschlag der Kommission(1),
+
+nach Stellungnahme des Wirtschafts- und Sozialausschusses(2),
+
+gemäß dem Verfahren des Artikels 251 des Vertrags(3)
+
+in Erwägung nachstehender Gründe:
+
+(1) Ziel der Europäischen Union ist es, einen immer engeren Zusammenschluß der europäischen Staaten und Völker zu schaffen, um den wirtschaftlichen und sozialen Fortschritt zu sichern. Der Binnenmarkt umfaßt nach Artikel 14 Absatz 2 des Vertrags einen Raum ohne Binnengrenzen, in dem der freie Verkehr von Waren und Dienstleistungen sowie die Niederlassungsfreiheit gewährleistet sind. Die Weiterentwicklung der Dienste der Informationsgesellschaft in dem Raum ohne Binnengrenzen ist ein wichtiges Mittel, um die Schranken, die die europäischen Völker trennen, zu beseitigen.
+
+(2) Die Entwicklung des elektronischen Geschäftsverkehrs in der Informationsgesellschaft bietet erhebliche Beschäftigungsmöglichkeiten in der Gemeinschaft, insbesondere in kleinen und mittleren Unternehmen, und wird das Wirtschaftswachstum sowie die Investitionen in Innovationen der europäischen Unternehmen anregen; diese Entwicklung kann auch die Wettbewerbsfähigkeit der europäischen Wirtschaft stärken, vorausgesetzt, daß das Internet allen zugänglich ist.
+
+(3) Das Gemeinschaftsrecht und die charakteristischen Merkmale der gemeinschaftlichen Rechtsordnung sind ein wichtiges Instrument, damit die europäischen Bürger und Unternehmen uneingeschränkt und ohne Behinderung durch Grenzen Nutzen aus den Möglichkeiten des elektronischen Geschäftsverkehrs ziehen können. Diese Richtlinie zielt daher darauf ab, ein hohes Niveau der rechtlichen Integration in der Gemeinschaft sicherzustellen, um einen wirklichen Raum ohne Binnengrenzen für die Dienste der Informationsgesellschaft zu verwirklichen.
+
+(4) Es ist wichtig zu gewährleisten, daß der elektronische Geschäftsverkehr die Chancen des Binnenmarktes voll nutzen kann und daß somit ebenso wie mit der Richtlinie 89/552/EWG des Rates vom 3. Oktober 1989 zur Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Ausübung der Fernsehtätigkeit(4) ein hohes Niveau der gemeinschaftlichen Integration erzielt wird.
+
+(5) Die Weiterentwicklung der Dienste der Informationsgesellschaft in der Gemeinschaft wird durch eine Reihe von rechtlichen Hemmnissen für das reibungslose Funktionieren des Binnenmarktes behindert, die die Ausübung der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs weniger attraktiv machen. Die Hemmnisse bestehen in Unterschieden der innerstaatlichen Rechtsvorschriften sowie in der Rechtsunsicherheit hinsichtlich der auf Dienste der Informationsgesellschaft jeweils anzuwendenden nationalen Regelungen. Solange die innerstaatlichen Rechtsvorschriften in den betreffenden Bereichen nicht koordiniert und angepaßt sind, können diese Hemmnisse gemäß der Rechtsprechung des Gerichtshofes der Europäischen Gemeinschaften gerechtfertigt sein. Rechtsunsicherheit besteht im Hinblick darauf, in welchem Ausmaß die Mitgliedstaaten über Dienste aus einem anderen Mitgliedstaat Kontrolle ausüben dürfen.
+
+(6) In Anbetracht der Ziele der Gemeinschaft, der Artikel 43 und 49 des Vertrags und des abgeleiteten Gemeinschaftsrechts gilt es, die genannten Hemmnisse durch Koordinierung bestimmter innerstaatlicher Rechtsvorschriften und durch Klarstellung von Rechtsbegriffen auf Gemeinschaftsebene zu beseitigen, soweit dies für das reibungslose Funktionieren des Binnenmarktes erforderlich ist. Diese Richtlinie befaßt sich nur mit bestimmten Fragen, die Probleme für das Funktionieren des Binnenmarktes aufwerfen, und wird damit in jeder Hinsicht dem Subsidiaritätsgebot gemäß Artikel 5 des Vertrags gerecht.
+
+(7) Um Rechtssicherheit zu erreichen und das Vertrauen der Verbraucher zu gewinnen, muß diese Richtlinie einen klaren allgemeinen Rahmen für den Binnenmarkt bezüglich bestimmter rechtlicher Aspekte des elektronischen Geschäftsverkehrs festlegen.
+
+(8) Ziel dieser Richtlinie ist es, einen rechtlichen Rahmen zur Sicherstellung des freien Verkehrs von Diensten der Informationsgesellschaft zwischen den Mitgliedstaaten zu schaffen, nicht aber, den Bereich des Strafrechts als solchen zu harmonisieren.
+
+(9) In vieler Hinsicht kann der freie Verkehr von Diensten der Informationsgesellschaft die besondere gemeinschaftsrechtliche Ausprägung eines allgemeineren Grundsatzes darstellen, nämlich des Rechts auf freie Meinungsäußerung im Sinne des Artikels 10 Absatz 1 der von allen Mitgliedstaaten ratifizierten Konvention zum Schutze der Menschenrechte und Grundfreiheiten. Richtlinien, die das Angebot von Diensten der Informationsgesellschaft betreffen, müssen daher sicherstellen, daß diese Tätigkeit gemäß jenem Artikel frei ausgeübt werden kann und nur den Einschränkungen unterliegt, die in Absatz 2 des genannten Artikels und in Artikel 46 Absatz 1 des Vertrages niedergelegt sind. Die grundlegenden Regeln und Prinzipien des einzelstaatlichen Rechts, die die freie Meinungsäußerung betreffen, sollen von dieser Richtlinie unberührt bleiben.
+
+(10) Gemäß dem Grundsatz der Verhältnismäßigkeit sind in dieser Richtlinie nur diejenigen Maßnahmen vorgesehen, die zur Gewährleistung des reibungslosen Funktionierens des Binnenmarktes unerläßlich sind. Damit der Binnenmarkt wirklich zu einem Raum ohne Binnengrenzen für den elektronischen Geschäftsverkehr wird, muß diese Richtlinie in den Bereichen, in denen ein Handeln auf Gemeinschaftsebene geboten ist, ein hohes Schutzniveau für die dem Allgemeininteresse dienenden Ziele, insbesondere für den Jugendschutz, den Schutz der Menschenwürde, den Verbraucherschutz und den Schutz der öffentlichen Gesundheit, gewährleisten. Nach Artikel 152 des Vertrags ist der Schutz der öffentlichen Gesundheit ein wesentlicher Bestandteil anderer Gemeinschaftspolitiken.
+
+(11) Diese Richtlinie läßt das durch Gemeinschaftsrechtsakte eingeführte Schutzniveau, insbesondere für öffentliche Gesundheit und den Verbraucherschutz, unberührt. Unter anderem bilden die Richtlinie 93/13/EWG des Rates vom 5. April 1993 über mißbräuchliche Klauseln in Verbraucherverträgen(5) und die Richtlinie 97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz(6) wichtige Errungenschaften für den Verbraucherschutz im Bereich des Vertragsrechts. Jene Richtlinien gelten voll und ganz auch für die Dienste der Informationsgesellschaft. Zum Rechtsstand auf Gemeinschaftsebene, der uneingeschränkt für die Dienste der Informationsgesellschaft gilt, gehören insbesondere auch die Richtlinien 84/450/EWG des Rates vom 10. September 1984 über irreführende und vergleichende Werbung(7), die Richtlinie 87/102/EWG des Rates vom 22. Dezember 1986 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über den Verbraucherkredit(8), die Richtlinie 93/22/EWG des Rates vom 10. Mai 1993 über Wertpapierdienstleistungen(9), die Richtlinie 90/314/EWG des Rates vom 13. Juni 1990 über Pauschalreisen(10), die Richtlinie 98/6/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998 über den Schutz der Verbraucher bei der Angabe der Preise der ihnen angebotenen Erzeugnisse(11), die Richtlinie 92/59/EWG des Rates vom 29. Juni 1992 über die allgemeine Produktsicherheit(12), die Richtlinie 94/47/EG des Europäischen Parlaments und des Rates vom 26. Oktober 1994 zum Schutz der Erwerber im Hinblick auf bestimmte Aspekte von Verträgen über den Erwerb von Teilzeitnutzungsrechten an Immobilien(13), die Richtlinie 98/27/EG des Europäischen Parlaments und des Rates vom 19. Mai 1998 über Unterlassungsklagen zum Schutz der Verbraucherinteressen(14), die Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte(15), die Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom 25. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter(16), die künftige Richtlinie des Europäischen Parlaments und des Rates über den Fernabsatz von Finanzdienstleistungen an Verbraucher, und die Richtlinie 92/28/EWG des Rates vom 31. März 1992 über die Werbung für Humanarzneimittel(17). Die vorliegende Richtlinie sollte die im Rahmen des Binnenmarktes angenommene Richtlinie 98/43/EG des Europäischen Parlaments und des Rates vom 6. Juli 1998 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über Werbung und Sponsoring zugunsten von Tabakerzeugnissen(18) und die Richtlinien über den Gesundheitsschutz unberührt lassen. Diese Richtlinie ergänzt die Informationserfordernisse, die durch die vorstehend genannten Richtlinien und insbesondere durch die Richtlinie 97/7/EG eingeführt wurden.
+
+(12) Bestimmte Tätigkeiten müssen aus dem Geltungsbereich dieser Richtlinie ausgenommen werden, da gegenwärtig in diesen Bereichen der freie Dienstleistungsverkehr aufgrund der Bestimmungen des Vertrags bzw. des abgeleiteten Gemeinschaftsrechts nicht sicherzustellen ist. Dieser Ausschluß darf Maßnahmen, die zur Gewährleistung des reibungslosen Funktionierens des Binnenmarkts erforderlich sein könnten, nicht berühren. Das Steuerwesen, insbesondere die Mehrwertsteuer, die auf eine große Zahl von Diensten erhoben wird, die in den Anwendungsbereich dieser Richtlinie fallen, muß von ihrem Anwendungsbereich ausgenommen werden.
+
+(13) Mit dieser Richtlinie sollen weder Regelungen über steuerliche Verpflichtungen festgelegt werden, noch greift sie der Ausarbeitung von Gemeinschaftsrechtsakten zu den steuerlichen Aspekten des elektronischen Geschäftsverkehrs vor.
+
+(14) Der Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten ist ausschließlich Gegenstand der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr(19) und der Richtlinie 97/66/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre im Bereich der Telekommunikation(20), beide Richtlinien sind uneingeschränkt auf die Dienste der Informationsgesellschaft anwendbar. Jene Richtlinien begründen bereits einen gemeinschaftsrechtlichen Rahmen für den Bereich personenbezogener Daten, so daß diese Frage in der vorliegenden Richtlinie nicht geregelt werden muß, um das reibungslose Funktionieren des Binnenmarkts und insbesondere den freien Fluß personenbezogener Daten zwischen den Mitgliedstaaten zu gewährleisten. Die Grundsätze des Schutzes personenbezogener Daten sind bei der Umsetzung und Anwendung dieser Richtlinie uneingeschränkt zu beachten, insbesondere in bezug auf nicht angeforderte kommerzielle Kommunikation und die Verantwortlichkeit von Vermittlern. Die anonyme Nutzung offener Netze wie des Internets kann diese Richtlinie nicht unterbinden.
+
+(15) Die Vertraulichkeit der Kommunikation ist durch Artikel 5 der Richtlinie 97/66/EG gewährleistet. Gemäß jener Richtlinie untersagen die Mitgliedstaaten jede Art des Abfangens oder Überwachens dieser Kommunikation durch andere Personen als Sender und Empfänger, es sei denn, diese Personen sind gesetzlich dazu ermächtigt.
+
+(16) Die Ausklammerung von Gewinnspielen aus dem Anwendungsbereich dieser Richtlinie betrifft nur Glücksspiele, Lotterien und Wetten mit einem einen Geldwert darstellenden Einsatz. Preisausschreiben und Gewinnspiele, mit denen der Verkauf von Waren oder Dienstleistungen gefördert werden soll und bei denen etwaige Zahlungen nur dem Erwerb der angebotenen Waren oder Dienstleistungen dienen, werden hiervon nicht erfaßt.
+
+(17) Das Gemeinschaftsrecht enthält in der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft(21) sowie in der Richtlinie 98/84/EG des Europäischen Parlaments und des Rates vom 20. November 1998 über den rechtlichen Schutz von zugangskontrollierten Diensten und von Zugangskontrolldiensten(22) bereits eine Definition der Dienste der Informationsgesellschaft. Diese Definition umfaßt alle Dienstleistungen, die in der Regel gegen Entgelt im Fernabsatz mittels Geräten für die elektronische Verarbeitung (einschließlich digitaler Kompression) und Speicherung von Daten auf individuellen Abruf eines Empfängers erbracht werden. Nicht unter diese Definition fallen die Dienstleistungen, auf die in der Liste von Beispielen in Anhang V der Richtlinie 98/34/EG Bezug genommen wird und die ohne Verarbeitung und Speicherung von Daten erbracht werden.
+
+(18) Die Dienste der Informationsgesellschaft umfassen einen weiten Bereich von wirtschaftlichen Tätigkeiten, die online vonstatten gehen. Diese Tätigkeiten können insbesondere im Online-Verkauf von Waren bestehen. Tätigkeiten wie die Auslieferung von Waren als solche oder die Erbringung von Offline-Diensten werden nicht erfaßt. Die Dienste der Informationsgesellschaft beschränken sich nicht nur auf Dienste, bei denen online Verträge geschlossen werden können, sondern erstrecken sich, soweit es sich überhaupt um eine wirtschaftliche Tätigkeit handelt, auch auf Dienste, die nicht von denjenigen vergütet werden, die sie empfangen, wie etwa Online-Informationsdienste, kommerzielle Kommunikation oder Dienste, die Instrumente zur Datensuche, zum Zugang zu Daten und zur Datenabfrage bereitstellen. Zu den Diensten der Informationsgesellschaft zählen auch Dienste, die Informationen über ein Kommunikationsnetz übermitteln, Zugang zu einem Kommunikationsnetz anbieten oder Informationen, die von einem Nutzer des Dienstes stammen, speichern. Fernsehsendungen im Sinne der Richtlinie 89/552/EWG und Radiosendungen sind keine Dienste der Informationsgesellschaft, da sie nicht auf individuellen Abruf erbracht werden. Dagegen sind Dienste, die von Punkt zu Punkt erbracht werden, wie Video auf Abruf oder die Verbreitung kommerzieller Kommunikationen mit elektronischer Post, Dienste der Informationsgesellschaft. Die Verwendung der elektronischen Post oder gleichwertiger individueller Kommunikationen zum Beispiel durch natürliche Personen außerhalb ihrer gewerblichen, geschäftlichen oder beruflichen Tätigkeit, einschließlich ihrer Verwendung für den Abschluß von Verträgen zwischen derartigen Personen, ist kein Dienst der Informationsgesellschaft. Die vertragliche Beziehung zwischen einem Arbeitnehmer und seinem Arbeitgeber ist kein Dienst der Informationsgesellschaft. Tätigkeiten, die ihrer Art nach nicht aus der Ferne und auf elektronischem Wege ausgeübt werden können, wie die gesetzliche Abschlußprüfung von Unternehmen oder ärztlicher Rat mit einer erforderlichen körperlichen Untersuchung eines Patienten, sind keine Dienste der Informationsgesellschaft.
+
+(19) Die Bestimmung des Ortes der Niederlassung des Anbieters hat gemäß den in der Rechtsprechung des Gerichtshofs entwickelten Kriterien zu erfolgen, nach denen der Niederlassungsbegriff die tatsächliche Ausübung einer wirtschaftlichen Tätigkeit mittels einer festen Einrichtung auf unbestimmte Zeit umfaßt. Diese Bedingung ist auch erfuellt, wenn ein Unternehmen für einen festgelegten Zeitraum gegründet wird. Erbringt ein Unternehmen Dienstleistungen über eine Web-Site des Internets, so ist es weder dort niedergelassen, wo sich die technischen Mittel befinden, die diese Web-Site beherbergen, noch dort, wo die Web-Site zugänglich ist, sondern an dem Ort, an dem es seine Wirtschaftstätigkeit ausübt. In Fällen, in denen ein Anbieter an mehreren Orten niedergelassen ist, ist es wichtig zu bestimmen, von welchem Niederlassungsort aus der betreffende Dienst erbracht wird. Ist im Falle mehrerer Niederlassungsorte schwierig zu bestimmen, von welchem Ort aus ein bestimmter Dienst erbracht wird, so gilt als solcher der Ort, an dem sich der Mittelpunkt der Tätigkeiten des Anbieters in bezug auf diesen bestimmten Dienst befindet.
+
+(20) Die Definition des Begriffs des Nutzers eines Dienstes umfaßt alle Arten der Inanspruchnahme von Diensten der Informationsgesellschaft sowohl durch Personen, die Informationen in offenen Netzen wie dem Internet anbieten, als auch durch Personen, die im Internet Informationen für private oder berufliche Zwecke suchen.
+
+(21) Eine künftige gemeinschaftliche Harmonisierung auf dem Gebiet der Dienste der Informationsgesellschaft und künftige Rechtsvorschriften, die auf einzelstaatlicher Ebene in Einklang mit dem Gemeinschaftsrecht erlassen werden, bleiben vom Geltungsbereich des koordinierten Bereichs unberührt. Der koordinierte Bereich umfaßt nur Anforderungen betreffend Online-Tätigkeiten, beispielsweise Online-Informationsdienste, Online-Werbung, Online-Verkauf und Online-Vertragsabschluß; er betrifft keine rechtlichen Anforderungen der Mitgliedstaaten bezüglich Waren, beispielsweise Sicherheitsnormen, Kennzeichnungspflichten oder Haftung für Waren, und auch keine Anforderungen der Mitgliedstaaten bezüglich der Lieferung oder Beförderung von Waren, einschließlich der Lieferung von Humanarzneimitteln. Der koordinierte Bereich umfaßt nicht die Wahrnehmung des Vorkaufsrechts durch öffentliche Behörden in bezug auf bestimmte Güter wie beispielsweise Kunstwerke.
+
+(22) Die Aufsicht über Dienste der Informationsgesellschaft hat am Herkunftsort zu erfolgen, um einen wirksamen Schutz der Ziele des Allgemeininteresses zu gewährleisten. Deshalb muß dafür gesorgt werden, daß die zuständige Behörde diesen Schutz nicht allein für die Bürger ihres Landes, sondern für alle Bürger der Gemeinschaft sichert. Um das gegenseitige Vertrauen der Mitgliedstaaten zu fördern, muß die Verantwortlichkeit des Mitgliedstaates des Herkunftsortes der Dienste klar herausgestellt werden. Um den freien Dienstleistungsverkehr und die Rechtssicherheit für Anbieter und Nutzer wirksam zu gewährleisten, sollten die Dienste der Informationsgesellschaft zudem grundsätzlich dem Rechtssystem desjenigen Mitgliedstaates unterworfen werden, in dem der Anbieter niedergelassen ist.
+
+(23) Diese Richtlinie zielt weder darauf ab, zusätzliche Regeln im Bereich des internationalen Privatrechts hinsichtlich des anwendbaren Rechts zu schaffen, noch befaßt sie sich mit der Zuständigkeit der Gerichte; Vorschriften des anwendbaren Rechts, die durch Regeln des Internationalen Privatrechts bestimmt sind, dürfen die Freiheit zur Erbringung von Diensten der Informationsgesellschaft im Sinne dieser Richtlinie nicht einschränken.
+
+(24) Unbeschadet der Regel, daß Dienste der Informationsgesellschaft an der Quelle zu beaufsichtigen sind, ist es im Zusammenhang mit dieser Richtlinie gerechtfertigt, daß die Mitgliedstaaten unter den in dieser Richtlinie festgelegten Bedingungen Maßnahmen ergreifen dürfen, um den freien Verkehr für Dienste der Informationsgesellschaft einzuschränken.
+
+(25) Nationale Gerichte, einschließlich Zivilgerichte, die mit privatrechtlichen Streitigkeiten befaßt sind, können im Einklang mit den in dieser Richtlinie festgelegten Bedingungen Maßnahmen ergreifen, die von der Freiheit der Erbringung von Diensten der Informationsgesellschaft abweichen.
+
+(26) Die Mitgliedstaaten können im Einklang mit den in dieser Richtlinie festgelegten Bedingungen ihre nationalen strafrechtlichen Vorschriften und Strafprozeßvorschriften anwenden, um Ermittlungs- und andere Maßnahmen zu ergreifen, die zur Aufklärung und Verfolgung von Straftaten erforderlich sind, ohne diese Maßnahmen der Kommission mitteilen zu müssen.
+
+(27) Diese Richtlinie trägt zusammen mit der künftigen Richtlinie des Europäischen Parlaments und des Rates über den Fernabsatz von Finanzdienstleistungen an Verbraucher dazu bei, einen rechtlichen Rahmen für die Online-Erbringung von Finanzdienstleistungen zu schaffen. Diese Richtlinie greift künftigen Initiativen im Bereich der Finanzdienstleistungen, insbesondere in bezug auf die Harmonisierung der Verhaltensregeln für diesen Bereich, nicht vor. Die durch diese Richtlinie geschaffene Möglichkeit für die Mitgliedstaaten, die Freiheit der Erbringung von Diensten der Informationsgesellschaft unter bestimmten Umständen zum Schutz der Verbraucher einzuschränken, erstreckt sich auch auf Maßnahmen im Bereich der Finanzdienstleistungen, insbesondere Maßnahmen zum Schutz von Anlegen.
+
+(28) Die Verpflichtung der Mitgliedstaaten, den Zugang zur Tätigkeit eines Anbieters von Diensten der Informationsgesellschaft keiner Zulassung zu unterwerfen, gilt nicht für Postdienste, die unter die Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität(23) fallen und in der materiellen Auslieferung ausgedruckter Mitteilungen der elektronischen Post bestehen; freiwillige Akkreditierungssysteme, insbesondere für Anbieter von Diensten für die Zertifizierung elektronischer Signaturen, sind hiervon ebenfalls nicht betroffen.
+
+(29) Kommerzielle Kommunikationen sind von entscheidender Bedeutung für die Finanzierung der Dienste der Informationsgesellschaft und die Entwicklung vielfältiger neuer und unentgeltlicher Dienste. Im Interesse des Verbraucherschutzes und der Lauterkeit des Geschäftsverkehrs müssen die verschiedenen Formen kommerzieller Kommunikation, darunter Preisnachlässe, Sonderangebote, Preisausschreiben und Gewinnspiele, bestimmten Transparenzerfordernissen genügen. Diese Transparenzerfordernisse lassen die Richtlinie 97/7/EG unberührt. Diese Richtlinie ist ferner ohne Auswirkung auf die Richtlinien, die bereits im Bereich der kommerziellen Kommunikationen bestehen, insbesondere die Richtlinie 98/43/EG.
+
+(30) Die Zusendung nicht angeforderter kommerzieller Kommunikationen durch elektronische Post kann für Verbraucher und Anbieter von Diensten der Informationsgesellschaft unerwünscht sein und das reibungslose Funktionieren interaktiver Netze beeinträchtigen. Die Frage der Zustimmung der Empfänger bestimmter Formen der nicht angeforderten kommerziellen Kommunikation ist nicht Gegenstand dieser Richtlinie, sondern ist, insbesondere in den Richtlinien 97/7/EG und 97/66/EG, bereits geregelt. In Mitgliedstaaten, die nicht angeforderte kommerzielle Kommunikationen über elektronische Post zulassen, sollten geeignete Initiativen der Branche zum Herausfiltern entsprechender Mitteilungen gefördert und erleichtert werden. Darüber hinaus müssen nicht angeforderte kommerzielle Kommunikationen auf jeden Fall klar als solche erkennbar sein, um die Transparenz zu verbessern und die Funktionsfähigkeit derartiger Filtersysteme der Branche zu fördern. Durch elektronische Post zugesandte nicht angeforderte kommerzielle Kommunikationen dürfen keine zusätzlichen Kommunikationskosten für den Empfänger verursachen.
+
+(31) Mitgliedstaaten, die in ihrem Hoheitsgebiet niedergelassenen Diensteanbietern die Versendung nicht angeforderter kommerzieller Kommunikation mit elektronischer Post ohne vorherige Zustimmung des Empfängers gestatten, müssen dafür Sorge tragen, daß die Diensteanbieter regelmäßig sog. Robinson-Listen konsultieren, in die sich natürliche Personen eintragen können, die keine derartigen Informationen zu erhalten wünschen, und daß die Diensteanbieter diese Listen beachten.
+
+(32) Um Hindernisse für die Entwicklung grenzüberschreitender Dienste innerhalb der Gemeinschaft zu beseitigen, die Angehörige der reglementierten Berufe im Internet anbieten könnten, muß die Wahrung berufsrechtlicher Regeln, insbesondere der Regeln zum Schutz der Verbraucher oder der öffentlichen Gesundheit, auf Gemeinschaftsebene gewährleistet sein. Zur Festlegung der für kommerzielle Kommunikation geltenden Berufsregeln sind vorzugsweise gemeinschaftsweit geltende Verhaltenskodizes geeignet. Die Erstellung oder gegebenenfalls die Anpassung solcher Regeln sollte unbeschadet der Autonomie von Berufsvereinigungen und -organisationen gefördert werden.
+
+(33) Diese Richtlinie ergänzt gemeinschaftliche und einzelstaatliche Rechtsvorschriften für reglementierte Berufe, wobei in diesem Bereich ein kohärenter Bestand anwendbarer Regeln beibehalten wird.
+
+(34) Jeder Mitgliedstaat hat seine Rechtsvorschriften zu ändern, in denen Bestimmungen festgelegt sind, die die Verwendung elektronisch geschlossener Verträge behindern könnten; dies gilt insbesondere für Formerfordernisse. Die Prüfung anpassungsbedürftiger Rechtsvorschriften sollte systematisch erfolgen und sämtliche Phasen bis zum Vertragsabschluß umfassen, einschließlich der Archivierung des Vertrages. Diese Änderung sollte bewirken, daß es möglich ist, elektronisch geschlossene Verträge zu verwenden. Die rechtliche Wirksamkeit elektronischer Signaturen ist bereits Gegenstand der Richtlinie 1999/93/EG des Europäischen Parlaments und des Rates vom 13. Dezember 1999 über gemeinschaftliche Rahmenbedingungen für elektronische Signaturen(24). Die Empfangsbestätigung durch den Diensteanbieter kann darin bestehen, daß dieser die bezahlte Dienstleistung online erbringt.
+
+(35) Diese Richtlinie läßt die Möglichkeit der Mitgliedstaaten unberührt, allgemeine oder spezifische rechtliche Anforderungen für Verträge, die auf elektronischem Wege erfuellt werden können, insbesondere Anforderungen für sichere elektronische Signaturen, aufrechtzuerhalten oder festzulegen.
+
+(36) Die Mitgliedstaaten können Beschränkungen für die Verwendung elektronisch geschlossener Verträge in bezug auf Verträge beibehalten, bei denen die Mitwirkung von Gerichten, Behörden oder öffentliche Befugnisse ausübenden Berufen gesetzlich vorgeschrieben ist. Diese Möglichkeit gilt auch für Verträge, bei denen die Mitwirkung von Gerichten, Behörden oder öffentliche Befugnisse ausübenden Berufen erforderlich ist, damit sie gegenüber Dritten wirksam sind, und für Verträge, bei denen eine notarielle Beurkundung oder Beglaubigung gesetzlich vorgeschrieben ist.
+
+(37) Die Verpflichtung der Mitgliedstaaten, Hindernisse für die Verwendung elektronisch geschlossener Verträge zu beseitigen, betrifft nur Hindernisse, die sich aus rechtlichen Anforderungen ergeben, nicht jedoch praktische Hindernisse, die dadurch entstehen, daß in bestimmten Fällen elektronische Mittel nicht genutzt werden können.
+
+(38) Die Verpflichtung der Mitgliedstaaten, Hindernisse für die Verwendung elektronisch geschlossener Verträge zu beseitigen, ist im Einklang mit den im Gemeinschaftsrecht niedergelegten rechtlichen Anforderungen an Verträge zu erfuellen.
+
+(39) Die in dieser Richtlinie in bezug auf die bereitzustellenden Informationen und die Abgabe von Bestellungen vorgesehenen Ausnahmen von den Vorschriften für Verträge, die ausschließlich durch den Austausch von elektronischer Post oder durch damit vergleichbare individuelle Kommunikation geschlossen werden, sollten nicht dazu führen, daß Anbieter von Diensten der Informationsgesellschaft diese Vorschriften umgehen können.
+
+(40) Bestehende und sich entwickelnde Unterschiede in den Rechtsvorschriften und der Rechtsprechung der Mitgliedstaaten hinsichtlich der Verantwortlichkeit von Diensteanbietern, die als Vermittler handeln, behindern das reibungslose Funktionieren des Binnenmarktes, indem sie insbesondere die Entwicklung grenzüberschreitender Dienste erschweren und Wettbewerbsverzerrungen verursachen. Die Diensteanbieter sind unter bestimmten Voraussetzungen verpflichtet, tätig zu werden, um rechtswidrige Tätigkeiten zu verhindern oder abzustellen. Die Bestimmungen dieser Richtlinie sollten eine geeignete Grundlage für die Entwicklung rasch und zuverlässig wirkender Verfahren zur Entfernung unerlaubter Informationen und zur Sperrung des Zugangs zu ihnen bilden. Entsprechende Mechanismen könnten auf der Grundlage freiwilliger Vereinbarungen zwischen allen Beteiligten entwickelt und sollten von den Mitgliedstaaten gefördert werden. Es liegt im Interesse aller an der Erbringung von Diensten der Informationsgesellschaft Beteiligten, daß solche Verfahren angenommen und umgesetzt werden. Die in dieser Richtlinie niedergelegten Bestimmungen über die Verantwortlichkeit sollten die verschiedenen Beteiligten nicht daran hindern, innerhalb der von den Richtlinien 95/46/EG und 97/66/EG gezogenen Grenzen technische Schutz- und Erkennungssysteme und durch die Digitaltechnik ermöglichte technische Überwachungsgeräte zu entwickeln und wirksam anzuwenden.
+
+(41) Diese Richtlinie schafft ein Gleichgewicht zwischen den verschiedenen Interessen und legt die Grundsätze fest, auf denen Übereinkommen und Standards in dieser Branche basieren können.
+
+(42) Die in dieser Richtlinie hinsichtlich der Verantwortlichkeit festgelegten Ausnahmen decken nur Fälle ab, in denen die Tätigkeit des Anbieters von Diensten der Informationsgesellschaft auf den technischen Vorgang beschränkt ist, ein Kommunikationsnetz zu betreiben und den Zugang zu diesem zu vermitteln, über das von Dritten zur Verfügung gestellte Informationen übermittelt oder zum alleinigen Zweck vorübergehend gespeichert werden, die Übermittlung effizienter zu gestalten. Diese Tätigkeit ist rein technischer, automatischer und passiver Art, was bedeutet, daß der Anbieter eines Dienstes der Informationsgesellschaft weder Kenntnis noch Kontrolle über die weitergeleitete oder gespeicherte Information besitzt.
+
+(43) Ein Diensteanbieter kann die Ausnahmeregelungen für die "reine Durchleitung" und das "Caching" in Anspruch nehmen, wenn er in keiner Weise mit der übermittelten Information in Verbindung steht. Dies bedeutet unter anderem, daß er die von ihm übermittelte Information nicht verändert. Unter diese Anforderung fallen nicht Eingriffe technischer Art im Verlauf der Übermittlung, da sie die Integrität der übermittelten Informationen nicht verändern.
+
+(44) Ein Diensteanbieter, der absichtlich mit einem der Nutzer seines Dienstes zusammenarbeitet, um rechtswidrige Handlungen zu begehen, leistet mehr als "reine Durchleitung" und "Caching" und kann daher den hierfür festgelegten Haftungsausschluß nicht in Anspruch nehmen.
+
+(45) Die in dieser Richtlinie festgelegten Beschränkungen der Verantwortlichkeit von Vermittlern lassen die Möglichkeit von Anordnungen unterschiedlicher Art unberührt. Diese können insbesondere in gerichtlichen oder behördlichen Anordnungen bestehen, die die Abstellung oder Verhinderung einer Rechtsverletzung verlangen, einschließlich der Entfernung rechtswidriger Informationen oder der Sperrung des Zugangs zu ihnen.
+
+(46) Um eine Beschränkung der Verantwortlichkeit in Anspruch nehmen zu können, muß der Anbieter eines Dienstes der Informationsgesellschaft, der in der Speicherung von Information besteht, unverzüglich tätig werden, sobald ihm rechtswidrige Tätigkeiten bekannt oder bewußt werden, um die betreffende Information zu entfernen oder den Zugang zu ihr zu sperren. Im Zusammenhang mit der Entfernung oder der Sperrung des Zugangs hat er den Grundsatz der freien Meinungsäußerung und die hierzu auf einzelstaatlicher Ebene festgelegten Verfahren zu beachten. Diese Richtlinie läßt die Möglichkeit der Mitgliedstaaten unberührt, spezifische Anforderungen vorzuschreiben, die vor der Entfernung von Informationen oder der Sperrung des Zugangs unverzüglich zu erfuellen sind.
+
+(47) Die Mitgliedstaaten sind nur dann gehindert, den Diensteanbietern Überwachungspflichten aufzuerlegen, wenn diese allgemeiner Art sind. Dies betrifft nicht Überwachungspflichten in spezifischen Fällen und berührt insbesondere nicht Anordnungen, die von einzelstaatlichen Behörden nach innerstaatlichem Recht getroffen werden.
+
+(48) Diese Richtlinie läßt die Möglichkeit unberührt, daß die Mitgliedstaaten von Diensteanbietern, die von Nutzern ihres Dienstes bereitgestellte Informationen speichern, verlangen, die nach vernünftigem Ermessen von ihnen zu erwartende und in innerstaatlichen Rechtsvorschriften niedergelegte Sorgfaltspflicht anzuwenden, um bestimmte Arten rechtswidriger Tätigkeiten aufzudecken und zu verhindern.
+
+(49) Die Mitgliedstaaten und die Kommission haben zur Ausarbeitung von Verhaltenskodizes zu ermutigen. Dies beeinträchtigt nicht die Freiwilligkeit dieser Kodizes und die Möglichkeit der Beteiligten, sich nach freiem Ermessen einem solchen Kodex zu unterwerfen.
+
+(50) Es ist wichtig, daß die vorgeschlagene Richtlinie zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft und die vorliegende Richtlinie innerhalb des gleichen Zeitrahmens in Kraft treten, so daß zur Frage der Haftung der Vermittler bei Verstößen gegen das Urheberrecht und verwandte Schutzrechte auf Gemeinschaftsebene ein klares Regelwerk begründet wird.
+
+(51) Gegebenenfalls müssen die Mitgliedstaaten innerstaatliche Rechtsvorschriften ändern, die die Inanspruchnahme von Mechanismen zur außergerichtlichen Beilegung von Streitigkeiten auf elektronischem Wege behindern könnten. Diese Änderung muß bewirken, daß diese Mechanismen de facto und de jure tatsächlich wirksam funktionieren können, und zwar auch bei grenzüberschreitenden Rechtsstreitigkeiten.
+
+(52) Die effektive Wahrnehmung der durch den Binnenmarkt gebotenen Freiheiten macht es erforderlich, den Opfern einen wirksamen Zugang zu Möglichkeiten der Beilegung von Streitigkeiten zu gewährleisten. Schäden, die in Verbindung mit den Diensten der Informationsgesellschaft entstehen können, sind durch ihre Schnelligkeit und ihre geographische Ausbreitung gekennzeichnet. Wegen dieser spezifischen Eigenheit und der Notwendigkeit, darüber zu wachen, daß die nationalen Behörden das Vertrauen, das sie sich gegenseitig entgegenbringen müssen, nicht in Frage stellen, verlangt diese Richtlinie von den Mitgliedstaaten, dafür zu sorgen, daß angemessene Klagemöglichkeiten zur Verfügung stehen. Die Mitgliedstaaten sollten prüfen, ob ein Bedürfnis für die Schaffung eines Zugangs zu gerichtlichen Verfahren auf elektronischem Wege besteht.
+
+(53) Die Richtlinie 98/27/EG, die auf Dienste der Informationsgesellschaft anwendbar ist, sieht einen Mechanismus für Unterlassungsklagen zum Schutz kollektiver Verbraucherinteressen vor. Dieser Mechanismus trägt zum freien Verkehr von Diensten der Informationsgesellschaft bei, indem er ein hohes Niveau an Verbraucherschutz gewährleistet.
+
+(54) Die in dieser Richtlinie vorgesehenen Sanktionen lassen andere nach einzelstaatlichem Recht vorgesehene Sanktionen oder Rechtsbehelfe unberührt. Die Mitgliedstaaten sind nicht verpflichtet, strafrechtliche Sanktionen für Zuwiderhandlungen gegen innerstaatliche Rechtsvorschriften, die aufgrund dieser Richtlinie erlassen wurden, vorzusehen.
+
+(55) Diese Richtlinie läßt das Recht unberührt, das für die sich aus Verbraucherverträgen ergebenden vertraglichen Schuldverhältnisse gilt. Dementsprechend kann diese Richtlinie nicht dazu führen, daß dem Verbraucher der Schutz entzogen wird, der ihm von den zwingenden Vorschriften für vertragliche Verpflichtungen nach dem Recht des Mitgliedstaates, in dem er seinen gewöhnlichen Wohnsitz hat, gewährt wird.
+
+(56) Im Hinblick auf die in dieser Richtlinie vorgesehene Ausnahme für vertragliche Schuldverhältnisse in bezug auf Verbraucherverträge ist zu beachten, daß diese Schuldverhältnisse auch Informationen zu den wesentlichen Elementen des Vertrags erfassen; dazu gehören auch die Verbraucherrechte, die einen bestimmenden Einfluß auf die Entscheidung zum Vertragschluß haben.
+
+(57) Nach ständiger Rechtsprechung des Gerichtshofs ist ein Mitgliedstaat weiterhin berechtigt, Maßnahmen gegen einen in einem anderen Mitgliedstaat niedergelassenen Diensteanbieter zu ergreifen, dessen Tätigkeit ausschließlich oder überwiegend auf das Hoheitsgebiet des ersten Mitgliedstaates ausgerichtet ist, wenn die Niederlassung gewählt wurde, um die Rechtsvorschriften zu umgehen, die auf den Anbieter Anwendung fänden, wenn er im Hoheitsgebiet des ersten Mitgliedstaats niedergelassen wäre.
+
+(58) Diese Richtlinie soll keine Anwendung auf Dienste von Anbietern finden, die in einem Drittland niedergelassen sind. Angesichts der globalen Dimension des elektronischen Geschäftsverkehrs ist jedoch dafür Sorge zu tragen, daß die gemeinschaftlichen Vorschriften mit den internationalen Regeln in Einklang stehen. Die Ergebnisse der Erörterungen über rechtliche Fragen in internationalen Organisationen (unter anderem WTO, OECD, UNCITRAL) bleiben von dieser Richtlinie unberührt.
+
+(59) Trotz der globalen Natur elektronischer Kommunikationen ist eine Koordinierung von nationalen Regulierungsmaßnahmen auf der Ebene der Europäischen Union notwendig, um eine Fragmentierung des Binnenmarktes zu vermeiden und einen angemessenen europäischen Rechtsrahmen zu schaffen. Diese Koordinierung sollte auch zur Herausbildung einer gemeinsamen und starken Verhandlungsposition in internationalen Gremien beitragen.
+
+(60) Im Sinne der ungehinderten Entwicklung des elektronischen Geschäftsverkehrs muß dieser Rechtsrahmen klar, unkompliziert und vorhersehbar sowie vereinbar mit den auf internationaler Ebene geltenden Regeln sein, um die Wettbewerbsfähigkeit der europäischen Industrie nicht zu beeinträchtigen und innovative Maßnahmen in diesem Sektor nicht zu behindern.
+
+(61) Damit der elektronische Markt in einem globalisierten Umfeld wirksam funktionieren kann, bedarf es einer Abstimmung zwischen der Europäischen Union und den großen nichteuropäischen Wirtschaftsräumen mit dem Ziel, die Rechtsvorschriften und Verfahren kompatibel zu gestalten.
+
+(62) Die Zusammenarbeit mit Drittländern sollte im Bereich des elektronischen Geschäftsverkehrs intensiviert werden, insbesondere mit den beitrittswilligen Ländern, den Entwicklungsländern und den übrigen Handelspartnern der Europäischen Union.
+
+(63) Die Annahme dieser Richtlinie hält die Mitgliedstaaten nicht davon ab, den verschiedenen sozialen, gesellschaftlichen und kulturellen Auswirkungen Rechnung zu tragen, zu denen das Entstehen der Informationsgesellschaft führt. Insbesondere darf sie nicht Maßnahmen verhindern, die die Mitgliedstaaten im Einklang mit dem Gemeinschaftsrecht erlassen könnten, um soziale, kulturelle und demokratische Ziele unter Berücksichtigung ihrer sprachlichen Vielfalt, der nationalen und regionalen Besonderheiten sowie ihres Kulturerbes zu erreichen und den Zugang der Öffentlichkeit zu der breitestmöglichen Palette von Diensten der Informationsgesellschaft zu gewährleisten und zu erhalten. Im Zuge der Entwicklung der Informationsgesellschaft muß auf jeden Fall sichergestellt werden, daß die Bürger der Gemeinschaft Zugang zu dem in einem digitalen Umfeld vermittelten europäischen Kulturerbe erhalten können.
+
+(64) Die elektronische Kommunikation stellt für die Mitgliedstaaten ein hervorragendes Instrument zur Bereitstellung von öffentlichen Dienstleistungen in den Bereichen Kultur, Bildung und Sprache dar.
+
+(65) Wie der Rat in seiner Entschließung vom 19. Januar 1999 über die Verbraucherdimension der Informationsgesellschaft(25) festgestellt hat, muß dem Schutz der Verbraucher in diesem Bereich besondere Aufmerksamkeit gewidmet werden. Die Kommission wird untersuchen, in welchem Umfang die bestehenden Regeln des Verbraucherschutzes im Zusammenhang mit der Informationsgesellschaft unzulänglich sind, und gegebenenfalls die Lücken in der bestehenden Gesetzgebung sowie die Aspekte, die ergänzende Maßnahmen erforderlich machen könnten, aufzeigen. Gegebenenfalls sollte die Kommission spezifische zusätzliche Vorschläge unterbreiten, um die festgestellten Unzulänglichkeiten zu beheben -
+
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+
+
+KAPITEL I
+
+ALLGEMEINE BESTIMMUNGEN
+
+Artikel 1
+
+Zielsetzung und Anwendungsbereich
+
+(1) Diese Richtlinie soll einen Beitrag zum einwandfreien Funktionieren des Binnenmarktes leisten, indem sie den freien Verkehr von Diensten der Informationsgesellschaft zwischen den Mitgliedstaaten sicherstellt.
+
+(2) Diese Richtlinie sorgt, soweit dies für die Erreichung des in Absatz 1 genannten Ziels erforderlich ist, für eine Angleichung bestimmter für die Dienste der Informationsgesellschaft geltender innerstaatlicher Regelungen, die den Binnenmarkt, die Niederlassung der Diensteanbieter, kommerzielle Kommunikationen, elektronische Verträge, die Verantwortlichkeit von Vermittlern, Verhaltenskodizes, Systeme zur außergerichtlichen Beilegung von Streitigkeiten, Klagemöglichkeiten sowie die Zusammenarbeit zwischen den Mitgliedstaaten betreffen.
+
+(3) Diese Richtlinie ergänzt das auf die Dienste der Informationsgesellschaft anwendbare Gemeinschaftsrecht und läßt dabei das Schutzniveau insbesondere für die öffentliche Gesundheit und den Verbraucherschutz, wie es sich aus Gemeinschaftsrechtsakten und einzelstaatlichen Rechtsvorschriften zu deren Umsetzung ergibt, unberührt, soweit die Freiheit, Dienste der Informationsgesellschaft anzubieten, dadurch nicht eingeschränkt wird.
+
+(4) Diese Richtlinie schafft weder zusätzliche Regeln im Bereich des internationalen Privatrechts, noch befaßt sie sich mit der Zuständigkeit der Gerichte.
+
+(5) Diese Richtlinie findet keine Anwendung auf
+
+a) den Bereich der Besteuerung,
+
+b) Fragen betreffend die Dienste der Informationsgesellschaft, die von den Richtlinien 95/46/EG und 97/66/EG erfaßt werden,
+
+c) Fragen betreffend Vereinbarungen oder Verhaltensweisen, die dem Kartellrecht unterliegen,
+
+d) die folgenden Tätigkeiten der Dienste der Informationsgesellschaft:
+
+- Tätigkeiten von Notaren oder Angehörigen gleichwertiger Berufe, soweit diese eine unmittelbare und besondere Verbindung zur Ausübung öffentlicher Befugnisse aufweisen;
+
+- Vertretung eines Mandanten und Verteidigung seiner Interessen vor Gericht;
+
+- Gewinnspiele mit einem einen Geldwert darstellenden Einsatz bei Glücksspielen, einschließlich Lotterien und Wetten.
+
+(6) Maßnahmen auf gemeinschaftlicher oder einzelstaatlicher Ebene, die unter Wahrung des Gemeinschaftsrechts der Förderung der kulturellen und sprachlichen Vielfalt und dem Schutz des Pluralismus dienen, bleiben von dieser Richtlinie unberührt.
+
+
+Artikel 2
+
+Begriffsbestimmungen
+
+Im Sinne dieser Richtlinie bezeichnet der Ausdruck
+
+a) "Dienste der Informationsgesellschaft" Dienste im Sinne von Artikel 1 Nummer 2 der Richtlinie 98/34/EG in der Fassung der Richtlinie 98/48/EG;
+
+b) "Diensteanbieter" jede natürliche oder juristische Person, die einen Dienst der Informationsgesellschaft anbietet;
+
+c) "niedergelassener Diensteanbieter" ein Anbieter, der mittels einer festen Einrichtung auf unbestimmte Zeit eine Wirtschaftstätigkeit tatsächlich ausübt; Vorhandensein und Nutzung technischer Mittel und Technologien, die zum Anbieten des Dienstes erforderlich sind, begründen allein keine Niederlassung des Anbieters;
+
+d) "Nutzer" jede natürliche oder juristische Person, die zu beruflichen oder sonstigen Zwecken einen Dienst der Informationsgesellschaft in Anspruch nimmt, insbesondere um Informationen zu erlangen oder zugänglich zu machen;
+
+e) "Verbraucher" jede natürliche Person, die zu Zwecken handelt, die nicht zu ihren gewerblichen, geschäftlichen oder beruflichen Tätigkeiten gehören;
+
+f) "kommerzielle Kommunikation" alle Formen der Kommunikation, die der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren und Dienstleistungen oder des Erscheinungsbilds eines Unternehmens, einer Organisation oder einer natürlichen Person dienen, die eine Tätigkeit in Handel, Gewerbe oder Handwerk oder einen reglementierten Beruf ausübt; die folgenden Angaben stellen als solche keine Form der kommerziellen Kommunikation dar:
+
+- Angaben, die direkten Zugang zur Tätigkeit des Unternehmens bzw. der Organisation oder Person ermöglichen, wie insbesondere ein Domain-Name oder eine Adresse der elektronischen Post;
+
+- Angaben in bezug auf Waren und Dienstleistungen oder das Erscheinungsbild eines Unternehmens, einer Organisation oder Person, die unabhängig und insbesondere ohne finanzielle Gegenleistung gemacht werden;
+
+g) "reglementierter Beruf" alle Berufe im Sinne von Artikel 1 Buchstabe d) der Richtlinie 89/48/EWG des Rates vom 21. Dezember 1988 über eine allgemeine Regelung zur Anerkennung der Hochschuldiplome, die eine mindestens dreijährige Berufsausbildung abschließen(26), oder im Sinne von Artikel 1 Buchstabe f) der Richtlinie 92/51/EWG des Rates vom 18. Juni 1992 über eine zweite allgemeine Regelung zur Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur Richtlinie 89/48/EWG(27);
+
+h) "koordinierter Bereich" die für die Anbieter von Diensten der Informationsgesellschaft und die Dienste der Informationsgesellschaft in den Rechtssystemen der Mitgliedstaaten festgelegten Anforderungen, ungeachtet der Frage, ob sie allgemeiner Art oder speziell für sie bestimmt sind.
+
+i) Der koordinierte Bereich betrifft vom Diensteanbieter zu erfuellende Anforderungen in bezug auf
+
+- die Aufnahme der Tätigkeit eines Dienstes der Informationsgesellschaft, beispielsweise Anforderungen betreffend Qualifikationen, Genehmigung oder Anmeldung;
+
+- die Ausübung der Tätigkeit eines Dienstes der Informationsgesellschaft, beispielsweise Anforderungen betreffend das Verhalten des Diensteanbieters, Anforderungen betreffend Qualität oder Inhalt des Dienstes, einschließlich der auf Werbung und Verträge anwendbaren Anforderungen, sowie Anforderungen betreffend die Verantwortlichkeit des Diensteanbieters.
+
+ii) Der koordinierte Bereich umfaßt keine Anforderungen wie
+
+- Anforderungen betreffend die Waren als solche;
+
+- Anforderungen betreffend die Lieferung von Waren;
+
+- Anforderungen betreffend Dienste, die nicht auf elektronischem Wege erbracht werden.
+
+
+Artikel 3
+
+Binnenmarkt
+
+(1) Jeder Mitgliedstaat trägt dafür Sorge, daß die Dienste der Informationsgesellschaft, die von einem in seinem Hoheitsgebiet niedergelassenen Diensteanbieter erbracht werden, den in diesem Mitgliedstaat geltenden innerstaatlichen Vorschriften entsprechen, die in den koordinierten Bereich fallen.
+
+(2) Die Mitgliedstaaten dürfen den freien Verkehr von Diensten der Informationsgesellschaft aus einem anderen Mitgliedstaat nicht aus Gründen einschränken, die in den koordinierten Bereich fallen.
+
+(3) Die Absätze 1 und 2 finden keine Anwendung auf die im Anhang genannten Bereiche.
+
+(4) Die Mitgliedstaaten können Maßnahmen ergreifen, die im Hinblick auf einen bestimmten Dienst der Informationsgesellschaft von Absatz 2 abweichen, wenn die folgenden Bedingungen erfuellt sind:
+
+a) Die Maßnahmen
+
+i) sind aus einem der folgenden Gründe erforderlich:
+
+- Schutz der öffentlichen Ordnung, insbesondere Verhütung, Ermittlung, Aufklärung und Verfolgung von Straftaten, einschließlich des Jugendschutzes und der Bekämpfung der Hetze aus Gründen der Rasse, des Geschlechts, des Glaubens oder der Nationalität, sowie von Verletzungen der Menschenwürde einzelner Personen,
+
+- Schutz der öffentlichen Gesundheit,
+
+- Schutz der öffentlichen Sicherheit, einschließlich der Wahrung nationaler Sicherheits- und Verteidigungsinteressen,
+
+- Schutz der Verbraucher, einschließlich des Schutzes von Anlegern;
+
+ii) betreffen einen bestimmten Dienst der Informationsgesellschaft, der die unter Ziffer i) genannten Schutzziele beeinträchtigt oder eine ernsthafte und schwerwiegende Gefahr einer Beeinträchtigung dieser Ziele darstellt;
+
+iii) stehen in einem angemessenen Verhältnis zu diesen Schutzzielen.
+
+b) Der Mitgliedstaat hat vor Ergreifen der betreffenden Maßnahmen unbeschadet etwaiger Gerichtsverfahren, einschließlich Vorverfahren und Schritten im Rahmen einer strafrechtlichen Ermittlung,
+
+- den in Absatz 1 genannten Mitgliedstaat aufgefordert, Maßnahmen zu ergreifen, und dieser hat dem nicht Folge geleistet oder die von ihm getroffenen Maßnahmen sind unzulänglich;
+
+- die Kommission und den in Absatz 1 genannten Mitgliedstaat über seine Absicht, derartige Maßnahmen zu ergreifen, unterrichtet.
+
+(5) Die Mitgliedstaaten können in dringlichen Fällen von den in Absatz 4 Buchstabe b) genannten Bedingungen abweichen. In diesem Fall müssen die Maßnahmen so bald wie möglich und unter Angabe der Gründe, aus denen der Mitgliedstaat der Auffassung ist; daß es sich um einen dringlichen Fall handelt, der Kommission und dem in Absatz 1 genannten Mitgliedstaat mitgeteilt werden.
+
+(6) Unbeschadet der Möglichkeit des Mitgliedstaates, die betreffenden Maßnahmen durchzuführen, muß die Kommission innerhalb kürzestmöglicher Zeit prüfen, ob die mitgeteilten Maßnahmen mit dem Gemeinschaftsrecht vereinbar sind; gelangt sie zu dem Schluß, daß die Maßnahme nicht mit dem Gemeinschaftsrecht vereinbar ist, so fordert sie den betreffenden Mitgliedstaat auf, davon Abstand zu nehmen, die geplanten Maßnahmen zu ergreifen, bzw. bereits ergriffene Maßnahmen unverzüglich einzustellen.
+
+
+KAPITEL II
+
+GRUNDSÄTZE
+
+Abschnitt 1 - Niederlassung und Informationspflichten
+
+Artikel 4
+
+Grundsatz der Zulassungsfreiheit
+
+(1) Die Mitgliedstaaten stellen sicher, daß die Aufnahme und die Ausübung der Tätigkeit eines Anbieters von Diensten der Informationsgesellschaft nicht zulassungspflichtig ist und keiner sonstigen Anforderung gleicher Wirkung unterliegt.
+
+(2) Absatz 1 gilt unbeschadet der Zulassungsverfahren, die nicht speziell und ausschließlich Dienste der Informationsgesellschaft betreffen oder die in den Anwendungsbereich der Richtlinie 97/13/EG des Europäischen Parlaments und des Rates vom 10. April 1997 über einen gemeinsamen Rahmen für Allgemein- und Einzelgenehmigungen für Telekommunikationsdienste(28) fallen.
+
+
+Artikel 5
+
+Allgemeine Informationspflichten
+
+(1) Zusätzlich zu den sonstigen Informationsanforderungen nach dem Gemeinschaftsrecht stellen die Mitgliedstaaten sicher, daß der Diensteanbieter den Nutzern des Dienstes und den zuständigen Behörden zumindest die nachstehend aufgeführten Informationen leicht, unmittelbar und ständig verfügbar macht:
+
+a) den Namen des Diensteanbieters;
+
+b) die geographische Anschrift, unter der der Diensteanbieter niedergelassen ist;
+
+c) Angaben, die es ermöglichen, schnell mit dem Diensteanbieter Kontakt aufzunehmen und unmittelbar und effizient mit ihm zu kommunizieren, einschließlich seiner Adresse der elektronischen Post;
+
+d) wenn der Diensteanbieter in ein Handelsregister oder ein vergleichbares öffentliches Register eingetragen ist, das Handelsregister, in das der Diensteanbieter eingetragen ist, und seine Handelsregisternummer oder eine gleichwertige in diesem Register verwendete Kennung;
+
+e) soweit für die Tätigkeit eine Zulassung erforderlich ist, die Angaben zur zuständigen Aufsichtsbehörde;
+
+f) hinsichtlich reglementierter Berufe:
+
+- gegebenenfalls der Berufsverband, die Kammer oder eine ähnliche Einrichtung, dem oder der der Diensteanbieter angehört,
+
+- die Berufsbezeichnung und der Mitgliedstaat, in der sie verliehen worden ist;
+
+- eine Verweisung auf die im Mitgliedstaat der Niederlassung anwendbaren berufsrechtlichen Regeln und Angaben dazu, wie sie zugänglich sind;
+
+g) in Fällen, in denen der Diensteanbieter Tätigkeiten ausübt, die der Mehrwertsteuer unterliegen, die Identifikationsnummer gemäß Artikel 22 Absatz 1 der Sechsten Richtlinie 77/388/EWG des Rates vom 17. Mai 1977 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Umsatzsteuer - Gemeinsames Mehrwertsteuersystem: einheitliche steuerpflichtige Bemessungsgrundlage(29).
+
+(2) Zusätzlich zu den sonstigen Informationsanforderungen nach dem Gemeinschaftsrecht tragen die Mitgliedstaaten zumindest dafür Sorge, daß, soweit Dienste der Informationsgesellschaft auf Preise Bezug nehmen, diese klar und unzweideutig ausgewiesen werden und insbesondere angegeben wird, ob Steuern und Versandkosten in den Preisen enthalten sind.
+
+
+Abschnitt 2 - Kommerzielle Kommunikationen
+
+Artikel 6
+
+Informationspflichten
+
+Zusätzlich zu den sonstigen Informationsanforderungen nach dem Gemeinschaftsrecht stellen die Mitgliedstaaten sicher, daß kommerzielle Kommunikationen, die Bestandteil eines Dienstes der Informationsgesellschaft sind oder einen solchen Dienst darstellen, zumindest folgende Bedingungen erfuellen:
+
+a) Kommerzielle Kommunikationen müssen klar als solche zu erkennen sein;
+
+b) die natürliche oder juristische Person, in deren Auftrag kommerzielle Kommunikationen erfolgen, muß klar identifizierbar sein;
+
+c) soweit Angebote zur Verkaufsförderung wie Preisnachlässe, Zugaben und Geschenke im Mitgliedstaat der Niederlassung des Diensteanbieters zulässig sind, müssen sie klar als solche erkennbar sein, und die Bedingungen für ihre Inanspruchnahme müssen leicht zugänglich sein sowie klar und unzweideutig angegeben werden;
+
+d) soweit Preisausschreiben oder Gewinnspiele im Mitgliedstaat der Niederlassung des Diensteanbieters zulässig sind, müssen sie klar als solche erkennbar sein, und die Teilnahmebedingungen müssen leicht zugänglich sein sowie klar und unzweideutig angegeben werden.
+
+
+Artikel 7
+
+Nicht angeforderte kommerzielle Kommunikationen
+
+(1) Zusätzlich zu den sonstigen Anforderungen des Gemeinschaftsrechts stellen Mitgliedstaaten, die nicht angeforderte kommerzielle Kommunikation mittels elektronischer Post zulassen, sicher, daß solche kommerziellen Kommunikationen eines in ihrem Hoheitsgebiet niedergelassenen Diensteanbieters bei Eingang beim Nutzer klar und unzweideutig als solche erkennbar sind.
+
+(2) Unbeschadet der Richtlinien 97/7/EG und 97/66/EG ergreifen die Mitgliedstaaten Maßnahmen um sicherzustellen, daß Diensteanbieter, die nicht angeforderte kommerzielle Kommunikation durch elektronische Post übermitteln, regelmäßig sog. Robinson-Listen konsultieren, in die sich natürliche Personen eintragen können, die keine derartigen kommerziellen Kommunikationen zu erhalten wünschen, und daß die Diensteanbieter diese Listen beachten.
+
+
+Artikel 8
+
+Reglementierte Berufe
+
+(1) Die Mitgliedstaaten stellen sicher, daß die Verwendung kommerzieller Kommunikationen, die Bestandteil eines von einem Angehörigen eines reglementierten Berufs angebotenen Dienstes der Informationsgesellschaft sind oder einen solchen Dienst darstellen, gestattet ist, soweit die berufsrechtlichen Regeln, insbesondere zur Wahrung von Unabhängigkeit, Würde und Ehre des Berufs, des Berufsgeheimnisses und eines lauteren Verhaltens gegenüber Kunden und Berufskollegen, eingehalten werden.
+
+(2) Unbeschadet der Autonomie von Berufsvereinigungen und -organisationen ermutigen die Mitgliedstaaten und die Kommission die Berufsvereinigungen und -organisationen dazu, Verhaltenskodizes auf Gemeinschaftsebene aufzustellen, um zu bestimmen, welche Arten von Informationen im Einklang mit den in Absatz 1 genannten Regeln zum Zwecke der kommerziellen Kommunikation erteilt werden können.
+
+(3) Bei der Ausarbeitung von Vorschlägen für Gemeinschaftsinitiativen, die erforderlich werden könnten, um das Funktionieren des Binnenmarktes im Hinblick auf die in Absatz 2 genannten Informationen zu gewährleisten, trägt die Kommission den auf Gemeinschaftsebene geltenden Verhaltenskodizes gebührend Rechnung und handelt in enger Zusammenarbeit mit den einschlägigen Berufsvereinigungen und -organisationen.
+
+(4) Diese Richtlinie findet zusätzlich zu den Gemeinschaftsrichtlinien betreffend den Zugang zu und die Ausübung von Tätigkeiten im Rahmen der reglementierten Berufe Anwendung.
+
+
+Abschnitt 3 - Abschluß von Verträgen auf elektronischem Weg
+
+Artikel 9
+
+Behandlung von Verträgen
+
+(1) Die Mitgliedstaaten stellen sicher, daß ihr Rechtssystem den Abschluß von Verträgen auf elektronischem Wege ermöglicht. Die Mitgliedstaaten stellen insbesondere sicher, daß ihre für den Vertragsabschluß geltenden Rechtsvorschriften weder Hindernisse für die Verwendung elektronischer Verträge bilden noch dazu führen, daß diese Verträge aufgrund des Umstandes, daß sie auf elektronischem Wege zustande gekommen sind, keine rechtliche Wirksamkeit oder Gültigkeit haben.
+
+(2) Die Mitgliedstaaten können vorsehen, daß Absatz 1 auf alle oder bestimmte Verträge einer der folgenden Kategorien keine Anwendung findet:
+
+a) Verträge, die Rechte an Immobilien mit Ausnahme von Mietrechten begründen oder übertragen;
+
+b) Verträge, bei denen die Mitwirkung von Gerichten, Behörden oder öffentliche Befugnisse ausübenden Berufen gesetzlich vorgeschrieben ist;
+
+c) Bürgschaftsverträge und Verträge über Sicherheiten, die von Personen außerhalb ihrer gewerblichen, geschäftlichen oder beruflichen Tätigkeit eingegangen werden;
+
+d) Verträge im Bereich des Familienrechts oder des Erbrechts.
+
+(3) Die Mitgliedstaaten teilen der Kommission mit, für welche der in Absatz 2 genannten Kategorien sie Absatz 1 nicht anwenden. Die Mitgliedstaaten übermitteln der Kommission alle fünf Jahre einen Bericht über die Anwendung des Absatzes 2, aus dem hervorgeht, aus welchen Gründen es ihres Erachtens weiterhin gerechtfertigt ist, auf die unter Absatz 2 Buchstabe b) fallende Kategorie Absatz 1 nicht anzuwenden.
+
+
+Artikel 10
+
+Informationspflichten
+
+(1) Zusätzlich zu den sonstigen Informationspflichten aufgrund des Gemeinschaftsrechts stellen die Mitgliedstaaten sicher, daß - außer im Fall abweichender Vereinbarungen zwischen Parteien, die nicht Verbraucher sind - vom Diensteanbieter zumindest folgende Informationen klar, verständlich und unzweideutig erteilt werden, bevor des Nutzer des Dienstes die Bestellung abgibt:
+
+a) die einzelnen technischen Schritte, die zu einem Vertragsabschluß führen;
+
+b) Angaben dazu, ob der Vertragstext nach Vertragsabschluß vom Diensteanbieter gespeichert wird und ob er zugänglich sein wird;
+
+c) die technischen Mittel zur Erkennung und Korrektur von Eingabefehlern vor Abgabe der Bestellung;
+
+d) die für den Vertragsabschluß zur Verfügung stehenden Sprachen.
+
+(2) Die Mitgliedstaaten stellen sicher, daß - außer im Fall abweichender Vereinbarungen zwischen Parteien, die nicht Verbraucher sind - der Diensteanbieter alle einschlägigen Verhaltenskodizes angibt, denen er sich unterwirft, einschließlich Informationen darüber, wie diese Kodizes auf elektronischem Wege zugänglich sind.
+
+(3) Die Vertragsbestimmungen und die allgemeinen Geschäftsbedingungen müssen dem Nutzer so zur Verfügung gestellt werden, daß er sie speichern und reproduzieren kann.
+
+(4) Die Absätze 1 und 2 gelten nicht für Verträge, die ausschließlich durch den Austausch von elektronischer Post oder durch damit vergleichbare individuelle Kommunikation geschlossen werden.
+
+
+Artikel 11
+
+Abgabe einer Bestellung
+
+(1) Die Mitgliedstaaten stellen sicher, daß - außer im Fall abweichender Vereinbarungen zwischen Parteien, die nicht Verbraucher sind - im Fall einer Bestellung durch einen Nutzer auf elektronischem Wege folgende Grundsätze gelten:
+
+- Der Diensteanbieter hat den Eingang der Bestellung des Nutzers unverzüglich auf elektronischem Wege zu bestätigen;
+
+- Bestellung und Empfangsbestätigung gelten als eingegangen, wenn die Parteien, für die sie bestimmt sind, sie abrufen können.
+
+(2) Die Mitgliedstaaten stellen sicher, daß - außer im Fall abweichender Vereinbarungen zwischen Parteien, die nicht Verbraucher sind - der Diensteanbieter dem Nutzer angemessene, wirksame und zugängliche technische Mittel zur Verfügung stellt, mit denen er Eingabefehler vor Abgabe der Bestellung erkennen und korrigieren kann.
+
+(3) Absatz 1 erster Gedankenstrich und Absatz 2 gelten nicht für Verträge, die ausschließlich durch den Austausch von elektronischer Post oder durch vergleichbare individuelle Kommunikation geschlossen werden.
+
+
+Abschnitt 4 - Verantwortlichkeit der Vermittler
+
+Artikel 12
+
+Reine Durchleitung
+
+(1) Die Mitgliedstaaten stellen sicher, daß im Fall eines Dienstes der Informationsgesellschaft, der darin besteht, von einem Nutzer eingegebene Informationen in einem Kommunikationsnetz zu übermitteln oder Zugang zu einem Kommunikationsnetz zu vermitteln, der Diensteanbieter nicht für die übermittelten Informationen verantwortlich ist, sofern er
+
+a) die Übermittlung nicht veranlaßt,
+
+b) den Adressaten der übermittelten Informationen nicht auswählt und
+
+c) die übermittelten Informationen nicht auswählt oder verändert.
+
+(2) Die Übermittlung von Informationen und die Vermittlung des Zugangs im Sinne von Absatz 1 umfassen auch die automatische kurzzeitige Zwischenspeicherung der übermittelten Informationen, soweit dies nur zur Durchführung der Übermittlung im Kommunikationsnetz geschieht und die Information nicht länger gespeichert wird, als es für die Übermittlung üblicherweise erforderlich ist.
+
+(3) Dieser Artikel läßt die Möglichkeit unberührt, daß ein Gericht oder eine Verwaltungsbehörde nach den Rechtssystemen der Mitgliedstaaten vom Diensteanbieter verlangt, die Rechtsverletzung abzustellen oder zu verhindern.
+
+
+Artikel 13
+
+Caching
+
+(1) Die Mitgliedstaaten stellen sicher, daß im Fall eines Dienstes der Informationsgesellschaft, der darin besteht, von einem Nutzer eingegebene Informationen in einem Kommunikationsnetz zu übermitteln, der Diensteanbieter nicht für die automatische, zeitlich begrenzte Zwischenspeicherung verantwortlich ist, die dem alleinigen Zweck dient, die Übermittlung der Information an andere Nutzer auf deren Anfrage effizienter zu gestalten, sofern folgende Voraussetzungen erfuellt sind:
+
+a) Der Diensteanbieter verändert die Information nicht;
+
+b) der Diensteanbieter beachtet die Bedingungen für den Zugang zu der Information;
+
+c) der Diensteanbieter beachtet die Regeln für die Aktualisierung der Information, die in weithin anerkannten und verwendeten Industriestandards festgelegt sind;
+
+d) der Diensteanbieter beeinträchtigt nicht die erlaubte Anwendung von Technologien zur Sammlung von Daten über die Nutzung der Information, die in weithin anerkannten und verwendeten Industriestandards festgelegt sind;
+
+e) der Diensteanbieter handelt zügig, um eine von ihm gespeicherte Information zu entfernen oder den Zugang zu ihr zu sperren, sobald er tatsächliche Kenntnis davon erhält, daß die Information am ursprünglichen Ausgangsort der Übertragung aus dem Netz entfernt wurde oder der Zugang zu ihr gesperrt wurde oder ein Gericht oder eine Verwaltungsbehörde die Entfernung oder Sperrung angeordnet hat.
+
+(2) Dieser Artikel läßt die Möglichkeit unberührt, daß ein Gericht oder eine Verwaltungsbehörde nach den Rechtssystemen der Mitgliedstaaten vom Diensteanbieter verlangt, die Rechtsverletzung abzustellen oder zu verhindern.
+
+
+Artikel 14
+
+Hosting
+
+(1) Die Mitgliedstaaten stellen sicher, daß im Fall eines Dienstes der Informationsgesellschaft, der in der Speicherung von durch einen Nutzer eingegebenen Informationen besteht, der Diensteanbieter nicht für die im Auftrag eines Nutzers gespeicherten Informationen verantwortlich ist, sofern folgende Voraussetzungen erfuellt sind:
+
+a) Der Anbieter hat keine tatsächliche Kenntnis von der rechtswidrigen Tätigkeit oder Information, und, in bezug auf Schadenersatzansprüche, ist er sich auch keiner Tatsachen oder Umstände bewußt, aus denen die rechtswidrige Tätigkeit oder Information offensichtlich wird, oder
+
+b) der Anbieter wird, sobald er diese Kenntnis oder dieses Bewußtsein erlangt, unverzüglich tätig, um die Information zu entfernen oder den Zugang zu ihr zu sperren.
+
+(2) Absatz 1 findet keine Anwendung, wenn der Nutzer dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird.
+
+(3) Dieser Artikel läßt die Möglichkeit unberührt, daß ein Gericht oder eine Verwaltungsbehörde nach den Rechtssystemen der Mitgliedstaaten vom Diensteanbieter verlangt, die Rechtsverletzung abzustellen oder zu verhindern, oder daß die Mitgliedstaaten Verfahren für die Entfernung einer Information oder die Sperrung des Zugangs zu ihr festlegen.
+
+
+Artikel 15
+
+Keine allgemeine Überwachungspflicht
+
+(1) Die Mitgliedstaaten erlegen Anbietern von Diensten im Sinne der Artikel 12, 13 und 14 keine allgemeine Verpflichtung auf, die von ihnen übermittelten oder gespeicherten Informationen zu überwachen oder aktiv nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+(2) Die Mitgliedstaaten können Anbieter von Diensten der Informationsgesellschaft dazu verpflichten, die zuständigen Behörden unverzüglich über mutmaßliche rechtswidrige Tätigkeiten oder Informationen der Nutzer ihres Dienstes zu unterrichten, oder dazu verpflichten, den zuständigen Behörden auf Verlangen Informationen zu übermitteln, anhand deren die Nutzer ihres Dienstes, mit denen sie Vereinbarungen über die Speicherung geschlossen haben, ermittelt werden können.
+
+
+KAPITEL III
+
+UMSETZUNG
+
+Artikel 16
+
+Verhaltenskodizes
+
+(1) Die Mitgliedstaaten und die Kommission ermutigen
+
+a) die Handels-, Berufs- und Verbraucherverbände und -organisationen, auf Gemeinschaftsebene Verhaltenkodizes aufzustellen, die zur sachgemäßen Anwendung der Artikel 5 bis 15 beitragen;
+
+b) zur freiwilligen Übermittlung der Entwürfe für Verhaltenskodizes auf der Ebene der Mitgliedstaaten oder der Gemeinschaft an die Kommission;
+
+c) zur elektronischen Abrufbarkeit der Verhaltenskodizes in den Sprachen der Gemeinschaft;
+
+d) die Handels-, Berufs- und Verbraucherverbände und -organisationen, die Mitgliedstaaten und die Kommission darüber zu unterrichten, zu welchen Ergebnissen sie bei der Bewertung der Anwendung ihrer Verhaltenskodizes und von deren Auswirkungen auf die Praktiken und Gepflogenheiten des elektronischen Geschäftsverkehrs gelangen;
+
+e) zur Aufstellung von Verhaltenskodizes zum Zwecke des Jugendschutzes und des Schutzes der Menschenwürde.
+
+(2) Die Mitgliedstaaten und die Kommission ermutigen dazu, die Verbraucherverbände und -organisationen bei der Ausarbeitung und Anwendung von ihre Interessen berührenden Verhaltenskodizes im Sinne von Absatz 1 Buchstabe a) zu beteiligen. Gegebenenfalls sind Vereinigungen zur Vertretung von Sehbehinderten und allgemein von Behinderten zu hören, um deren besonderen Bedürfnissen Rechnung zu tragen.
+
+
+Artikel 17
+
+Außergerichtliche Beilegung von Streitigkeiten
+
+(1) Die Mitgliedstaaten stellen sicher, daß ihre Rechtsvorschriften bei Streitigkeiten zwischen einem Anbieter eines Dienstes der Informationsgesellschaft und einem Nutzer des Dienstes die Inanspruchnahme der nach innerstaatlichem Recht verfügbaren Verfahren zur außergerichtlichen Beilegung, auch auf geeignetem elektronischem Wege, nicht erschweren.
+
+(2) Die Mitgliedstaaten ermutigen Einrichtungen zur außergerichtlichen Beilegung von Streitigkeiten, insbesondere in Fragen des Verbraucherrechts, so vorzugehen, daß angemessene Verfahrensgarantien für die Beteiligten gegeben sind.
+
+(3) Die Mitgliedstaaten ermutigen Einrichtungen zur außergerichtlichen Beilegung von Streitigkeiten, die Kommission über signifikante Entscheidungen, die sie hinsichtlich der Dienste der Informationsgesellschaft erlassen, zu unterrichten und ihr alle sonstigen Informationen über Praktiken und Gepflogenheiten des elektronischen Geschäftsverkehrs zu übermitteln.
+
+
+Artikel 18
+
+Klagemöglichkeiten
+
+(1) Die Mitgliedstaaten stellen sicher, daß die nach innerstaatlichem Recht verfügbaren Klagemöglichkeiten im Zusammenhang mit Diensten der Informationsgesellschaft es ermöglichen, daß rasch Maßnahmen, einschließlich vorläufiger Maßnahmen, getroffen werden können, um eine mutmaßliche Rechtsverletzung abzustellen und zu verhindern, daß den Betroffenen weiterer Schaden entsteht.
+
+(2) Der Anhang der Richtlinie 98/27/EG wird durch folgende Nummer ergänzt:
+
+"11. Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt ('Richtlinie über den elektronischen Geschäftsverkehr') (ABl. L 178 vom 17.7.2000, S. 1)."
+
+
+Artikel 19
+
+Zusammenarbeit
+
+(1) Die Mitgliedstaaten müssen geeignete Aufsichts- und Untersuchungsinstrumente für die wirksame Umsetzung dieser Richtlinie besitzen und stellen sicher, daß die Diensteanbieter ihnen die erforderlichen Informationen zur Verfügung stellen.
+
+(2) Die Mitgliedstaaten arbeiten mit den anderen Mitgliedstaaten zusammen; hierzu benennen sie eine oder mehrere Verbindungsstellen, deren Anschrift sie den anderen Mitgliedstaaten und der Kommission mitteilen.
+
+(3) Die Mitgliedstaaten kommen Amtshilfe- und Auskunftsbegehren anderer Mitgliedstaaten oder der Kommission im Einklang mit ihren innerstaatlichen Rechtsvorschriften so rasch wie möglich nach, auch auf geeignetem elektronischem Wege.
+
+(4) Die Mitgliedstaaten richten Verbindungsstellen ein, die zumindest auf elektronischem Wege zugänglich sind und bei denen Nutzer von Diensten und Diensteanbieter
+
+a) allgemeine Informationen über ihre vertraglichen Rechte und Pflichten sowie über die bei Streitfällen zur Verfügung stehenden Beschwerde- und Rechtsbehelfsmechanismen, einschließlich der praktischen Aspekte der Inanspruchnahme dieser Mechanismen, erhalten können;
+
+b) Anschriften von Behörden, Vereinigungen und Organisationen erhalten können, von denen sie weitere Informationen oder praktische Unterstützung bekommen können.
+
+(5) Die Mitgliedstaaten ermutigen dazu, die Kommission über alle signifikanten behördlichen und gerichtlichen Entscheidungen, die in ihrem Hoheitsgebiet über Streitigkeiten im Zusammenhang mit Diensten der Informationsgesellschaft ergehen, sowie über die Praktiken und Gepflogenheiten des elektronischen Geschäftsverkehrs zu unterrichten. Die Kommission teilt derartige Entscheidungen den anderen Mitgliedstaaten mit.
+
+
+Artikel 20
+
+Sanktionen
+
+Die Mitgliedstaaten legen die Sanktionen fest, die bei Verstößen gegen die einzelstaatlichen Vorschriften zur Umsetzung dieser Richtlinie anzuwenden sind, und treffen alle geeigneten Maßnahmen, um ihre Durchsetzung sicherzustellen. Die Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein.
+
+
+KAPITEL IV
+
+SCHLUSSBESTIMMUNGEN
+
+Artikel 21
+
+Überprüfung
+
+(1) Die Kommission legt dem Europäischen Parlament, dem Rat und dem Wirtschfts- und Sozialausschuß vor dem 17. juli 2003 und danach alle zwei Jahre einen Bericht über die Anwendung dieser Richtlinie vor und unterbreitet gegebenenfalls Vorschläge für die Anpassung dieser Richtlinie an die rechtlichen, technischen und wirtschaftlichen Entwicklungen im Bereich der Dienste der Informationsgesellschaft, insbesondere in bezug auf die Verbrechensverhütung, den Jugendschutz, den Verbraucherschutz und das einwandfreie Funktionieren des Binnenmarktes.
+
+(2) Im Hinblick auf das etwaige Erfordernis einer Anpassung dieser Richtlinie wird in dem Bericht insbesondere untersucht, ob Vorschläge in bezug auf die Haftung der Anbieter von Hyperlinks und von Instrumenten zur Lokalisierung von Informationen, Verfahren zur Meldung und Entfernung rechtswideriger Inhalte ("notice and take down"-Verfahren) und eine Haftbarmachung im Anschluß an die Entfernung von Inhalten erforderlich sind. In dem Bericht ist auch zu untersuchen, ob angesichts der technischen Entwicklungen zusätzliche Bedingungen für die in den Artikeln 12 und 13 vorgesehene Haftungsfreistellung erforderlich sind und ob die Grundsätze des Binnenmarkts auf nicht angeforderte kommerziellen Kommunikationen mittels elektronischer Post angewendet werden können.
+
+
+Artikel 22
+
+Umsetzung
+
+(1) Die Mitgliedstaaten setzen die erforderlichen Rechts- und Verwaltungsvorschriften in Kraft, um dieser Richtlinie vor dem 17. januar 2002 nachzukommen. Sie setzen die Kommission unverzüglich davon in Kenntnis.
+
+(2) Wenn die Mitgliedstaaten die in Absatz 1 genannten Vorschriften erlassen, nehmen sie in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten der Bezugnahme.
+
+
+Artikel 23
+
+Inkrafttreten
+
+Diese Richtlinie tritt am Tag ihrer Veröffentlichung im Amtsblatt der Europäischen Gemeinschaften in Kraft.
+
+
+Artikel 24
+
+Adressaten
+
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
+
+
+Geschehen zu Luxemburg am 8. Juni 2000.
+
+
+Im Namen des Europäischen Parlaments
+
+Die Präsidentin
+
+N. Fontaine
+
+
+Im Namen des Rates
+
+Der Präsident
+
+G. d'Oliveira Martins
+
+
+(1) ABl. C 30 vom 5.2.1999, S. 4.
+
+(2) ABl. C 169 vom 16.6.1999, S. 36.
+
+(3) Stellungnahme des Europäischen Parlaments vom 6. Mai 1999 (ABl. C 279 vom 1.10.1999, S. 389). Gemeinsamer Standpunkt des Rates vom 28. Februar 2000 und Beschluß des Europäischen Parlaments vom 4. Mai 2000 (noch nicht im Amtsblatt veröffentlicht).
+
+(4) ABl. L 298 vom 17.10.1989, S. 23. Richtlinie geändert durch die Richtlinie 97/36/EG des Europäischen Parlaments und des Rates (ABl. L 202 vom 30.7.1997, S. 60).
+
+(5) ABl. L 95 vom 21.4.1993, S. 29.
+
+(6) ABl. L 144 vom 4.6.1997, S. 19.
+
+(7) ABl. L 250 vom 19.9.1984, S. 17. Richtlinie geändert duch die Richtlinie 97/55/EG des Europäischen Parlaments und des Rates (ABl. L 290 vom 23.10.1997, S. 18).
+
+(8) ABl. L 42 vom 12.2.1987, S. 48. Richtlinie zuletzt geändert durch die Richtlinie 98/7/EG des Europäischen Parlaments und des Rates (ABl. L 101 vom 1.4.1998, S. 17).
+
+(9) ABl. L 141 vom 11.6.1993, S. 27. Richtlinie zuletzt geändert durch die Richtlinie 97/9/EG des Europäischen Parlaments und des Rates (ABl. L 84 vom 26.3.1997, S. 22).
+
+(10) ABl. L 158 vom 23.6.1990, S. 59.
+
+(11) ABl. L 80 vom 18.3.1998, S. 27.
+
+(12) ABl. L 228 vom 11.8.1992, S. 24.
+
+(13) ABl. L 280 vom 29.10.1994, S. 83.
+
+(14) ABl. L 166 vom 11.6.1998, S. 51. Richtlinie geändert durch die Richtlinie 1999/44/EG (ABl. L 171 vom 7.7.1999, S. 12).
+
+(15) ABl. L 210 vom 7.8.1985, S. 29. Richtlinie geändert durch die Richtlinie 1999/34/EG (ABl. L 141 vom 4.6.1999, S. 20).
+
+(16) ABl. L 171 vom 7.7.1999, S. 12.
+
+(17) ABl. L 113 vom 30.4.1992, S. 13.
+
+(18) ABl. L 213 vom 30.7.1998, S. 9.
+
+(19) ABl. L 281 vom 23.11.1995, S. 31.
+
+(20) ABl. L 24 vom 30.1.1998, S. 1.
+
+(21) ABl. L 204 vom 21.7.1998, S. 37. Richtlinie geändert durch die Richtlinie 98/48/EG (ABl. L 217 vom 5.8.1998, S. 18).
+
+(22) ABl. L 320 vom 28.11.1998, S. 54.
+
+(23) ABl. L 15 vom 21.1.1998, S. 14.
+
+(24) ABl. L 13 vom 19.1.2000, S. 12.
+
+(25) ABl. C 23 vom 28.1.1999, S. 1.
+
+(26) ABl. L 19 vom 24.1.1989, S. 16.
+
+(27) ABl. L 209 vom 24.7.1992, S. 25. Richtlinie zuletzt geändert durch die Richtlinie 97/38/EWG der Kommission (ABl. L 184 vom 12.7.1997, S. 31).
+
+(28) ABl. L 117 vom 7.5.1997, S. 15.
+
+(29) ABl. L 145 vom 13.6.1977, S. 1. Richtlinie zuletzt geändert durch die Richtlinie 1999/85/EG (ABl. L 277 vom 28.10.1999, S. 34).
+
+
+ANHANG
+
+
+AUSNAHMEN IM RAHMEN VON ARTIKEL 3
+
+Bereiche gemäß Artikel 3 Absatz 3, auf die Artikel 3 Absätze 1 und 2 keine Anwendung findet:
+
+- Urheberrecht, verwandte Schutzrechte, Rechte im Sinne der Richtlinie 87/54/EWG(1) und der Richtlinie 96/9/EG(2) sowie gewerbliche Schutzrechte;
+
+- Ausgabe elektronischen Geldes durch Institute, auf die die Mitgliedstaaten eine der in Artikel 8 Absatz 1 der Richtlinie 2000/46/EG(3) vorgesehenen Ausnahmen angewendet haben;
+
+- Artikel 44 Absatz 2 der Richtlinie 85/611/EWG(4);
+
+- Artikel 30 und Titel IV der Richtlinie 92/49/EWG(5), Titel IV der Richtlinie 92/96/EWG(6) sowie die Artikel 7 und 8 der Richtlinie 88/357/EWG(7) und Artikel 4 der Richtlinie 90/619/EWG(8);
+
+- Freiheit der Rechtswahl für Vertragsparteien;
+
+- vertragliche Schuldverhältnisse in bezug auf Verbraucherverträge;
+
+- formale Gültigkeit von Verträgen, die Rechte an Immobilien begründen oder übertragen, sofern diese Verträge nach dem Recht des Mitgliedstaates, in dem sich die Immobilie befindet, zwingenden Formvorschriften unterliegen;
+
+- Zulässigkeit nicht angeforderter kommerzieller Kommunikation mittels elektronischer Post.
+
+
+(1) ABl. L 24 vom 27.1.1987, S. 36.
+
+(2) ABl. L 77 vom 27.3.1996, S. 20.
+
+(3) Noch nicht im Amtsblatt veröffentlicht.
+
+(4) ABl. L 375 vom 31.12.1985, S. 3. Richtlinie zuletzt geändert durch die Richtlinie 95/26/EG (ABl. L 168 vom 18.7.1995, S. 7).
+
+(5) ABl. L 228 vom 11.8.1992, S. 1. Richtlinie zuletzt geändert durch die Richtlinie 95/26/EG.
+
+(6) ABl. L 360 vom 9.12.1992, S. 1. Richtlinie zuletzt geändert durch die Richtlinie 95/26/EG.
+
+(7) ABl. L 172 vom 4.7.1988, S. 1. Richtlinie zuletzt geändert durch die Richtlinie 92/49/EG.
+
+(8) ABl. L 330 vom 29.11.1990, S. 50. Richtlinie zuletzt geändert durch die Richtlinie 92/96/EG.

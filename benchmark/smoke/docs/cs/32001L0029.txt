@@ -1,0 +1,457 @@
+EUR-Lex - 32001L0029 - CS
+
+
+Důležité právní upozornění
+
+
+|
+
+
+32001L0029
+
+
+Úřední věstník L 167 , 22/06/2001 S. 0010 - 0019
+
+
+Směrnice Evropského parlamentu a Rady 2001/29/ES
+
+ze dne 22. května 2001
+
+o harmonizaci určitých aspektů autorského práva a práv s ním souvisejících v informační společnosti
+
+EVROPSKÝ PARLAMENT A RADA EVROPSKÉ UNIE,
+
+s ohledem na Smlouvu o založení Evropského společenství, a zejména na čl. 47 odst. 2 a články 55 a 95 této smlouvy,
+
+s ohledem na návrh Komise [1],
+
+s ohledem na stanovisko Hospodářského a sociálního výboru [2],
+
+v souladu s postupem stanoveným v článku 251 Smlouvy [3],
+
+vzhledem k těmto důvodům:
+
+(1) Smlouva stanoví vytvoření vnitřního trhu a zavedení systému zabraňujícího narušování hospodářské soutěže na vnitřním trhu. Harmonizace právních předpisů členských států týkajících se autorského práva a práv s ním souvisejících přispívá k dosažení těchto cílů.
+
+(2) Evropská rada, která se sešla na Korfu ve dnech 24. a 25. června 1994, zdůraznila potřebu vytvoření obecného a pružného právního rámce na úrovni Společenství za účelem podpory rozvoje informační společnosti v Evropě. Tato skutečnost vyžaduje, mimo jiné, existenci vnitřního trhu pro nové výrobky a služby. Důležité právní předpisy Společenství k zajištění takového právního rámce již byly nebo v brzké době budou přijaty. Autorské právo a práva s ním související hrají v této souvislosti důležitou úlohu, jelikož ochraňují a podporují vývoj a uvádění nových výrobků a služeb na trh a také vytváření a využívání jejich tvůrčího obsahu.
+
+(3) Navrhovaná harmonizace napomůže uplatňování čtyř svobod vnitřního trhu a je v souladu se základními zásadami právních předpisů, a zejména vlastnictví, včetně duševního vlastnictví, a svobody projevu a veřejného zájmu.
+
+(4) Větší právní jistota a vysoká úroveň ochrany duševního vlastnictví poskytovaná harmonizovaným právním rámcem týkajícím se autorského práva a práv s ním souvisejících podpoří podstatné investice do tvůrčí a inovační činnosti včetně síťové infrastruktury a povede tím k růstu a vyšší konkurenceschopnosti evropského průmyslu, a to jak v oblasti obsahu a informačních technologií, tak obecněji v široké škále průmyslových a kulturních odvětví. Tato skutečnost zajistí zaměstnanost a podpoří vytváření nových pracovních míst.
+
+(5) Technologický rozvoj znásobil a zpestřil možnosti tvorby, výroby a využívání. I když není třeba nových způsobů pojetí ochrany duševního vlastnictví, je třeba přizpůsobit a doplnit současné právní předpisy týkající se autorského práva a práv s ním souvisejících tak, aby vhodně reagovaly na hospodářské skutečnosti, například na nové způsoby využívání.
+
+(6) Bez harmonizace na úrovni Společenství by činnost v oblasti právních předpisů zahájená v mnoha členských státech za účelem přizpůsobení těchto předpisů technologickému pokroku mohla vyústit ve značné rozdíly v ochraně a tím v omezení volného pohybu služeb a výrobků zahrnujících duševní vlastnictví nebo na duševním vlastnictví založených, což by vedlo k opětovnému rozčlenění vnitřního trhu a neslučitelnosti právních předpisů. Dopad takových rozdílů a nejistoty v právních předpisech bude závažnější s dalším rozvojem informační společnosti, který již významně zintenzívnil přeshraniční využívání duševního vlastnictví. Tento vývoj bude a měl by být nadále zintenzivňován. Značné rozdíly v právních předpisech a nejistota v ochraně mohou bránit úsporám z rozsahu pro nové výrobky a služby obsahující autorské právo a práva s ním související.
+
+(7) Právní rámec Společenství na ochranu autorského práva a práv s ním souvisejících musí být proto rovněž v nezbytné míře přizpůsoben a doplněn pro hladké fungování vnitřního trhu. Za tímto účelem je třeba přizpůsobit ty vnitrostátní právní předpisy týkající se autorského práva a práv s ním souvisejících, které se v jednotlivých členských státech výrazně liší nebo které jsou příčinou nejistoty bránící hladkému fungování vnitřního trhu a náležitému rozvoji informační společnosti v Evropě, a je třeba vyloučit, aby členské státy neslučitelným způsobem reagovaly na technologický rozvoj, přičemž není třeba odstranit rozdíly, které fungování vnitřního trhu neovlivňují nepříznivě, nebo jim bránit.
+
+(8) Různé sociální, společenské a kulturní důsledky informační společnosti vyžadují, aby byl brán zřetel na zvláštní rysy obsahu výrobků a služeb.
+
+(9) Jakákoliv harmonizace autorského práva a práv s ním souvisejících musí vycházet z vysoké úrovně ochrany, jelikož taková práva jsou pro duševní výtvory zásadní. Jejich ochrana napomáhá zajistit udržení a rozvoj tvořivosti v zájmu autorů, výkonných umělců, výrobců, spotřebitelů, kultury, průmyslu a široké veřejnosti. Duševní vlastnictví bylo proto uznáno za nedílnou součást vlastnictví.
+
+(10) Mají-li autoři nebo výkonní umělci pokračovat ve své tvůrčí a umělecké činnosti, musí dostat za užití svého díla přiměřenou odměnu, stejně jako výrobci, mají-li tuto činnost financovat. Investice vyžadovaná na produkci výrobků, jako jsou zvukové záznamy, filmy nebo multimediální výrobky, a služeb, jako jsou služby na požádání, jsou značné. Odpovídající právní ochrana duševního vlastnictví je nezbytná pro zajištění dostupnosti takové odměny a pro možnost uspokojivé návratnosti takové investice.
+
+(11) Nekompromisní a účinný systém ochrany autorského práva a práv s ním souvisejících je jedním z hlavních způsobů zajištění toho, že evropská kulturní tvořivost a produkce získají nezbytné zdroje, a zajištění ochrany nezávislosti a důstojnosti tvůrců a výkonných umělců.
+
+(12) Odpovídající ochrana děl chráněných autorským právem a předmětů chráněných právy s ním souvisejícími je z kulturního hlediska rovněž velmi důležitá. Článek 151 Smlouvy požaduje, aby Společenství při své činnosti ke kulturním hlediskům přihlíželo.
+
+(13) Nezbytné je společné hledání a důsledné uplatňování technologických prostředků na ochranu děl a jiných předmětů ochrany na evropské úrovni a poskytování nezbytných informací o právech, protože hlavním cílem těchto opatření je uskutečnění zásad a záruk stanovených právními předpisy.
+
+(14) Tato směrnice by ochranou děl a jiných předmětů ochrany měla usilovat o podporu vzdělanosti a kultury, a to při současném povolení výjimek nebo omezení ve veřejném zájmu pro účely vzdělávání a výuky.
+
+(15) Diplomatická konference konaná pod záštitou Světové organizace pro duševní vlastnictví (WIPO) v prosinci roku 1996 vedla k přijetí dvou nových smluv, "Smlouvy WIPO o autorském právu" a "Smlouvy WIPO o výkonech výkonných umělců a zvukových záznamech", které se zabývají ochranou autorů a ochranou výkonných umělců a výrobců zvukových záznamů. Výše uvedené smlouvy významně aktualizují mezinárodní ochranu autorského práva a práv s ním souvisejících, a to se značným ohledem na takzvanou "digitální agendu", a zdokonalují prostředky pro celosvětový boj s porušováním autorského práva. Společenství a většina členských států již uvedené smlouvy podepsala a probíhá příprava ratifikace těchto smluv Společenstvím a členskými státy. Tato směrnice rovněž slouží k provádění mnoha nových mezinárodních závazků.
+
+(16) Odpovědnost za činnost v prostředí sítě se netýká pouze autorského práva a práv s ním souvisejících, ale rovněž jiných oblastí jako je pomluva, klamavá reklama nebo porušování ochranných známek, přičemž touto otázkou se průřezově zabývá směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o některých právních aspektech služeb informační společnosti, zejména elektronického obchodu, na vnitřním trhu ("směrnice o elektronickém obchodu") [4], která vyjasňuje a harmonizuje různé právní otázky vztahující se ke službám informační společnosti včetně elektronického obchodu. Tato směrnice by měla být prováděna souběžně s prováděním směrnice o elektronickém obchodu, jelikož výše uvedená směrnice stanoví harmonizovaný rámec zásad a ustanovení odpovídající mimo jiné významným částem této směrnice. Touto směrnicí nejsou dotčena ustanovení výše uvedené směrnice týkající se odpovědnosti.
+
+(17) Zejména s ohledem na požadavky vyplývající z digitálního prostředí je nezbytné, aby organizace pro kolektivní správu práv dosáhly vyššího stupně racionalizace a průhlednosti v dodržování pravidel hospodářské soutěže.
+
+(18) Touto směrnicí nejsou dotčena opatření v členských státech týkající se správy práv například rozšířených kolektivních licencí.
+
+(19) Osobnostní práva nositelů práv by měla být vykonávána v souladu s právními předpisy členských států a ustanoveními Bernské úmluvy o ochraně literárních a uměleckých děl, Smlouvou WIPO o autorském právu a Smlouvou WIPO o výkonech výkonných umělců a zvukových záznamech. Taková osobnostní práva jdou nad rámec působnosti této směrnice.
+
+(20) Tato směrnice je založena na zásadách a pravidlech již stanovených ve směrnicích platných v současné době v této oblasti, zejména ve směrnicích 91/250/EHS [5], 92/100/EHS [6], 93/83/EHS [7], 93/98/EHS [8] a 96/9/ES [9], přičemž tato směrnice uvedené zásady a pravidla rozvíjí a dává je do souvislosti s informační společností. Není-li v této směrnici stanoveno jinak, neměla by být touto směrnicí dotčena ustanovení výše uvedených směrnic.
+
+(21) Tato směrnice by měla vymezit působnost úkonů, na které se vztahuje právo na rozmnožování, a to s ohledem na různé příjemce. Toto vymezení by mělo být v souladu s acquis communautaire. Pro zajištění právní jistoty na vnitřním trhu je třeba širokého vymezení těchto úkonů.
+
+(22) Cíle náležité podpory šíření kultury nesmí být dosaženo za cenu obětování přísné ochrany práv nebo tolerování nedovolené distribuce padělků nebo nedovolených napodobenin.
+
+(23) Tato směrnice by měla pokračovat v harmonizaci práva autora na sdělování veřejnosti. Tímto právem by se v širokém smyslu mělo rozumět veškeré sdělování veřejnosti nepřítomné v místě, ze kterého sdělování vychází. Toto právo by mělo zahrnovat jakékoli sdělování nebo přenos díla pro veřejnost po drátě nebo bezdrátově, včetně vysílání. Toto právo by nemělo zahrnovat žádné jiné úkony.
+
+(24) Je třeba, aby právo na zpřístupnění předmětů ochrany uvedených v čl. 3 odst. 2 veřejnosti bylo chápáno tak, že zahrnuje veškeré úkony zpřístupňování takových předmětů ochrany veřejnosti nepřítomné v místě, ze kterého úkon zpřístupňování vychází, a že nezahrnuje žádné jiné úkony.
+
+(25) Právní nejistota týkající se povahy a úrovně ochrany úkonů spojených s přenosem děl chráněných autorským právem a předmětů ochrany chráněných právy s ním souvisejícími, prováděným na požádání prostřednictvím sítě, by měla být vyřešena zavedením harmonizované ochrany na úrovni Společenství. Je třeba vysvětlit, že všichni nositelé práv uznaní touto směrnicí by měli mít výlučné právo na zpřístupňování děl chráněných autorským právem nebo jakýchkoliv jiných předmětů ochrany prostřednictvím interaktivního přenosu na požádání veřejnosti. Takové interaktivní přenosy na požádání se vyznačují tím, že veřejnost má k takovým přenosům přístup z místa a v době, které si zvolí.
+
+(26) Pokud jde o zpřístupňování rozhlasových nebo televizních pořadů vysílacími organizacemi prostřednictvím služeb na požádání, přičemž tyto pořady jako svoji nedílnou součást obsahují hudbu z komerčních hudebních záznamů, musí být s cílem usnadnit vymáhání práv podporováno udělování kolektivních licencí.
+
+(27) Pouhé poskytnutí fyzického zařízení pro umožnění nebo uskutečnění sdělování není samo o sobě sdělováním ve smyslu této směrnice.
+
+(28) Ochrana autorského práva podle této směrnice zahrnuje výlučné právo na kontrolu distribuce díla, které je součástí hmotného předmětu. Prvním prodejem originálu díla nebo jeho rozmnoženin nositelem autorského práva ve Společenství nebo s jeho souhlasem je vyčerpáno právo na kontrolu dalšího prodeje tohoto předmětu ve Společenství. Toto právo by nemělo být vyčerpáno ve vztahu k originálu díla nebo k jeho rozmnoženinám prodaným nositelem autorského práva nebo s jeho souhlasem mimo Společenství. Práva na pronájem a půjčování pro autory byla stanovena ve směrnici 92/100/EHS. Právem na rozšiřování stanoveným v této směrnici nejsou dotčena ustanovení týkající se práv na pronájem a půjčování uvedená v kapitole I výše uvedené směrnice.
+
+(29) Otázka vyčerpání nevyvstává v případě služeb, a zejména v případě služeb on-line. Tato skutečnost se rovněž týká hmotné rozmnoženiny díla nebo jiného předmětu ochrany vyrobeného uživatelem takové služby se souhlasem nositele autorského práva. Otázka vyčerpání proto nevyvstává ani v případě pronájmu a půjčování originálu a rozmnoženin děl nebo jiných předmětů ochrany, které jsou svou povahou službami. Na rozdíl od CD-ROM nebo CD-I, kde je duševní vlastnictví součástí nosiče, jmenovitě položky zboží, je ve skutečnosti každá on-line služba úkonem, který by měl podléhat schválení, pokud tak autorské právo nebo právo s ním související stanoví.
+
+(30) Aniž jsou dotčeny příslušné vnitrostátní právní předpisy týkající se autorského práva a práv s ním souvisejících, mohou být práva uvedená v této směrnici převedena, postoupena nebo mohou podléhat udělení smluvních licencí.
+
+(31) Mezi různými skupinami nositelů práv stejně jako mezi různými kategoriemi nositelů práv a uživatelů chráněných předmětů ochrany musí být zajištěna přiměřená rovnováha práv a zájmů. Stávající výjimky a omezení práv stanovené členskými státy je třeba s ohledem na nové elektronické prostředí přehodnotit. Stávající rozdíly ve výjimkách a omezeních určitých omezených úkonů mají přímé záporné účinky na fungování vnitřního trhu v oblasti autorského práva a práv s ním souvisejících. Takové rozdíly by se mohly zvýraznit dalším rozvojem mezinárodního užívání děl a rozvojem činností překračujících hranice. Pro zajištění náležitého fungování vnitřního trhu je třeba takové výjimky a omezení vymezit více harmonickým způsobem. Míra harmonizace by měla vycházet z dopadu těchto výjimek a omezení na hladké fungování vnitřního trhu.
+
+(32) Tato směrnice stanoví vyčerpávající výčet výjimek a omezení práva na rozmnožování a práva na sdělování veřejnosti. Některé výjimky nebo omezení jsou použitelné popřípadě pouze u práva na rozmnožování. To patřičně zohledňuje rozdílné právní tradice v členských státech, přičemž je zároveň zajištěno fungování vnitřního trhu. Členské státy by měly dospět k jednotnému používání těchto výjimek a omezení, které bude v budoucnu při přezkoumávání prováděcích právních předpisů hodnoceno.
+
+(33) Výlučné právo na rozmnožování by mělo podléhat výjimce, aby byly povoleny určité úkony dočasného rozmnožování, jakými jsou dočasné nebo příležitostné rozmnoženiny, které jsou nedílnou a významnou součástí technologického procesu a jsou prováděny s pouhým účelem umožnit buď účinný přenos v rámci sítě mezi třetími stranami prostřednictvím zprostředkovatele, nebo oprávněné užití díla nebo jiného předmětu ochrany. Uvedené úkony rozmnožování by samy o sobě neměly mít žádnou vlastní hospodářskou hodnotu. Pokud uvedené úkony splňují tyto podmínky, měla by tato výjimka zahrnovat úkony umožňující prohlížení (browsing) a úkony ukládání do vyrovnávací paměti (caching) včetně těch úkonů, které umožňují přenosovým systémům účinné fungování, a to za předpokladu, že zprostředkovatel neupravuje informace a jeho činnost není v rozporu s oprávněným užíváním technologie obecně uznávané a užívané průmyslem k získávání údajů o užívání informací. Užívání se považuje za oprávněné, pokud je k němu nositelem práva uděleno svolení nebo pokud není omezeno právními předpisy.
+
+(34) Členským státům by měla být dána možnost stanovit určité výjimky nebo omezení pro případy jako jsou vzdělávací nebo vědecké účely ve prospěch veřejných institucí, jakými jsou knihovny a archivy, pro účely aktuálního zpravodajství, pro citace, pro užití zdravotně postiženými osobami, pro účely veřejné bezpečnosti a užití ve správních a soudních řízeních.
+
+(35) V určitých případech výjimek nebo omezení by nositelé práv měli získat spravedlivou odměnu jako přiměřenou náhradu za užití jejich chráněných děl nebo jiných předmětů ochrany. Při určování způsobu, podrobností a možné výše odměny je třeba vzít v úvahu konkrétní okolnosti každého případu. Při hodnocení těchto okolností by cenným kritériem byla možná újma nositelům práva vyplývající z dotyčného úkonu. V případech, kdy nositelé práv již získali platbu v jiné formě, například jako součást licenčního poplatku, nemusí přicházet žádná zvláštní nebo samostatná platba v úvahu. Výše spravedlivé odměny by měla brát ohled na míru využití prostředků technologické ochrany uvedených v této směrnici. V určitých situacích, kdy je újma způsobená nositeli práva minimální, nesmí vzniknout žádná povinnost platby.
+
+(36) Členské státy mohou stanovit spravedlivou odměnu pro nositele práva rovněž při uplatňování volitelných ustanovení o výjimkách nebo omezeních, která nevyžadují takovou náhradu.
+
+(37) Stávající vnitrostátní systémy týkající se reprografie, pokud existují, nejsou závažnou překážkou vnitřního trhu. Členským státům by mělo být povoleno stanovit výjimku nebo omezení ve vztahu k reprografii.
+
+(38) Členským státům by mělo být povoleno stanovit výjimku nebo omezení týkající se práva na rozmnožování v případě určitých druhů rozmnožování zvukových, obrazových nebo audiovizuálních materiálů pro osobní užití, pokud jsou tato výjimka nebo omezení doprovázeny spravedlivou odměnou. Tato výjimka nebo omezení mohou zahrnovat zavedení nebo pokračování systémů odměn jako náhrady za újmu způsobenou nositelům práva. Ačkoliv rozdíly mezi těmito systémy odměn ovlivňují fungování vnitřního trhu, neměly by mít tyto rozdíly ve vztahu k analogovému soukromému rozmnožování výrazný dopad na rozvoj informační společnosti. Digitální soukromé rozmnožování má předpoklady k většímu rozšíření a má větší hospodářský dopad. Je proto potřeba brát patřičný ohled na rozdíly mezi digitálním a analogovým soukromým rozmnožováním a v určitých ohledech je třeba mezi nimi rozlišovat.
+
+(39) Pokud jsou k dispozici účinná opatření pro technologickou ochranu, měly by členské státy při uplatňování výjimky nebo omezení pro soukromé rozmnožování brát patřičný ohled na technologický a hospodářský rozvoj, a to zejména ve vztahu k soukromému digitálnímu rozmnožování a systémům odměn. Takové výjimky nebo omezení by neměly bránit využívání technologických prostředků ani jejich uplatňování proti obcházení těchto prostředků.
+
+(40) Členské státy mohou stanovit výjimku nebo omezení ve prospěch určitých neziskových organizací, jako jsou veřejně přístupné knihovny a podobné instituce a také archivy. Tato výjimka nebo omezení by však měly být omezeny na určité zvláštní případy, na které se vztahuje právo na rozmnožování. Taková výjimka nebo omezení by neměly zahrnovat používání v souvislosti s on-line dodávkou chráněných děl nebo jiných předmětů ochrany. Touto směrnicí by neměla být dotčena možnost členských států omezit výlučné právo na veřejné půjčování podle článku 5 směrnice 92/100/EHS. Je proto třeba podporovat zvláštní smlouvy nebo licence, které bez vytváření nerovnováhy upřednostňují takové organizace a účely, kterým slouží.
+
+(41) Při uplatňování výjimky nebo omezení ve vztahu k dočasným záznamům uskutečněným vysílacími organizacemi se vlastním zařízením vysílací organizace rozumí i zařízení osoby jednající jménem nebo v rámci odpovědnosti vysílací organizace.
+
+(42) Při uplatňování výjimky nebo omezení pro nekomerční vzdělávací a vědeckovýzkumné účely včetně dálkového vzdělávání by nekomerční povaha dotyčné činnosti měla být určována touto činností. Organizační struktura a způsoby financování dotyčného zařízení nejsou v tomto ohledu rozhodujícími faktory.
+
+(43) V každém případě je důležité, aby členské státy přijaly opatření nezbytná k usnadnění přístupu k dílům pro osoby, jejichž postižení je překážkou při užití samotných děl, a aby věnovaly pozornost zejména přístupným formátům.
+
+(44) Uplatňování výjimek a omezení stanovených v této směrnici by mělo být činěno v souladu s mezinárodními závazky. Takové výjimky a omezení nesmí být uplatňovány způsobem, který se dotýká oprávněných zájmů nositele práv nebo který je v rozporu s běžným způsobem užití jeho díla nebo jiného předmětu ochrany. Stanovení takových výjimek nebo omezení členskými státy by mělo zejména patřičně odrážet zvýšený hospodářský dopad, který by takové výjimky a omezení mohly mít v souvislosti s novým elektronickým prostředím. Z tohoto důvodu je možné, že rozsah určitých výjimek nebo omezení bude muset být stále užší, dojde-li na určitá nová užití děl chráněných autorským právem nebo jiných předmětů ochrany.
+
+(45) Výjimky a omezení uvedené v čl. 5 odst. 2, 3 a 4 by však neměly bránit vymezení smluvních vztahů navržených k zajištění spravedlivé odměny pro nositele práv, pokud to povolují vnitrostátní právní předpisy.
+
+(46) Možnost využít zprostředkování by mohla uživatelům a nositelům práv pomoci řešit spory. Komise by ve spolupráci s členskými státy v rámci kontaktního výboru měla vypracovat studii na posouzení nových právních způsobů řešení sporů týkajících se autorského práva a práv s ním souvisejících.
+
+(47) Technologický rozvoj umožní nositelům práv využívat technologické prostředky určené k zabránění nebo omezení úkonů nepovolených nositeli jakéhokoliv autorského práva, práv s ním souvisejících nebo práva sui generis k databázím. Existuje však nebezpečí, že za účelem umožnit nebo usnadnit obcházení technické ochrany stanovené těmito opatřeními by mohly být prováděny protiprávní činnosti. Za účelem zabránit nejednotným právním přístupům, které by mohly bránit fungování vnitřního trhu, je třeba stanovit harmonizovanou právní ochranu před obcházením účinných technologických prostředků a před poskytováním zařízení a výrobků nebo služeb za tímto účelem.
+
+(48) Taková právní ochrana by měla být poskytována ve vztahu k technologickým prostředkům, které účinně omezují úkony nepovolené nositeli jakéhokoliv autorského práva, práv s ním souvisejících nebo práva sui generis k databázím, aniž by se tím bránilo běžné funkci elektronického vybavení a jeho technologickému vývoji. Taková právní ochrana nezahrnuje žádný závazek k tomu, aby zařízení, výrobky, součástky nebo služby byly navrhovány v souladu s technologickými prostředky, pokud takové zařízení, výrobek, součástka nebo služba nejsou jinak zakázány podle článku 6. Taková právní ochrana by měla brát v úvahu zásadu proporcionality a neměla by zakazovat ta zařízení nebo činnosti, které mají komerčně důležitý účel nebo užití, jiné než obcházení technologické ochrany. Tato ochrana by zejména neměla bránit výzkumu kódování.
+
+(49) Právní ochranou technologických prostředků není dotčeno uplatňování jakýchkoliv vnitrostátních právních předpisů, které mohou zakazovat soukromou držbu zařízení, výrobků nebo součástek k obcházení technologických prostředků.
+
+(50) Takovou harmonizovanou právní ochranou nejsou dotčena zvláštní ustanovení o ochraně stanovená směrnicí 91/250/EHS. Zejména by se neměla vztahovat na ochranu technologických prostředků používaných v souvislosti s počítačovými programy, pro kterou je výše uvedená směrnice výhradně určena. Taková právní ochrana by neměla mařit rozvoj nebo používání jakýchkoliv způsobů obcházení technologických prostředků nezbytných k provedení úkonů podle čl. 5 odst. 3 nebo článku 6 směrnice 91/250/EHS ani takovému rozvoji bránit. Články 5 a 6 výše uvedené směrnice určují výhradní výjimky z výlučných práv vztahujících se na počítačové programy.
+
+(51) Právní ochranu technologických prostředků lze použít, aniž je dotčen veřejný pořádek uvedený v článku 5 nebo veřejná bezpečnost. Členské státy by měly podporovat dobrovolná opatření přijatá nositeli práv včetně uzavírání a provádění dohod mezi nositeli práv a jinými dotčenými stranami, aby umožnily dosažení cílů určitých výjimek nebo omezení stanovených ve vnitrostátních právních předpisech v souladu s touto směrnicí. Pokud v přiměřené době k takovým dobrovolným opatřením nebo dohodám nedojde, je třeba, aby členské státy přijaly vhodná opatření, aby nositelé práv poskytli příjemcům takových výjimek nebo omezení přiměřené prostředky k tomu, aby tito příjemci měli z uvedených výjimek nebo omezení užitek, a to úpravou prováděného technologického prostředku nebo jinými způsoby. Jakékoliv technologické prostředky používané při provádění takových opatření by však měly požívat právní ochrany, aby se zabránilo zneužívání prostředků přijatých nositeli práv, a to i v rámci dohod nebo v případě opatření přijatých členskými státy.
+
+(52) Při uplatňování výjimky nebo omezení týkajících se soukromého rozmnožování podle čl. 5 odst. 2 písm. b) by členské státy měly taktéž podporovat používání dobrovolných opatření, aby umožnily dosažení cílů takových výjimek nebo omezení. Pokud nejsou taková dobrovolná opatření umožňující rozmnožování pro soukromé užití v přiměřené době přijata, mohou členské státy přijmout opatření umožňující příjemcům dotyčné výjimky nebo omezení tuto výjimku nebo omezení využívat. Dobrovolná opatření přijatá nositeli práv včetně dohod mezi nositeli práv a jinými dotčenými stranami, stejně jako opatření přijatá členskými státy, nebrání nositelům práv v používání technologických prostředků, které jsou v souladu s výjimkami nebo omezeními týkajícími se soukromého rozmnožování uvedenými ve vnitrostátních právních předpisech podle čl. 5 odst. 2 písm. b), a to s ohledem na podmínku týkající se spravedlivé odměny podle výše uvedeného ustanovení a na možné rozlišení mezi různými podmínkami užití podle čl. 5 odst. 5, jakými je kontrola počtu rozmnoženin. Za účelem zabránit zneužívání takových opatření by měly jakékoliv technologické prostředky používané při jejich provádění požívat právní ochrany.
+
+(53) Ochrana technologických prostředků by měla zajistit bezpečné prostředí k poskytování interaktivních služeb na požádání, a to takovým způsobem, aby veřejnost měla přístup k dílům nebo jiným předmětům ochrany z místa a v době, které zvolí. Pokud jsou takové služby upraveny smluvními opatřeními, neměl by se používat čl. 6 odst. 4 první a druhý pododstavec. Na neinteraktivní formy používání on-line by se nadále měla vztahovat výše uvedená ustanovení.
+
+(54) V mezinárodní normalizaci technických systémů identifikace děl a předmětů ochrany v digitálním formátu bylo dosaženo významného pokroku. V rozšiřujícím se síťovém prostředí by rozdíly mezi technologickými prostředky mohly vést k neslučitelnosti systémů v rámci Společenství. Je třeba podporovat slučitelnost a interoperabilitu různých systémů. Je velmi žádoucí podporovat rozvoj globálních systémů.
+
+(55) Technologický rozvoj usnadní distribuci děl zejména v rámci sítí, z čehož pro nositele práv vyplývá potřeba lepší identifikace díla nebo jiného předmětu ochrany, autora nebo jiného nositele práv a také potřeba poskytnout informace ohledně náležitostí a podmínek užití díla nebo jiných předmětů ochrany, aby se tím usnadnila správa práv s nimi spojených. Nositelé práv by měli být podporováni v používání označení uvádějících kromě výše uvedených údajů mimo jiné i jejich svolení při distribuci děl prostřednictvím sítí.
+
+(56) Existuje však nebezpečí možných protiprávních činností s účelem odstranit nebo pozměnit elektronické informace o správě autorských práv, připojené k dílu, nebo jinak rozšiřovat, dovážet za účelem rozšiřování, vysílat, sdělovat veřejnosti nebo zpřístupňovat veřejnosti díla nebo jiné předměty ochrany, z nichž byly takové informace bez svolení odstraněny. Z toho důvodu, aby se předešlo nejednotným právním přístupům, které by mohly bránit fungování vnitřního trhu, je třeba stanovit harmonizovanou právní ochranu před kteroukoliv z těchto činností.
+
+(57) Jakékoliv výše uvedené informační systémy týkající se správy práv zároveň podle způsobu, jakým jsou navrženy, zpracovávají osobní údaje o spotřebitelských zvycích týkajících se předmětů ochrany v případě jednotlivců a umožňují sledování chování on-line. Tyto technologické prostředky by při své funkci měly zahrnovat ochranu soukromí v souladu se směrnicí Evropského parlamentu a Rady 95/46/ES ze dne 24. října 1995 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů [10].
+
+(58) Členské státy by měly stanovit účinné sankce a ochranná opatření pro případ porušení práv a povinností stanovených touto směrnicí. Členské státy by měly přijmout veškerá nezbytná opatření, aby uvedené sankce a ochranná opatření byly uplatňovány. Sankce takto stanovené by měly být účinné, přiměřené a odrazující a měly by zahrnovat možnost požadovat odškodné a/nebo soudní zákaz a popřípadě žádat o zabavení materiálu porušujícího právo.
+
+(59) Pro činnost porušující právo mohou být zejména v digitálním prostředí v rostoucí míře třetími stranami využívány služby zprostředkovatelů. V mnoha případech mají takoví zprostředkovatelé nejlepší možnost ukončit takovou činnost porušující právo. Aniž jsou dotčeny jakékoliv jiné dostupné sankce a ochranná opatření, nositelé práv by z toho důvodu měli mít možnost žádat o soudní zákaz činnosti proti zprostředkovateli, který v rámci sítě pro třetí stranu porušuje práva týkající se chráněného díla nebo jiného předmětu ochrany. Tato možnost by měla být k dispozici i v případě, že se na úkony prováděné zprostředkovatelem podle článku 5 vztahuje výjimka. Podmínky a úpravy týkající se takových soudních zákazů by měly být ponechány na vnitrostátních právních předpisech členských států.
+
+(60) Ochranou stanovenou v této směrnici by neměly být dotčeny vnitrostátní právní předpisy nebo právní předpisy Společenství v jiných oblastech, jakými jsou průmyslové vlastnictví, ochrana údajů, podmíněný přístup, přístup k veřejným dokumentům a pravidlo časové posloupnosti využívání ve sdělovacích prostředcích, které se mohou dotknout ochrany autorského práva a práv s ním souvisejících.
+
+(61) Pro dosažení souladu se Smlouvou WIPO o výkonech výkonných umělců a zvukových záznamech je třeba pozměnit směrnice 92/100/EHS a 93/98/EHS,
+
+PŘIJALY TUTO SMĚRNICI:
+
+KAPITOLA I
+
+CÍL A OBLAST PŮSOBNOSTI
+
+Článek 1
+
+Oblast působnosti
+
+1. Tato směrnice se vztahuje na právní ochranu autorského práva a práv s ním souvisejících v rámci vnitřního trhu, a to se zvláštním zřetelem na informační společnost.
+
+2. S výjimkou případů uvedených v článku 11 nejsou touto směrnicí dotčeny a nijak ovlivněny stávající předpisy Společenství, týkající se:
+
+a) právní ochrany počítačových programů;
+
+b) práva na pronájem, práva na půjčování a určitých práv v oblasti duševního vlastnictví souvisejících s autorským právem;
+
+c) autorského práva a práv s ním souvisejících při družicovém vysílání programů a kabelovém přenosu;
+
+d) doby ochrany autorského práva a určitých práv s ním souvisejících;
+
+e) právní ochrany databází.
+
+KAPITOLA II
+
+PRÁVA A VÝJIMKY Z NICH
+
+Článek 2
+
+Právo na rozmnožování
+
+Členské státy stanoví výlučné právo udělit svolení nebo zakázat přímé nebo nepřímé, dočasné nebo trvalé rozmnožování jakýmikoliv prostředky a v jakékoliv formě, vcelku nebo po částech:
+
+a) pro autory v případě jejich děl;
+
+b) pro výkonné umělce v případě záznamů jejich výkonů;
+
+c) pro výrobce zvukových záznamů v případě jejich zvukových záznamů;
+
+d) pro výrobce prvotních záznamů filmů ve vztahu k originálům a rozmnoženinám jejich filmů;
+
+e) pro vysílací organizace v případě záznamu jejich vysílání, ať už po drátě nebo bezdrátově, včetně vysílání pomocí kabelu nebo družice.
+
+Článek 3
+
+Právo na sdělování děl veřejnosti a právo na zpřístupnění jiných předmětů ochrany veřejnosti
+
+1. Členské státy poskytnou autorům výlučné právo udělit svolení nebo zakázat jakékoliv sdělení jejich děl veřejnosti po drátě nebo bezdrátově včetně zpřístupnění jejich děl veřejnosti takovým způsobem, že každý jednotlivec ze strany veřejnosti má k těmto dílům přístup z místa a v době, které si zvolí.
+
+2. Členské státy stanoví výlučné právo udělit svolení nebo zakázat zpřístupnění veřejnosti po drátě nebo bezdrátově takovým způsobem, že každý jednotlivec ze strany veřejnost má k těmto předmětům ochrany přístup z místa a v době, který si zvolí:
+
+a) pro výkonné umělce v případě záznamů jejich výkonů;
+
+b) pro výrobce zvukových záznamů v případě jejich zvukových záznamů;
+
+c) pro výrobce prvotních záznamů filmů v případě originálu a rozmnoženin jejich filmů;
+
+d) pro vysílací organizace v případě záznamů jejich vysílání, ať už po drátě nebo bezdrátově, včetně vysílání pomocí kabelu nebo družice.
+
+3. Práva uvedená v odstavcích 1 a 2 se nevyčerpají žádným sdělením veřejnosti nebo zpřístupněním veřejnosti podle tohoto článku.
+
+Článek 4
+
+Právo na rozšiřování
+
+1. Členské státy stanoví pro autory u originálů jejich děl nebo jejich rozmnoženin výlučné právo udělit svolení nebo zakázat jakoukoliv formu veřejného rozšiřování prodejem nebo jiným způsobem.
+
+2. Právo na rozšiřování se u originálu nebo rozmnoženin díla ve Společenství nevyčerpá s výjimkou případu, kdy je první prodej nebo jiný převod vlastnictví takového předmětu ve Společenství uskutečněn nositelem práv nebo s jeho souhlasem.
+
+Článek 5
+
+Výjimky a omezení
+
+1. Dočasné úkony rozmnožení uvedené v článku 2, které jsou krátkodobé nebo příležitostné a tvoří nedílnou a podstatnou část technologického procesu a jejichž výhradním účelem je umožnit:
+
+a) přenos v rámci sítě mezi třetími stranami uskutečněný zprostředkovatelem nebo
+
+b) oprávněné užití
+
+díla nebo jiného předmětu ochrany a které nemají žádný samostatný hospodářský význam, jsou vyloučeny z práva na rozmnožování stanoveného v článku 2.
+
+2. Členské státy mohou stanovit výjimky nebo omezení práva na rozmnožování podle článku 2 v těchto případech:
+
+a) u rozmnoženin na papíře nebo jakémkoliv podobném nosiči, přičemž tyto rozmnoženiny vznikly použitím jakékoliv fotografické techniky nebo některým jiným procesem s podobnými účinky, s výjimkou hudebnin, za předpokladu, že nositelé práv získají spravedlivou odměnu;
+
+b) u jakýchkoliv rozmnoženin na jakémkoliv nosiči vytvořených fyzickou osobou pro soukromé užití a pro účely, které nejsou přímo ani nepřímo komerční, a to za podmínky, že nositelé práv získají spravedlivou odměnu, která, pokud jde o dotyčné dílo nebo předmět ochrany, bere ohled na použití nebo nepoužití technologických prostředků uvedených v článku 6;
+
+c) u zvláštních úkonů rozmnožování uskutečněných veřejně přístupnými knihovnami, vzdělávacími zařízeními nebo muzei nebo archivy, které nesledují přímý ani nepřímý hospodářský nebo komerční prospěch;
+
+d) u dočasných záznamů děl vytvořených vysílacími organizacemi jejich vlastními prostředky a pro jejich vlastní vysílání; na základě jejich výlučně dokumentární povahy může být povoleno uchovávání těchto záznamů v úředních archivech;
+
+e) u vysílání uskutečněného sociálními institucemi sledujícími nekomerční cíle, jakými jsou nemocnice nebo věznice, a to za podmínky, že nositelé práv získají spravedlivou odměnu.
+
+3. Členské státy mohou stanovit výjimky nebo omezení práv podle článků 2 a 3 v těchto případech:
+
+a) užití pouze pro ilustrační účel při vyučování nebo při vědeckém výzkumu, pokud je uveden zdroj včetně jména autora, je-li to možné, a to v rozsahu opodstatněném sledovaným nekomerčním účelem;
+
+b) užití ve prospěch osob zdravotně postižených, přičemž toto využití se přímo týká uvedeného postižení a je nekomerční povahy, a to v rozsahu vyžadovaném dotyčným postižením;
+
+c) rozmnožování tiskem, sdělování veřejnosti nebo zpřístupňování zveřejněných článků o aktuálních hospodářských, politických nebo náboženských tématech nebo vysílaných děl nebo jiných předmětů ochrany stejné povahy v případech, kdy takové užití není výslovně vyhrazeno a pokud je uveden zdroj včetně jména autora, nebo užití děl nebo jiných předmětů ochrany ve spojitosti se zpravodajstvím týkajícím se aktuálních událostí, a to v rozsahu opodstatněném informativním účelem a pokud je uveden zdroj včetně jména autora, je-li to možné;
+
+d) citáty pro takové účely, jako je kritika nebo recenze, za předpokladu, že se vztahují k dílu nebo jinému předmětu ochrany, které již byly oprávněným způsobem zpřístupněny veřejnosti, že uvádějí zdroj včetně jména autora, je-li to možné, a že jejich užití je v souladu s poctivými zvyklostmi a v rozsahu vyžadovaném konkrétním účelem;
+
+e) užití pro účely veřejné bezpečnosti nebo pro zajištění náležitého provedení správního, parlamentního nebo soudního řízení nebo zpravodajství o něm;
+
+f) užití politických projevů a úryvků veřejných přednášek nebo podobných děl nebo předmětů ochrany v rozsahu opodstatněném informativním účelem a za předpokladu, že je uveden zdroj včetně jména autora, s výjimkou případů, kdy toto není možné;
+
+g) užití během náboženských úkonů nebo úředních akcí pořádaných orgánem veřejné moci;
+
+h) užití děl jako jsou architektonická díla nebo sochy vytvořené za účelem jejich trvalého umístění na veřejných místech;
+
+i) příležitostné včlenění díla nebo jiného předmětu ochrany do jiného materiálu;
+
+j) užití pro reklamu veřejné výstavy nebo prodeje uměleckých děl, a to v rozsahu nezbytném pro propagaci uvedené akce, s výjimkou jakéhokoliv jiného komerčního užití;
+
+k) užití pro účely karikatury, parodie nebo parafráze či koláže;
+
+l) užití ve spojitosti s názorným předváděním nebo opravou zařízení;
+
+m) užití uměleckého díla ve formě budovy nebo nákresu nebo plánu budovy pro účely rekonstrukce uvedené budovy;
+
+n) užití sdělením nebo zpřístupněním děl nebo jiných předmětů ochrany, které nejsou předmětem prodeje nebo licenčních podmínek, jednotlivcům ze strany veřejnosti pro účely výzkumu nebo soukromého studia, a to prostřednictvím k tomu určených zařízení v prostorách institucí uvedených v odst. 2 písm. c), pokud jsou uvedená díla nebo předměty ochrany součástí sbírek těchto institucí;
+
+o) užití v určitých jiných případech menšího významu, pokud již v rámci vnitrostátních právních předpisů existují výjimky nebo omezení, za předpokladu, že se tyto případy týkají pouze analogových užití a nenarušují volný pohyb zboží a služeb v rámci Společenství, aniž jsou tím dotčeny jiné výjimky a omezení uvedené v tomto článku.
+
+4. Pokud mohou členské státy stanovit výjimku nebo omezení týkající se práva na rozmnožování podle odstavců 2 a 3, mohou podobně stanovit výjimku nebo omezení týkající se práva na rozšiřování uvedeného v článku 4, a to v rozsahu opodstatněném účelem povoleného rozmnožování.
+
+5. Výjimky a omezení stanovené v odstavcích 1, 2, 3 a 4 mohou být použity pouze ve zvláštních případech, které nejsou v rozporu s běžným způsobem užití díla nebo jiného předmětu ochrany a nejsou jimi nepřiměřeně dotčeny oprávněné zájmy nositele práv.
+
+KAPITOLA III
+
+OCHRANA TECHNOLOGICKÝCH PROSTŘEDKŮ A INFORMACE O SPRÁVĚ PRÁV
+
+Článek 6
+
+Povinnosti týkající se technologických prostředků
+
+1. Členské státy stanoví odpovídající právní ochranu před obcházením jakýchkoliv účinných technologických prostředků, které dotyčná osoba provádí s vědomím, že takový cíl sleduje, nebo existují-li o této skutečnosti opodstatněné důkazy.
+
+2. Členské státy stanoví odpovídající právní ochranu před výrobou, dovozem, rozšiřováním, prodejem, pronájmem, reklamou týkající se prodeje nebo pronájmu nebo před držbou zařízení, výrobků nebo součástek nebo před poskytováním služeb pro komerční účely, přičemž tyto služby:
+
+a) jsou nabízeny, inzerovány nebo uváděny na trh pro účely obcházení účinných technologických prostředků nebo
+
+b) mají pouze omezený komerčně významný účel nebo užití jiné, než je obcházení účinných technologických prostředků nebo
+
+c) jsou přednostně určeny, vyrobeny, upraveny nebo prováděny především za účelem umožnit nebo usnadnit obcházení účinných technologických prostředků.
+
+3. Pro účely této směrnice se "technologickými prostředky" rozumí jakákoliv technologie, zařízení nebo součástka, které jsou při své obvyklé funkci určeny k tomu, aby zabraňovaly úkolům nebo omezovaly úkony ve vztahu k dílům nebo jiným předmětům ochrany, ke kterým nebylo uděleno svolení nositele jakýchkoliv autorských práv nebo práv s ním souvisejících stanovených právními předpisy, nebo právem sui generis stanoveným v kapitole III směrnice 96/9/ES. Technologické prostředky se považují za "účinné" pokud je použití chráněného díla nebo jiného předmětu ochrany kontrolováno nositeli práv uplatněním kontroly přístupu nebo ochranného procesu jako je šifrování, kódování nebo jiná úprava díla nebo jiného předmětu ochrany nebo mechanizmu kontroly rozmnožování, který dosahuje cíle ochrany.
+
+4. Bez ohledu na právní ochranu stanovenou v odstavci 1 učiní členské státy v případě neexistence dobrovolných prostředků použitých nositeli práv, včetně dohod mezi nositeli práv a jinými dotčenými stranami, vhodná opatření, aby nositelé práv zpřístupnili uživateli výjimky nebo omezení stanovené vnitrostátními právními předpisy v souladu s čl. 5 odst. 2 písm. a), c), d) nebo e), odst. 3 písm. a), b) nebo e) prostředky k využívání takové výjimky nebo omezení, a to v rozsahu nezbytném pro využití této výjimky nebo omezení, pokud má takový uživatel k dotyčnému chráněnému dílu nebo předmětu ochrany přístup.
+
+Členský stát rovněž může taková opatření přijmout ve prospěch uživatele výjimky nebo omezení podle čl. 5 odst. 2 písm. b) v případě, že nositelé práv dosud neumožnili rozmnožování pro soukromé užití, a to v rozsahu nezbytném pro využití uvedené výjimky nebo omezení a v souladu s ustanoveními čl. 5 odst. 2 písm. b) a odst. 5, aniž by se tím nositelům práv bránilo v přijetí odpovídajících opatření týkajících se počtu rozmnoženin v souladu s těmito ustanoveními.
+
+Technologické prostředky používané dobrovolně nositeli práv včetně těch, které jsou používány při plnění dobrovolných dohod, a technologické prostředky používané při plnění opatření přijatých členskými státy požívají právní ochrany podle odstavce 1.
+
+První a druhý pododstavec se nevztahují na díla nebo jiné předměty ochrany zpřístupněné veřejnosti za dohodnutých smluvních podmínek takovým způsobem, že každý k nim má přístup z místa a v době, které si zvolí.
+
+Pokud je tento článek uplatňován v souvislosti se směrnicemi 92/100/EHS a 96/9/ES, použije se tento odstavec přiměřeně.
+
+Článek 7
+
+Povinnosti týkající se informací o správě práv
+
+1. Členské státy stanoví odpovídající právní ochranu proti každé osobě, která vědomě bez svolení činí kterýkoliv z těchto úkonů:
+
+a) odstraňování nebo pozměňování jakýchkoliv elektronických informací týkajících se správy práv;
+
+b) rozšiřování, dovoz za účelem rozšiřování, vysílání, sdělování nebo zpřístupňování veřejnosti děl nebo jiných předmětů ochrany chráněných podle této směrnice nebo podle kapitoly III směrnice 96/9/ES, ze kterých byly bez svolení odstraněny nebo na nichž byly bez svolení pozměněny elektronické informace týkající se správy práv,
+
+pokud taková osoba ví nebo má rozumné důvody se domnívat, že takovým jednáním způsobuje, umožňuje, usnadňuje nebo zatajuje porušování jakéhokoliv autorského práva nebo jakýchkoliv práv s ním souvisejících podle právních předpisů nebo práva sui generis uvedeného v kapitole III směrnice 96/9/ES.
+
+2. Pro účely této směrnice se "informacemi o správě práv" rozumí jakékoliv informace určené nositeli práv, které identifikují dílo nebo jiný předmět ochrany uvedený v této směrnici nebo zahrnutý právem sui generis uvedeným v kapitole III směrnice 96/9/ES, autora nebo jakéhokoliv jiného nositele práv, nebo informace o náležitostech a podmínkách užití díla nebo jiného předmětu ochrany a jakákoliv čísla nebo kódy představující takové informace.
+
+První pododstavec se použije, pokud je kterákoliv z těchto informací připojena k rozmnoženině díla nebo jiného předmětu ochrany uvedeného v této směrnici nebo zahrnutého právem sui generis uvedeným v kapitole III směrnice 96/9/ES nebo pokud se taková informace objevuje v souvislosti se sdělováním uvedeného díla nebo jiného předmětu ochrany veřejnosti.
+
+KAPITOLA IV
+
+OBECNÁ USTANOVENÍ
+
+Článek 8
+
+Sankce a ochranné prostředky
+
+1. Členské státy stanoví přiměřené sankce a ochranné prostředky proti porušování práv a povinností stanovených v této směrnici a přijmou veškerá nezbytná opatření, aby tyto sankce a ochranné prostředky byly používány. Sankce takto stanovené musí být účinné, přiměřené a odrazující.
+
+2. Každý členský stát přijme nezbytná opatření, aby nositelé práv dotčení protiprávním jednáním prováděným na jeho území mohli podat žalobu na náhradu škody a/nebo žádat o soudní zákaz, popřípadě o zabavení jak materiálu porušujícího právo, tak zařízení, výrobků nebo součástek uvedených v čl. 6 odst. 2.
+
+3. Členské státy zajistí, aby nositelé práv měli možnost žádat o soudní zákaz ve vztahu ke zprostředkovatelům, jejichž služby jsou třetí stranou využívány k porušování autorského práva nebo práv s ním souvisejících.
+
+Článek 9
+
+Další používání jiných právních předpisů
+
+Touto směrnicí nejsou dotčena ustanovení týkající se zejména patentových práv, ochranných známek, práv týkajících se průmyslových vzorů, užitných vzorů, topografií polovodičových výrobků, typů písma, podmíněného přístupu, přístupu ke kabelu vysílacích služeb, ochrany národních kulturních památek, požadavků na oprávněné vklady, právních předpisů o restriktivních praktikách a nekalé soutěži, obchodního tajemství, bezpečnosti, utajení, ochrany údajů a soukromí, přístupu k veřejným dokumentům a smluvního práva.
+
+Článek 10
+
+Přechodná ustanovení
+
+1. Ustanovení této směrnice se vztahují na všechna díla a jiné předměty ochrany uvedené v této směrnici, které jsou ke dni 22. prosince 2002 chráněny právními předpisy členských států v oblasti autorského práva a práv s ním souvisejících nebo splňují kritéria pro ochranu podle ustanovení této směrnice nebo podle ustanovení uvedených v čl. 1 odst. 2.
+
+2. Používáním této směrnice nejsou dotčeny smlouvy uzavřené a práva nabytá před 22. prosincem 2002.
+
+Článek 11
+
+Technické úpravy
+
+1. Směrnice 92/100/EHS se mění takto:
+
+a) Článek 7 se zrušuje.
+
+b) V článku 10 se odstavec 3 nahrazuje tímto:
+
+"3. Uvedená omezení se vztahují pouze na určité zvláštní případy, které nejsou v rozporu s běžným způsobem užití předmětu ochrany a nejsou nepřiměřeně na újmu oprávněným zájmům nositele práv."
+
+2. V článku 3 se odstavec 2 směrnice 93/98/EHS nahrazuje tímto:
+
+"2. Práva výrobců zvukových záznamů uplynou za 50 let po pořízení záznamu. Pokud je však zvukový záznam oprávněně vydán v průběhu této doby, uvedená práva uplynou za 50 let ode dne, kdy došlo k prvnímu takovému vydání. Pokud během doby uvedené v první větě nedojde k žádnému oprávněnému vydání a pokud byl během této doby zvukový záznam oprávněně sdělen veřejnosti, uvedená práva uplynou za 50 let ode dne, kdy došlo k prvnímu takovému sdělení veřejnosti.
+
+Pokud však z důvodu uplynutí ochranné lhůty podle tohoto odstavce před jeho změnou uskutečněnou směrnicí Evropského parlamentu a Rady 2001/29/ES ze dne 22. května 2001 o harmonizaci určitých aspektů autorského práva a práv s ním souvisejících v informační společnosti [11] nejsou již uvedená práva výrobců zvukových záznamů dne 22. prosince 2002 chráněna, nebude již mít tento odstavec účinek spočívající v obnovení ochrany uvedených práv."
+
+Článek 12
+
+Závěrečná ustanovení
+
+1. Nejpozději 22. prosince 2004 a poté každé tři roky Komise předloží Evropskému parlamentu, Radě a Hospodářskému a sociálnímu výboru zprávu o používání této směrnice, ve které mimo jiné na základě zvláštních informací poskytnutých členskými státy přezkoumá zejména používání článků 5, 6 a 8, a to s ohledem na rozvoj digitálního trhu. V případě článku 6 přezkoumá Komise zejména tu skutečnost, zda uvedený článek poskytuje dostatečnou úroveň ochrany a zda jsou úkony dovolené právními předpisy nepříznivě ovlivňovány používáním účinných technologických prostředků. Pokud je to nezbytné, zejména k zajištění fungování vnitřního trhu podle článku 14 Smlouvy, předloží Komise návrhy na změnu této směrnice.
+
+2. Ochranou práv souvisejících s autorským právem podle této směrnice není v žádném případě dotčena ochrana autorského práva.
+
+3. Zřizuje se kontaktní výbor. Skládá se ze zástupců členských států. Zasedá z podnětu předsedy nebo na žádost delegace členského státu a předsedá mu zástupce Komise.
+
+4. Úkoly výboru jsou:
+
+a) přezkoumávat dopad této směrnice na fungování vnitřního trhu a upozorňovat na jakékoliv obtíže;
+
+b) organizovat konzultace týkající se veškerých otázek vyplývajících z používání této směrnice;
+
+c) usnadňovat výměnu informací s ohledem na vývoj právních předpisů a judikatury a s ohledem na odpovídající hospodářský, sociální, kulturní a technologický rozvoj;
+
+d) vystupovat jako fórum pro hodnocení digitálního trhu s díly a jinými předměty včetně soukromého rozmnožování a používání technologických prostředků.
+
+Článek 13
+
+Provedení
+
+1. Členské státy uvedou v účinnost právní a správní předpisy nezbytné pro dosažení souladu s touto směrnicí nejpozději do 22. prosince 2002. Neprodleně o nich uvědomí Komisi.
+
+Tato opatření přijatá členskými státy musí obsahovat odkaz na tuto směrnici nebo musí být takový odkaz učiněn při jejich úředním vyhlášení. Způsob odkazu si stanoví členské státy.
+
+2. Členské státy sdělí Komisi znění vnitrostátních právních předpisů, které přijmou v oblasti působnosti této směrnice.
+
+Článek 14
+
+Vstup v platnost
+
+Tato směrnice vstupuje v platnost dnem vyhlášení v Úředním věstníku Evropských společenství.
+
+Článek 15
+
+Určení
+
+Tato směrnice je určena členským státům.
+
+
+V Bruselu dne 22. května 2001.
+
+Za Evropský parlament
+
+předsedkyně
+
+N. Fontaine
+
+Za Radu
+
+předsedkyně
+
+M. Winberg
+
+[1] Úř. věst. C 108, 7.4.1998, s. 6 aÚř. věst. C 180, 25.6.1999, s. 6.
+
+[2] Úř. věst. C 407, 28.12.1998, s. 30.
+
+[3] Stanovisko Evropského parlamentu ze dne 10. února 1999 (Úř. věst. C 150, 28.5.1999, s. 171), společný postoj Rady ze dne 28. září 2000 (Úř. věst. C 344, 1.12.2000, s. 1) a rozhodnutí Evropského parlamentu ze dne 14. února 2001 (dosud nezveřejněné v Úředním věstníku). Rozhodnutí Rady ze dne 9. dubna 2001.
+
+[4] Úř. věst. L 178, 17.7.2000, s. 1
+
+[5] Směrnice Rady 91/250/EHS ze dne 14. května 1991 o právní ochraně počítačových programů (Úř. věst. L 122, 17.5.1991, s. 42). Směrnice pozměněná směrnicí 93/98/EHS.
+
+[6] Směrnice Rady 92/100/EHS ze dne 19. listopadu 1992 o právu na pronájem a půjčování a některých právech v oblasti duševního vlastnictví souvisejících s autorským právem (Úř. věst. L 346, 27.11.1992, s. 61). Směrnice pozměněná směrnicí 93/98/EHS.
+
+[7] Směrnice Rady 93/83/EHS ze dne 27. září 1993 o koordinaci určitých předpisů týkajících se autorského práva a práv s ním souvisejících při družicovém vysílání a kabelovém přenosu (Úř. věst. L 248, 6.10.1993, s. 15).
+
+[8] Směrnice Rady 93/98/EHS ze dne 29. října 1993 o harmonizaci doby ochrany autorského práva a určitých práv s ním souvisejících (Úř. věst. L 290, 24.11.1993, s. 9).
+
+[9] Směrnice Evropského parlamentu a Rady 96/9/ES ze dne 11. března 1996 o právní ochraně databází (Úř. věst. L 77, 27.3.1996, s. 20).
+
+[10] Úř. věst. L 281, 23.11.1995, s. 31.
+
+[11] Úř. věst. L 167, 22.6.2001, s. 10.
+
+--------------------------------------------------

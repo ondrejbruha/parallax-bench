@@ -1,0 +1,679 @@
+EUR-Lex - 32000L0031 - CS
+
+
+Důležité právní upozornění
+
+
+|
+
+
+32000L0031
+
+
+Úřední věstník L 178 , 17/07/2000 S. 0001 - 0016
+
+
+Směrnice Evropského parlamentu a Rady 2000/31/ES
+
+ze dne 8. června 2000
+
+o některých právních aspektech služeb informační společnosti, zejména elektronického obchodu, na vnitřním trhu ("směrnice o elektronickém obchodu")
+
+EVROPSKÝ PARLAMENT A RADA EVROPSKÉ UNIE,
+
+s ohledem na Smlouvu o založení Evropského společenství, a zejména na čl. 47 odst. 2 a články 55 a 95 této smlouvy,
+
+s ohledem na návrh Komise [1],
+
+s ohledem na stanovisko Hospodářského a sociálního výboru [2],
+
+v souladu s postupem stanoveným v článku 251 Smlouvy [3],
+
+vzhledem k těmto důvodům:
+
+(1) Evropská unie usiluje o vytvoření stále těsnějších vazeb mezi evropskými státy a občany a o zajištění hospodářského a sociálního pokroku. V souladu s čl. 14 odst. 2 Smlouvy vnitřní trh tvoří prostor bez vnitřních hranic, v němž je zajištěn volný pohyb zboží a služeb, jakož i svoboda usazování. Rozvoj služeb informační společnosti v prostoru bez vnitřních hranic je důležitým prostředkem pro odstranění překážek, které rozdělují evropské občany.
+
+(2) Rozvoj elektronického obchodu v informační společnosti nabízí zásadní možnosti pro zaměstnanost ve Společenství, zejména v malých a středních podnicích, a podněcuje hospodářský růst evropských podniků, jakož i jejich investice do obnov. Tento rozvoj může rovněž posílit konkurenceschopnost evropského hospodářství, pokud bude internet přístupný všem.
+
+(3) Právo Společenství a vlastnosti právního řádu Společenství tvoří důležitý nástroj pro to, aby evropští občané a provozovatelé mohli plně, bez ohledu na hranice, využívat možností elektronického obchodu. Předmětem této směrnice je tedy zajištění vysoké úrovně právní integrace Společenství, aby byl vytvořen skutečný prostor bez vnitřních hranic pro služby informační společnosti.
+
+(4) Je důležité zajistit, aby elektronický obchod mohl plně využívat vnitřní trh a aby stejně jako pro směrnici 89/552/EHS Rady ze dne 3. října 1989 o koordinaci některých právních a správních předpisů členských států upravujících provozování televizního vysílání [4] bylo dosaženo vysoké úrovně evropské integrace.
+
+(5) Rozvoj služeb informační společnosti ve Společenství je omezován řadou právních překážek řádného fungování vnitřního trhu, které snižují přitažlivost výkonu svobody usazování a volného pohybu služeb. Překážky spočívají v rozdílech mezi vnitrostátními právními předpisy, jakož i v právní nejistotě ve vnitrostátních právních úpravách, které se na tyto služby vztahují. Dokud nedojde ke koordinaci a přizpůsobení právních předpisů v dotčených oblastech, mohou být tyto překážky s ohledem na judikaturu Soudního dvora Evropských společenství oprávněné. Právní nejistota se týká rozsahu dohledu, který členské státy smí vykonávat nad službami poskytovanými z jiného členského státu.
+
+(6) S ohledem na cíle Společenství, na články 43 a 49 Smlouvy a na odvozené právo Společenství by měly být v míře nezbytné pro řádné fungování vnitřního trhu tyto překážky odstraněny, a to koordinací některých vnitrostátních právních předpisů a vyjasněním některých právních pojmů na úrovni Společenství. Tato směrnice je plně v souladu s potřebou dodržovat zásadu subsidiarity podle článku 5 Smlouvy, neboť upravuje pouze některé specifické otázky, které působí obtíže pro vnitřní trh.
+
+(7) Pro zaručení právní jistoty a důvěry spotřebitelů je vhodné, aby tato směrnice stanovila jasný obecný rámec pro řešení některých právních aspektů elektronického obchodu na vnitřním trhu.
+
+(8) Cílem této směrnice je vytvořit právní rámec pro zajištění volného pohybu služeb informační společnosti mezi členskými státy a nikoli harmonizovat trestní právo jako takové.
+
+(9) V mnohých případech může volný pohyb služeb informační společnosti představovat specifický odraz obecnějších zásad právních předpisů Společenství, konkrétně svobody projevu ve smyslu čl. 10 odst. 1 Úmluvy o ochraně lidských práv a základních svobod ratifikované všemi členskými státy. Z tohoto důvodu směrnice, které se týkají poskytování služeb informační společnosti, musí zajistit, aby tato činnost mohla být svobodně vykonávána podle zmíněného článku a aby podléhala výhradně omezením podle odstavce 2 zmíněného článku a podle čl. 46 odst. 1 Smlouvy. Základní vnitrostátní pravidla a zásady týkající se svobody projevu by touto směrnicí neměla být dotčena.
+
+(10) Podle zásady proporcionality se opatření této směrnice omezují pouze na nezbytné minimum pro zajištění řádného fungování vnitřního trhu. Aby se vnitřní trh stal pro elektronický obchod skutečně prostorem bez vnitřních hranic, musí tato směrnice zajistit v oblastech, v nichž je nezbytný zásah na úrovni Společenství, vysokou úroveň ochrany cílů obecného zájmu, zejména ochrany mládeže, lidské důstojnosti, spotřebitelů a veřejného zdraví. Podle článku 152 Smlouvy je ochrana veřejného zdraví podstatnou součástí dalších politik Společenství.
+
+(11) Touto směrnicí není dotčena úroveň ochrany zavedená právními předpisy Společenství, zejména ochrany veřejného zdraví a zájmů spotřebitelů. Směrnice Rady 93/13/EHS ze dne 5. dubna 1993 o nepřiměřených podmínkách ve spotřebitelských smlouvách [5] a směrnice Evropského parlamentu a Rady 97/7/ES ze dne 20. května 1997 o ochraně spotřebitele v případě smluv uzavřených na dálku [6] představují základní prvek ochrany spotřebitelů v oblasti uzavírání smluv. Tyto směrnice se rovněž uplatní pro služby informační společnosti. Toto acquis communautaire, které se plně uplatňuje pro služby informační společnosti, zahrnuje rovněž zejména směrnici Rady 84/450/EHS ze dne 10. září 1984 o klamavé a srovnávací reklamě [7], směrnici Rady 87/102/EHS ze dne 22. prosince 1986 o sbližování právních a správních předpisů členských států týkajících se spotřebitelského úvěru [8], směrnici Rady 93/22/EHS ze dne 10. května 1993 o investičních službách v oblasti cenných papírů [9], směrnici Rady 90/314/EHS ze dne 13. června 1990 o souborných službách pro cesty, pobyty a zájezdy [10], směrnici Evropského parlamentu a Rady 98/6/ES ze dne 16. února 1998 o ochraně spotřebitelů při označování cen výrobků nabízených spotřebiteli [11], směrnici Rady 92/59/EHS ze dne 29. června 1992 o obecné bezpečnosti výrobků [12], směrnici Evropského parlamentu a Rady 94/47/ES ze dne 26. října 1994 o ochraně nabyvatelů ve vztahu k některým aspektům smluv o nabytí práva k dočasnému užívání nemovitostí [13], směrnici Evropského parlamentu a Rady 98/27/ES ze dne 19. května 1998 o žalobách na zdržení se jednání v oblasti ochrany zájmů spotřebitelů [14], směrnici Rady 85/374/EHS ze dne 25. července 1985 o sbližování právních a správních předpisů členských států týkajících se odpovědnosti za vady výrobků [15], směrnici Evropského parlamentu a Rady 1999/44/ES ze dne 25. května 1999 o některých aspektech prodeje spotřebního zboží a záruk na toto zboží [16], budoucí směrnice Evropského parlamentu a Rady o prodeji na dálku finančních služeb spotřebitelům a směrnice Rady 92/28/EHS ze dne 31. března 1992 o reklamě na humánní léčivé přípravky [17]. Touto směrnicí není dotčena směrnice Evropského parlamentu a Rady 98/43/ES ze dne 6. července 1998 o sbližování právních a správních předpisů členských států ve vztahu k reklamě na tabákové výrobky a sponzorství tabákových výrobků [18] přijatá v rámci vnitřního trhu ani směrnice o ochraně veřejného zdraví. Tato směrnice doplňuje požadavky na informace zavedené zmíněnými směrnicemi a zejména směrnicí 97/7/ES.
+
+(12) Některé činnosti musí být z oblasti působnosti této směrnice vyňaty, neboť v současné době nemůže být s ohledem na Smlouvu nebo na sekundární právo Společenství v těchto oblastech zajištěn volný pohyb služeb. Tímto vynětím nesmějí být dotčeny případné nástroje nezbytné pro řádné fungování vnitřního trhu. Oblast daní, zejména daň z přidané hodnoty, která je vybírána u velkého počtu služeb uvedených v této směrnici, musí být z její oblasti působnosti vyňata.
+
+(13) Cílem této směrnice není ani upravit daňové povinnosti, ani předem vypracovat právní nástroje Společenství týkající se daňových aspektů elektronického obchodu.
+
+(14) Ochrana fyzických osob při zpracování osobních údajů je výhradně upravena směrnicí Evropského parlamentu a Rady 95/46/ES ze dne 24. října 1995 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů [19] a směrnicí Evropského parlamentu a Rady 97/66/ES ze dne 15. prosince 1997 o zpracování osobních údajů a ochraně soukromí v odvětví telekomunikací [20], které se plně uplatní pro služby informační společnosti. Tyto směrnice již vytvářejí právní rámec Společenství pro oblast osobních údajů a není tedy nezbytné pro zajištění řádného fungování vnitřního trhu, a zejména volného pohybu osobních údajů mezi členskými státy, upravovat tuto otázku v této směrnici. Provádění a uplatňování této směrnice musí být v souladu se zásadami ochrany osobních údajů, zejména pokud jde o nevyžádaná obchodní sdělení a odpovědnost zprostředkovatelů. Tato směrnice nemůže bránit anonymnímu užívání otevřených sítí, jako je internet.
+
+(15) Důvěrnost komunikace je zaručena článkem 5 směrnice 97/66/ES. V souladu s touto směrnicí zakazují členské státy všechny typy protiprávního zadržování nebo sledování komunikace jinými osobami, než je odesílatel a příjemce, ledaže jsou tyto činnosti podle práva povolené.
+
+(16) Vyloučení ziskových her z oblasti působnosti této směrnice se týká pouze hazardních her, loterií a sázek, které vyžadují peněžité vklady. Toto neplatí pro propagační soutěže a hry, jejichž cílem je podpora prodeje zboží či služeb a u nichž případné platby slouží pouze k nabytí propagovaného zboží či služeb.
+
+(17) Právo Společenství již obsahuje ve směrnici Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti technických norem a předpisů [21], jakož i ve směrnici Evropského parlamentu a Rady 98/84/ES ze dne 20. listopadu 1998 o právní ochraně služeb s podmíněným přístupem a služeb tvořených podmíněným přístupem [22] definici služeb informační společnosti. Tato definice zahrnuje všechny služby běžně poskytované na dálku za úhradu na individuální žádost příjemce služeb prostřednictvím elektronických přístrojů pro zpracování (včetně digitální komprese) a ukládání dat. Tato definice se nevztahuje na služby uvedené ve směrném seznamu příkladů v příloze V směrnice 98/34/ES, které nezahrnují zpracování a ukládání dat.
+
+(18) Služby informační společnosti zahrnují širokou škálu hospodářských činností, které probíhají on-line. Tyto činnosti mohou spočívat zejména v on-line prodeji zboží. Činnosti, jako je dodávka zboží jako taková nebo poskytování služeb off-line, zde nejsou zahrnuty. Služby informační společnosti se neomezují výhradně na služby umožňující uzavírání smluv on-line, ale vztahují se rovněž, pokud jde o hospodářskou činnost, na služby, které nehradí ti, kdo je přijímají, jako např. služby poskytující informace on-line nebo obchodní sdělení nebo ty služby, které poskytují nástroje umožňující vyhledávání dat, přístup k datům a získávání dat. Služby informační společnosti zahrnují rovněž služby, které spočívají v předávání informací prostřednictvím komunikační sítě, v poskytování přístupu ke komunikační síti nebo v shromažďování informací poskytovaných příjemcem služby. Televizní vysílání ve smyslu směrnice 89/552/EHS ani rozhlasové vysílání nejsou službami informační společnosti, neboť nejsou poskytovány na individuální žádost. Naopak službami informační společnosti jsou služby, které jsou poskytovány z místa na místo, jako je video na přání nebo poskytování obchodního sdělení elektronickou poštou. Používání elektronické pošty nebo jiných rovnocenných individuálních komunikačních prostředků fyzickými osobami mimo rámec jejich obchodní nebo profesní činnosti včetně jejich používání pro uzavírání smluv mezi těmito osobami není službou informační společnosti. Smluvnívztah mezi zaměstnancem a zaměstnavatelem není službou informační společnosti. Činnosti, které pro svou povahu nelze vykonávat na dálku a elektronickou cestou, jako povinná účetní kontrola společnosti nebo lékařská konzultace vyžadující fyzické vyšetření pacienta, nejsou službami informační společnosti.
+
+(19) Místo usazení poskytovatele by mělo být určeno v souladu s judikaturou Soudního dvora, podle níž pojem usazení zahrnuje účinný výkon hospodářské činnosti prostřednictvím stálé provozovny po neurčitou dobu. Tento požadavek je splněn i v případě, že je společnost založena na dobu určitou. Místem usazení společnosti poskytující služby prostřednictvím internetových stránek na internetu není místo, kde se nachází technické zařízení, jehož prostřednictvím společnost provozuje internetové stránky, ani místo, kde jsou internetové stránky přístupné, ale místo, kde společnost vykonává svou hospodářskou činnost. V případech, kdy má poskytovatel několik míst usazení, je důležité určit, z kterého místa usazení je daná služba poskytována. V případech, kdy je obtížné určit z několika míst usazení místo, ze kterého je daná služba poskytována, je místem usazení místo, kde má poskytovatel pro danou službu středisko činností.
+
+(20) Definice "příjemce služby" zahrnuje všechny druhy užívání služeb informační společnosti jak osobami, které poskytují informace na veřejných sítích, jako je internet, tak osobami, které na internetu informace vyhledávají pro soukromé či profesní účely.
+
+(21) Budoucí harmonizace Společenství týkající se služeb informační společnosti a budoucí právní předpisy přijaté na vnitrostátní úrovni v souladu s právem Společenství nejsou dotčeny rozsahem působnosti koordinované oblasti. Koordinovaná oblast zahrnuje pouze požadavky na on-line činnosti, jako jsou informace on-line, reklama on-line, prodej on-line a uzavírání smluv on-line, a netýká se právních požadavků členských států na zboží, jako jsou bezpečnostní normy, povinnosti týkající se označování nebo odpovědnosti za zboží, ani požadavků členských států na dodávky či přepravu zboží včetně distribuce léčivých přípravků. Koordinovaná oblast nezahrnuje výkon předkupního práva týkajícího se určitého zboží, např. uměleckých děl, orgány veřejné moci.
+
+(22) Dohled nad službami informační společnosti probíhá na místě původu činnosti, aby byla zajištěna účinná ochrana cílů obecného zájmu. Proto je nezbytné zaručit, aby příslušný orgán tuto ochranu zajišťoval nejen pro občany své země, ale i pro všechny občany Společenství. Pro zlepšení vzájemné důvěry mezi členskými státy je nezbytné jasně upřesnit tuto odpovědnost členského státu původu služby. Aby bylo možno účinně zajistit volný pohyb služeb a právní jistotu pro poskytovatele a příjemce, měly by být služby informační společnosti v zásadě podřízeny právní úpravě členského státu, v němž je poskytovatel usazen.
+
+(23) Předmětem této směrnice není ani vytvoření dodatečných pravidel mezinárodního práva soukromého týkajících se kolizního práva, ani neřeší pravomoc soudů. Předpisy použitelného práva určeného podle pravidel mezinárodního práva soukromého nesmí omezovat volný pohyb služeb informační společnosti ve smyslu této směrnice.
+
+(24) V souvislosti s touto směrnicí a bez ohledu na zásadu dohledu na služby informační společnosti v místě původu, jsou za podmínek této směrnice členské státy oprávněny přijímat opatření omezující volný pohyb služeb informační společnosti.
+
+(25) Vnitrostátní soudní orgány včetně občanskoprávních soudů, které řeší soukromoprávní spory, se mohou v souladu s podmínkami vymezenými v této směrnici odchýlit od volného pohybu služeb v informační společnosti.
+
+(26) Členské státy mohou v souladu s podmínkami vymezenými v této směrnici uplatňovat své vnitrostátní předpisy trestního práva a trestního řízení, aby mohla být přijata veškerá opatření pro vyšetřování a další nezbytná opatření pro odhalování a stíhání trestných činů, aniž by tato opatření bylo nezbytné oznamovat Komisi.
+
+(27) Tato směrnice spolu s budoucí směrnicí Evropského parlamentu a Rady o prodeji finačních služeb spotřebitelům na dálku přispívá k vytvoření právního rámce pro poskytování finančních služeb on-line. Tato směrnice nemá vliv na budoucí podněty v oblasti finančních služeb, zejména pokud jde o harmonizaci pravidel jednání v této oblasti. Možnost členských států omezit za určitých okolností volný pohyb služeb informační společnosti za účelem ochrany spotřebitele vytvořená touto směrnicí se rovněž vztahuje na opatření v oblasti finančních služeb, zejména na opatření na ochranu investorů.
+
+(28) Závazek členských států nepodmiňovat přístup k činnosti poskytovatelů služeb informační společnosti předchozím povolením neplatí pro poštovní služby, na které se vztahuje směrnice Evropského parlamentu a Rady 97/67/ES ze dne 15. prosince 1997 o společných pravidlech pro rozvoj vnitřního trhu poštovních služeb Společenství a zvyšování kvality služby [23], které spočívají ve fyzickém předávání tištěných sdělení elektronické pošty, a neplatí rovněž pro dobrovolné akreditační systémy, zejména pro poskytovatele služeb elektronického podpisu a osvědčování.
+
+(29) Obchodní sdělení mají rozhodující význam pro financování služeb informační společnosti a pro rozvoj různých nových bezplatných služeb. V zájmu ochrany spotřebitelů a poctivosti obchodu musí obchodní sdělení, jako jsou slevy, zvláštní nabídky, propagační soutěže a hry splňovat určité požadavky průhlednosti. Těmito povinnostmi není dotčena směrnice 97/7/ES. Touto směrnicí dále nejsou dotčeny stávající směrnice o obchodních sděleních, zejména směrnice 98/43/ES.
+
+(30) Zasílání nevyžádaných obchodních sdělení elektronickou poštou může být pro spotřebitele a poskytovatele služeb informační společnosti nevýhodné a může narušovat řádné fungování interaktivních sítí. Otázka souhlasu příjemce s určitými formami nevyžádaných obchodních sdělení není předmětem této směrnice, ale je již upravena, zejména směrnicemi 97/7/ES a 97/66/ES. V členských státech, které povolují zasílání nevyžádaných obchodních sdělení prostřednictvím elektronické pošty, by mělo být podporováno a usnadňováno zavádění zařízení na vhodné filtrování těchto sdělení podniky. Kromě toho musí být nevyžádaná obchodní sdělení v každém případě jasně rozeznatelná, aby mohla být zlepšována průhlednost a usnadňována funkčnost těchto zařízení zaváděných podniky. Nevyžádaná obchodní sdělení zasílaná elektronickou poštou nesmí pro příjemce představovat žádné dodatečné výdaje.
+
+(31) Členské státy, které připouštějí zasílání nevyžádaných obchodních sdělení elektronickou poštou bez předchozího souhlasu příjemce poskytovatelům služeb usazeným na jejich území, musí dbát na to, aby poskytovatelé pravidelně nahlíželi do seznamu, do nějž se mohou zapisovat fyzické osoby, které si nepřejí, aby jim byly takové informace zasílány, a aby tento seznam respektovali.
+
+(32) S cílem odstranit překážky rozvoje přeshraničních služeb ve Společenství, které mohou na internetu nabízet příslušníci regulovaných povolání, je nezbytné na úrovni Společenství zajistit dodržování právních předpisů upravujících výkon povolání, zejména předpisů na ochranu spotřebitelů nebo veřejného zdraví. Nejvýhodnějším nástrojem pro stanovení profesních pravidel upravujících obchodní sdělení jsou kodexy chování platné na úrovni Společenství. Mělo by být podporováno vytváření či případné úpravy těchto pravidel, aniž je dotčena autonomie profesních subjektů a sdružení.
+
+(33) Tato směrnice doplňuje právo Společenství a vnitrostátní právo pro regulovaná povolání, přičemž zachovává souvislý rámec předpisů použitelných pro tuto oblast.
+
+(34) Každý členský stát přizpůsobí své právní předpisy obsahující zejména formální požadavky, které by mohly bránit používání smluv uzavřených elektronickou formou. Přezkum právních předpisů vyžadujících přizpůsobení by měl probíhat systematicky a měl by zahrnovat všechny fáze a akty nezbytné při uzavírání smluv včetně archivace smlouvy. Výsledkem přizpůsobení by měla být možnost uzavírat smlouvy elektronickou cestou. Právní účinek elektronických podpisů je předmětem směrnice Evropského parlamentu a Rady 1999/93/ES ze dne 13. prosince 1999 o zásadách Společenství pro elektronické podpisy [24]. Potvrzení poskytovatele služeb o přijetí může spočívat v poskytnutí placené služby on-line.
+
+(35) Touto směrnicí není dotčena možnost členských států zachovat či stanovit pro smlouvy obecné či zvláštní právní požadavky, které lze splnit elektronickými prostředky, zejména požadavky na bezpečnost elektronických podpisů.
+
+(36) Členské státy mohou zachovat omezení pro používání elektronicky uzavíraných smluv, pokud jde o smlouvy, pro něž právo vyžaduje zásah soudů, orgánů veřejné moci nebo povolání vykonávajících veřejnou moc. Tato možnost platí rovněž pro smlouvy, k jejichž účinnosti vůči třetím osobám je vyžadován zásah soudů, orgánů veřejné moci nebo povolání vykonávajících veřejnou moc, a pro smlouvy vyžadující právní osvědčení nebo notářské ověření.
+
+(37) Závazek členských států odstranit překážky používání elektronicky uzavíraných smluv se týká pouze překážek vyplývajících z právních požadavků a nikoli z praktických překážek způsobených nemožností využít v některých případech elektronické prostředky.
+
+(38) Závazek členských států odstranit překážky používání elektronicky uzavíraných smluv se provádí v souladu s právními požadavky smluv obsažených v právu Společenství.
+
+(39) Výjimky z předpisů platných pro smlouvy uzavírané výhradně prostřednictvím elektronické pošty nebo obdobné individuální komunikace uvedené v této směrnici, jež se týkají poskytovaných informací a podávání objednávek, by neměly vést k tomu, aby poskytovatelé služeb informační společnosti měli možnost tyto předpisy obcházet.
+
+(40) Stávající a vznikající rozdíly mezi právními předpisy a judikaturami členských států týkajícími se odpovědnosti poskytovatelů služeb jednajících jako zprostředkovatelé brání řádnému fungování vnitřního trhu zejména tím, že ztěžují rozvoj přeshraničních služeb a narušují hospodářskou soutěž. Poskytovatelé služeb jsou za určitých okolností povinni jednat, aby předešli a zastavili protiprávní jednání. Tato směrnice by měla tvořit vhodný podklad pro vypracování rychlých a spolehlivých metod na odstranění protiprávních informací a na znemožnění přístupu k nim. Příslušné metody by měly být vypracovány na základě dobrovolných dohod mezi všemi zúčastněnými stranami a měly by být podporovány členskými státy. Je v zájmu všech stran zúčastněných na poskytování služeb informační společnosti, aby tyto metody byly přijaty a uplatňovány. Ustanovení této směrnice o odpovědnosti by neměla jednotlivým stranám bránit v rozvíjení a účinném provádění technických ochranných a identifikačních systémů, jakož i technických kontrolních přístrojů zpřístupněných digitální technikou v mezích stanovených směrnicemi 95/46/ES a 97/66/ES.
+
+(41) Tato směrnice vytváří rovnováhu mezi různými zájmy a stanoví zásady, na nichž se mohou zakládat dohody a normy přijaté podniky.
+
+(42) Odchylky v úpravě odpovědnosti stanovené v této směrnici zahrnují pouze případy, v nichž je činnost poskytovatele služeb informační společnosti omezena na technický postup provozování komunikační sítě a na zprostředkovávání přístupu k této síti, na níž jsou informace poskytnuté třetími osobami přenášeny nebo dočasně ukládány za jediným účelem zlepšení účinnosti přenosu. Tato činnost má čistě technickou, automatickou a pasivní podobu, což znamená, že poskytovatel služeb informační společnosti nezná ani nekontroluje přenášené či ukládané informace.
+
+(43) Poskytovatel služeb může využívat výjimečnou úpravu pro "prostý přenos" a pro ukládání do vyrovnávací paměti (tzv. "caching"), pokud žádným způsobem nesouvisí s přenášenou informací. To mimo jiné znamená, že informaci, kterou přenáší, nepozměňuje. Tento požadavek nezahrnuje zásahy technické povahy během přenosu, neboť tyto nemění celistvost přenášené informace.
+
+(44) Poskytovatel služeb, který úmyslně spolupracuje s jedním z příjemců svých služeb, aby se dopouštěl protiprávního jednání, poskytuje více než "prostý přenos" nebo ukládání do vyrovnávací paměti a nemůže tedy využívat výjimky z odpovědnosti stanovené pro tento typ činnosti.
+
+(45) Omezení odpovědnosti zprostředkujících poskytovatelů služeb podle této směrnice se nedotýká možnosti podávání různých druhů žalob na zdržení se jednání. Tyto žaloby na zdržení se jednání mohou mít zejména podobu rozhodnutí soudů nebo správních orgánů vyžadujících ukončení protiprávních jednání nebo předcházení protiprávním jednáním včetně odstranění protiprávních informací nebo zamezení přístupu k nim.
+
+(46) Aby mohl poskytovatel služby informační společnosti spočívající v ukládání informací využívat omezení odpovědnosti, musí, jakmile zjistí protiprávní činnost nebo se o ní dozví, neprodleně přijmout veškerá opatření k odstranění daných informací nebo znemožnění přístupu k nim. V souvislosti s jejich odstraněním nebo znemožněním přístupu k nim musí dodržovat zásadu svobody projevu a s ní spojené postupy stanovené na vnitrostátní úrovni. Touto směrnicí nejsou dotčeny možnosti členských států vymezit zvláštní požadavky, které je třeba neprodleně splnit před odstraněním informací nebo znemožněním přístupu k nim.
+
+(47) Zákaz ukládat poskytovatelům služeb povinnost dohledu uložený členským státům platí pouze pro povinnosti obecné povahy. Zákaz se netýká povinnosti dohledu ve zvláštních případech, a zejména nebrání rozhodnutím vnitrostátních orgánů přijímaným v souladu s vnitrostátními předpisy.
+
+(48) Touto směrnicí není nijak dotčena možnost členských států požadovat od poskytovatelů služeb ukládajících informace poskytované příjemcům jejich služeb, aby jednali se zabezpečením, které lze od nich rozumně vyžadovat a které je vymezeno ve vnitrostátních právních předpisech, s cílem odhalit některé druhy protiprávní činnosti a zamezit jim.
+
+(49) Členské státy a Komise mají podporovat vypracování kodexů chování. To nenarušuje dobrovolnou povahu těchto kodexů a možnost zúčastněných stran svobodně se rozhodnout, zda tento kodex dodržovat.
+
+(50) Je důležité, aby navrhovaná směrnice o harmonizaci některých aspektů autorského práva a příbuzných práv v informační společnosti a tato směrnice vstoupily v platnost ve stejný okamžik, aby vytvořily jasný právní rámec pro otázky odpovědnosti zprostředkovatelů při porušení autorského práva a souvisejících práv na úrovni Společenství.
+
+(51) Každý členský stát je v případě potřeby povinen změnit vnitrostátní předpisy, které by mohly ohrozit využívání způsobů mimosoudního urovnávání sporů elektronickou cestou. Tato změna musí umožnit právně a fakticky skutečné a účinné fungování těchto způsobů včetně přeshraničních případů.
+
+(52) Účinný výkon svobod poskytovaných vnitřním trhem vyžaduje, aby byl obětem zaručen účinný přístup k urovnávání sporů. Škody, které mohou vzniknout v souvislosti se službami informační společnosti, se vyznačují rychlostí a zeměpisnou rozšířeností. Vzhledem k této zvláštní povaze a k nezbytnosti dbát na to, aby vnitrostátní orgány nezpochybnily důvěru, kterou si musí vzájemně prokazovat, vyzývá tato směrnice členské státy, aby poskytly možnosti obrátit se na soud. Členské státy mají ověřit, zda existuje potřeba poskytovat přístup k soudním řízením elektronickými prostředky.
+
+(53) Směrnice 98/27/ES, která se vztahuje na služby informační společnosti, předpokládá postup pro podání žaloby na zdržení se jednání, který je zaměřen na ochranu kolektivních spotřebitelských zájmů. Tento postup přispívá k volnému pohybu služeb v informační společnosti tím, že zajišťuje vysokou úroveň ochrany spotřebitelů.
+
+(54) Sankcemi stanovenými v této směrnici nejsou dotčeny jakékoli jiné sankce nebo opravné prostředky stanovené ve vnitrostátním právu. Členské státy nejsou povinny stanovit trestně právní sankce za porušení vnitrostátních právních předpisů přijatých k provedení této směrnice.
+
+(55) Touto směrnicí není dotčeno právo rozhodné pro závazkové smluvní vztahy vyplývající ze smluv uzavřených spotřebiteli. Tato směrnice nemůže mít tedy za následek odnětí ochrany spotřebiteli, kterou mu zaručují kogentní předpisy pro smluvní závazky podle práva členského státu, v němž má obvyklý pobyt.
+
+(56) Pokud jde o výjimku upravenou touto směrnicí pro závazky ze smluv ve smlouvách uzavřených spotřebiteli, musí být tyto závazky vykládány tak, že zahrnují informování o podstatných prvcích smlouvy včetně práv spotřebitelů, která mají určující vliv na rozhodnutí uzavřít smlouvu.
+
+(57) Podle stávající judikatury Soudního dvora je členský stát dále oprávněn přijímat opatření vůči poskytovateli služeb usazenému v jiném členském státě, jehož činnost je výhradně či převážně zaměřena na území prvního členského státu, pokud si zvolil místo usazení s cílem obejít právní předpisy, které by se na poskytovatele vztahovaly, pokud by byl usazen na území prvního členského státu.
+
+(58) Tuto směrnici nelze uplatňovat na služby poskytovatelů usazených ve třetích zemích. Vzhledem ke globálnímu rozměru elektronických služeb je však třeba zabezpečit soudržnost přepisů Společenství s mezinárodními předpisy. Touto směrnicí nejsou dotčeny výsledky jednání probíhajících v mezinárodních organizacích (mimo jiné WTO, OECD, Uncitral).
+
+(59) Aby bylo zamezeno rozdělení vnitřního trhu a mohl být vytvořen náležitý evropský právní rámec, je i přes globální povahu elektronické komunikace nezbytná koordinace vnitrostátních právních opatření na úrovni Evropské unie. Tato koordinace by měla rovněž přispívat k vytvoření společné a silné pozice při jednáních na mezinárodních fórech.
+
+(60) Aby byl umožněn nerušený vývoj elektronického obchodu, musí být právní rámec jasný a jednoduchý, předvídatelný a soudržný s pravidly platnými na mezinárodní úrovni, aby nebyla narušena konkurenceschopnost evropského průmyslu a aby nebránil inovačním opatřením v tomto odvětví.
+
+(61) Má-li trh skutečně fungovat v globalizovaném prostředí elektronickými prostředky, musí se Evropská unie shodnout s velkými neevropskými prostory, aby vytvořily slučitelné právní předpisy a postupy.
+
+(62) Spolupráce se třetími zeměmi by měla být v oblasti elektronického obchodu posílena, a to zejména s kandidátskými zeměmi, s rozvojovými zeměmi a s ostatními obchodními partnery Evropské unie.
+
+(63) Přijetí této směrnice nebrání členským státům, aby braly ohled na různé sociální, společenské a kulturní vlivy spojené s nástupem informační společnosti. Zejména nesmí bránit opatřením určeným k dosažení sociálních, kulturních a demokratických cílů, která by členské státy mohly přijmout v souladu s právem Společenství z důvodu jejich jazykové rozmanitosti, vnitrostátních a regionálních zvláštností, jakož i kulturního dědictví, a opatřením k zajištění a zachování přístupu veřejnosti k co nejširší škále služeb informační společnosti. Rozvoj informační společnosti musí v každém případě zajistit přístup občanů Společenství k evropskému kulturnímu dědictví poskytovanému v digitálním prostředí.
+
+(64) Elektronická komunikace představuje pro členské státy jedinečný prostředek k poskytování veřejných služeb v oblasti kultury, vzdělání a jazyka.
+
+(65) Rada ve svém usnesení ze dne 19. ledna 1999 o spotřebitelském rozměru informační společnosti [25] zdůraznila, že ochrana spotřebitelů v informační společnosti si zaslouží zvláštní pozornost. Komise posoudí, do jaké míry jsou stávající pravidla ochrany spotřebitelů v informační společnosti nedostatečná, a zjistí případné mezery ve stávající právní úpravě a aspekty, které by mohly vyžadovat přijetí doplňujících opatření. Komise by měla případně předložit dodatečné specifické návrhy na doplnění zjištěných mezer,
+
+PŘIJALY TUTO SMĚRNICI:
+
+KAPITOLA I
+
+OBECNÁ USTANOVENÍ
+
+Článek 1
+
+Cíl a oblast působnosti
+
+1. Cílem této směrnice je přispět k řádnému fungování vnitřního trhu tím, že zajistí volný pohyb služeb informační společnosti mezi členskými státy.
+
+2. Je-li to pro dosažení cíle uvedeného v odstavci 1 potřebné, dbá tato směrnice o sblížení některých vnitrostátních ustanovení platných pro služby informační společnosti, která se týkají vnitřního trhu, usazování poskytovatelů služeb, obchodních sdělení, elektronických smluv, odpovědnosti zprostředkovatelů, kodexů chování, mimosoudního urovnávání sporů, soudních postupů a spolupráce mezi členskými státy.
+
+3. Tato směrnice doplňuje právo Společenství platné pro služby informační společnosti, aniž je dotčena úroveň ochrany, zejména v oblasti veřejného zdraví a zájmů spotřebitelů, jak vyplývá z právních nástrojů Společenství a vnitrostátních právních předpisů, které je provádějí, nebude-li tím omezen volný pohyb služeb informační společnosti.
+
+4. Tato směrnice nevytváří dodatečná pravidla mezinárodního práva soukromého ani neupravuje pravomoc soudů.
+
+5. Tato směrnice se nevztahuje na:
+
+a) daňovou oblast;
+
+b) otázky týkající se služeb informační společnosti upravené ve směrnicích 95/46/ES a 97/66/ES;
+
+c) otázky týkající se dohod či praxe upravených kartelovým právem;
+
+d) následujících činností služeb informační společnosti:
+
+- činnost notářů nebo obdobných povolání, zahrnují-li přímou a zvláštní účast na výkonu veřejné moci,
+
+- zastupování klienta a hájení jeho zájmů před soudy,
+
+- ziskové hry spojené s peněžitým vkladem v případě hazardních her včetně loterií a sázek.
+
+6. Touto směrnicí nejsou dotčena opatření na úrovni Společenství a na vnitrostátní úrovni, která v souladu s právem Společenství podporují kulturní a jazykovou rozmanitost a zajišťují ochranu pluralismu.
+
+Článek 2
+
+Definice
+
+Pro účely této směrnice se rozumí:
+
+a) "službami informační společnosti" služby ve smyslu čl. 1 odst. 2 směrnice 98/34/ES ve znění směrnice 98/48/ES;
+
+b) "poskytovatelem" každá fyzická nebo právnická osoba, která poskytuje určitou službu informační společnosti;
+
+c) "usazeným poskytovatelem" poskytovatel, který účinně vykonává prostřednictvím stálého zařízení po neurčitou dobu hospodářskou činnost; existence a používání technických prostředků a technologií nezbytných k poskytování služby nevytváří samy o sobě usazení poskytovatele;
+
+d) "příjemcem služby" každá fyzická nebo právnická osoba, která k profesním či jiným účelům využívá služeb informační společnosti, zejména pro vyhledávání či zpřístupňování informací;
+
+e) "spotřebitelem" každá fyzická osoba, která jedná za účelem nespadajícím do její profesní či obchodní činnosti;
+
+f) "obchodním sdělením" všechny formy sdělení určeného k přímé či nepřímé podpoře zboží či služeb nebo obrazu podniku, organizace nebo osoby, která je činná v oblasti obchodu, průmyslu, řemesel nebo vykonává regulované povolání; níže uvedené údaje jako takové nepředstavují formu obchodního sdělení:
+
+- informace umožňující přímý přístup k činnosti podniku, organizace nebo osoby, zejména název domény nebo adresa elektronické pošty,
+
+- sdělení týkající se zboží, služeb nebo obrazu podniku, organizace nebo osoby získané nezávisle, zejména jsou-li poskytovány bez finančního protiplnění;
+
+g) "regulovaným povoláním" všechna povolání ve smyslu čl. 1 písm. d) směrnice Rady 89/48/EHS ze dne 21. prosince 1988 o obecném systému pro uznávání vysokoškolských diplomů vydaných po ukončení nejméně tříletého odborného vzdělávání a přípravy [26] nebo ve smyslu čl. 1 písm. f) směrnice Rady 92/51/EHS ze dne 18. června 1992 o druhém obecném systému pro uznávání odborného vzdělávání a přípravy, která doplňuje směrnici 89/48/EHS [27];
+
+h) "koordinovanou oblastí" požadavky stanovené právními řády členských států pro poskytovatele služeb informační společnosti nebo pro služby informační společnosti, bez ohledu na to, zda mají obecnou povahu či zda byly pro ně zvláště určené.
+
+i) koordinovaná oblast souvisí s požadavky, které má poskytovatel služeb plnit a které se týkají:
+
+- přístupu k činnosti služby informační společnosti, např. požadavky na kvalifikaci, povolení nebo oznámení,
+
+- výkonu činnosti služby informační společnosti, např. požadavky na chování poskytovatele služby, kvalitu nebo obsah služby včetně požadavků na reklamu a smlouvy nebo na odpovědnost poskytovatele služby;
+
+ii) koordinovaná oblast nezahrnuje požadavky jako:
+
+- požadavky na zboží jako takové,
+
+- požadavky na doručování zboží,
+
+- požadavky na služby, které nejsou poskytovány elektronickou cestou.
+
+Článek 3
+
+Vnitřní trh
+
+1. Každý členský stát dbá, aby služby informační společnosti poskytované poskytovatelem usazeným na jeho území dodržovaly platné vnitrostátní předpisy z příslušné koordinované oblasti.
+
+2. Členské státy nemohou z důvodů spadajících do koordinované oblasti omezovat volný pohyb služeb informační společnosti z jiného členského státu.
+
+3. Odstavce 1 a 2 se neuplatní v oblastech uvedených v příloze.
+
+4. Členské státy mohou pro určitou službu informační společnosti přijmout opatření odchylující se od odstavce 2, jsou-li splněny níže uvedené podmínky:
+
+a) opatření jsou:
+
+i) nezbytná z jednoho z níže uvedených důvodů:
+
+- veřejný pořádek, zejména předcházení, vyšetřování, odhalování a stíhání v trestní oblasti, zejména ochrana mladistvých a boj proti podněcování k nenávisti z důvodu rasy, pohlaví, víry nebo národnosti a proti útokům na lidskou důstojnost,
+
+- ochrana veřejného zdraví,
+
+- veřejná bezpečnost včetně ochrany vnitrostátní bezpečnosti a obrany,
+
+- ochrana spotřebitelů včetně investorů;
+
+ii) přijata vůči určité službě informační společnosti, která poškozuje cíle uvedené v bodu i) nebo která představuje závažné a podstatné ohrožení těchto cílů;
+
+iii) úměrná těmto cílům;
+
+b) členský stát předběžně a aniž je dotčeno soudní řízení včetně předběžného řízení a kroků uskutečněných v rámci trestního vyšetřování:
+
+- požádá členský stát uvedený v odstavci 1 o přijetí opatření, a tento stát je nepřijme nebo jsou jeho opatření nedostatečná,
+
+- oznámí Komisi a členskému státu uvedenému v odstavci 1 svůj záměr přijmout tato opatření.
+
+5. Členské státy se mohou v naléhavých případech odchýlit od podmínek uvedených v odst. 4 písm. b). V tomto případě oznámí opatření co nejdříve Komisi a členskému státu uvedenému v odstavci 1 s uvedením důvodů, na základě kterých se členský stát domnívá, že se jedná o naléhavý případ.
+
+6. Aniž je dotčena možnost členských států přijímat a uplatňovat dotčená opatření, musí Komise co nejdříve posoudit, zda jsou oznámená opatření v souladu s právem Společenství; dojde-li k závěru, že opatření není slučitelné s právem Společenství, požádá dotčený členský stát, aby od přijetí plánovaných opatření upustil nebo aby dotčená opatření neprodleně ukončil.
+
+KAPITOLA II
+
+ZÁSADY
+
+Oddíl 1 — Požadavky na usazování a na informování
+
+Článek 4
+
+Zásada vyloučení předchozího povolení
+
+1. Členské státy dbají, aby přístup k činnosti poskytovatele služeb informační společnosti a její výkon nepodléhal povinnosti předchozího povolení ani žádnému jinému požadavku se stejným účinkem.
+
+2. Odstavcem 1 nejsou dotčena povolovací řízení, která se netýkají zvláště a výhradně služeb informační společnosti nebo na která se vztahuje směrnice Evropského parlamentu a Rady 97/13/ES ze dne 10. dubna 1997 o společném rámci pro obecná povolení a individuální licence v oblasti telekomunikačních služeb [28].
+
+Článek 5
+
+Obecná informační povinnost
+
+1. Vedle ostatních informačních požadavků podle práva Společenství dbají členské státy, aby poskytovatel služeb umožnil příjemcům služby a příslušným orgánům snadný, přímý a trvalý přístup přinejmenším k těmto informacím:
+
+a) jméno poskytovatele služeb;
+
+b) zeměpisná adresa, na níž je poskytovatel služeb usazen;
+
+c) údaje, které umožňují rychlé navázání kontaktu s poskytovatelem služeb a přímou a účinnou komunikaci s ním, včetně adresy jeho elektronické pošty;
+
+d) je-li poskytovatel služeb zapsán v obchodním rejstříku nebo v obdobném veřejném rejstříku, obchodní rejstřík, v němž je zapsán, a jeho identifikační číslo, nebo obdobné identifikační prostředky uvedené v rejstříku;
+
+e) podléhá-li jeho činnost povolovacímu režimu, údaje o příslušném kontrolním orgánu;
+
+f) pokud jde o regulovaná povolání:
+
+- profesní sdružení nebo obdobný subjekt, u něhož je poskytovatel zapsán,
+
+- profesní označení a členský stát, v němž bylo uděleno,
+
+- odkaz na profesní pravidla uplatňovaná v členském státu, v němž je poskytovatel usazen, a na prostředky přístupu k nim;
+
+g) vykonává-li poskytovatel služby činnost podléhající dani z přidané hodnoty, identifikační číslo podle čl. 22 odst. 1 šesté směrnice Rady 77/388/EHS ze dne 17. května 1977 o harmonizaci právních a správních předpisů členských států týkajících se daní z obratu — Společný systém daně z přidané hodnoty: jednotný základ daně [29].
+
+2. Vedle ostatních informačních požadavků podle práva Společenství dbají členské státy alespoň na to, aby, zmiňují-li služby informační společnosti ceny, byly tyto jasně a jednoznačně uvedeny, a zejména, aby upřesňovaly, zda jsou v cenách zahrnuty daně a poplatky za dodávku.
+
+Oddíl 2 — Obchodní sdělení
+
+Článek 6
+
+Informační povinnosti
+
+Vedle ostatních informačních požadavků podle práva Společenství dbají členské státy na to, aby obchodní sdělení, která jsou součástí služby informační společnosti nebo která tuto službu tvoří, splňovala alespoň tyto podmínky:
+
+a) obchodní sdělení musí být jasně rozeznatelná;
+
+b) fyzická nebo právnická osoba, na jejíž objednávku obchodní sdělení probíhá, musí být jasně rozeznatelná;
+
+c) jsou-li v členském státě, v němž je poskytovatel usazen, povolené propagační nabídky jako slevy, prémie a dary, musí být jako takové jasně rozeznatelné a podmínky pro jejich využívání musí být snadno přístupné, jakož i zřetelně a jednoznačně uvedené;
+
+d) jsou-li v členském státě, v němž je poskytovatel usazen, povolené propagační soutěže nebo hry, musí být jako takové jasně označené a podmínky účasti v nich musí být snadno přístupné a zřetelně a jednoznačně uvedené.
+
+Článek 7
+
+Nevyžádaná obchodní sdělení
+
+1. Vedle ostatních požadavků práva Společenství zajistí členské státy, které povolují nevyžádaná obchodní sdělení zaslaná elektronickou poštou, aby příjemce mohl tato obchodní sdělení poskytovatele služeb usazeného na jejich území při jejich přijetí jasně a jednoznačně rozeznat.
+
+2. Aniž je dotčena směrnice 97/7/ES a směrnice 97/66/ES, přijmou členské státy opatření, aby zaručily, že poskytovatelé služeb, kteří zasílají nevyžádaná obchodní sdělení elektronickou poštou, budou pravidelně nahlížet do seznamů, do nichž se mohou zapisovat fyzické osoby, které si nepřejí, aby jim byly takové informace zasílány, a že je budou respektovat.
+
+Článek 8
+
+Regulovaná povolání
+
+1. Členské státy zajistí, aby používání obchodních sdělení, která jsou součástí služby informační společnosti nabízené příslušníkem regulovaného povolání nebo která tuto službu představují, bylo povoleno s výhradou dodržování profesních předpisů upravujících zejména nezávislost, důstojnost a čest povolání, jakož i profesní tajemství a poctivý přístup k zákazníkům a ostatním členům daného povolání.
+
+2. Aniž je dotčena autonomie profesních subjektů a sdružení, členské státy a Komise podporují profesní sdružení a subjekty, aby na úrovni Společenství vypracovaly kodexy chování, a upřesnily tak druh informací, které lze poskytovat v souladu s pravidly uvedenými v odstavci 1 pro účely obchodních sdělení.
+
+3. Při vypracování návrhů pro iniciativy Společenství, které se mohou ukázat nezbytné pro zajištění řádného fungování vnitřního trhu s ohledem na informace uvedené v odstavci 2, přihlíží Komise k příslušným kodexům chování platným na úrovni Společenství a jedná v úzké spolupráci s dotčenými profesními sdruženími a subjekty.
+
+4. Tato směrnice se použije vedle směrnic Společenství upravujících přístup k činnostem regulovaných povolání a jejich výkon.
+
+Oddíl 3 — Uzavírání smluv elektronickou cestou
+
+Článek 9
+
+Nakládání se smlouvami
+
+1. Členské státy zajistí, aby jejich právní řády umožňovaly uzavírání smluv elektronickou cestou. Členské státy zejména zajistí, aby právní úprava platná pro uzavírání smluv nebránila používání elektronických smluv ani nevedla k tomu, že tyto smlouvy budou, z důvodu uzavření elektronickou cestou, zbaveny právních účinků a platnosti.
+
+2. Členské státy mohou stanovit, že odstavec 1 se nevztahuje na všechny smlouvy nebo na některé z nich, které patří do jedné z těchto kategorií:
+
+a) smlouvy, které zakládají nebo převádějí práva k nemovitostem s výjimkou práv z nájmů;
+
+b) smlouvy, pro něž právo vyžaduje zásah soudů, orgánů veřejné moci nebo povolání vykonávajících veřejnou moc;
+
+c) smlouvy o zárukách a jistotách, které uzavírají osoby mimo svou profesní nebo obchodní činnost;
+
+d) smlouvy v oblasti rodinného nebo dědického práva.
+
+3. Členské státy sdělí Komisi kategorie uvedené v odstavci. 2, pro něž se neuplatní odstavec 1. Členské státy předloží Komisi každých pět let zprávu o uplatňování odstavce 2 a uvedou v ní důvody, pro něž je třeba, podle jejich názoru, zachovat kategorie uvedené v odst. 2 písm. b), na něž se nevztahuje odstavec 1.
+
+Článek 10
+
+Informační povinnosti
+
+1. Vedle ostatních informačních požadavků podle práva Společenství zajistí členské státy, aby, s výjimkou odlišných ujednání stran, kterými nejsou spotřebitelé, poskytoval poskytovatel služby alespoň níže uvedené informace v jasné, srozumitelné a jednoznačné podobě a před tím, než příjemce služby podá objednávku:
+
+a) jednotlivé technické kroky vedoucí k uzavření smlouvy;
+
+b) zda je smlouva po svém uzavření poskytovatelem služby archivována a zda je přístupná;
+
+c) technické prostředky pro zjištění a opravu omylů vzniklých při zadávání dat před podáním objednávky;
+
+d) jazyky nabízené pro uzavření smlouvy.
+
+2. Členské státy zajistí, aby, s výjimkou odlišných ujednání stran, kterými nejsou spotřebitelé, poskytovatel služby uvedl všechny případné kodexy chování, kterým podléhá, včetně informací o tom, jak jsou tyto kodexy přístupné elektronickou cestou.
+
+3. Smluvní ustanovení a obecné obchodní podmínky musí být příjemci poskytnuty v takové formě, aby je mohl uchovávat a reprodukovat.
+
+4. Odstavce 1 a 2 se nepoužijí pro smlouvy uzavírané výhradně výměnou elektronické pošty nebo obdobnou individuální komunikací.
+
+Článek 11
+
+Podání objednávky
+
+1. Členské státy zajistí, aby, s výjimkou odlišných ujednání stran, kterými nejsou spotřebitelé, podá-li příjemce služby objednávku technickými prostředky, se uplatnily následující zásady:
+
+- poskytovatel služby je povinen příjemci neprodleně elektronickou cestou potvrdit příjem objednávky,
+
+- objednávka a potvrzení o přijetí byly považovány za přijaté, pokud strany, kterým jsou určeny, k nim mají přístup.
+
+2. Členské státy zajistí, aby, s výjimkou odlišných ujednání stran, kterými nejsou spotřebitelé, poskytovatel služby poskytl příjemci služby odpovídající, účinné a dostupné technické prostředky, jejichž prostřednictvím bude moci rozeznat a opravit chybná vstupní data před podáním objednávky.
+
+3. Ustanovení odst. 1 první odrážky a odstavce 2 neplatí pro smlouvy, které jsou uzavírány výhradně výměnou elektronické pošty nebo obdobnou individuální komunikací.
+
+Oddíl 4 — Odpovědnost poskytovatelů zprostředkovatelských služeb
+
+Článek 12
+
+"Prostý přenos"
+
+1. Členské státy zajistí, aby v případě poskytování služby informační společnosti spočívající v přenosu informací poskytnutých příjemcem služby komunikační sítí nebo ve zprostředkování přístupu ke komunikační síti, nebyl poskytovatel služby odpovědný za přenášené informace, pokud:
+
+a) není původcem přenosu;
+
+b) nevolí příjemce přenášené informace a
+
+c) nevolí a nezmění obsah přenášené informace.
+
+2. Přenos informací a zprostředkování přístupu ve smyslu odstavce 1 zahrnuje automatické krátkodobé přechodné ukládání přenášených informací, pokud toto ukládání slouží výhradně pro uskutečnění přenosu v komunikační síti a pokud jeho délka nepřesahuje obvyklou dobu přenosu.
+
+3. Tímto článkem není dotčena možnost soudního nebo správního orgánu požadovat od poskytovatele služby v souladu s právním řádem členských států, aby ukončil porušování práv nebo mu předešel.
+
+Článek 13
+
+Ukládání do vyrovnávací paměti ("caching")
+
+1. Členské státy zajistí, aby v případě služby informační společnosti spočívající v přenosu informací poskytovaných příjemcem služby nebyl poskytovatel služby odpovědný za automatické dočasné přechodné ukládání, které slouží pouze pro co možná nejúčinnější následný přenos informace na žádost jiných příjemců služby, pokud:
+
+a) poskytovatel služby informaci nezmění;
+
+b) poskytovatel služby vyhoví podmínkám přístupu k informaci;
+
+c) poskytovatel služby dodržuje pravidla o aktualizaci informace, která jsou stanovena způsobem obecně uznávaným a používaným v průmyslu;
+
+d) poskytovatel služby nepřekročí povolené používání technologie obecně uznávané a používané v průmyslu s cílem získat údaje o užívání informace;
+
+e) poskytovatel služby ihned přijme opatření vedoucí k odstranění jím uložené informace nebo ke znemožnění přístupu k ní, jakmile zjistí, že informace byla na výchozím místě přenosu ze sítě odstraněna nebo k ní byl znemožněn přístup nebo soud nebo jiný správní orgán nařídil odstranění této informace nebo znemožnění přístupu k ní.
+
+2. Tímto článkem není dotčena možnost soudního nebo správního orgánu požadovat od poskytovatele služby v souladu s právním řádem členských států, aby ukončil porušování práv nebo mu předešel.
+
+Článek 14
+
+Shromažďování informací
+
+1. Členské státy zajistí, aby v případě služby informační společnosti spočívající v ukládání informací poskytovaných příjemcem služby nebyl poskytovatel služby odpovědný za informace ukládané na žádost příjemce, pokud:
+
+a) poskytovatel nebyl účinně seznámen s protiprávní činností nebo informací a ani s ohledem na nárok na náhradu škody si není vědom skutečností nebo okolností, z nichž by byla zjevná protiprávní činnost nebo informace, nebo
+
+b) poskytovatel, jakmile se o tomto dozvěděl, jednal s cílem odstranit tyto informace nebo k nim znemožnit přístup.
+
+2. Odstavec 1 se nepoužije, pokud je příjemce závislý na poskytovateli nebo podléhá jeho dohledu.
+
+3. Tímto článkem není dotčena možnost soudního nebo správního orgánu požadovat od poskytovatele služby v souladu s právním řádem členských států, aby ukončil protiprávní jednání nebo mu předešel, ani možnost členských států zavést postupy, které umožní odstranění nebo znemožní přístup k informaci.
+
+Článek 15
+
+Neexistence obecné povinnosti dohledu
+
+1. Členské státy neukládají poskytovatelům služeb uvedených v článcích 12, 13 a 14 obecnou povinnost dohlížet na jimi přenášené nebo ukládané informace nebo obecnou povinnost aktivně vyhledávat skutečnosti a okolnosti poukazující na protiprávní činnost.
+
+2. Členské státy mohou poskytovatelům služeb informační společnosti uložit povinnost, aby neprodleně informovali příslušné orgány veřejné moci o pravděpodobných protiprávních činnostech vykonávaných poskytovateli služeb nebo o protiprávních informacích, které tito poskytovatelé, poskytují, nebo aby sdělili příslušným orgánům veřejné moci na jejich žádost informace, na jejichž základě lze zjistit totožnost příjemců jejich služeb, s nimiž uzavřeli dohodu o shromažďování informací.
+
+KAPITOLA III
+
+PROVÁDĚNÍ
+
+Článek 16
+
+Kodexy chování
+
+1. Členské státy a Komise podporují:
+
+a) vypracovávání kodexů chování na úrovni Společenství, které přispějí k řádnému provádění článků 5 až 15, obchodními, profesními nebo spotřebitelskými sdruženími nebo subjekty;
+
+b) dobrovolné předkládání návrhů kodexů chování Komisi na vnitrostátní úrovni nebo na úrovni Společenství;
+
+c) dostupnost kodexů chování elektronickou cestou v jazycích společenství;
+
+d) informování členských států a Komise obchodními, profesními a spotřebitelskými sdruženími a organizacemi o hodnocení používání svých kodexů chování a o jejich dopadech na praxi, zvyky a obyčeje v elektronickém obchodu;
+
+e) vypracovávání kodexů chování pro účely ochrany mladistvých a lidské důstojnosti.
+
+2. Členské státy a Komise podporují spotřebitelská sdružení nebo organizace, které zastupují spotřebitele, aby se podílely na vypracovávání a používání kodexů chování týkajících se jejich zájmů a vypracovávaných v souladu s odst. 1 písm. a). Aby bylo přihlédnuto ke zvláštním potřebám zrakově postižených osob a obecně zdravotně postižených osob, měla by být případně konzultována sdružení, která je zastupují.
+
+Článek 17
+
+Mimosoudní urovnávání sporů
+
+1. Členské státy zajistí, aby jejich právní předpisy v případě neshod mezi poskytovatelem služby informační společnosti a jejím příjemcem nebránily využívání postupů pro mimosoudní urovnávání sporů, které upravuje vnitrostátní právo, včetně postupů využívajících elektronické prostředky.
+
+2. Členské státy podporují orgány pověřené mimosoudním urovnáváním sporů, zejména sporů v oblasti spotřebitelského práva, aby zajišťovaly dotčeným stranám odpovídající procesní záruky.
+
+3. Členské státy vyzvou orgány pověřené mimosoudním urovnáváním sporů, aby Komisi informovaly o důležitých rozhodnutích, která vydaly v souvislosti se službami informační společnosti, a aby jí poskytly všechny další informace o praxi, zvycích a obyčejích elektronického obchodu.
+
+Článek 18
+
+Soudní prostředky
+
+1. Členské státy zajistí, aby soudní prostředky dostupné ve vnitrostátním právu pro oblast služeb informační společnosti umožnily rychlé přijetí opatření včetně předběžných opatření s cílem ukončit zjištěné porušování práva a předejít dalšímu poškození dotčených zájmů.
+
+2. Příloha směrnice 98/27/ES se doplňuje takto:
+
+"11. Směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o některých právních aspektech služeb informační společnosti, zejména elektronického obchodu na vnitřním trhu ("směrnice o elektronickém obchodu") (Úř. věst. L 178, 17.7.2000, s. 1)."
+
+Článek 19
+
+Spolupráce
+
+1. Členské státy mají k dispozici dostatečné nástroje pro dohled a vyšetřování, nezbytné pro účinné provádění této směrnice a zajistí, aby jim poskytovatelé služeb dodávali požadované informace.
+
+2. Členské státy spolupracují s ostatními členskými státy; za tímto účelem určí jedno či několik kontaktních míst a údaje o nich sdělí ostatním členským státům a Komisi.
+
+3. Členské státy poskytují v co nejkratších lhůtách v souladu se svými vnitrostátními právními předpisy pomoc a informace požadované jinými členskými státy nebo Komisí, včetně využívání elektronických prostředků.
+
+4. Členské státy zřídí kontaktní místa přístupná alespoň elektronickou cestou, na něž se mohou příjemci a poskytovatelé služeb obrátit, aby:
+
+a) získali obecné informace o svých smluvních právech a povinnostech, jakož i o postupech pro podávání stížností a žalob v případě sporů, včetně praktických aspektů využívání těchto postupů;
+
+b) získali údaje o orgánech, sdruženích nebo subjektech, od nichž mohou získat další informace či praktickou pomoc.
+
+5. Členské státy podporují, aby Komisi byly sdělovány informace o důležitých správních a soudních rozhodnutích přijatých na jejich území v souvislosti se spory, které se týkají služeb informační společnosti, jakož i praxe, zvyků a obyčejů v elektronickém obchodu. Komise tato rozhodnutí sdělí ostatním členským státům.
+
+Článek 20
+
+Sankce
+
+Členské státy stanoví sankce, které budou použity v případě porušení vnitrostátních předpisů přijatých k provedení této směrnice, a přijmou veškerá nezbytná opatření k zajištění jejich výkonu. Takto stanovené sankce musí být účinné, přiměřené a odrazující.
+
+KAPITOLA IV
+
+ZÁVĚREČNÁ USTANOVENÍ
+
+Článek 21
+
+Přezkum
+
+1. Komise předloží Evropskému parlamentu, Radě a Hospodářskému a sociálnímu výboru před 17. červencem 2003 a poté každé dva roky zprávu o uplatňování této směrnice doplněnou případnými návrhy na přizpůsobení této směrnice právnímu, technickému a hospodářskému vývoji v oblasti služeb informační společnosti, zejména pokud jde o předcházení trestné činnosti, o ochranu mladistvých, ochranu spotřebitelů a řádné fungování vnitřního trhu.
+
+2. Při posuzování nezbytnosti upravit tuto směrnici zpráva zkoumá zejména potřebu předkládat návrhy týkající se odpovědnosti poskytovatelů služeb hypertextových odkazů, nástrojů pro vytváření vnitrostátních verzí programů, postupů k zaznamenávání a odstraňování protiprávních obsahů (postupy "notice and take down") a následném přiznání odpovědnosti v souvislosti s odstraněním obsahu. Zpráva rovněž zkoumá, zda je nezbytné stanovit dodatečné podmínky pro vyloučení odpovědnosti podle článků 12 a 13 s ohledem na technický vývoj a zda je možné uplatňovat zásady vnitřního trhu pro zasílání nevyžádaných obchodních sdělení elektronickou poštou.
+
+Článek 22
+
+Provádění
+
+1. Členské státy uvedou v účinnost právní a správní předpisy nezbytné pro dosažení souladu s touto směrnicí nejpozději do 17. ledna 2002. Neprodleně o nich uvědomí Komisi.
+
+2. Tato opatření přijatá členskými státy musí obsahovat odkaz na tuto směrnici nebo musí být takový odkaz učiněn při jejich úředním vyhlášení. Způsob odkazu si stanoví členské státy.
+
+Článek 23
+
+Vstup v platnost
+
+Tato směrnice vstupuje v platnost dnem vyhlášení v Úředním věstníku Evropských společenství.
+
+Článek 24
+
+Určení
+
+Tato směrnice je určena členským státům.
+
+
+V Lucemburku dne 8. června 2000.
+
+Za Evropský parlament
+
+předsedkyně
+
+N. Fontaine
+
+Za Radu
+
+předseda
+
+G. d'Oliveira Martins
+
+[1] Úř. věst. C 30, 5.2.1999, s. 4.
+
+[2] Úř. věst. C 169, 16.6.1999, s. 36.
+
+[3] Stanovisko Evropského parlamentu ze dne 6. května 1999 (Úř. věst. C 279, 1.10.1999, s. 389), společný postoj Rady ze dne 28. února 2000 a rozhodnutí Evropského parlamentu ze dne 4. května 2000 (dosud nezveřejněno v Úředním věstníku).
+
+[4] Úř. věst. L 298, 17.10.1989, s. 23. Směrnice ve znění směrnice Evropského parlamentu a Rady 97/36/ES (Úř. věst. L 202, 30.7.1997, s. 60).
+
+[5] Úř. věst. L 95, 21.4.1993, s. 29.
+
+[6] Úř. věst. L 144, 4.6.1997, s. 19.
+
+[7] Úř. věst. L 250, 19.9.1984, s. 17. Směrnice ve znění směrnice Evropského parlamentu a Rady 97/55/ES (Úř. věst. L 290, 23.10.1997, s. 18).
+
+[8] Úř. věst. L 42. 12.2.1987, s. 48. Směrnice naposledy pozměněná směrnicí Evropského parlamentu a Rady 98/7/ES (Úř. věst. L 101, 1.4.1998, s. 17).
+
+[9] Úř. věst. L 141, 11.6.1993, s. 27. Směrnice naposledy pozměněná směrnicí Evropského parlamentu a Rady 97/9/ES (Úř. věst. L 84, 26.3.1997, s. 22).
+
+[10] Úř. věst. L 158, 23.6.1990, s. 59.
+
+[11] Úř. věst. L 80, 18.3.1998, s. 27.
+
+[12] Úř. věst. L 228, 11.8.1992, s. 24.
+
+[13] Úř. věst. L 280, 29.10.1994, s. 83.
+
+[14] Úř. věst. L 166, 11.6.1998, s. 51. Směrnice ve znění směrnice 1999/44/ES (Úř. věst. L 171, 7.7.1999, s.12).
+
+[15] Úř. věst. L 210, 7.8.1985, s. 29. Směrnice ve znění směrnice 1999/34/ES (Úř. věst. L 141, 4.6.1999, s. 20).
+
+[16] Úř. věst. L 171, 7.7.1999, s. 12.
+
+[17] Úř. věst. L 113, 30.4.1992, s. 13.
+
+[18] Úř. věst. L 213, 30.7.1998, s. 9.
+
+[19] Úř. věst. L 281, 23.11.1995, s. 31.
+
+[20] Úř. věst. L 24, 30.1.1998, s. 1.
+
+[21] Úř. věst. L 204, 21.7.1998, s. 37. Směrnice ve znění směrnice 98/48/ES (Úř. věst. L 217, 5.8.1998, s. 18).
+
+[22] Úř. věst. L 320, 28.11.1998, s. 54.
+
+[23] Úř. věst. L 15, 21.1.1998, s. 14.
+
+[24] Úř. věst. L 13, 19.1.2000, s. 12.
+
+[25] Úř. věst. C 23, 28.1.1999, s. 1.
+
+[26] Úř. věst. L 19, 24.1.1989, s. 16.
+
+[27] Úř. věst. L 209, 24.7.1992, s. 25. Směrnice naposledy pozměněná směrnicí Komise 97/38/EHS (Úř. věst. L 184, 12.7.1997, s. 31).
+
+[28] Úř. věst. L 117, 7.5.1997, s. 15.
+
+[29] Úř. věst. L 145, 13.6.1977, s. 1. Směrnice naposledy pozměněná směrnicí 1999/85/ES (Úř. věst. L 277, 28.10.1999, s. 34).
+
+--------------------------------------------------
+
+PŘÍLOHA
+
+ODCHYLKY OD ČLÁNKU 3
+
+Oblasti podle čl. 3 odst. 3, na něž se nevztahuje čl. 3 odst. 1 a 2:
+
+- autorské právo, práva příbuzná právu autorskému, práva ve smyslu směrnice 87/54/EHS [1] a směrnice 96/9/ES [2], jakož i práva vyplývající z průmyslového vlastnictví,
+
+- vydávání elektronických peněz institucemi, pro něž členské státy použily některou z odchylek uvedených v čl. 8 odst. 1 směrnice 2000/46/ES [3],
+
+- ustanovení čl. 44 odst. 2 směrnice 85/611/EHS [4],
+
+- článek 30 a hlava IV směrnice 92/49/EHS [5], hlava IV směrnice 92/96/EHS [6], články 7 a 8 směrnice 88/357/EHS [7] a článek 4 směrnice 90/619/EHS [8],
+
+- svoboda stran zvolit si rozhodné právo,
+
+- smluvní závazky vyplývající ze spotřebitelských smluv,
+
+- formální platnost smluv zakládajících nebo převádějících práva k nemovitostem, pokud tyto smlouvy podle práva členského státu, v němž se nemovitost nachází, podléhají kogentním formálním právním předpisům,
+
+- povolování nevyžádaných obchodních sdělení zasílaných elektronickou poštou.
+
+[1] Úř. věst. L 24, 27.1.1987, s. 36.
+
+[2] Úř. věst. L 77, 27.3.1996, s. 20.
+
+[3] Dosud nezveřejněno v Úředním věstníku.
+
+[4] Úř. věst. L 375, 31.12.1985, s. 3. Směrnice naposledy pozměněná směrnicí 95/26/ES (Úř. věst. L 168, 18.7.1995, s. 7)
+
+[5] Úř. věst. L 228, 11.8.1992, s. 1. Směrnice naposledy pozměněná směrnicí 95/26/ES.
+
+[6] Úř. věst. L 360, 9.12.1992, s. 1. Směrnice naposledy pozměněná směrnicí 95/26/ES.
+
+[7] Úř. věst. L 172, 4.7.1988, s. 1, Směrnice naposledy pozměněná směrnicí 92/49/ES.
+
+[8] Úř. věst. L 330, 29.11.1990, s. 50. Směrnice naposledy pozměněná směrnicí 92/96/ES.
+
+--------------------------------------------------

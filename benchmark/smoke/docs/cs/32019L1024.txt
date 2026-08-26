@@ -1,0 +1,2047 @@
+L_2019172CS.01005601.xml
+
+
+26.6.2019
+
+
+CS
+
+
+Úřední věstník Evropské unie
+
+
+L 172/56
+
+
+SMĚRNICE EVROPSKÉHO PARLAMENTU A RADY (EU) 2019/1024
+
+
+ze dne 20. června 2019
+
+
+o otevřených datech a opakovaném použití informací veřejného sektoru
+
+
+(přepracované znění)
+
+
+EVROPSKÝ PARLAMENT A RADA EVROPSKÉ UNIE,
+
+
+s ohledem na Smlouvu o fungování Evropské unie, a zejména na článek 114 této smlouvy,
+
+
+s ohledem na návrh Evropské komise,
+
+
+po postoupení návrhu legislativního aktu vnitrostátním parlamentům,
+
+
+s ohledem na stanovisko Evropského hospodářského a sociálního výboru  ( 1 ) ,
+
+
+po konzultaci s Výborem regionů,
+
+
+v souladu s řádným legislativním postupem  ( 2 ) ,
+
+
+vzhledem k těmto důvodům:
+
+
+(1)
+
+
+Směrnice Evropského parlamentu a Rady 2003/98/ES  ( 3 ) byla podstatně změněna. Vzhledem k potřebě provést další změny by uvedená směrnice měla být v zájmu přehlednosti přepracována.
+
+
+(2)
+
+
+Podle článku 13 směrnice 2003/98/ES a pět let po přijetí směrnice Evropského parlamentu a Rady 2013/37/EU  ( 4 ) , která změnila směrnici 2003/98/ES, Komise po konzultaci s příslušnými zúčastněnými stranami zhodnotila a přezkoumala fungování směrnice 2003/98/ES v rámci programu pro účelnost a účinnost právních předpisů.
+
+
+(3)
+
+
+V návaznosti na konzultace se zúčastněnými stranami a na základě výsledků posouzení dopadů má Komise za to, že je zapotřebí opatření na úrovni Unie, jež by řešilo přetrvávající a nové překážky širokého opakovaného použití informací veřejného sektoru a informací financovaných z veřejných zdrojů v celé Unii, s cílem aktualizovat legislativní rámec s ohledem na pokrok v oblasti digitálních technologií a dále stimulovat digitální inovace, zejména pokud jde o umělou inteligenci.
+
+
+(4)
+
+
+Věcné změny, jež by měly být v právním textu provedeny za účelem plného využití potenciálu informací veřejného sektoru pro evropské hospodářství a společnost, by se měly zaměřit na tyto oblasti: poskytování dynamických dat v reálném čase pomocí vhodných technických prostředků, větší nabídka hodnotných veřejných údajů pro opakované použití, a to i od veřejných podniků, od organizací provádějících výzkum a od organizací financujících výzkum, řešení vzniku nových forem výhradních dohod, použití výjimek vůči zásadě účtování mezních nákladů a vztah mezi touto směrnicí a některými souvisejícími právními nástroji, včetně nařízení Evropského parlamentu a Rady (EU) 2016/679  ( 5 ) a směrnic Evropského parlamentu a Rady 96/9/ES  ( 6 ) , 2003/4/ES  ( 7 ) a 2007/2/ES  ( 8 ) .
+
+
+(5)
+
+
+Přístup k informacím je jedním ze základních práv. Listina základních práv Evropské unie (dále jen „Listina“) stanoví, že každý má právo na svobodu projevu, což zahrnuje svobodu zastávat názory a přijímat a rozšiřovat informace nebo myšlenky bez zasahování veřejné moci a bez ohledu na hranice.
+
+
+(6)
+
+
+Článek 8 Listiny zaručuje právo na ochranu osobních údajů a stanoví, že tyto údaje musí být zpracovány korektně, k přesně stanoveným účelům, na základě souhlasu dotčené osoby nebo na základě jiného oprávněného důvodu stanoveného zákonem a pod dohledem nezávislého orgánu.
+
+
+(7)
+
+
+Smlouva o fungování Evropské unie (dále jen „Smlouva o fungování EU“) stanoví vytvoření vnitřního trhu a systému zajišťujícího, aby na vnitřním trhu nebyla narušována hospodářská soutěž. Harmonizace pravidel a postupů členských států při využívání informací veřejného sektoru přispívá k dosažení těchto cílů.
+
+
+(8)
+
+
+Veřejný sektor v členských státech shromažďuje, vytváří, reprodukuje a šíří široké spektrum informací z mnoha oblastí, například sociální, politické, hospodářské, právní, zeměpisné, environmentální, meteorologické, seismologické, turistické, podnikatelské, patentové a vzdělávací. Dokumenty, které vytvářejí výkonné, zákonodárné nebo soudní subjekty veřejného sektoru, představují rozsáhlý, rozmanitý a cenný soubor zdrojů, jejž může ve svůj prospěch využívat společnost. Poskytování těchto informací, jež zahrnují dynamická data, v běžném elektronickém formátu umožňuje občanům a právnickým osobám nacházet nové způsoby jejich využívání a vytvářet nové inovativní produkty a služby. Členské státy a subjekty veřejného sektoru mohou v rámci svého úsilí o umožnění snadného přístupu k údajům pro účely jejich opakovaného použití být schopny využívat a čerpat odpovídající finanční podporu z příslušných fondů a programů Unie při zajištění širokého využívání digitálních technologií nebo digitální transformace veřejné správy a veřejných služeb.
+
+
+(9)
+
+
+Informace veřejného sektoru představují mimořádně významný zdroj dat, která mohou přispívat k lepšímu fungování vnitřního trhu a vývoji nových aplikací pro spotřebitele a právnické osoby. Inteligentní využívání údajů, včetně jejich zpracování prostřednictvím aplikací umělé inteligence, může mít transformativní dopad na všechna hospodářská odvětví.
+
+
+(10)
+
+
+Směrnice 2003/98/ES stanovila soubor minimálních pravidel pro opakované použití a praktická opatření pro usnadnění opakovaného použití stávajících dokumentů, které mají v držení subjekty veřejného sektoru členských států, včetně orgánů moci výkonné, zákonodárné a soudní. Od přijetí prvního souboru pravidel pro opakované použití informací veřejného sektoru exponenciálně narostlo množství údajů ve světě, včetně veřejných údajů, a vznikají a jsou shromažďovány nové typy údajů. Současně probíhá vývoj technologií pro analýzu, využití a zpracování údajů, jako jsou strojové učení, umělá inteligence a internet věcí. Tento rychlý technologický vývoj umožňuje vytvářet nové služby a nové aplikace, které vycházejí z použití, shromažďování nebo kombinace údajů. Pravidla původně přijatá v roce 2003 a změněná v roce 2013 již těmto rychlým změnám nestačí, a proto hrozí, že budou hospodářské a sociální příležitosti nabízené opakovaným použitím veřejných údajů promarněny.
+
+
+(11)
+
+
+Vývoj směrem ke společnosti založené na údajích, v níž se používají údaje z různých oblastí a činností, ovlivňuje život všech občanů Unie mimo jiné tím, že jim umožňuje nové způsoby přístupu k poznatkům a jejich získávání.
+
+
+(12)
+
+
+Digitální obsah hraje v tomto vývoji významnou roli. Tvorba těchto obsahů v posledních letech ovlivnila a nadále ovlivňuje rychlé vytváření pracovních míst. Většina těchto pracovních míst je vytvářena inovativními začínajícími podniky a malými a středními podniky.
+
+
+(13)
+
+
+Jedním ze základních cílů vytváření vnitřního trhu je vytvoření podmínek, které přispívají k rozvoji služeb a produktů v celé Unii i v členských státech. Informace veřejného sektoru nebo informace shromažďované, vytvářené, reprodukované a šířené v rámci plnění veřejného úkolu nebo služby obecného zájmu jsou důležitým výchozím materiálem výrobků a služeb digitálního obsahu a s rozvojem pokročilých digitálních technologií, jako je umělá inteligence, technologie distribuovaných účetních knih a internet věcí, se stanou ještě důležitějším zdrojem obsahu. V této souvislosti bude rovněž důležité široké zeměpisné pokrytí překračující hranice států. Rozšířené možnosti opakovaného použití těchto informací pravděpodobně mimo jiné umožní všem podnikům Unie, včetně mikropodniků a malých a středních podniků, ale i občanské společnosti, využívat jejich potenciálu a přispívat k hospodářskému rozvoji a vytváření a ochraně kvalitních pracovních míst, z nichž budou mít užitek zejména místní komunity, a k plnění důležitých společenských cílů, jako je odpovědnost a transparentnost.
+
+
+(14)
+
+
+Povolení opakovaného použití dokumentů, které jsou v držení subjektu veřejného sektoru, přidává hodnotu ve prospěch dalších a konečných uživatelů a společnosti obecně a v mnoha případech i ve prospěch samotného subjektu veřejného sektoru, neboť podporuje transparentnost a odpovědnost a poskytuje zpětnou vazbu od dalších a konečných uživatelů umožňující dotčenému subjektu veřejného sektoru zlepšit kvalitu shromažďovaných informací a plnění jeho veřejných úkolů.
+
+
+(15)
+
+
+V pravidlech a postupech členských států týkajících se využívání zdrojů informací veřejného sektoru existují značné rozdíly, které vytvářejí překážky pro plné využití hospodářského potenciálu tohoto klíčového zdroje dokumentů. Měla být zohledněna skutečnost, že postupy subjektů veřejného sektoru při využívání informací veřejného sektoru jsou mezi členskými státy i nadále rozdílné. Je tedy třeba usilovat o minimální harmonizaci vnitrostátních pravidel a postupů pro opakované použití dokumentů veřejného sektoru v těch případech, kdy rozdíly ve vnitrostátních předpisech a postupech nebo nejasnosti brání hladkému fungování vnitřního trhu a řádnému rozvoji informační společnosti v Unii.
+
+
+(16)
+
+
+Otevřená data jako koncept jsou obecně chápána jako označení dat v otevřených formátech, jež může kdokoli volně používat, opakovaně používat a sdílet pro jakékoli účely. Politiky týkající se otevřených dat, které podporují širokou dostupnost a opakované použití informací veřejného sektoru pro soukromé nebo komerční účely s minimálními či žádnými právními, technickými a finančními omezeními a které napomáhají oběhu informací nejen pro hospodářské subjekty, ale primárně také pro veřejnost, mohou hrát důležitou úlohu při podpoře společenské angažovanosti a nastartování a podpoře vývoje nových služeb založených na nových způsobech kombinování a využití těchto informací. Členské státy se proto vyzývají, aby podpořily vytváření dat podle zásad „otevřených dat již od návrhu“ a „standardního zpřístupnění dokumentů ve formě otevřených dat“, a to u všech dokumentů spadajících do působnosti této směrnice. Přitom by měly zajistit jednotný stupeň ochrany cílů představujících veřejný zájem, jako je veřejná bezpečnost, mj. všude tam, kde se jedná o citlivé informace týkající se ochrany kritické infrastruktury. Dále by měly zajistit ochranu osobních údajů i v případě, že informace tvořící součást určitého datového souboru samy o sobě sice nepředstavují riziko zjištění totožnosti určité fyzické osoby, ale ve spojení s jinými dostupnými informacemi by takové riziko mohlo vzniknout.
+
+
+(17)
+
+
+Bez minimální harmonizace na úrovni Unie by navíc zákonodárná opatření na vnitrostátní úrovni, která již byla v mnohých členských státech zahájena v reakci na technologické výzvy, mohla vést k ještě významnějším rozdílům. Dopad těchto rozdílů v zákonodárných přístupech a nejistot bude ještě významnější s dalším rozvojem informační společnosti, která již značně rozšířila využívání informací překračující hranice států.
+
+
+(18)
+
+
+Členské státy zavedly politiky opakovaného použití podle směrnice 2003/98/ES a některé z nich přijaly v souvislosti s otevřenými daty ambiciózní postupy pro usnadnění opakovaného použití dostupných veřejných údajů pro občany a právnické osoby v míře přesahující minimální úroveň stanovenou uvedenou směrnicí. Existuje riziko, že odlišná pravidla v různých členských státech by mohla klást překážky přeshraniční nabídce výrobků a služeb a bránit opakovanému použití srovnatelných souborů veřejných údajů pro celounijní aplikace využívající tyto údaje. Je tudíž nutná minimální harmonizace s cílem určit, jaké veřejné údaje jsou na vnitřním informačním trhu v souladu s příslušnými obecnými i odvětvovými režimy přístupu pro opakované použití dostupné a nemají na tyto režimy vliv, jak je například definováno ve směrnici 2003/4/ES. Ustanovení unijních a vnitrostátních právních předpisů, která jdou nad rámec těchto minimálních požadavků, zejména u odvětvového práva, by se měla uplatňovat i nadále. Takovými ustanoveními jsou například nižší prahové hodnoty přípustných poplatků za opakované použití oproti prahovým hodnotám stanoveným v této směrnici nebo méně omezující licenční podmínky než podmínky uvedené v této směrnici. Touto směrnicí by zejména neměla být dotčena ustanovení překračující minimální harmonizační úroveň této směrnice, jak je stanovena v nařízeních Komise v přenesené pravomoci přijatých podle směrnice Evropského parlamentu a Rady 2010/40/EU  ( 9 ) .
+
+
+(19)
+
+
+Mimoto se členské státy pobízejí, aby šly nad rámec minimálních požadavků stanovených touto směrnicí tím, že použijí tyto požadavky na dokumenty, které jsou v držení veřejných podniků a týkají se činností, o kterých se podle článku 34 směrnice Evropského parlamentu a Rady 2014/25/EU  ( 10 ) domnívají, že jsou přímo vystaveny hospodářské soutěži. Členské státy se rovněž mohou rozhodnout, že uplatní požadavky této směrnice i na soukromé podniky, zejména na ty, které poskytují služby obecného zájmu.
+
+
+(20)
+
+
+Je třeba vytvořit obecný rámec podmínek opakovaného použití dokumentů veřejného sektoru, aby byly zajištěny spravedlivé, přiměřené a nediskriminační podmínky opakovaného použití takových informací. Subjekty veřejného sektoru shromažďují, vytvářejí, reprodukují a šíří dokumenty při plnění svých veřejných úkolů. Veřejné podniky shromažďují, vytvářejí, reprodukují a šíří dokumenty při poskytování služeb obecného zájmu. Využívání těchto dokumentů k jiným účelům znamená opakované použití. Opatření členských států mohou překračovat rámec minimálních standardů stanovených touto směrnicí, aby umožnila širší opakované použití. Členské státy mohou při provádění této směrnice ve vnitrostátním právu používat jiné pojmy nežli „dokument“, pokud je zachován plný rozsah definice pojmu „dokument“ ve smyslu této směrnice.
+
+
+(21)
+
+
+Tato směrnice by se měla vztahovat na dokumenty, jejichž poskytnutí je součástí veřejných úkolů příslušných subjektů veřejného sektoru, jak je definováno zákonem nebo jinými závaznými předpisy v příslušných členských státech. Při neexistenci takových předpisů by měly být tyto veřejné úkoly vymezeny v souladu s obecnou správní praxí v příslušném členském státě za předpokladu, že rozsah těchto veřejných úkolů je transparentní a podléhá přezkumu. Tyto veřejné úkoly by mohly být vymezeny obecně nebo individuálně pro jednotlivé subjekty veřejného sektoru.
+
+
+(22)
+
+
+Tato směrnice by se měla používat pro dokumenty, které jsou zpřístupněny k opakovanému použití, jestliže subjekty veřejného sektoru poskytují licence na informace nebo prodávají, šíří, vyměňují nebo poskytují informace. Aby nedocházelo ke kříženému subvencování, mělo by opakované použití zahrnovat další používání dokumentů v téže organizaci při činnostech překračujících rámec jejích veřejných úkolů. Činnosti překračující rámec veřejných úkolů obvykle zahrnují poskytování dokumentů, které se vytvářejí a zpoplatňují výhradně na komerčním základě a v hospodářské soutěži s ostatními účastníky na trhu.
+
+
+(23)
+
+
+Tato směrnice by neměla nijak omezovat ani mařit plnění zákonných povinností veřejných orgánů a jiných subjektů veřejného sektoru. Měla by členským státům uložit povinnost umožnit opakované použití všech stávajících dokumentů, pokud přístup k nim není omezen nebo vyloučen podle vnitrostátních pravidel nebo se na něj nevztahují jiné výjimky stanovené v této směrnici. Tato směrnice se opírá o platné režimy přístupu v členských státech a nemění vnitrostátní předpisy o přístupu k dokumentům. Nepoužije se v případech, ve kterých občané nebo právnické osoby mohou v rámci příslušného režimu přístupu získávat dokumenty pouze tehdy, když mohou prokázat zvláštní zájem. Na úrovni Unie přiznávají články 41 o právu na řádnou správu a 42 o právu na přístup k dokumentům podle Listiny všem občanům Unie a všem fyzickým osobám s bydlištěm nebo právnickým osobám se sídlem v členském státě právo na přístup k dokumentům v držení Evropského parlamentu, Rady a Komise. Subjekty veřejného sektoru by měly být podporovány, aby poskytovaly k opakovanému použití všechny dokumenty, které mají v držení. Subjekty veřejného sektoru by měly prosazovat a podporovat opakované použití dokumentů, včetně úředních textů zákonodárné a správní povahy, v případech, kdy mají tyto subjekty právo schválit jejich opakované použití.
+
+
+(24)
+
+
+Členské státy často poskytování služeb obecného zájmu svěřují subjektům mimo veřejný sektor a udržují nad nimi vysoký stupeň kontroly. Směrnice 2003/98/ES se zároveň vztahuje pouze na dokumenty v držení subjektů veřejného sektoru, přičemž z oblasti její působnosti jsou vyloučeny veřejné podniky. Má to za následek nedostatečnou dostupnost pro opakované použití v případě dokumentů vytvořených při výkonu služeb obecného zájmu v celé řadě oblastí, zejména v odvětvích veřejných služeb. Dochází též k velkému omezení potenciálu pro vznik přeshraničních služeb na základě dokumentů, které mají v držení veřejné podniky, jež poskytují služby obecného zájmu.
+
+
+(25)
+
+
+Směrnice 2003/98/ES by proto měla být změněna tak, aby bylo zajištěno, že ji lze uplatnit na opakované použití stávajících dokumentů vytvořených při výkonu služeb obecného zájmu veřejnými podniky vykonávajícími některou z činností uvedených v článcích 8 až 14 směrnice 2014/25/EU, jakož i veřejnými podniky jednajícími jako provozovatelé veřejných služeb podle článku 2 nařízení Evropského parlamentu a Rady (ES) č. 1370/2007  ( 11 ) , veřejnými podniky jednajícími jako letečtí dopravci, kteří plní závazky veřejné služby podle článku 16 nařízení Evropského parlamentu a Rady (ES) č. 1008/2008  ( 12 ) , a veřejnými podniky jednajícími jako majitelé lodí ze Společenství, kteří plní závazky veřejných služeb podle článku 4 nařízení Rady (EHS) č. 3577/92  ( 13 ) .
+
+
+(26)
+
+
+Tato směrnice neobsahuje obecný závazek umožnit opakované použití dokumentů vytvořených veřejnými podniky. Rozhodnutí o případném povolení opakovaného použití by mělo být ponecháno příslušnému veřejnému podniku, není-li vyžadováno jinak v této směrnici nebo unijním či vnitrostátním právu. Teprve poté, co veřejný podnik zpřístupní dokument pro opakované použití, by měl plnit příslušné závazky stanovené v kapitolách III a IV této směrnice, zejména pokud jde o formáty, vybírání poplatků, transparentnost, licence, nediskriminaci a zákaz výhradních dohod. Na druhou stranu by veřejné podniky neměly být povinny splňovat požadavky stanovené v kapitole II, jako jsou pravidla pro zpracování žádostí. Při povolování opakovaného použití dokumentů by měla být věnována zvláštní pozornost citlivým informacím týkajícím se ochrany kritické infrastruktury definované ve směrnici Rady 2008/114/ES  ( 14 ) a základním službám ve smyslu směrnice Evropského parlamentu a Rady (EU) 2016/1148  ( 15 ) .
+
+
+(27)
+
+
+Objem vytvářených údajů z výzkumu exponenciálně roste a má potenciál pro opakované použití mimo vědeckou obec. Aby bylo možné reagovat na rostoucí společenské výzvy účinným a komplexním způsobem, je zásadní a naléhavé, aby bylo možné mít přístup k údajům z různých zdrojů, jakož i napříč jednotlivými odvětvími a obory, a tyto údaje kombinovat a opakovaně používat. Údaje z výzkumu zahrnují statistiky, výsledky pokusů, měření, pozorování vyplývající z práce v terénu, výsledky průzkumů, jakož i zvukové a obrazové záznamy z pohovorů. Obsahují též metadata, specifikace a jiné digitální objekty. Údaje z výzkumu se liší od vědeckých článků, které přinášejí zprávy o zjištěních, jež jsou výsledkem vědeckého výzkumu, a tato zjištění též komentují. Otevřená dostupnost a opakovatelná použitelnost údajů z vědeckého výzkumu financovaných z veřejných prostředků byla po mnoho let součástí konkrétních politických iniciativ. Otevřeným přístupem se rozumí postupy umožňující poskytování bezplatného online přístupu k výsledkům výzkumu koncovému uživateli, a to bez omezení pro použití a opakované použití nad rámec možnosti požadovat uznání autorství. Politiky otevřeného přístupu mají za cíl zejména poskytovat výzkumným pracovníkům i široké veřejnosti přístup k údajům z výzkumu v co nejranější fázi jejich šíření, jakož i usnadnit používání a opakované použití těchto údajů. Otevřený přístup pomáhá zvyšovat kvalitu, omezit potřebu zbytečného zdvojování výzkumu, urychlovat vědecký pokrok a bojovat proti podvodům v oblasti vědy a může celkově podporovat hospodářský růst a inovace. Kromě otevřeného přístupu je vyvíjeno chvályhodné úsilí, aby bylo zajištěno, že plánování správy údajů se stane běžnou vědeckou praxí, a aby bylo podpořeno šíření údajů z výzkumu, jež jsou dohledatelné, přístupné, interoperabilní a opakovaně použitelné (zásady FAIR).
+
+
+(28)
+
+
+Z výše uvedených důvodů je vhodné stanovit závazek členských států přijmout k údajům z výzkumu financovaného z veřejných prostředků politiku otevřeného přístupu, jakož i zajistit, aby tuto politiku prováděly všechny organizace provádějící výzkum a organizace financující výzkum. Organizace provádějící výzkum a organizace financující výzkum by rovněž mohly být mít strukturu a fungovat jako subjekty veřejného sektoru nebo veřejné podniky. Tato směrnice se vztahuje na takovéto hybridní organizace pouze v jejich postavení jakožto organizace provádějící výzkum a na jejich údaje z výzkumu. V rámci politik otevřeného přístupu je obvykle možné učinit ve vztahu k otevřené dostupnosti výsledků vědeckého výzkumu řadu výjimek. Doporučení Komise ze dne 25. dubna 2018 o přístupu k vědeckým informacím a jejich uchovávání popisuje mimo jiné relevantní prvky politiky otevřeného přístupu. Dodatečně je třeba zlepšit podmínky, za nichž lze některé údaje z výzkumu opakovaně používat. Z tohoto důvodu by se měly některé závazky vyplývající z této směrnice rozšířit na údaje z výzkumu, které jsou výsledkem činností vědeckého výzkumu dotovaných veřejným financováním nebo spolufinancovaných veřejnými a soukromými subjekty. V rámci vnitrostátních politik otevřeného přístupu by zpřístupňování údajů z výzkumu financovaného z veřejných prostředků mělo představovat standardní možnost. V této souvislosti by nicméně měly být náležitě zohledněny otázky týkající se soukromí, ochrany osobních údajů, důvěrnosti, národní bezpečnosti, oprávněných obchodních zájmů, jako jsou obchodní tajemství, a práv duševního vlastnictví třetích stran, v souladu se zásadou „co nejotevřenější, uzavřené podle potřeby“. Kromě toho by se tato směrnice neměla vztahovat na údaje z výzkumu, které nejsou přístupné z důvodu národní bezpečnosti, obrany nebo veřejné bezpečnosti. Aby se zabránilo jakékoli administrativní zátěži, měly by se závazky vyplývající z této směrnice vztahovat pouze na ty údaje z výzkumu, které již výzkumní pracovníci, organizace provádějící výzkum či organizace financující výzkum zveřejnili prostřednictvím institucionálního nebo tematického archivu, a neměly by představovat další náklady na vyhledávání datových souborů údajů či vyžadovat dodatečnou správu údajů. Členské státy mohou rozšířit uplatňování této směrnice také na údaje z výzkumu zpřístupněné veřejnosti prostřednictvím jiných datových infrastruktur, nežli jsou registry, prostřednictvím otevřeného přístupu k publikacím, jako soubor přiložený k článku, odbornému článku či článku v odborném časopisu. Jiné dokumenty nežli údaje z výzkumu by měly být nadále z oblasti působnosti této směrnice vyňaty.
+
+
+(29)
+
+
+Definice „subjektu veřejného sektoru“ vychází z definice v čl. 2 odst. 1 bodě 1 směrnice Evropského parlamentu a Rady 2014/24/EU  ( 16 ) . Definice „veřejnoprávního subjektu“ stanovená v uvedené směrnici a definice „veřejného podniku“ stanovená ve směrnici 2014/25/EU by se měly vztahovat na tuto směrnici.
+
+
+(30)
+
+
+Tato směrnice stanoví definici pojmu „dokument“, jež by měla zahrnovat jakoukoli část dokumentu. Pojem „dokument“ by se měl vztahovat na veškeré záznamy jednání, skutečností nebo informací – a všechny soubory takových jednání, skutečností nebo informací – bez ohledu na formu nosiče (v listinné či elektronické podobě nebo jako zvuková, vizuální nebo audiovizuální nahrávka). Definice „dokumentu“ se nemá vztahovat na počítačové programy. Členské státy mohou rozšířit uplatňování této směrnice na počítačové programy.
+
+
+(31)
+
+
+Subjekty veřejného sektoru své dokumenty stále větší měrou aktivně zpřístupňují pro opakované použití tím, že zajišťují jejich objevitelnost online a skutečnou dostupnost dokumentů a souvisejících metadat v otevřených formátech, které mohou být strojově čitelné a které zajišťují interoperabilitu, opakované použití a přístupnost. Dokumenty by se též měly zpřístupňovat pro opakované použití na žádost podanou dalším uživatelem. V těchto případech by lhůta pro zodpovězení žádostí o opakované použití měla být přiměřená a v souladu s příslušnou lhůtou pro žádosti o přístup k dokumentům podle dotyčných režimů přístupu. Této povinnosti by nicméně měly být zproštěny veřejné podniky, vzdělávací zařízení, organizace provádějící výzkum a organizace financující výzkum. Přiměřené lhůty v celé Unii podnítí tvorbu nových souhrnných informačních výrobků a služeb na celounijní úrovni. To je zvláště důležité u dynamických dat (včetně environmentálních údajů, dopravních údajů, družicových dat, meteorologických údajů a dat získaných senzory), jejichž hospodářská hodnota závisí na okamžité dostupnosti informací a pravidelných aktualizacích. Dynamická data by proto měla být zpřístupněna ihned po jejich shromáždění, nebo v případě manuální aktualizace ihned po změně datového souboru, prostřednictvím rozhraní pro programování aplikací (application programming interface, API) s cílem usnadnit na základě těchto dat rozvoj internetu, jakož i mobilních a cloudových aplikací. Není-li to z důvodu technických nebo finančních omezení možné, měly by subjekty veřejného sektoru dokumenty zpřístupnit ve lhůtě, která umožňuje plné využití jejich hospodářského potenciálu. Za účelem odstranění příslušných technických a finančních překážek by měla být přijata zvláštní opatření. Při použití licence může být časová dostupnost dokumentů součástí licenčních podmínek. Pokud je ověřování údajů nezbytné v souvislosti s odůvodněnými veřejnými zájmy, zejména pro veřejné zdraví a bezpečnost, měla by být dynamická data zpřístupněna ihned po tomto ověření. Toto nezbytné ověřování by nemělo mít dopad na četnost aktualizací.
+
+
+(32)
+
+
+K získání přístupu k údajům poskytnutým pro opakované použití na základě této směrnice by bylo vhodné zajistit přístup k dynamickým datům prostřednictvím dobře navrženého rozhraní pro programování aplikací. Rozhraním pro programování aplikací se rozumí soubor funkcí, postupů, definic a protokolů pro strojovou komunikaci a plynulou výměnu údajů. Tato rozhraní by měla mít přehlednou technickou dokumentaci, která by měla být úplná a dostupná online. Používat by se měla pokud možno volně přístupná rozhraní pro programování aplikací. Měly by se také používat unijní nebo mezinárodně uznávané standardní protokoly a pro datové soubory též případné mezinárodní normy. Rozhraní pro programování aplikací mohou být různě složitá – od jednoduchého odkazu na databázi pro získání specifických datových souborů po webové rozhraní nebo komplexnější uspořádání. Opakované používání a sdílení údajů prostřednictvím vhodného využití rozhraní pro programování aplikací má obecnou hodnotu, neboť pomůže subjektům vyvíjejícím technologie a začínajícím podnikům s vytvářením nových služeb a produktů. Představuje též zásadní složku pro vytváření cenných ekosystémů na základě mnohdy nevyužitých datových fondů. Uspořádání rozhraní pro programování aplikací a jeho použití musí vycházet z několika zásad: dostupnosti, stability, údržby během životního cyklu, jednotného používání a jednoty norem, uživatelské vstřícnosti a bezpečnosti. Dynamická data, čímž se rozumí průběžně aktualizované údaje, mnohdy i v reálném čase, by subjekty veřejného sektoru a veřejné podniky měly zpřístupnit pro opakované použití bezprostředně po jejich shromáždění prostřednictvím vhodných rozhraní pro programování aplikací a tam, kde je to relevantní, též s možností stažení kompletní datové sady, vyjma případů, kdy by jejich zpřístupnění vyžadovalo nepřiměřeně velké úsilí. Při posuzování přiměřenosti tohoto úsilí by měla být zohledněna velikost daného subjektu veřejného sektoru nebo veřejného podniku a jeho provozní rozpočet.
+
+
+(33)
+
+
+Možnosti opakovaného použití mohou být zlepšeny omezením potřeby převádění papírových dokumentů do elektronické formy nebo zpracovávání elektronických souborů, aby byly navzájem slučitelné. Proto by měly subjekty veřejného sektoru poskytovat dokumenty ve všech již existujících formátech nebo jazycích, a to v elektronické formě, pokud je to možné a vhodné. Subjekty veřejného sektoru by měly žádosti o výtahy z existujících dokumentů posuzovat příznivě, představuje-li schválení takové žádosti pouze jednoduchou operaci. Subjekty veřejného sektoru by však neměly být povinny poskytovat výtahy z dokumentů či měnit formát požadovaných informací, pokud to představuje nepřiměřené úsilí. Pro zjednodušení opakovaného použití by měly subjekty veřejného sektoru poskytovat své vlastní dokumenty ve formátu, který nezávisí na použití zvláštního programového vybavení, pokud je to možné a vhodné. Subjekty veřejného sektoru by měly zohlednit možnosti opakovaného použití dokumentů zdravotně postiženými osobami a pro zdravotně postižené osoby, pokud je to možné a vhodné, a to tak, že tyto informace poskytnou v přístupných formátech v souladu s požadavky směrnice Evropského parlamentu a Rady (EU) 2016/2102  ( 17 ) .
+
+
+(34)
+
+
+Pro usnadnění opakovaného použití by měly subjekty veřejného sektoru, je-li to možné a vhodné, zpřístupnit dokumenty, včetně dokumentů zveřejněných na webových stránkách, v otevřených a strojově čitelných formátech a spolu s jejich metadaty, s nejlepší možnou úrovní přesnosti a zrnitosti a ve formátu, který zajistí interoperabilitu, například jejich zpracováním v souladu se zásadami týkajícími se požadavků slučitelnosti a použitelnosti pro prostorové informace podle směrnice 2007/2/ES.
+
+
+(35)
+
+
+Dokument by měl být považován za dokument ve strojově čitelném formátu, je-li ve formátu souboru strukturovaného tak, aby v něm softwarové aplikace mohly snadno nalézt, rozpoznat a získat konkrétní údaje. Za strojově čitelné údaje by se měly považovat údaje zakódované v souborech strukturovaných ve strojově čitelném formátu. Strojově čitelné formáty mohou být otevřené nebo chráněné vlastnickým právem. Mohou být formálně normalizované, či nikoli. Dokumenty zakódované ve formátu souboru, který omezuje automatické zpracování, jelikož údaje z nich nelze získat snadno či vůbec, by za dokumenty ve strojově čitelném formátu být považovány neměly. Členské státy by měly podporovat používání unijních nebo mezinárodně uznávaných otevřených, strojově čitelných formátů, pokud je to možné a vhodné. Při navrhování technických řešení pro opakované použití dokumentů by případně měl být zohledněn evropský rámec pro řešení interoperability.
+
+
+(36)
+
+
+Poplatky za opakované použití dokumentů představují pro začínající podniky i pro malé a střední podniky značnou překážku vstupu na trh. Dokumenty by tudíž měly být zpřístupněny pro opakované použití bez poplatků a v případě nutnosti by tyto poplatky měly být v zásadě omezeny na mezní náklady. Pokud subjekty veřejného sektoru provádějí mimořádně rozsáhlé vyhledávání požadovaných informací či mimořádně nákladné změny formátu požadovaných informací, a to buď dobrovolně, nebo jak požaduje vnitrostátní právo, mohou mezní náklady pokrývat náklady související s těmito činnostmi. Ve výjimečných případech je třeba dbát na to, aby nebyl omezen běžný provoz subjektů veřejného sektoru, které musí vytvářet příjmy, z nichž hradí podstatnou část svých nákladů souvisejících s výkonem svých veřejných úkolů. To platí i v případech, kdy subjekt veřejného sektoru data zpřístupnil jako otevřená, avšak je povinen vytvářet příjmy, z nichž hradí podstatnou část svých nákladů souvisejících s výkonem jiných veřejných úkolů. Též je třeba uznat úlohu veřejných podniků v konkurenčním hospodářském prostředí. V takových případech by proto měly mít subjekty veřejného sektoru a veřejné podniky možnost účtovat si poplatky převyšující mezní náklady. Tyto poplatky převyšující mezní náklady by měly být stanoveny na základě objektivních, transparentních a ověřitelných kritérií a celkový příjem z poskytování a povolování opakovaného použití dokumentů by neměl přesáhnout náklady na jejich shromažďování a vytváření, včetně nákupu od třetích stran, jakož i na reprodukci, údržbu, uchovávání a šíření se započítáním přiměřené návratnosti investic. Do způsobilých nákladů by případně mohly být zahrnuty i náklady na anonymizaci osobních údajů a náklady na opatření přijatá na ochranu důvěrnosti údajů. Členské státy mohou požadovat, aby subjekty veřejného sektoru a veřejné podniky tyto náklady zveřejnily. Požadavek vytvářet příjmy, z nichž si subjekty veřejného sektoru hradí podstatnou část svých nákladů souvisejících s výkonem svých veřejných úkolů nebo rozsahem služeb veřejného zájmu svěřeným veřejným podnikům, nemusí být nutně stanoven právními předpisy, ale může vyplývat například ze správní praxe v členských státech. Takovýto požadavek by měly členské státy pravidelně přezkoumávat.
+
+
+(37)
+
+
+Návratností investic se rozumí procentní podíl nad rámec mezních nákladů, který umožňuje náhradu kapitálových nákladů a zahrnutí skutečné míry návratnosti. Vzhledem k tomu, že kapitálové náklady jsou úzce spjaty s úrokovými sazbami úvěrových institucí a tyto sazby vycházejí z pevné úrokové sazby Evropské centrální banky (ECB) pro hlavní refinanční operace, přiměřená návratnost investic by neměla převyšovat pevnou úrokovou sazbu ECB o více než 5 %.
+
+
+(38)
+
+
+Knihovny včetně univerzitních, muzea a archivy by měly mít možnost účtovat poplatky převyšující mezní náklady, aby nebyl omezen jejich běžný provoz. Celkový příjem těchto subjektů veřejného sektoru z poskytování a povolování opakovaného použití dokumentů po odpovídající účetní období by neměl přesahovat náklady na jejich shromažďování, vytváření, reprodukci, šíření, uchovávání a zúčtování práv, se započítáním přiměřené návratnosti investic. Do způsobilých nákladů by případně měly být zahrnuty i náklady na anonymizaci osobních údajů či obchodně citlivých informací. Pro účely knihoven včetně univerzitních, muzeí a archivů a se zřetelem k jejich specifikům by mohly být při výpočtu přiměřené návratnosti investic brány v potaz ceny, které jsou za opakované použití týchž nebo podobných dokumentů účtovány v soukromém sektoru.
+
+
+(39)
+
+
+Horní hranicí poplatků stanovenou touto směrnicí není dotčeno právo členských států vybírat nižší nebo vůbec žádné poplatky.
+
+
+(40)
+
+
+Členské státy by měly stanovit kritéria pro vybírání poplatků převyšujících mezní náklady. V tomto ohledu by členské státy měly být například schopny tato kritéria stanovit ve vnitrostátních pravidlech nebo určit vhodný orgán nebo vhodné orgány, jiné než dotčený subjekt veřejného sektoru, které jsou ke stanovení těchto kritérií příslušné. Takový orgán by měl mít strukturu a fungovat v souladu s ústavními a právními systémy členských států. Mohlo by jít o stávající orgán s výkonnými pravomocemi v oblasti rozpočtu a pod politickým vedením.
+
+
+(41)
+
+
+Předpokladem rozvoje informačního trhu v celé Unii je zajistit, aby podmínky opakovaného použití dokumentů veřejného sektoru byly jasné a veřejně dostupné. Proto by měly být všechny platné podmínky opakovaného použití dokumentů objasněny potenciálním dalším uživatelům. Členské státy by měly ve vhodných případech podněcovat k vytváření online seznamů dostupných dokumentů, aby podporovaly a usnadňovaly žádosti o opakované použití. Žadatelé o opakované použití dokumentů v držení jiných subjektů než veřejných podniků, vzdělávacích zařízení, organizací provádějících výzkum a organizací financujících výzkum by měli být informováni o dostupných prostředcích pro zjednání nápravy ohledně rozhodnutí nebo postupů, které se jich týkají. To je zvláště důležité pro začínající podniky a malé a střední podniky, které nemusí být obeznámeny se způsobem komunikace se subjekty veřejného sektoru v jiných členských státech a s odpovídajícími prostředky pro zjednání nápravy.
+
+
+(42)
+
+
+Prostředky pro zjednání nápravy by měly zahrnovat možnost přezkumu nestranným přezkumným orgánem. Takovým orgánem by mohl být již existující vnitrostátní orgán, jako je vnitrostátní orgán pro hospodářskou soutěž, dozorový úřad zřízený v souladu s nařízením (EU) 2016/679, vnitrostátní orgán pro přístup k dokumentům nebo vnitrostátní soudní orgán. Takový orgán by měl mít strukturu a fungovat v souladu s ústavními a právními systémy členských států. Obrácení se na něj by nemělo předjímat jakékoli jiné prostředky pro zjednání nápravy, které jsou žadatelům o opakované použití k dispozici. Měl by však být odlišný od mechanismu členského státu, který stanoví kritéria pro vybírání poplatků převyšujících mezní náklady. Prostředky pro zjednání nápravy by měly zahrnovat možnost přezkumu zamítavých rozhodnutí, ale rovněž rozhodnutí, která sice opakované použití povolují, ale kterými by mohl být žadatel dotčen z jiných důvodů, zejména pokud jde o použitá pravidla pro vybírání poplatků. Postup přezkoumání by měl být rychlý, v souladu s potřebami rychle se měnícího trhu.
+
+
+(43)
+
+
+Zveřejnění všech obecně dostupných dokumentů, které má veřejný sektor v držení a které se týkají nejen politického, ale i soudního a správního procesu, je základním nástrojem rozšíření práva na informace, které je základní zásadou demokracie. Tento cíl platí pro instituce na všech úrovních, tj. na místní, celostátní i mezinárodní úrovni.
+
+
+(44)
+
+
+Opakované použití dokumentů by nemělo podléhat podmínkám. V některých případech, kdy je to odůvodněné cílem veřejného zájmu, se však může udělit licence s uvedením podmínek, které má nabyvatel licence při opakovaném použití dodržovat a které se týkají otázek jako odpovědnost, ochrana osobních údajů, řádné použití dokumentů, záruka nezměněné reprodukce a uvedení zdroje. Poskytnou-li subjekty veřejného sektoru licenci na opakované použití dokumentů, měly by být licenční podmínky objektivní, přiměřené a nediskriminační. V tomto ohledu mohou hrát významnou roli rovněž standardní licence dostupné online. Členské státy by tedy měly zajistit dostupnost standardních licencí. Všechny licence na opakované použití informací veřejného sektoru by v každém případě měly klást co nejméně omezení opakovaného použití, například tím, že toto omezení spočívá jen v požadavku na uvedení zdrojů. V tomto ohledu by měly hrát důležitou úlohu otevřené licence ve formě standardizovaných veřejných licencí dostupné online, které umožňují bezplatný přístup k údajům a obsahu, jejich používání, změnu a sdílení kýmkoli za jakýmkoli účelem a které spoléhají na otevřené datové formáty. Proto by měly členské státy podporovat používání otevřených licencí, které by se postupem času měly stát běžnou praxí v celé Unii. Aniž jsou dotčeny požadavky týkající se odpovědnosti stanovené v právu Unie nebo ve vnitrostátním právu, pokud subjekt veřejného sektoru nebo veřejný podnik zpřístupní dokumenty pro opakované použití bez jakýchkoli jiných podmínek nebo omezení, může se zříci veškeré odpovědnosti, pokud jde o tyto dokumenty zpřístupněné k opakovanému použití.
+
+
+(45)
+
+
+Rozhodne-li se příslušný orgán, že již nebude určité dokumenty poskytovat pro opakované použití nebo že tyto dokumenty přestane aktualizovat, měl by tato rozhodnutí při nejbližší příležitosti zveřejnit, pokud možno elektronickými prostředky.
+
+
+(46)
+
+
+Podmínky opakovaného použití by neměly být diskriminační pro srovnatelné kategorie opakovaného použití. V tomto ohledu by zákaz diskriminace například neměl bránit bezplatné výměně informací mezi subjekty veřejného sektoru při výkonu veřejných úkolů, zatímco třetí strany musí za opakované použití týchž dokumentů uhradit poplatky. Neměl by bránit ani stanovení různých poplatků pro komerční a nekomerční opakované použití.
+
+
+(47)
+
+
+Členské státy by měly především zajistit, aby opakované použití dokumentů veřejných podniků nevedlo k narušení trhu a k oslabení hospodářské soutěže.
+
+
+(48)
+
+
+Subjekty veřejného sektoru by při stanovení zásad opakovaného použití dokumentů měly dodržovat unijní i vnitrostátní pravidla hospodářské soutěže a pokud možno se vyhýbat uzavírání výhradních dohod mezi sebou a se soukromými partnery. Pro zajištění služeb obecného hospodářského zájmu však někdy může být výhradní právo na opakované použití konkrétních dokumentů veřejného sektoru nezbytné. Může tomu tak být v případě, kdy by žádný komerční vydavatel informace bez tohoto výhradního práva nezveřejňoval. V tomto ohledu je vhodné zohlednit případné smlouvy na veřejné služby vyňaté z oblasti působnosti směrnice 2014/24/EU podle článku 11 uvedené směrnice a inovační partnerství podle článku 31 směrnice 2014/24/EU.
+
+
+(49)
+
+
+Mezi knihovnami včetně univerzitních, muzei, archivy a soukromými partnery existují četná ujednání o spolupráci, která zahrnují digitalizaci kulturních zdrojů a v jejichž rámci se soukromým partnerům udělují výhradní přístupová práva. Praxe ukázala, že tato partnerství veřejného a soukromého sektoru umožňují přínosné využívání kulturních sbírek a současně urychlují zpřístupnění kulturního dědictví veřejnosti. Současný výrazně odlišný stav v různých členských státech, pokud jde o digitalizaci kulturních zdrojů, je proto záhodno zohlednit ve zvláštním souboru pravidel k dohodám o digitalizaci těchto zdrojů. Pokud se výhradní právo týká digitalizace kulturních zdrojů, může být zapotřebí, aby trvalo určitou dobu, aby měl soukromý partner možnost získat svou investici zpět. Tato doba by však měla být omezená a co nejkratší, aby byla dodržena zásada, že materiál, který je součástí obecného fondu, by měl zůstat součástí obecného fondu i poté, co je digitalizován. Trvání výhradního práva digitalizovat kulturní zdroje by obecně nemělo překročit deset let. Jakékoliv trvání výhradního práva po dobu více než deset let by mělo být předmětem přezkoumání s přihlédnutím k technickým, finančním a správním změnám v daném prostředí od doby, kdy byla daná dohoda uzavřena. Kromě toho by mělo jakékoli partnerství veřejného a soukromého sektoru pro účely digitalizace kulturních zdrojů udělit partnerské kulturní instituci plná práva k využívání digitalizovaných kulturních zdrojů po skončení platnosti dohody.
+
+
+(50)
+
+
+Ujednání mezi držiteli údajů a dalšími uživateli údajů, která výslovně neudělují výhradní práva, avšak u nichž lze důvodně očekávat omezení dostupnosti dokumentů pro opakované použití, by měla být podrobena další kontrole ze strany veřejnosti. Podstatné aspekty takovýchto ujednání by proto měly být zveřejněny online nejméně dva měsíce před tím, než nabudou účinnosti, totiž dva měsíce před dohodnutým datem, k němuž má být zahájeno plnění příslušných povinností stran. Toto zveřejnění by mělo zúčastněným stranám poskytnout možnost požádat o opakované použití dokumentů, na které se tato ujednání vztahují, a předejít tak riziku omezení škály potenciálních dalších uživatelů. V každém případě by podstatné aspekty takovýchto ujednání měly být v konečné podobě, na níž se strany dohodnou, zveřejňovány online bez zbytečného prodlení po jejich uzavření.
+
+
+(51)
+
+
+Cílem této směrnice je minimalizovat riziko nadměrné výhody „prvního hráče na tahu“, která by mohla omezit počet potenciálních dalších uživatelů těchto údajů. Pokud mohou smluvní ujednání, vedle závazků členských států k poskytování dokumentů podle této směrnice, zahrnovat i převod prostředků uvedeného členského státu ve smyslu čl. 107 odst. 1 Smlouvy o fungování EU, nemělo by být touto směrnicí dotčeno uplatňování pravidel pro státní podporu a pravidel hospodářské soutěže stanovených v článcích 101 až 109 Smlouvy o fungování EU. Z pravidel pro státní podporu stanovených v článcích 107, 108 a 109 Smlouvy o fungování EU vyplývá, že členský stát je povinen předem ověřit, zda by příslušná smluvní ujednání mohla obsahovat státní podporu, jakož i zajistit jejich soulad s pravidly pro státní podporu.
+
+
+(52)
+
+
+Tato směrnice nemá vliv na ochranu fyzických osob, pokud jde o zpracování osobních údajů podle unijního a vnitrostátního práva, zejména podle nařízení (EU) 2016/679 a směrnice Evropského parlamentu a Rady 2002/58/ES  ( 18 ) , a včetně jakýchkoli doplňujících vnitrostátních právních předpisů. To mimo jiné znamená, že opakované použití veřejných údajů je přípustné pouze tehdy, pokud je dodržena zásada omezení účelu, jak je stanoveno v čl. 5 odst. 1 písm. b) a v článku 6 nařízení (EU) 2016/679. Anonymní informace jsou informace, které se netýkají identifikované či identifikovatelné fyzické osoby ani osobních údajů, které byly anonymizovány takovým způsobem, že subjekt údajů není nebo již přestal být identifikovatelným. Anonymizace informací je způsob, jak sladit zájem spočívající v co největší opakované použitelnosti informací veřejného sektoru se závazky plynoucími z práva o ochraně údajů, ovšem tento postup něco stojí. Je vhodné, aby tyto náklady byly zváženy jako jedna z nákladových položek, jež se zohlední v rámci mezních nákladů na šíření uvedených v této směrnici.
+
+
+(53)
+
+
+Při rozhodování o rozsahu a podmínkách opakovaného použití dokumentů veřejného sektoru, které obsahují osobní údaje, například ve zdravotnictví, může být nezbytné provést posouzení vlivu na ochranu údajů v souladu s článkem 35 nařízení (EU) 2016/679.
+
+
+(54)
+
+
+Práva duševního vlastnictví třetích stran nejsou touto směrnicí dotčena. Aby bylo zamezeno pochybnostem, vztahuje se pojem „práva duševního vlastnictví“ výhradně na autorské právo a související ochranná práva (včetně ochranných práv sui generis). Tato směrnice se nepoužije na dokumenty, na které se vztahují práva průmyslového vlastnictví, jako patenty, zapsané (průmyslové) vzory a zapsané ochranné známky. Tato směrnice se nedotýká existence nebo vlastnictví práv duševního vlastnictví subjektů veřejného sektoru ani nijak neomezuje výkon těchto práv za hranicemi stanovenými touto směrnicí. Závazky stanovené v souladu s touto směrnicí by měly platit pouze tehdy, pokud jsou slučitelné s mezinárodními dohodami o ochraně práv duševního vlastnictví, zejména Bernskou úmluvou o ochraně literárních a uměleckých děl (dále jen „Bernská úmluva“), Dohodou o obchodních aspektech práv k duševnímu vlastnictví (dále jen „dohoda TRIPS“) a Smlouvou Světové organizace duševního vlastnictví o právu autorském. Subjekty veřejného sektoru by však měly své autorské právo vykonávat způsobem, který usnadňuje opakované použití.
+
+
+(55)
+
+
+V tomto ohledu a s přihlédnutím k právu Unie a k mezinárodním závazkům členských států a Unie, zejména v rámci Bernské úmluvy a dohody TRIPS, by měly být z oblasti působnosti této směrnice vyjmuty dokumenty, k nimž mají práva duševního vlastnictví třetí strany. Pokud byla třetí strana původním nositelem práv duševního vlastnictví k dokumentu, který mají v držení knihovny včetně univerzitních, muzea a archivy a u kterého dosud neuplynula doba ochrany těchto práv, měl by se takový dokument pro účely této směrnice považovat za dokument, k němuž mají práva duševního vlastnictví třetí strany.
+
+
+(56)
+
+
+Touto směrnicí by neměla být dotčena práva, včetně majetkových a osobnostních práv, která mohou mít zaměstnanci subjektů veřejného sektoru podle vnitrostátního práva.
+
+
+(57)
+
+
+Kromě toho by si měl příslušný subjekt veřejného sektoru u každého dokumentu, který bude možno opakovaně použít, ponechat uživatelské právo k danému dokumentu.
+
+
+(58)
+
+
+Touto směrnicí není dotčena směrnice 2014/24/EU.
+
+
+(59)
+
+
+Užívání dokumentů veřejného sektoru, které překračuje hranice států, může být významně usnadněno nástroji, které potenciálním dalším uživatelům pomáhají nalézt dokumenty dostupné pro opakované použití, a podmínkami opakovaného použití. Členské státy by tedy měly zajistit, aby byla zavedena praktická opatření, která napomohou dalším uživatelům vyhledávat dokumenty dostupné pro opakované použití. Příkladem takových praktických opatření jsou seznamy fondů hlavních dokumentů (dokumentů, které jsou nebo by mohly být ve značném rozsahu opakovaně používány), pokud možno přístupné online, a internetové portály, které jsou propojeny s decentralizovanými seznamy fondů. Členské státy by rovněž měly usnadnit dlouhodobou dostupnost pro opakované použití informací veřejného sektoru v souladu s použitelnými politikami uchovávání.
+
+
+(60)
+
+
+Komise by měla usnadňovat spolupráci mezi členskými státy a podporovat navrhování, zkoušení, realizaci a zavádění interoperabilních elektronických rozhraní, která umožní účelnější a bezpečnější poskytování veřejných služeb.
+
+
+(61)
+
+
+Touto směrnicí není dotčena směrnice Evropského parlamentu a Rady 2001/29/ES  ( 19 ) . Uvedená směrnice stanoví podmínky, za kterých mohou subjekty veřejného sektoru vykonávat svá práva duševního vlastnictví na vnitřním informačním trhu při povolování opakovaného použití dokumentů. V případech, kdy jsou nositelem práva uvedeného v čl. 7 odst. 1 směrnice 96/9/ES subjekty veřejného sektoru, neměly by toto právo vykonávat s cílem bránit opakovanému použití stávajících dokumentů nebo toto opakované použití omezit nad rámec omezení stanovených touto směrnicí.
+
+
+(62)
+
+
+Komise podpořila vytvoření online přístupné zprávy o připravenosti otevřených dat s příslušnými výkonnostními ukazateli pro opakované použití informací veřejného sektoru ve všech členských státech. Pravidelná aktualizace této zprávy přispěje k výměně informací mezi členskými státy a k dostupnosti informací o politikách a praktických postupech v celé Unii.
+
+
+(63)
+
+
+Je třeba zajistit, aby členské státy sledovaly míru opakovaného použití informací veřejného sektoru, podmínky jejich zpřístupňování a postupy zjednávání nápravy.
+
+
+(64)
+
+
+Komise může být členským státům nápomocna při provádění této směrnice jednotným způsobem, a to tím, že po konzultaci se zúčastněnými stranami vydá a aktualizuje stávající pokyny týkající se zejména doporučených standardních licencí, datových souborů a poplatků za opakované použití dokumentů.
+
+
+(65)
+
+
+Jedním ze základních cílů vytváření vnitřního trhu je vytvoření podmínek, které přispívají k rozvoji služeb v celé Unii. Knihovny včetně univerzitních, muzea a archivy uchovávají značné množství zdrojů cenných informací veřejného sektoru, zejména proto, že projekty digitalizace znásobily množství digitálního materiálu, který je součástí obecného fondu. Tyto sbírky kulturního dědictví a s nimi související metadata jsou potenciální základnou produktů a služeb s digitálním obsahem a mají obrovský potenciál pro inovativní opakované použití v oblastech, jako jsou studium a cestovní ruch. Ostatní typy kulturních institucí (například orchestry, opery, balety a divadla), včetně archivů, které jsou jejich součástí, by měly zůstat mimo oblast působnosti této směrnice pro svou specifickou povahu umění spočívajícího v uměleckém výkonu a z toho důvodu, že na téměř všechen jejich materiál se vztahují práva duševního vlastnictví třetích stran.
+
+
+(66)
+
+
+S cílem zavést podmínky na podporu opakovaného použití dokumentů, které souvisí s významnými socioekonomickými přínosy s obzvláště vysokou hodnotou pro hospodářství a společnost, by měl být v příloze stanoven seznam tematických kategorií datových souborů s vysokou hodnotou. Pro ilustraci a aniž jsou dotčeny prováděcí akty stanovující datové soubory s vysokou hodnotou, na něž by se měly uplatňovat zvláštní požadavky stanovené touto směrnicí, s přihlédnutím ke sdělení Komise o pokynech týkajících se datových souborů, udělování licencí a vybírání poplatků za opakované použití dokumentů, by tematické kategorie mohly mimo jiné zahrnovat poštovní směrovací čísla, vnitrostátní a místní mapy (geoprostorové údaje), spotřebu energie a satelitní snímky (údaje z pozorování Země a o životním prostředí), data in situ z nástrojů a předpověď počasí (meteorologické údaje), demografické a ekonomické ukazatele (statistické údaje), obchodní rejstříky a registrační identifikátory (údaje o společnostech a o jejich vlastnictví), dopravní značky a vnitrozemské vodní cesty (údaje o mobilitě).
+
+
+(67)
+
+
+Za účelem změny seznamu tematických kategorií datových souborů s vysokou hodnotou by měla být na Komisi přenesena pravomoc přijímat akty v souladu s článkem 290 Smlouvy o fungování EU, pokud jde o doplnění dalších tematických kategorií. Je obzvláště důležité, aby Komise v rámci přípravné činnosti vedla odpovídající konzultace, a to i na odborné úrovni, a aby tyto konzultace probíhaly v souladu se zásadami stanovenými v interinstitucionální dohodě ze dne 13. dubna 2016 o zdokonalení tvorby právních předpisů  ( 20 ) . Pro zajištění rovné účasti na vypracovávání aktů v přenesené pravomoci zejména obdrží Evropský parlament a Rada veškeré dokumenty ve stejnou dobu jako odborníci z členských států a jejich odborníci mají systematický přístup na setkání skupin odborníků Komise, jež se věnují přípravě aktů v přenesené pravomoci.
+
+
+(68)
+
+
+Celounijní seznam datových souborů se zvláštním potenciálem vytvářet socioekonomické přínosy společně s harmonizovanými podmínkami pro opětovné použití informací představuje významný faktor pro umožnění datových aplikací a služeb. Za účelem zajištění jednotných podmínek k provedení této směrnice by měly být Komisi svěřeny prováděcí pravomoci na podporu opakovaného použití dokumentů, které souvisí s významnými socioekonomickými přínosy prostřednictvím přijímání seznamu konkrétních datových souborů s vysokou hodnotou, na něž se vztahují zvláštní požadavky této směrnice, jakož i opatření pro jejich zveřejnění a opakovaného použití. Tyto zvláštní požadavky se proto nepoužijí dříve, než Komise přijme prováděcí akty. Seznam by měl zohlednit odvětvové právní akty Unie, které již upravují zveřejňování datových souborů, jako jsou směrnice 2007/2/ES a 2010/40/EU, s cílem zajistit, aby datové soubory byly zpřístupněny podle odpovídajících norem a souborů metadat. Seznam by se měl zakládat na tematických kategoriích stanovených v této směrnici. Při přípravě daného seznamu by měla Komise vést odpovídající konzultace, a to i na odborné úrovni. Při rozhodování o zařazení údajů, které mají v držení veřejné podniky, na seznam nebo o jejich bezplatné dostupnosti by navíc měly být vzaty v potaz dopady na hospodářskou soutěž na relevantních trzích. Tyto pravomoci by měly být vykonávány v souladu s nařízením Evropského parlamentu a Rady (EU) č. 182/2011  ( 21 ) .
+
+
+(69)
+
+
+Datové soubory s vysokou hodnotou by měly být v zájmu svého maximálního dopadu a snazšího opakovaného užití zpřístupněny pro opakované použití s minimálním právním omezením a bezplatně. Měly by být též zveřejňovány prostřednictvím rozhraní pro programování aplikací. To však nebrání subjektům veřejného sektoru bránit zpoplatňovat služby, které poskytují při výkonu veřejné moci ve vztahu k datovým souborům s vysokou hodnotou, zejména ověřování pravosti či věrohodnosti dokumentů.
+
+
+(70)
+
+
+Jelikož cílů této směrnice, totiž usnadnění tvorby informačních produktů a služeb na úrovni Unie založených na dokumentech veřejného sektoru a zajištění účinného využívání dokumentů veřejného sektoru, které překračuje hranice států, soukromými podniky, zejména malými a středními podniky, v zájmu rozvoje informačních produktů a služeb s přidanou hodnotou a také občany v zájmu usnadnění volného oběhu informací a komunikace, nemůže být uspokojivě dosaženo na úrovni členských států, nýbrž spíše jich může být z důvodu celounijního rozsahu navrhovaného opatření lépe dosaženo na úrovni Unie, může Unie přijmout opatření v souladu se zásadou subsidiarity stanovenou v článku 5 Smlouvy o Evropské unii. V souladu se zásadou proporcionality stanovenou v uvedeném článku nepřekračuje tato směrnice rámec toho, co je nezbytné pro dosažení těchto cílů.
+
+
+(71)
+
+
+Tato směrnice dodržuje základní práva a ctí zásady uznávané zejména Listinou, včetně práva na soukromí, práva na ochranu osobních údajů, práva na vlastnictví a začlenění osob se zdravotním postižením. Žádné ustanovení této směrnice by nemělo být vykládáno nebo uplatňováno způsobem, který není slučitelný s Evropskou úmluvou o ochraně lidských práv a základních svobod Rady Evropy.
+
+
+(72)
+
+
+Evropský inspektor ochrany údajů byl konzultován v souladu s čl. 28 odst. 2 nařízení Evropského parlamentu a Rady (ES) č. 45/2001  ( 22 ) a vydal své stanovisko dne 10. července 2018  ( 23 ) .
+
+
+(73)
+
+
+Komise by měla provést hodnocení této směrnice. Podle interinstitucionální dohody ze dne 13. dubna 2016 o zdokonalení tvorby právních předpisů by uvedené hodnocení mělo být založeno na pěti kritériích, jimiž je účinnost, účelnost, relevance, soudržnost a přidaná hodnota, a mělo by sloužit jako základ pro posouzení dopadů možných budoucích opatření.
+
+
+(74)
+
+
+Touto směrnicí by neměly být dotčeny povinnosti členských států týkající se lhůt pro provedení zmíněných směrnic ve vnitrostátním právu uvedených v příloze II části B,
+
+
+PŘIJALY TUTO SMĚRNICI:
+
+
+KAPITOLA I
+
+
+OBECNÁ USTANOVENÍ
+
+
+Článek 1
+
+
+Předmět a oblast působnosti
+
+
+1.   Na podporu používání otevřených dat a k podnícení inovace produktů a služeb stanoví tato směrnice soubor minimálních pravidel pro opakované použití a praktická opatření pro usnadnění opakovaného použití:
+
+
+a)
+
+
+stávajících dokumentů, které mají v držení subjekty veřejného sektoru členských států;
+
+
+b)
+
+
+stávajících dokumentů, které mají v držení veřejné podniky, které:
+
+
+i)
+
+
+jsou činné v oblastech vymezených ve směrnici 2014/25/EU;
+
+
+ii)
+
+
+jednají jako poskytovatelé veřejných služeb podle článku 2 nařízení (ES) č. 1370/2007;
+
+
+iii)
+
+
+jednají jako letečtí dopravci, kteří plní závazky veřejné služby podle článku 16 nařízení (ES) č. 1008/2008, nebo
+
+
+iv)
+
+
+jednají jako majitelé lodí ze Společenství, kteří plní závazky veřejných služeb podle článku 4 nařízení (EHS) č. 3577/92;
+
+
+c)
+
+
+údajů z výzkumu za podmínek stanovených v článku 10.
+
+
+2.   Tato směrnice se nevztahuje na:
+
+
+a)
+
+
+dokumenty, jejichž poskytování nepatří mezi veřejné úkoly dotčených subjektů veřejného sektoru vymezené zákonem nebo jinými závaznými předpisy v daném členském státě, nebo nejsou-li takové předpisy, vymezené v souladu s obecnou správní praxí v dotčeném členském státě, za předpokladu, že rozsah těchto veřejných úkolů je transparentní a podléhá přezkumu;
+
+
+b)
+
+
+dokumenty, které mají v držení veřejné podniky a jež:
+
+
+i)
+
+
+byly vytvořeny mimo rámec poskytování služeb v obecném zájmu vymezených zákonem nebo jinými závaznými předpisy v daném členském státě;
+
+
+ii)
+
+
+jsou spojeny s činnostmi přímo vystavenými hospodářské soutěži, a tudíž se na ně podle článku 34 směrnice 2014/25/EU nevztahují pravidla pro zadávání zakázek;
+
+
+c)
+
+
+dokumenty, ke kterým mají třetí strany práva duševního vlastnictví;
+
+
+d)
+
+
+dokumenty, jako jsou citlivé údaje, které nejsou přístupné na základě režimů přístupu v členském státě, včetně z důvodů:
+
+
+i)
+
+
+ochrany národní bezpečnosti (tj. bezpečnosti státu), obrany nebo veřejné bezpečnosti,
+
+
+ii)
+
+
+statistické důvěrnosti,
+
+
+iii)
+
+
+obchodní důvěrnosti (včetně obchodního, profesního nebo firemního tajemství);
+
+
+e)
+
+
+dokumenty, k nimž je vyloučen nebo omezen přístup z důvodu citlivých informací týkajících se ochrany kritické infrastruktury ve smyslu čl. 2 písm. d) směrnice 2008/114/ES;
+
+
+f)
+
+
+dokumenty, k nimž je omezen přístup na základě režimů přístupu v členských státech, včetně případů, kdy občané nebo právnické osoby musí pro získání přístupu k dokumentům prokázat zvláštní zájem;
+
+
+g)
+
+
+loga, heraldické znaky a insignie;
+
+
+h)
+
+
+dokumenty, k nimž je vyloučen nebo omezen přístup na základě režimů přístupu z důvodu ochrany osobních údajů, a podle těchto režimů přístupné části dokumentů, které obsahují osobní údaje, jejichž opakované použití bylo právně vymezeno jako jednání v rozporu s právními předpisy na ochranu osob v souvislosti se zpracováním osobních údajů nebo jako jednání oslabující ochranu soukromí a osobnosti jednotlivce, zejména v souladu s unijním nebo vnitrostátním právem týkajícím se ochrany osobních údajů;
+
+
+i)
+
+
+dokumenty, které mají v držení organizace pro veřejnoprávní vysílání a jejich dceřiné společnosti a ostatní subjekty nebo jejich dceřiné společnosti k plnění služby veřejnoprávního vysílání;
+
+
+j)
+
+
+dokumenty, které mají v držení kulturní instituce jiné než knihovny včetně univerzitních, muzea a archivy;
+
+
+k)
+
+
+dokumenty, které mají v držení vzdělávací instituce sekundární a nižší úrovně, a u všech ostatních vzdělávacích zařízení dokumenty jiné než uvedené v odst. 1 písm. c);
+
+
+l)
+
+
+dokumenty jiné než uvedené v odst. 1 písm. c), které mají v držení organizace provádějící výzkum a organizace financující výzkum, včetně organizací pro předávání výsledků výzkumu.
+
+
+3.   Tato směrnice se opírá o unijní a vnitrostátní režimy přístupu, které jí však nejsou dotčeny.
+
+
+4.   Touto směrnicí není dotčeno unijní ani vnitrostátní právo v oblasti ochrany osobních údajů, zejména nařízení (EU) 2016/679 a směrnice 2002/58/ES, jakož i odpovídající vnitrostátní předpisy.
+
+
+5.   Závazky uložené v souladu s touto směrnicí se použijí, pouze pokud jsou slučitelné s mezinárodními dohodami o ochraně práv duševního vlastnictví, zejména Bernskou úmluvou, dohodou TRIPS a Smlouvou Světové organizace duševního vlastnictví o právu autorském.
+
+
+6.   Subjekty veřejného sektoru nevykonávají právo pořizovatele databáze podle čl. 7 odst. 1 směrnice 96/9/ES s cílem bránit opakovanému použití dokumentů nebo je omezit nad rámec stanovený touto směrnicí.
+
+
+7.   Tato směrnice upravuje opakované použití stávajících dokumentů, které mají v držení subjekty veřejného sektoru a veřejné podniky členských států, včetně dokumentů, na něž se vztahuje směrnice 2007/2/ES.
+
+
+Článek 2
+
+
+Definice
+
+
+Pro účely této směrnice se rozumí:
+
+
+1)
+
+
+„subjektem veřejného sektoru“ stát, regionální nebo místní orgán, veřejnoprávní subjekt nebo sdružení tvořené jedním nebo více takovými orgány nebo jedním nebo více takovými veřejnoprávními subjekty;
+
+
+2)
+
+
+„veřejnoprávním subjektem“ subjekt se všemi těmito vlastnostmi:
+
+
+a)
+
+
+je založen za zvláštním účelem spočívajícím v uspokojování potřeb veřejného zájmu, který nemá průmyslovou nebo obchodní povahu;
+
+
+b)
+
+
+má právní subjektivitu a
+
+
+c)
+
+
+je financován převážně státem, regionálními nebo místními orgány nebo jinými veřejnoprávními subjekty; nebo podléhá řídícímu dohledu těchto orgánů nebo subjektů; nebo je v jeho správním, řídícím nebo dozorčím orgánu více než polovina členů jmenována státem, regionálními nebo místními orgány nebo jinými veřejnoprávními subjekty;
+
+
+3)
+
+
+„veřejným podnikem“ podnik činný v oblastech stanovených v čl. 1 odst. 1 písm. b), ve kterém subjekty veřejného sektoru mohou vykonávat přímo nebo nepřímo dominantní vliv na základě vlastnických práv k podniku, finanční účasti v něm nebo pravidel, jimiž se řídí. Dominantní vliv na část subjektů veřejného sektoru se předpokládá, pokud v kterémkoli z níže uvedených případů tyto subjekty přímo či nepřímo:
+
+
+a)
+
+
+drží většinu upsaného základního kapitálu podniku;
+
+
+b)
+
+
+disponují většinou hlasovacích práv vyplývajících z podílu na podniku, nebo
+
+
+c)
+
+
+mohou jmenovat více než polovinu členů správního, řídícího nebo dozorčího orgánu podniku;
+
+
+4)
+
+
+„univerzitou“ jakýkoli subjekt veřejného sektoru poskytující vyšší postsekundární vzdělávání vedoucí k získání akademické hodnosti;
+
+
+5)
+
+
+„standardní licencí“ soubor předem vymezených podmínek pro opakované použití v digitálním formátu, pokud možno slučitelném se standardizovanými veřejnými licencemi dostupnými online;
+
+
+6)
+
+
+„dokumentem“:
+
+
+a)
+
+
+jakýkoli obsah na jakémkoli nosiči (v listinné či elektronické podobě nebo jako zvuková, vizuální nebo audiovizuální nahrávka) nebo
+
+
+b)
+
+
+jakákoli část takového obsahu;
+
+
+7)
+
+
+„anonymizací“ proces přeměny dokumentů na anonymní dokumenty, které se netýkají identifikované či identifikovatelné fyzické osoby, nebo proces anonymizace osobních údajů takovým způsobem, že subjekt údajů není nebo již přestal být identifikovatelným;
+
+
+8)
+
+
+„dynamickými daty“ dokumenty v digitální formě, které podléhají průběžné aktualizaci či aktualizaci v reálném čase, zejména z důvodu jejich proměnlivosti či rychlého zastarávání; za dynamická data se typicky považují data získaná senzory;
+
+
+9)
+
+
+„údaji z výzkumu“ dokumenty v digitální formě, kromě vědeckých publikací, které jsou shromažďovány nebo vytvářeny v průběhu činností vědeckého výzkumu a jsou používány jako důkazy v procesu výzkumu, nebo které jsou obecně akceptovány výzkumnou obcí jako nezbytné k validaci zjištění a výsledků výzkumu;
+
+
+10)
+
+
+„datovými soubory s vysokou hodnotou“ dokumenty, jejichž opakované použití je spojeno s významnými přínosy pro společnost, životní prostředí a hospodářství, zejména kvůli jejich vhodnosti pro tvorbu služeb s přidanou hodnotou, aplikací a nových, kvalitních a důstojných pracovních míst, jakož i počtu potenciálních příjemců služeb a aplikací s přidanou hodnotou založených na těchto datových souborech;
+
+
+11)
+
+
+„opakovaným použitím“:
+
+
+a)
+
+
+použití dokumentů, které mají v držení subjekty veřejného sektoru, fyzickými nebo právnickými osobami pro komerční nebo nekomerční účely jiné, než je původní účel v rámci veřejného úkolu, pro který byly vytvořeny, kromě výměny dokumentů mezi subjekty veřejného sektoru výhradně při plnění jejich veřejných úkolů; nebo
+
+
+b)
+
+
+použití dokumentů, které mají v držení veřejné podniky, fyzickými nebo právnickými osobami pro komerční nebo nekomerční účely jiné, než je původní účel poskytování služeb obecného zájmu, pro který byly vytvořeny, kromě výměny dokumentů mezi veřejnými podniky a subjekty veřejného sektoru výhradně při plnění veřejných úkolů subjektů veřejného sektoru;
+
+
+12)
+
+
+„osobními údaji“ osobní údaje definované v čl. 4 bodě 1 nařízení (EU) 2016/679;
+
+
+13)
+
+
+„strojově čitelným formátem“ formát souboru s takovou strukturou, která umožňuje softwarovým aplikacím snadno v něm nalézt, rozpoznat a získat z něj konkrétní údaje, včetně jednotlivých uvedených fakt a jejich vnitřní struktury;
+
+
+14)
+
+
+„otevřeným formátem“ formát souboru, který není závislý na žádné platformě a je zpřístupněn veřejnosti bez jakéhokoli omezení, které by znemožňovalo opakované použití dokumentů;
+
+
+15)
+
+
+„otevřenou formální normou“ norma, která byla písemně stanovena a obsahuje specifikace požadavků na zajištění interoperability softwaru;
+
+
+16)
+
+
+„přiměřenou návratností investic“ procentní podíl celkového poplatku nad rámec toho, co je zapotřebí k zpětnému získání způsobilých nákladů, jenž nepřesahuje pět procentních bodů nad pevnou úrokovou sazbou ECB;
+
+
+17)
+
+
+„třetí stranou“ fyzická nebo právnická osoba, jež není subjektem veřejného sektoru ani veřejným podnikem, která má údaje v držení.
+
+
+Článek 3
+
+
+Obecná zásada
+
+
+1.   S výhradou odstavce 2 tohoto článku členské státy zajistí, aby byly dokumenty, na které se vztahuje tato směrnice v souladu s článkem 1, opakovaně použitelné pro komerční nebo nekomerční účely v souladu s kapitolami III a IV.
+
+
+2.   Je-li povoleno opakované použití dokumentů, k nimž mají práva duševního vlastnictví knihovny včetně univerzitních, muzea a archivy, a dokumentů, jež mají v držení veřejné podniky, členské státy zajistí, aby tyto dokumenty byly opakovaně použitelné pro komerční nebo nekomerční účely v souladu s kapitolami III a IV.
+
+
+KAPITOLA II
+
+
+ŽÁDOSTI O OPAKOVANÉ POUŽITÍ
+
+
+Článek 4
+
+
+Zpracování žádostí o opakované použití
+
+
+1.   Subjekty veřejného sektoru zpracují žádosti o opakované použití a zpřístupní dokument žadateli pro opakované použití, nebo je-li zapotřebí licence, předloží žadateli konečnou licenční nabídku v přiměřené lhůtě, která odpovídá lhůtám pro zpracování žádostí o přístup k dokumentům; pokud je to možné a vhodné, použijí k tomu elektronické prostředky.
+
+
+2.   Nebyly-li stanoveny žádné lhůty nebo jiná pravidla pro včasné poskytování dokumentů, subjekty veřejného sektoru zpracují žádost a poskytnou žadateli dokumenty k opakovanému použití nebo, je-li zapotřebí licence, předloží žadateli konečnou licenční nabídku co nejdříve a v každém případě do 20 pracovních dnů od přijetí žádosti. U rozsáhlých nebo složitých žádostí může být tato lhůta prodloužena o dalších 20 pracovních dnů. V těchto případech je žadatel co nejdříve a v každém případě do tří týdnů od podání původní žádosti informován, že je k jejímu zpracování zapotřebí více času, a o důvodech této potřeby.
+
+
+3.   Při zamítavém rozhodnutí sdělí subjekty veřejného sektoru žadateli důvody zamítnutí založené na příslušných ustanoveních režimu přístupu v dotyčném členském státě nebo na předpisech provádějících tuto směrnici, zejména čl. 1 odst. 2 písm. a) až h) nebo článek 3. Je-li zamítavé rozhodnutí založeno na čl. 1 odst. 2 písm. c), odkáže subjekt veřejného sektoru na fyzickou nebo právnickou osobu, která je nositelem práv, je-li známa, nebo na poskytovatele licence, od něhož subjekt veřejného sektoru získal dotčený materiál. Knihovny včetně univerzitních, muzea a archivy takový odkaz učinit nemusí.
+
+
+4.   Každé rozhodnutí o opakovaném použití musí obsahovat odkaz na prostředky pro zjednání nápravy, chce-li žadatel rozhodnutí napadnout. Prostředky pro zjednání nápravy zahrnují možnost přezkumu nestranným přezkumným orgánem s patřičnou odborností, jako je vnitrostátní orgán pro hospodářskou soutěž, příslušný orgán pro přístup k dokumentům, dozorový úřad zřízený v souladu s nařízením (EU) 2016/679 nebo vnitrostátní soudní orgán, jehož rozhodnutí jsou pro dotčený subjekt veřejného sektoru závazná.
+
+
+5.   Členské státy stanoví pro účely tohoto článku praktická opatření pro usnadnění účinného opakovaného použití dokumentů. Tato opatření mohou zahrnovat zejména způsoby poskytování přiměřených informací o právech stanovených v této směrnici a nabízení příslušné pomoci a vedení.
+
+
+6.   Požadavky tohoto článku nemusí splňovat tyto subjekty:
+
+
+a)
+
+
+veřejné podniky;
+
+
+b)
+
+
+vzdělávací zařízení, organizace provádějící výzkum a organizace financující výzkum.
+
+
+KAPITOLA III
+
+
+PODMÍNKY OPAKOVANÉHO POUŽITÍ
+
+
+Článek 5
+
+
+Dostupné formáty
+
+
+1.   Aniž je dotčena kapitola V, poskytují subjekty veřejného sektoru a veřejné podniky své dokumenty v jakémkoliv již existujícím formátu nebo jazyce, a pokud je to možné a vhodné, elektronickými prostředky ve formátech, jež jsou otevřené, strojově čitelné, dostupné, vyhledatelné a opětovně použitelné, spolu s jejich metadaty. Formát i metadata pokud možno splňují formální otevřené normy.
+
+
+2.   Členské státy vybízejí subjekty veřejného sektoru a veřejné podniky, aby vytvářely a zpřístupňovaly dokumenty spadající do oblasti působnosti této směrnice v souladu se zásadami „otevřených dat již od návrhu“ a „standardního zpřístupnění dokumentů ve formě otevřených dat“.
+
+
+3.   Odstavec 1 nezakládá povinnost subjektů veřejného sektoru vytvářet nebo upravovat dokumenty nebo poskytovat výtahy z dokumentů, aby splnily požadavky v něm stanovené, pokud by to představovalo nepřiměřené úsilí překračující rámec jednoduché operace.
+
+
+4.   Subjekty veřejného sektoru nejsou na základě této směrnice povinny pokračovat ve vytváření a uchovávání určitého druhu dokumentů za účelem jejich opakovaného použití organizací soukromého nebo veřejného sektoru.
+
+
+5.   Subjekty veřejného sektoru zpřístupní dynamická data pro opakované použití bezprostředně po jejich shromáždění prostřednictvím vhodných rozhraní pro programování aplikací a tam, kde je to relevantní, též s možností stažení kompletní datové sady.
+
+
+6.   Pokud by zpřístupnění dynamických dat pro opakované použití bezprostředně po jejich shromáždění podle odstavce 5 přesáhlo finanční a technickou kapacitu subjektu veřejného sektoru, v důsledku čehož by bylo třeba neúměrného úsilí, zpřístupní se tato dynamická data pro opakované použití v takovém časovém horizontu nebo s takovými dočasnými technickými omezeními, které nepřiměřeně nenaruší využití jejich hospodářského a společenského potenciálu.
+
+
+7.   Odstavce 1 až 6 se vztahují na stávající dokumenty v držení veřejných podniků, které jsou k dispozici pro opakované použití.
+
+
+8.   Datové soubory s vysokou hodnotou, jejichž seznam se stanoví podle čl. 14 odst. 1, se zpřístupní pro opakované použití ve strojově čitelném formátu prostřednictvím vhodných rozhraní pro programování aplikací a tam, kde je to relevantní, též s možností stažení kompletní datové sady.
+
+
+Článek 6
+
+
+Zásady vybírání poplatků
+
+
+1.   Opakované použití dokumentů je bezplatné.
+
+
+Může však být povoleno účtovat mezní náklady vynaložené na reprodukci, zpřístupňování a šíření dokumentů, jakož i na anonymizaci osobních údajů a na opatření přijatá na ochranu důvěrných obchodních informací.
+
+
+2.   Jako výjimka se odstavec 1 nevztahuje na:
+
+
+a)
+
+
+subjekty veřejného sektoru, které jsou povinny vytvářet příjmy k úhradě podstatné části svých nákladů souvisejících s plněním jejich veřejných úkolů;
+
+
+b)
+
+
+knihovny včetně univerzitních, muzea a archivy;
+
+
+c)
+
+
+veřejné podniky.
+
+
+3.   Členské státy zveřejní online seznam subjektů veřejného sektoru uvedených v odst. 2 písm. a).
+
+
+4.   V případech uvedených v odst. 2 písm. a) a c) se celková výše poplatků vypočítá podle objektivních, transparentních a ověřitelných kritérií. Uvedená kritéria stanoví členské státy.
+
+
+Celkový příjem z poskytování a povolování opakovaného použití dokumentů za vhodné účetní období nesmí přesáhnout náklady na jejich shromažďování, vytváření, reprodukci, šíření a uchovávání údajů se započítáním přiměřené návratnosti investic, jakož i na případnou anonymizaci osobních údajů a na případná opatření přijatá za účelem ochrany důvěrných obchodních informací.
+
+
+Poplatky se vypočítávají v souladu s použitelnými účetními zásadami.
+
+
+5.   Pokud poplatky vybírají subjekty veřejného sektoru uvedené v odst. 2 písm. b), nesmí celkový příjem z poskytování a povolování opakovaného použití dokumentů za vhodné účetní období přesahovat náklady na jejich shromažďování, vytváření, reprodukci, šíření, uchovávání údajů, uchovávání a zúčtování práv, jakož i na případnou anonymizaci osobních údajů a na případná opatření přijatá na ochranu důvěrných obchodních informací, se započítáním přiměřené návratnosti investic.
+
+
+Poplatky se vypočítávají v souladu s účetními zásadami použitelnými na dotčené subjekty veřejného sektoru.
+
+
+6.   Opakované použití těchto dokumentů je pro uživatele bezplatné:
+
+
+a)
+
+
+s výhradou čl. 14 odst. 3, 4 a 5, datových souborů s vysokou hodnotou, jejichž seznam se stanoví v souladu s odstavcem 1 uvedeného článku;
+
+
+b)
+
+
+údajů z výzkumu uvedených v čl. 1 odst. 1 písm. c).
+
+
+Článek 7
+
+
+Transparentnost
+
+
+1.   Skutečná výše standardních poplatků za opakované použití dokumentů, včetně základu pro jejich výpočet, a veškeré na ně se vztahující podmínky musí být stanoveny předem, a pokud je to možné a vhodné, zveřejněny elektronickými prostředky.
+
+
+2.   U jiných poplatků za opakované použití než těch, které jsou uvedeny v odstavci 1, se předem uvedou faktory, jež jsou při jejich výpočtu zohledněny. Držitel těchto dokumentů také na žádost uvede způsob výpočtu těchto poplatků ve vztahu ke konkrétní žádosti o opakované použití.
+
+
+3.   Subjekty veřejného sektoru zajistí, aby byli žadatelé o opakované použití dokumentů informováni o dostupných prostředcích pro zjednání nápravy ohledně rozhodnutí nebo postupů, které se jich týkají.
+
+
+Článek 8
+
+
+Standardní licence
+
+
+1.   Opakované použití dokumentů smí podléhat pouze podmínkám, které jsou objektivní, přiměřené, nediskriminační a odůvodněné cílem veřejného zájmu.
+
+
+Podléhá-li opakované použití podmínkám, nesmějí tyto podmínky zbytečně omezovat možnosti opakovaného použití a nesmějí být použity k omezení hospodářské soutěže.
+
+
+2.   Členské státy, ve kterých se používají licence, zajistí, aby standardní licence pro opakované použití dokumentů veřejného sektoru, které mohou být přizpůsobeny zvláštním licenčním žádostem, byly dostupné v elektronické formě a mohly být zpracovávány elektronicky. Členské státy podporují používání těchto standardních licencí.
+
+
+Článek 9
+
+
+Praktická opatření
+
+
+1.   Členské státy učiní praktická opatření, která usnadňují vyhledávání dokumentů dostupných pro opakované použití, jako jsou seznamy fondů hlavních dokumentů s příslušnými metadaty, které jsou přístupné, pokud je to možné a vhodné, online a ve strojově čitelném formátu, a internetové portály, které jsou s těmito seznamy fondů propojeny. Kdykoli je to možné, vytvoří členské státy podmínky pro vícejazyčné vyhledávání dokumentů, zejména tím, že umožní shromažďování metadat na úrovni Unie.
+
+
+Členské státy rovněž vybízejí subjekty veřejného sektoru, aby přijaly praktická opatření usnadňující uchovávání dokumentů dostupných pro opakované použití.
+
+
+2.   Členské státy ve spolupráci s Komisí pokračují v úsilí na zjednodušení přístupu k datovým souborům, zejména poskytnutím jednotného přístupového bodu a postupným zpřístupňováním vhodných datových souborů v držení subjektů veřejného sektoru s ohledem na všechny dokumenty, na které se tato směrnice vztahuje, jakož i k údajům v držení orgánů Unie, a to ve formátech, které jsou přístupné, snadno vyhledatelné a opětovně použitelné elektronickými prostředky.
+
+
+Článek 10
+
+
+Údaje z výzkumu
+
+
+1.   Členské státy podporují dostupnost údajů z výzkumu tím, že přijmou vnitrostátní politiky a příslušná opatření s cílem otevřeně zpřístupnit všechny údaje z výzkumu financovaného z veřejných prostředků („politiky otevřeného přístupu“) podle zásady „standardního zpřístupnění dokumentů ve formě otevřených dat“ a slučitelných se zásadami FAIR. V této souvislosti by měly být zohledněny obavy týkající se práv duševního vlastnictví, ochrany osobních údajů a důvěrnosti, bezpečnosti a oprávněných obchodních zájmů, v souladu se zásadou „co nejotevřenější, uzavřené podle potřeby“. Tyto politiky otevřeného přístupu se zaměřují na organizace provádějící výzkum a organizace financující výzkum.
+
+
+2.   Aniž je dotčen čl. 1 odst. 2 písm. c), jsou údaje z výzkumu opakovaně použitelné pro komerční nebo nekomerční účely v souladu s kapitolami III a IV, jsou-li financované z veřejných zdrojů a výzkumní pracovníci, organizace provádějící výzkum nebo organizace financující výzkum je již zpřístupnili veřejnosti prostřednictvím institucionálního nebo tematického archivu. V této souvislosti se zohlední oprávněné obchodní zájmy, činnosti v oblasti předávání znalostí a již existující práva duševního vlastnictví.
+
+
+KAPITOLA IV
+
+
+NEDISKRIMINACE A POCTIVÝ OBCHOD
+
+
+Článek 11
+
+
+Nediskriminace
+
+
+1.   Podmínky opakovaného použití dokumentů musí být nediskriminační pro srovnatelné kategorie opakovaného použití, včetně přeshraničního opakovaného použití.
+
+
+2.   Pokud subjekt veřejného sektoru opakovaně používá dokumenty jako výchozí materiál pro své komerční činnosti, které přesahují rámec jeho veřejných úkolů, použijí se pro poskytování dokumentů k těmto činnostem tytéž poplatky a ostatní podmínky jako pro jiné uživatele.
+
+
+Článek 12
+
+
+Výhradní dohody
+
+
+1.   Opakované použití dokumentů je přístupné všem potenciálním účastníkům trhu, i když jeden nebo více účastníků trhu již využívají výrobků s přidanou hodnotou založených na těchto dokumentech. Smlouvy nebo jiné dohody mezi subjekty veřejného sektoru nebo veřejnými podniky, které mají dokumenty v držení, a třetími stranami nesmějí udělovat výhradní práva.
+
+
+2.   Je-li však pro poskytování služby ve veřejném zájmu výhradní právo nezbytné, je platnost důvodů udělení takového výhradního práva pravidelně přezkoumávána, a to alespoň každé tři roky. Výhradní dohody uzavřené dne 16. července 2019 nebo později se zveřejní online nejméně dva měsíce předtím, než nabudou účinnosti. Konečné podmínky těchto dohod musí být transparentní a musí být zveřejněny online.
+
+
+Tento odstavec se nevztahuje na digitalizaci kulturních zdrojů.
+
+
+3.   Bez ohledu na odstavec 1, týká-li se výhradní právo digitalizace kulturních zdrojů, nesmí doba jeho trvání obecně překročit deset let. Překročí-li tato doba deset let, přezkoumá se trvání tohoto výhradního práva v jedenáctém roce a popřípadě každých sedm následujících let.
+
+
+Dohody udělující výhradní práva uvedená v prvním pododstavci musí být transparentní a musí být zveřejňovány.
+
+
+Pokud existuje výhradní právo uvedené v prvním pododstavci, dotčenému subjektu veřejného sektoru je jako součást takové dohody bezplatně poskytnuta kopie digitalizovaných kulturních zdrojů. Tato kopie je po skončení trvání výhradního práva k dispozici k opakovanému použití.
+
+
+4.   Právní nebo praktická opatření, jež mají, aniž by výslovně udělila výhradní právo, vést k omezení dostupnosti dokumentů pro opakované použití pro jiné subjekty než třetí stranu účastnící se dohody nebo od nichž lze toto omezení důvodně očekávat, se zveřejní online nejméně dva měsíce před svým vstupem v platnost. Účinek takových právních nebo praktických opatření na dostupnost údajů pro opakované použití je pravidelně přezkoumáván, a to alespoň každé tři roky. Konečné podmínky těchto opatření musí být transparentní a musí být zveřejněny online.
+
+
+5.   Výhradní dohody platné k 17. červenci 2013, na které se nevztahují výjimky stanovené v odstavcích 2 a 3 a které uzavřely subjekty veřejného sektoru, se ukončí dnem konce platnosti smlouvy, nejpozději však 18. července 2043.
+
+
+Výhradní dohody platné k 16. červenci 2019, na které se nevztahují výjimky stanovené v odstavcích 2 a 3 a které uzavřely subjekty veřejného sektoru, se ukončí dnem konce platnosti smlouvy, avšak nejpozději 17. července 2049.
+
+
+KAPITOLA V
+
+
+DATOVÉ SOUBORY S VYSOKOU HODNOTOU
+
+
+Článek 13
+
+
+Tematické kategorie datových souborů s vysokou hodnotou
+
+
+1.   S cílem zavést podmínky podporující opakované použití datových souborů s vysokou hodnotou je v příloze I uveden seznam tematických kategorií takových datových souborů.
+
+
+2.   Komisi je svěřena pravomoc přijímat akty v přenesené pravomoci v souladu s článkem 15, jimiž změní přílohu I doplněním nových tematických kategorií datových souborů s vysokou hodnotou s cílem odrážet vývoj v oblasti technologií a trhu.
+
+
+Článek 14
+
+
+Konkrétní datové soubory s vysokou hodnotou a opatření pro zveřejnění a opakovaného použití
+
+
+1.   Komise přijme prováděcí akty, kterými stanoví seznam konkrétních datových souborů s vysokou hodnotou, které náleží do kategorií uvedených v příloze I a které mají v držení subjekty veřejného sektoru a veřejné podniky v rámci dokumentů, na které se vztahuje tato směrnice.
+
+
+Tyto konkrétní datové soubory s vysokou hodnotou musí být:
+
+
+a)
+
+
+dostupné bezplatně, s výhradou odstavců 3, 4 a 5;
+
+
+b)
+
+
+strojově čitelné;
+
+
+c)
+
+
+přístupné prostřednictvím rozhraní pro programování aplikací a
+
+
+d)
+
+
+tam, kde je to relevantní, poskytnuty s možností stažení kompletní datové sady.
+
+
+Tyto prováděcí akty mohou upřesnit opatření ke zveřejnění a opakovanému použití datových souborů s vysokou hodnotou. Uvedená opatření musí být slučitelná s otevřenými standardními licencemi.
+
+
+Opatření mohou zahrnovat podmínky platné pro opakované použití, formáty údajů a metadat a technické postupy jejich šíření. Investice členských států do postupů otevřených dat, jako jsou investice do vývoje a zavádění určitých norem, se zváží proti případným přínosům ze zařazení na seznam.
+
+
+Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 16 odst. 2.
+
+
+2.   Určení konkrétních datových souborů s vysokou hodnotou podle odstavce 1 se zakládá na hodnocení jejich potenciálu:
+
+
+a)
+
+
+vytvářet významné socioekonomické přínosy nebo přínosy v oblasti životního prostředí a inovativní služby;
+
+
+b)
+
+
+být prospěšné vysokému počtu uživatelů, zejména malých a středních podniků;
+
+
+c)
+
+
+pomáhat při vytváření příjmů a
+
+
+d)
+
+
+být kombinovány s jinými datovými soubory.
+
+
+Za účelem určení konkrétních datových souborů s vysokou hodnotou Komise provede odpovídající konzultace, a to i na odborné úrovni, vypracuje posouzení dopadu a zajistí doplňkovost se stávajícími právními akty, jako je směrnice 2010/40/EU, pokud jde o opakované použití dokumentů. Součástí tohoto posouzení dopadu bude analýza nákladů a přínosů a analýza toho, zda by bezplatné poskytování datových souborů s vysokou hodnotou subjekty veřejného sektoru, které jsou povinny vytvářet příjmy k úhradě podstatné části svých nákladů souvisejících s plněním jejich veřejných úkolů, mělo výrazný dopad na rozpočet těchto subjektů. Pokud jde o datové soubory s vysokou hodnotou v držení veřejných podniků, v posouzení dopadů se zvlášť zohlední úloha veřejných podniků v konkurenčním hospodářském prostředí.
+
+
+3.   Odchylně od odst. 1 druhého pododstavce písm. a) stanoví prováděcí akty uvedené v odstavci 1, že se bezplatná dostupnost datových souborů s vysokou hodnotou nevztahuje na konkrétní datové soubory s vysokou hodnotou v držení veřejných podniků, pokud by jejich bezplatné zpřístupnění mělo za následek značné narušení hospodářské soutěže na relevantních trzích.
+
+
+4.   Požadavek bezplatně zpřístupnit datové soubory s vysokou hodnotou podle odst. 1 druhého pododstavce písm. a) se nevztahuje na knihovny včetně univerzitních, muzea a archivy.
+
+
+5.   Pokud by bezplatné zpřístupnění datových souborů s vysokou hodnotou subjekty veřejného sektoru, které jsou povinny vytvářet příjmy k úhradě podstatné části svých nákladů souvisejících s plněním jejich veřejných úkolů, měla výrazný dopad na rozpočet dotčených subjektů, mohou členské státy vyjmout tyto subjekty z požadavku bezplatně zpřístupnit tyto datové soubory s vysokou hodnotou po dobu, jež nepřesáhne dva roky po vstupu příslušného prováděcího aktu přijatého v souladu s odstavcem 1 v platnost.
+
+
+KAPITOLA VI
+
+
+ZÁVĚREČNÁ USTANOVENÍ
+
+
+Článek 15
+
+
+Výkon přenesené pravomoci
+
+
+1.   Pravomoc přijímat akty v přenesené pravomoci je svěřena Komisi za podmínek stanovených v tomto článku.
+
+
+2.   Pravomoc přijímat akty v přenesené pravomoci uvedená v čl. 13 odst. 2 je svěřena Komisi na dobu pěti let ode dne 16. července 2019. Komise vyhotoví zprávu o přenesené pravomoci nejpozději devět měsíců před koncem tohoto pětiletého období. Přenesení pravomoci se automaticky prodlužuje o stejně dlouhá období, pokud Evropský parlament nebo Rada nevysloví proti tomuto prodloužení námitku nejpozději tři měsíce před koncem každého z těchto období.
+
+
+3.   Evropský parlament nebo Rada mohou přenesení pravomoci uvedené v čl. 13 odst. 2 kdykoli zrušit. Rozhodnutím o zrušení se ukončuje přenesení pravomoci v něm blíže určené. Rozhodnutí nabývá účinku prvním dnem po zveřejnění v  Úředním věstníku Evropské unie , nebo k pozdějšímu dni, který je v něm upřesněn. Nedotýká se platnosti již platných aktů v přenesené pravomoci.
+
+
+4.   Před přijetím aktu v přenesené pravomoci Komise vede konzultace s odborníky jmenovanými jednotlivými členskými státy v souladu se zásadami stanovenými v interinstitucionální dohodě ze dne 13. dubna 2016 o zdokonalení tvorby právních předpisů.
+
+
+5.   Přijetí aktu v přenesené pravomoci Komise neprodleně oznámí současně Evropskému parlamentu a Radě.
+
+
+6.   Akt v přenesené pravomoci přijatý podle čl. 13 odst. 2 vstoupí v platnost, pouze pokud proti němu Evropský parlament nebo Rada nevysloví námitky ve lhůtě tří měsíců ode dne, kdy jim byl tento akt oznámen, nebo pokud Evropský parlament i Rada před uplynutím této lhůty informují Komisi o tom, že námitky nevysloví. Z podnětu Evropského parlamentu nebo Rady se tato lhůta prodlouží o tři měsíce.
+
+
+Článek 16
+
+
+Postup projednávání ve výboru
+
+
+1.   Komisi je nápomocen Výbor pro otevřená data a opakované použití informací veřejného sektoru. Tento výbor je výborem ve smyslu nařízení (EU) č. 182/2011.
+
+
+2.   Odkazuje-li se na tento odstavec, použije se článek 5 nařízení (EU) č. 182/2011.
+
+
+Článek 17
+
+
+Provedení ve vnitrostátním právu
+
+
+1.   Členské státy uvedou v účinnost právní a správní předpisy nezbytné pro dosažení souladu s touto směrnicí do 17. července 2021. Jejich znění sdělí neprodleně Komisi.
+
+
+Tyto předpisy přijaté členskými státy musí obsahovat odkaz na tuto směrnici nebo musí být takový odkaz učiněn při jejich úředním vyhlášení. Musí rovněž obsahovat prohlášení, že odkazy ve stávajících právních a správních předpisech na směrnice zrušené touto směrnicí se považují za odkazy na tuto směrnici. Způsob odkazu a znění prohlášení si stanoví členské státy.
+
+
+2.   Členské státy sdělí Komisi znění hlavních ustanovení vnitrostátních právních předpisů, které přijmou v oblasti působnosti této směrnice.
+
+
+Článek 18
+
+
+Hodnocení Komisí
+
+
+1.   Nejdříve 17. července 2025 provede Komise hodnocení této směrnice a Evropskému parlamentu, Radě a Evropskému hospodářskému a sociálnímu výboru předloží o tomto hodnocení zprávu.
+
+
+Členské státy poskytnou Komisi informace nezbytné pro přípravu této zprávy.
+
+
+2.   Hodnocení se zejména soustředí na oblast působnosti a společenský a hospodářský dopad této směrnice, včetně:
+
+
+a)
+
+
+míry zvýšení opakovaného použití dokumentů veřejného sektoru, na které se tato směrnice vztahuje, zejména malými a středními podniky;
+
+
+b)
+
+
+dopadu datových souborů s vysokou hodnotou;
+
+
+c)
+
+
+vlivu zásad používaných pro vybírání poplatků a opakovaného použití úředních textů legislativní a správní povahy;
+
+
+d)
+
+
+opakovaného použití dokumentů v držení jiných subjektů než subjektů veřejného sektoru;
+
+
+e)
+
+
+dostupnosti a využívání rozhraní pro programování aplikací;
+
+
+f)
+
+
+interakce mezi pravidly pro ochranu údajů a možnostmi opakovaného použití,
+
+
+g)
+
+
+další možnosti zlepšování řádného fungování vnitřního trhu a podporujícího hospodářský rozvoj a rozvoj trhu práce.
+
+
+Článek 19
+
+
+Zrušení
+
+
+Směrnice 2003/98/ES ve znění směrnice uvedené v příloze II části A se zrušuje s účinkem ode dne 17. července 2021, aniž jsou dotčeny povinnosti členských států týkající se lhůt pro provedení směrnic uvedených v příloze II části B ve vnitrostátním právu a den jejich použitelnosti.
+
+
+Odkazy na zrušenou směrnici se považují za odkazy na tuto směrnici v souladu se srovnávací tabulkou obsaženou v příloze III.
+
+
+Článek 20
+
+
+Vstup v platnost
+
+
+Tato směrnice vstupuje v platnost dvacátým dnem po vyhlášení v  Úředním věstníku Evropské unie .
+
+
+Článek 21
+
+
+Určení
+
+
+Tato směrnice je určena členským státům.
+
+
+V Bruselu dne 20. června 2019.
+
+
+Za Evropský parlament
+
+
+předseda
+
+
+A. TAJANI
+
+
+Za Radu
+
+
+předseda
+
+
+G. CIAMBA
+
+
+( 1 )
+Úř. věst. C 62, 15.2.2019, s. 238 .
+
+
+( 2 )   Postoj Evropského parlamentu ze dne 4. dubna 2019 (dosud nezveřejněný v Úředním věstníku) a rozhodnutí Rady ze dne 6. června 2019.
+
+
+( 3 )   Směrnice Evropského parlamentu a Rady 2003/98/ES ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru ( Úř. věst. L 345, 31.12.2003, s. 90 ).
+
+
+( 4 )   Směrnice Evropského parlamentu a Rady 2013/37/EU ze dne 26. června 2013, kterou se mění směrnice 2003/98/ES o opakovaném použití informací veřejného sektoru ( Úř. věst. L 175, 27.6.2013, s. 1 ).
+
+
+( 5 )   Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů) ( Úř. věst. L 119, 4.5.2016, s. 1 ).
+
+
+( 6 )   Směrnice Evropského parlamentu a Rady 96/9/ES ze dne 11. března 1996 o právní ochraně databází ( Úř. věst. L 77, 27.3.1996, s. 20 ).
+
+
+( 7 )   Směrnice Evropského parlamentu a Rady 2003/4/ES ze dne 28. ledna 2003 o přístupu veřejnosti k informacím o životním prostředí a o zrušení směrnice Rady 90/313/EHS ( Úř. věst. L 41, 14.2.2003, s. 26 ).
+
+
+( 8 )   Směrnice Evropského parlamentu a Rady 2007/2/ES ze dne 14. března 2007 o zřízení Infrastruktury pro prostorové informace v Evropském společenství (INSPIRE) ( Úř. věst. L 108, 25.4.2007, s. 1 ).
+
+
+( 9 )   Směrnice Evropského parlamentu a Rady 2010/40/EU ze dne 7. července 2010 o rámci pro zavedení inteligentních dopravních systémů v oblasti silniční dopravy a pro rozhraní s jinými druhy dopravy ( Úř. věst. L 207, 6.8.2010, s. 1 ).
+
+
+( 10 )   Směrnice Evropského parlamentu a Rady 2014/25/EU ze dne 26. února 2014 o zadávání zakázek subjekty působícími v odvětví vodního hospodářství, energetiky, dopravy a poštovních služeb a o zrušení směrnice 2004/17/ES ( Úř. věst. L 94, 28.3.2014, s. 243 ).
+
+
+( 11 )   Nařízení Evropského parlamentu a Rady (ES) č. 1370/2007 ze dne 23. října 2007 o veřejných službách v přepravě cestujících po železnici a silnici a o zrušení nařízení Rady (EHS) č. 1191/69 a č. 1107/70 ( Úř. věst. L 315, 3.12.2007, s. 1 ).
+
+
+( 12 )   Nařízení Evropského parlamentu a Rady (ES) č. 1008/2008 ze dne 24. září 2008 o společných pravidlech pro provozování leteckých služeb ve Společenství ( Úř. věst. L 293, 31.10.2008, s. 3 ).
+
+
+( 13 )   Nařízení Rady (EHS) č. 3577/92 ze dne 7. prosince 1992 o uplatňování zásady volného pohybu služeb v námořní dopravě v členských státech (námořní kabotáž) ( Úř. věst. L 364, 12.12.1992, s. 7 ).
+
+
+( 14 )   Směrnice Rady 2008/114/ES ze dne 8. prosince 2008 o určování a označování evropských kritických infrastruktur a o posouzení potřeby zvýšit jejich ochranu ( Úř. věst. L 345, 23.12.2008, s. 75 ).
+
+
+( 15 )   Směrnice Evropského parlamentu a Rady (EU) 2016/1148 ze dne 6. července 2016 o opatřeních k zajištění vysoké společné úrovně bezpečnosti sítí a informačních systémů v Unii ( Úř. věst. L 194, 19.7.2016, s. 1 ).
+
+
+( 16 )   Směrnice Evropského parlamentu a Rady 2014/24/EU ze dne 26. února 2014 o zadávání veřejných zakázek a o zrušení směrnice 2004/18/ES ( Úř. věst. L 94, 28.3.2014, s. 65 ).
+
+
+( 17 )   Směrnice Evropského parlamentu a Rady (EU) 2016/2102 ze dne 26. října 2016 o přístupnosti internetových stránek a mobilních aplikací subjektů veřejného sektoru ( Úř. věst. L 327, 2.12.2016, s. 1 ).
+
+
+( 18 )   Směrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických telekomunikací (směrnice o soukromí a elektronických komunikacích) ( Úř. věst. L 201, 31.7.2002, s. 37 ).
+
+
+( 19 )   Směrnice Evropského parlamentu a Rady 2001/29/ES ze dne 22. května 2001 o harmonizaci určitých aspektů autorského práva a práv s ním souvisejících v informační společnosti ( Úř. věst. L 167, 22.6.2001, s. 10 ).
+
+
+( 20 )
+Úř. věst. L 123, 12.5.2016, s. 1 .
+
+
+( 21 )   Nařízení Evropského parlamentu a Rady (EU) č. 182/2011 ze dne 16. února 2011, kterým se stanoví pravidla a obecné zásady způsobu, jakým členské státy kontrolují Komisi při výkonu prováděcích pravomocí ( Úř. věst. L 55, 28.2.2011, s. 13 ).
+
+
+( 22 )   Nařízení Evropského parlamentu a Rady (ES) č. 45/2001 ze dne 18. prosince 2000 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů orgány a institucemi Společenství a o volném pohybu těchto údajů ( Úř. věst. L 8, 12.1.2001, s. 1 ).
+
+
+( 23 )
+Úř. věst. C 305, 30.8.2018, s. 7 .
+
+
+PŘÍLOHA I
+
+
+Seznam tematických kategorií datových souborů s vysokou hodnotou uvedený v čl. 13 odst. 1
+
+
+1.
+
+
+Geoprostorové údaje
+
+
+2.
+
+
+Pozorování Země a životní prostředí
+
+
+3.
+
+
+Meteorologie
+
+
+4.
+
+
+Statistika
+
+
+5.
+
+
+Společnosti a vlastnictví společností
+
+
+6.
+
+
+Mobilita
+
+
+PŘÍLOHA II
+
+
+Část A
+
+
+Zrušená směrnice a její následná změna
+
+
+(uvedené v článku 19)
+
+
+Směrnice Evropského parlamentu a Rady 2003/98/ES
+
+
+( Úř. věst. L 345, 31.12.2003, s. 90 ).
+
+
+Směrnice Evropského parlamentu a Rady 2013/37/EU
+
+
+( Úř. věst. L 175, 27.6.2013, s. 1 ).
+
+
+Část B
+
+
+Lhůty pro provedení ve vnitrostátním právu a den použitelnosti
+
+
+(uvedené v článku 19)
+
+
+Směrnice
+
+
+Lhůta pro provedení
+
+
+Den použitelnosti
+
+
+2003/98/ES
+
+
+1. července 2005
+
+
+1. července 2005
+
+
+2013/37/EU
+
+
+18. července 2015
+
+
+18. července 2015
+
+
+PŘÍLOHA III
+
+
+SROVNÁVACÍ TABULKA
+
+
+Směrnice 2003/98/ES
+
+
+Tato směrnice
+
+
+Čl. 1 odst. 1
+
+
+Čl. 1 odst. 1 návětí
+
+
+Čl. 1 odst. 1 písm. a), b) a c)
+
+
+Čl. 1 odst. 2 návětí
+
+
+Čl. 1 odst. 2 návětí
+
+
+Čl. 1 odst. 2 písm. a)
+
+
+Čl. 1 odst. 2 písm. a)
+
+
+—
+
+
+Čl. 1 odst. 2 písm. b)
+
+
+Čl. 1 odst. 2 písm. b)
+
+
+Čl. 1 odst. 2 písm. c)
+
+
+Čl. 1 odst. 2 písm. c)
+
+
+Čl. 1 odst. 2 písm. d)
+
+
+—
+
+
+Čl. 1 odst. 2 písm. e)
+
+
+Čl. 1 odst. 2 písm. ca)
+
+
+Čl. 1 odst. 2 písm. f)
+
+
+Čl. 1 odst. 2 písm. cb)
+
+
+Čl. 1 odst. 2 písm. g)
+
+
+Čl. 1 odst. 2 písm. cc)
+
+
+Čl. 1 odst. 2 písm. h)
+
+
+Čl. 1 odst. 2 písm. d)
+
+
+Čl. 1 odst. 2 písm. i)
+
+
+Čl. 1 odst. 2 písm. e)
+
+
+Čl. 1 odst. 2 písm. l)
+
+
+Čl. 1 odst. 2 písm. f)
+
+
+Čl. 1 odst. 2 písm. j)
+
+
+—
+
+
+Čl. 1 odst. 2 písm. k)
+
+
+Čl. 1 odst. 3
+
+
+Čl. 1 odst. 3
+
+
+Čl. 1 odst. 4
+
+
+Čl. 1 odst. 4
+
+
+Čl. 1 odst. 5
+
+
+Čl. 1 odst. 5
+
+
+—
+
+
+Čl. 1 odst. 6 a 7
+
+
+Článek 2 návětí
+
+
+Článek 2 návětí
+
+
+Čl. 2 bod 1
+
+
+Čl. 2 bod 1
+
+
+Čl. 2 bod 2
+
+
+Čl. 2 bod 2
+
+
+—
+
+
+Čl. 2 body 3 a 5
+
+
+Čl. 2 bod 3
+
+
+Čl. 2 bod 6
+
+
+—
+
+
+Čl. 2 body 7 až 10
+
+
+Čl. 2 bod 4
+
+
+Čl. 2 bod 11
+
+
+Čl. 2 bod 5
+
+
+Čl. 2 bod 12
+
+
+Čl. 2 bod 6
+
+
+Čl. 2 bod 13
+
+
+Čl. 2 bod 7
+
+
+Čl. 2 bod 14
+
+
+Čl. 2 bod 8
+
+
+Čl. 2 bod 15
+
+
+Čl. 2 bod 9
+
+
+Čl. 2 bod 4
+
+
+—
+
+
+Čl. 2 body 16 a 17
+
+
+Článek 3
+
+
+Článek 3
+
+
+Čl. 4 odst. 1
+
+
+Čl. 4 odst. 1
+
+
+Čl. 4 odst. 2
+
+
+Čl. 4 odst. 2
+
+
+Čl. 4 odst. 3
+
+
+Čl. 4 odst. 3
+
+
+Čl. 4 odst. 4
+
+
+Čl. 4 odst. 4
+
+
+—
+
+
+Čl. 4 odst. 5
+
+
+Čl. 4 odst. 5
+
+
+Čl. 4 odst. 6 návětí
+
+
+Čl. 4 odst. 6 písm. a) a b)
+
+
+Čl. 5 odst. 1
+
+
+Čl. 5 odst. 1
+
+
+—
+
+
+Čl. 5 odst. 2
+
+
+Čl. 5 odst. 2
+
+
+Čl. 5 odst. 3
+
+
+Čl. 5 odst. 3
+
+
+Čl. 5 odst. 4
+
+
+—
+
+
+Čl. 5 odst. 5 až 8
+
+
+—
+
+
+Čl. 6 odst. 1 první pododstavec
+
+
+Čl. 6 odst. 1
+
+
+Čl. 6 odst. 1 druhý pododstavec
+
+
+Čl. 6 odst. 2 návětí
+
+
+Čl. 6 odst. 2 návětí
+
+
+Čl. 6 odst. 2 písm. a)
+
+
+Čl. 6 odst. 2 písm. a)
+
+
+Čl. 6 odst. 2 písm. b)
+
+
+—
+
+
+Čl. 6 odst. 2 písm. c)
+
+
+Čl. 6 odst. 2 písm. b)
+
+
+—
+
+
+Čl. 6 odst. 2 písm. c)
+
+
+—
+
+
+Čl. 6 odst. 3
+
+
+Čl. 6 odst. 3
+
+
+Čl. 6 odst. 4
+
+
+Čl. 6 odst. 4
+
+
+Čl. 6 odst. 5
+
+
+—
+
+
+Čl. 6 odst. 6
+
+
+Čl. 7 odst. 1
+
+
+Čl. 7 odst. 1
+
+
+Čl. 7 odst. 2
+
+
+Čl. 7 odst. 2
+
+
+Čl. 7 odst. 3
+
+
+—
+
+
+Čl. 7 odst. 4
+
+
+Čl. 7 odst. 3
+
+
+Článek 8
+
+
+Článek 8
+
+
+Článek 9
+
+
+Čl. 9 odst. 1
+
+
+—
+
+
+Čl. 9 odst. 2
+
+
+—
+
+
+Čl. 10 odst. 1 a 2
+
+
+Článek 10
+
+
+Článek 11
+
+
+Čl. 11 odst. 1
+
+
+Čl. 12 odst. 1
+
+
+Čl. 11 odst. 2
+
+
+Čl. 12 odst. 2
+
+
+Čl. 11 odst. 2a
+
+
+Čl. 12 odst. 3
+
+
+—
+
+
+Čl. 12 odst. 4
+
+
+Čl. 11 odst. 3
+
+
+—
+
+
+Čl. 11 odst. 4
+
+
+Čl. 12 odst. 5
+
+
+—
+
+
+Články 13 až 16
+
+
+Článek 12
+
+
+Čl. 17 odst. 1
+
+
+—
+
+
+Čl. 17 odst. 2
+
+
+Čl. 13 odst. 1
+
+
+Čl. 18 odst. 1
+
+
+Čl. 13 odst. 2
+
+
+—
+
+
+Čl. 13 odst. 3
+
+
+Čl. 18 odst. 2 návětí
+
+
+—
+
+
+Čl. 18 odst. 2 písm. a) až g)
+
+
+—
+
+
+Článek 19
+
+
+Článek 14
+
+
+Článek 20
+
+
+Článek 15
+
+
+Článek 21
+
+
+—
+
+
+Přílohy I, II a III

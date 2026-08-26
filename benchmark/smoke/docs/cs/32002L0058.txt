@@ -1,0 +1,392 @@
+EUR-Lex - 32002L0058 - CS
+
+
+Důležité právní upozornění
+
+
+|
+
+
+32002L0058
+
+
+Směrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací (Směrnice o soukromí a elektronických komunikacích)
+
+
+Úřední věstník L 201 , 31/07/2002 S. 0037 - 0047
+
+
+Směrnice Evropského parlamentu a Rady 2002/58/ES
+
+ze dne 12. července 2002
+
+o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací (Směrnice o soukromí a elektronických komunikacích)
+
+EVROPSKÝ PARLAMENT A RADA EVROPSKÉ UNIE,
+
+s ohledem na Smlouvu o založení Evropského společenství, a zejména na článek 95 této smlouvy,
+
+s ohledem na návrh Komise [1],
+
+s ohledem na stanovisko Hospodářského a sociálního výboru [2],
+
+po konzultaci s Výborem regionů,
+
+v souladu s postupem stanoveným v článku 251 Smlouvy [3],
+
+vzhledem k tomu, že:
+
+(1) směrnice Evropského parlamentu a Rady 95/46/ES ze dne 24. října 1995 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů [4] vyžaduje, aby členské státy zajistily práva a svobody fyzických osob v souvisloti se zpracováním osobních údajů, a zejména jejich právo na soukromí, aby bylo možno zajistit volný pohyb osobních údajů ve Společenství;
+
+(2) tato směrnice usiluje o respektování základních práv a zachovává zásady uznané zejména v Listině základních práv Evropské unie. Tato směrnice zejména usiluje o to, aby byla plně dodržována práva stanovená v článcích 7 a 8 uvedené listiny;
+
+(3) důvěrný charakter sdělení je zaručen v souladu s mezinárodními nástroji vztahujícími se k lidským právům, zejména s Evropskou úmluvou o ochraně lidských práv a základních svobod, a s ústavami členských států;
+
+(4) směrnice Evropského parlamentu a Rady 97/66/ES ze dne 15. prosince 1997 o zpracování osobních údajů a ochraně soukromí v odvětví telekomunikací [5] převedla zásady stanovené ve Směrnici 95/46/ES do zvláštních pravidel pro odvětví telekomunikací. Směrnici 97/66/ES je nutno přizpůsobit vývoji trhů a technologií v oblasti služeb elektronických komunikací, aby uživatelům veřejně dostupných služeb elektronických komunikací zajistila stejnou úroveň ochrany osobních údajů a soukromí bez ohledu na použité technologie. Uvedená směrnice bude tedy zrušena a nahrazena touto směrnicí;
+
+(5) v současné době se do veřejných komunikačních sítí ve Společenství zavádějí nové vyspělé digitální technologie, jež s sebou přinášejí zvláštní požadavky na ochranu osobních údajů a soukromí uživatelů. Rozvoj informační společnosti je charakterizován zaváděním nových služeb elektronických komunikací. Přístup k digitálním mobilním sítím se stal dosažitelným a finančně dostupným pro širokou veřejnost. Tyto digitální sítě mají značné kapacity a možnosti pro zpracování osobních údajů. Úspěšný přeshraniční rozvoj těchto služeb částečně závisí na důvěře uživatelů, že jejich soukromí nebude vystaveno riziku;
+
+(6) internet převrací tradiční struktury trhu tím, že poskytuje společnou, obecnou infrastrukturu pro široký okruh služeb elektronických komunikací. Veřejně dostupné služby elektronických komunikací prostřednictvím internetu otevírají uživatelům nové možnosti, ale zároveň vytvářejí i nová rizika pro jejich osobní údaje a soukromí;
+
+(7) v případě sítí veřejných komunikací je nutno přijmout zvláštní právní, regulační a technická ustanovení na ochranu základních práv a svobod fyzických osob a ochranu oprávněných zájmů právnických osob, zejména s ohledem na zvyšující se kapacitu automatického uchovávání a zpracování údajů týkajících se účastníků a uživatelů.
+
+(8) právní, regulační a technická opatření na ochranu osobních údajů, soukromí a oprávněných zájmů právnických osob v odvětví elektronických komunikací, která byla přijata členskými státy, je nutno harmonizovat, aby se tak zabránilo překážkám na vnitřním trhu elektronických komunikací v souladu s článkem 14 Smlouvy. Harmonizace by se měla omezit na požadavky, které jsou nezbytné, aby nebylo bráněno podpoře a rozvoji nových služeb a sítí elektronických komunikací mezi členskými státy;
+
+(9) členské státy, dotčení poskytovatelé a uživatelé, jakož i příslušné orgány Společenství, by měli spolupracovat při zavádění a rozvoji odpovídajících technologií, pokud je to nezbytné pro uplatňování ochranných opatření stanovených touto směrnicí, a měli by především mít na zřeteli minimalizaci zpracování osobních údajů a používání anonymních nebo pseudoanonymních údajů tam, kde je to možné;
+
+(10) v odvětví elektronických komunikací se směrnice 95/46/ES vztahuje zejména na všechny záležitosti týkající se ochrany základních práv a svobod, které nejsou zvláštním způsobem upraveny touto směrnicí, včetně povinností správce a práv jednotlivců. Směrnice 95/46/ES se použije pro neveřejné komunikační služby;
+
+(11) tato směrnice, obdobně jako směrnice 95/46/ES, se netýká ochrany základních práv a svobod ve vztahu k činnostem, které se neřídí právem Společenství. Proto tato směrnice nemění stávající rovnováhu mezi právem jednotlivce na soukromí a možností, aby členské státy přijaly opatření uvedená v čl. 15 odst. 1 této směrnice, která jsou nezbytná pro ochranu veřejné bezpečnosti, obrany, bezpečnosti státu (včetně hospodářské prosperity státu, pokud jsou tyto činnosti spojeny s otázkami bezpečnosti státu) a pro prosazování trestního práva. Tato směrnice se tedy nedotýká možnosti členských států provádět zákonné zachycování elektronických sdělení nebo přijímat jiná opatření, je-li to nezbytné pro některý z těchto účelů a je-li to v souladu s Evropskou úmluvou o ochraně lidských práv a základních svobod, jak je vykládána v rozhodnutích Evropského soudu pro lidská práva. Tato opatření musí být vhodná, plně přiměřená vzhledem k zamýšlenému účelu a nezbytná v demokratické společnosti a musí být předmětem odpovídajících záruk v souladu s Evropskou úmluvou o ochraně lidských práv a základních svobod;
+
+(12) účastníky veřejně dostupné služby elektronických komunikací mohou být fyzické nebo právnické osoby. Tato směrnice doplňuje směrnici 95/46/ES a jejím cílem je chránit základní práva fyzických osob, zejména jejich právo na soukromí, jakož i oprávněné zájmy právnických osob. Tato směrnice nezakládá povinnost členských států rozšířit uplatňování směrnice 95/46/ES na ochranu oprávněných zájmů právnických osob, která je zajištěna použitelnými právními předpisy Společenství a vnitrostátními právními předpisy;
+
+(13) smluvní vztah mezi účastníkem a poskytovatelem služby může mít za následek pravidelnou nebo jednorázovou platbu za službu poskytnutou nebo službu, která má být poskytnuta. Předplacené karty se rovněž považují za smlouvu;
+
+(14) lokalizační údaje se mohou týkat zeměpisné šířky, délky a nadmořské výšky koncového zařízení účastníka, směru pohybu, úrovně přesnosti lokalizačních informací, identifikace síťové buňky, ve které je koncové zařízení umístěno v určitém časovém bodu, a časového úseku, ve kterém byla lokalizační informace zaznamenána;
+
+(15) sdělení může zahrnovat jakékoli informace o názvech, číslech nebo adresách, které poskytuje odesílatel sdělení nebo uživatel spojení za účelem přenosu sdělení. Provozní údaje mohou zahrnovat jakýkoli převod těchto informací sítí, po které se sdělení přenáší, za účelem provedení přenosu. Provozní údaje se mohou mimo jiné skládat z údajů vztahujících se ke směrování, délce trvání, času nebo objemu sdělení, použitému protokolu, umístění koncového zařízení odesílatele či příjemce, síti, ze které sdělení pochází či na které končí, a počátku, konci či délce trvání spojení. Mohou se také skládat z formátu, ve kterém je sdělení sítí přenášeno;
+
+(16) informace, které jsou součástí rozhlasového vysílání provozovaného prostřednictvím veřejné komunikační sítě, jsou určeny potenciálně neomezenému okruhu posluchačů a ve smyslu této směrnice se nepovažují za sdělení. Pokud však lze jednotlivého účastníka či uživatele, který takové informace dostává, identifikovat, např. pomocí služeb video na vyžádání, považují se přenášené informace za sdělení ve smyslu této směrnice;
+
+(17) pro účely této směrnice by měl mít souhlas uživatele nebo účastníka, bez ohledu na to, zda účastník je fyzická či právnická osoba, stejný význam jako souhlas subjektu údajů definovaný a dále upřesněný ve směrnici 95/46/ES. Souhlas může být udělen jakýmkoli vhodným způsobem, který umožňuje vyjádřit svobodně poskytnutý, zvláštní a informovaný projev vůle uživatele, včetně označení zaškrtnutím políčka při návštěvě webové stránky na internetu;
+
+(18) služby s přidanou hodnotou mohou zahrnovat např. rady ohledně nejlevnějších tarifů, dopravní navigace, dopravní informace, předpovědi počasí a turistické informace;
+
+(19) uplatňování určitých požadavků spojených s uvedením nebo zamezením identifikace volající a spojené účastnické linky a automatickým přesměrováním hovoru na účastnické linky, které jsou napojeny na analogové ústředny, nesmí být povinné v určitých případech, kdy by se takové uplatňování ukázalo jako technicky neproveditelné nebo by vyžadovalo neúměrnou finanční zátěž. Je důležité, aby zúčastněné strany byly o takových případech informovány a členské státy je proto oznámí Komisi;
+
+(20) poskytovatelé služeb by měli přijmout odpovídající opatření, aby zajistili bezpečnost svých služeb, v případě nutnosti i společně s provozovatelem sítě, a informovali účastníky o jakémkoli zvláštním riziku narušení bezpečnosti sítě. Taková rizika se mohou objevit zejména u služeb elektronických komunikací v otevřené síti, jako je např. internet nebo analogové mobilní telefonní služby. Pro účastníky a uživatele takových služeb je zvláště důležité, aby je jejich poskytovatel služeb plně informoval o stávajících bezpečnostních rizicích, kde náprava je mimo možnosti poskytovatele služeb. Poskytovatelé služeb, kteří nabízejí veřejně dostupné služby elektronických komunikací prostřednictvím internetu, by měli své uživatele a účastníky informovat o opatřeních, která mohou přijmout, aby zajistili bezpečnost jejich sdělení, např. použitím zvláštního druhu softwaru nebo šifrovací techniky. Požadavek informovat účastníky o zvláštním bezpečnostním riziku nezbavuje poskytovatele služeb povinnosti přijmout na své vlastní náklady přiměřená a okamžitá opatření k odstranění jakéhokoli nového nepředvídaného bezpečnostního rizika a obnovit běžnou bezpečnostní úroveň služby. Informace o bezpečnostním riziku by měly být účastníkovi poskytovány zdarma, s výjimkou nominálních nákladů, které by mohl účastník nést při přijímání nebo shromažďování informací, např. při stahování elektronické pošty. Bezpečnost se hodnotí s ohledem na článek 17 směrnice 95/46/ES;
+
+(21) měla by být přijata opatření pro zamezení neoprávněného přístupu ke sdělením, aby byla chráněna důvěrnost sdělení, včetně obsahu a údajů vztahujících se k takovým sdělením, přenášených prostřednictvím veřejných komunikačních sítí a veřejně dostupných služeb elektronických komunikací. Vnitrostátní právní předpisy některých členských států pouze zakazují úmyslný neoprávněný přístup ke sdělením;
+
+(22) zákaz uchovávat sdělení a s nimi spojené provozní údaje jinými osobami než samotnými uživateli nebo bez jejich souhlasu neznamená zákaz jakéhokoli automatického, zprostředkovaného a přechodného uchovávání takových informací, pokud k němu dochází výlučně z důvodu provedení přenosu v síti elektronických komunikací a za předpokladu, že informace nejsou uchovávány po dobu delší než nezbytně nutnou pro účely přenosu a řízení provozu, a že po dobu tohoto uchovávání zůstane zajištěna důvěrnost. Je-li to nezbytné pro zefektivnění dalšího přenosu jakýchkoli veřejně dostupných informací jiným příjemcům služby na základě jejich žádosti, neměla by tato směrnice bránit dalšímu uchovávání takových informací za předpokladu, že tyto informace budou kdykoli bez omezení dostupné veřejnosti a že jakékoli údaje o jednotlivých účastnících či uživatelích, kteří tyto informace požadují, budou vymazány;
+
+(23) důvěrný charakter sdělení by měl být také zajištěn v rámci zákonných obchodních praktik. Sdělení lze nahrávat za účelem prokazování obchodních transakcí, je-li to nezbytné a z právního hlediska přípustné. Pro takové zpracovávání se použije směrnice 95/46/ES. Účastnické strany sdělení by měly být předem informovány o nahrávání, jeho účelu a době, po kterou je uchováváno. Nahrané sdělení by mělo být vymazáno co možná nejdříve, nejpozději však na konci období, během něhož by taková transakce mohla být právně napadnutelná;
+
+(24) koncové zařízení uživatelů sítí elektronických komunikací a jakékoli informace uchovávané na takovém zařízení tvoří součást soukromí uživatelů, které vyžaduje ochranu v souladu s Evropskou úmluvou o ochraně lidských práv a základních svobod. Tzv. špionážní software ("spyware"), webové štěnice ("web bugs"), skryté identifikátory a jiné podobné nástroje mohou pronikat do koncového zařízení uživatele bez jeho vědomí s cílem získat přístup k informacím, uchovávat skryté informace nebo sledovat činnost uživatele a mohou vážně narušit soukromí těchto uživatelů. Použití takových nástrojů by mělo být povoleno pouze k oprávněným účelům s vědomím uživatelů, kterých se dotýká;
+
+(25) takové nástroje, jako např. tzv. "cookies", mohou však být oprávněným a užitečným nástrojem např. při zkoumání účinnosti designu a reklamy na webové stránce a při ověřování totožnosti uživatelů zúčastněných na on-line transakcích. Pokud jsou takové nástroje, jako například "cookies", určeny pro oprávněný účel, jako je usnadnit poskytování služeb informační společnosti, jejich použití je povoleno pod podmínkou, že uživatelé jsou jasně a přesně informováni v souladu s ustanovením směrnice 95/46/ES o účelu "cookies" či podobných nástrojů a je zajištěno, aby uživatelům byly známy informace, které se ukládají do koncového zařízení, jež používají. Uživatelé musí mít možnost odmítnout, aby "cookies" nebo podobné nástroje byly ukládány do jejich koncových zařízení. Toto je obzvláště důležité v případě, kdy uživatelé odlišní od původního uživatele mají přístup ke koncovému zařízení, a tudíž i k veškerým údajům uchovávaným v takovém zařízení, které obsahují i citlivé informace o soukromí. Informace a právo odmítnout musí být poskytnuty jednorázově pro použití různých nástrojů, které mohou být instalovány do koncového zařízení uživatele v průběhu téhož připojení, jakož i pro další použití těchto nástrojů v průběhu následných připojení. Metody podávání informací, nabízení práva odmítnout nebo vyžadování souhlasu je nutno provádět způsobem co možná nejvíce vstřícným vůči uživateli. I přesto lze přístup k obsahu určitých webových stránek podmínit plně informovaným přijetím "cookie" nebo podobného nástroje, je-li tento nástroj používán k oprávněným účelům;
+
+(26) údaje o účastnících, které jsou zpracovávány v rámci sítí elektronických komunikací pro navázání spojení a přenos informací, obsahují informace o soukromém životě fyzických osob a dotýkají se práva na ochranu jejich korespondence nebo se dotýkají oprávněných zájmů právnických osob. Takové údaje je možno uchovávat pouze v rozsahu, který je nezbytný pro poskytování služby pro účely účtování a platby za propojení, a to po omezenou dobu. Jakékoli další zpracování takových údajů, které by poskytovatel veřejně dostupných služeb elektronických komunikací chtěl provádět pro potřeby marketingu služeb elektronických komunikací nebo pro poskytování služeb s přidanou hodnotou, je přípustné pouze za předpokladu, že účastník s tímto souhlasil na základě přesných a úplných informací o druhu následného zamýšleného zpracování, které obdržel od poskytovatele veřejně dostupných služeb elektronických komunikací, spolu s informací o právu účastníka nedat takový souhlas nebo svůj souhlas k takovému zpracování vzít zpět. Provozní údaje používané pro marketing komunikačních služeb nebo pro poskytování služeb s přidanou hodnotou by měly být po poskytnutí služby vymazány nebo anonymizovány. Poskytovatelé služeb by měli účastníky vždy informovat o druhu zpracovávaných údajů, účelech a délce trvání takového zpracování
+
+(27) přesný okamžik ukončení přenosu sdělení, po kterém by mělo následovat vymazání provozních údajů, s výjimkou údajů pro účely účtování, může záviset na druhu elektronické komunikační služby, která je poskytována. Například, v případě hlasového telefonického spojení bude přenos ukončen, jakmile kterýkoli z uživatelů ukončí spojení. V případě elektronické pošty je přenos ukončen, jakmile si adresát vyzvedne zprávu, zpravidla ze serveru svého poskytovatele služeb;
+
+(28) povinnost vymazat provozní údaje nebo takové údaje anonymizovat, jakmile již nejsou potřebné pro přenos sdělení, není v rozporu s takovými postupy na internetu, jako je ukládání IP adres do vyrovnávací paměti v systému doménových jmen nebo ukládání do vyrovnávací paměti IP adresy, která je přiřazena adrese fyzické nebo při použití přihlašovacích údajů uživatele získaných za účelem kontroly oprávnění přístupu do sítí nebo k službám;
+
+(29) poskytovatel služeb může zpracovávat provozní údaje o účastnících a uživatelích, pokud je to nutné v jednotlivých případech, aby zjistil technická selhání nebo chyby při přenosu sdělení. Poskytovatel může také zpracovávat provozní údaje nezbytné pro účely účtování, potřebuje-li zjistit a zabránit podvodu spočívajícím v neuhrazeném používání služby elektronických komunikací;
+
+(30) systémy pro zajišťování sítí a služeb elektronických komunikací musí být navrženy tak, aby omezily na nutné minimum množství nezbytných osobních údajů. Jakékoli činnosti spojené s poskytováním služeb elektronických komunikací, které jdou nad rámec přenosu sdělení a potřeb účtování, musí být založeny na souhrnných provozních údajích, které nelze přiřadit k jednotlivým účastníkům či uživatelům. Není-li možno takové činnosti provádět na základě souhrnných údajů, je třeba je považovat za služby s přidanou hodnotou, pro které je nezbytný souhlas účastníka;
+
+(31) zda souhlas ke zpracování osobních údajů s ohledem na poskytování určité služby s přidanou hodnotou bude udělen uživatelem nebo účastníkem, závisí na údajích, které se mají zpracovávat, na druhu služby, která má být poskytnuta, a na tom, zda bude technicky, procedurálně a smluvně možné odlišit jednotlivce využívajícího službu elektronických komunikací od právnické či fyzické osoby, která je účastníkem této služby
+
+(32) pokud poskytovatel služby elektronických komunikací nebo služby s přidanou hodnotou zadává zpracování osobních údajů nezbytných pro poskytování dané služby dalšímu subjektu, musí zadání i následné zpracování údajů plně vyhovovat požadavkům kladeným na správce a na zpracovatele osobních údajů, jak jsou stanoveny ve směrnici 95/46/ES. Pokud poskytování služby s přidanou hodnotou vyžaduje, aby poskytovatel služby elektronických komunikací předával provozní údaje nebo lokalizační údaje poskytovateli služby s přidanou hodnotou, účastníci nebo uživatelé, jejichž údajů se toto týká, musí být plně informováni rovněž o tomto předávání ještě předtím, než udělí souhlas ke zpracování údajů;
+
+(33) zavedení podrobného rozpisu účtů zlepšilo možnosti účastníka ověřovat správnost poplatků účtovaných poskytovatelem služby, ale zároveň může ohrozit soukromí uživatelů veřejně dostupných služeb elektronických komunikací. V zájmu ochrany soukromí uživatele by tudíž členské státy měly podporovat rozvoj zvláštních funkcí u služeb elektronických komunikací, jako jsou alternativní platební prostředky, které umožňují anonymní nebo přísně soukromý přístup k veřejně dostupným službám elektronických komunikací, např. telefonní karty a zařízení pro platbu kreditní kartou. Ze stejného důvodu mohou členské státy operátory vyzvat, aby nabízeli svým účastníkům jiný druh podrobného rozpisu účtů, ve kterém by určitý počet míst volaného telefonního čísla byl vymazán;
+
+(34) s ohledem na identifikaci volající linky je nezbytně nutné chránit právo volajícího odepřít uvedení identifikace linky, ze které se volání uskutečňuje, a právo volaného odmítnout volání z neidentifikovaných linek. Ve zvláštních případech je oprávněné neřídit se zásadou eliminovat uvedení identifikace volající linky. Někteří účastníci, zejména linky pomoci a obdobné subjekty, mají zájem na zaručení anonymity volajících. S ohledem na identifikaci spojené linky je nezbytně nutné chránit právo a oprávněný zájem volaného odepřít uvedení identifikace linky, se kterou je volající ve skutečnosti spojen, zejména v případě přesměrovaných volání. Poskytovatelé veřejně dostupných služeb elektronických komunikací musí své účastníky informovat o existenci identifikace volající a spojené linky v síti a o všech službách, které nabízejí na základě identifikace volající a spojené linky, jakož i o možnostech uchování soukromí, které jsou k dispozici. Tak bude účastníkům umožněno, aby si se znalostí věci zvolili ty možnosti uchování soukromí, které chtějí použít. Není nezbytně nutné, aby možnosti uchování soukromí, které jsou nabízeny pro každou jednotlivou linku, byly dostupné jako automatické služby sítě, ale aby je bylo možné získat na základě prosté žádosti vůči poskytovateli veřejně dostupných služeb elektronických komunikací;
+
+(35) v digitálních mobilních sítích se lokalizační údaje, které určují zeměpisnou polohu koncového zařízení uživatele mobilní sítě, zpracovávají, aby bylo možno uskutečnit přenos sdělení. Tyto údaje se považují za provozní údaje podle článku 6 této směrnice. Kromě toho mohou být však digitální mobilní sítě schopné zpracovat lokalizační údaje, které jsou mnohem přesnější než údaje nezbytné pro přenos sdělení, a které se používají pro poskytování služeb s přidanou hodnotou, jako např. služby poskytující individualizované dopravní informace a navigaci pro řidiče. Zpracování takových údajů pro potřeby služeb s přidanou hodnotou je povoleno pouze za předpokladu, že účastníci k tomu dali souhlas. Dokonce v případech, kdy účastníci dali svůj souhlas, musí mít zdarma k dispozici jednoduché prostředky, které jim umožní dočasně odmítnout zpracování lokalizačních údajů;
+
+(36) členské státy mohou omezit práva uživatelů a účastníků na soukromí s ohledem na identifikaci volající linky, je-li to nezbytné pro vysledování obtěžujících volání, a s ohledem na identifikaci volající linky a lokalizační údaje, je-li to nezbytné k tomu, aby záchranné služby mohly plnit své úkoly co možná nejefektivněji. Pro tyto účely mohou členské státy přijmout zvláštní předpisy, které dají poskytovatelům služeb elektronických komunikací právo umožnit přístup k identifikaci volající linky a lokalizačním údajům bez předchozího souhlasu dotčených uživatelů či účastníků;
+
+(37) účastníkům musí být poskytnuta ochranná opatření proti obtěžování, které může být způsobeno automatickým přesměrováním volání jinými osobami. Kromě toho musí mít v takových případech účastníci možnost zamezit přesměrování volání do jejich koncového zařízení podáním prosté žádosti vůči poskytovateli veřejně dostupné služby elektronických komunikací;
+
+(38) seznamy účastníků služeb elektronických komunikací jsou značně rozšířeny a jsou veřejné. Právo na soukromí fyzických osob a oprávněné zájmy právnických osob vyžadují, aby účastníci mohli určit, zda jejich osobní údaje budou v seznamu zveřejněny a pokud ano, které to budou. Poskytovatelé veřejných seznamů musí informovat účastníky, kteří mají být v takových seznamech uvedeni, o účelech seznamu a o jakémkoli zvláštním použití elektronických verzí veřejných účastnických seznamů, zejména prostřednictvím vyhledávacích funkcí zabudovaných v softwaru, jako např. funkce zpětného vyhledávání, která umožňuje uživateli seznamu zjistit jméno a adresu účastníka pouze na základě jeho telefonního čísla;
+
+(39) subjekt shromažďující údaje, které mají být v seznamu uvedeny, má povinnost informovat účastníky o účelu/účelech veřejných seznamů, v nichž mají být uvedeny jejich osobní údaje. Pokud lze údaje předávat jedné nebo většímu počtu třetích stran, měl by být účastník informován o této možnosti a o příjemci nebo kategoriích možných příjemců. Jakékoli předání by mělo splňovat podmínku, že údaje nemohou být použity k jiným účelům než těm, pro které byly shromážděny. Pokud strana shromažďující údaje od účastníků nebo jakákoli třetí strana, které byly údaje předány, chce údaje použít pro další účely, musí buď původní strana shromažďující údaje nebo třetí strana, které byly údaje předány, získat od účastníka obnovený souhlas;
+
+(40) účastníkům musí být poskytnuta ochranná opatření proti zásahům do jejich soukromí způsobeným nevyžádanými sděleními pro účely přímého marketingu, zejména prostřednictvím automatických volacích zařízení, telefaxů a elektronické pošty, včetně SMS zpráv. Posílání těchto forem nevyžádaných obchodních sdělení může být na jednu stranu poměrně jednoduché a levné, ale na druhou stranu může způsobit příjemci zátěž a/nebo náklady. Navíc jejich objem může také v některých případech působit problémy sítím elektronických komunikací a koncovým zařízením. V případě takových forem nevyžádaných obchodních sdělení pro účely přímého marketingu je odůvodněné vyžadovat, aby byl získán výslovný souhlas příjemce předem, ještě před zasláním takových sdělení. Jednotný trh vyžaduje harmonizovaný přístup, aby byla zajištěna jednoduchá pravidla pro podniky i uživatele platná v celém Společenství;
+
+(41) v rámci existujících zákaznických vztahů je rozumné povolit použití kontaktních údajů elektronického styku pro nabízení obdobných výrobků nebo služeb, ale pouze stejnou společností, která získala kontaktní údaje elektronického styku v souladu se směrnicí 95/46/ES. Při získání kontaktních údajů elektronického styku musí být zákazníci jasně a jednoznačně informováni o jejich dalším použití pro přímý marketing a musí jim být dána možnost takové použití odmítnout. Tuto možnost je třeba nabízet opakovaně s každou další zprávou přímého marketingu, a to zdarma, s výjimkou nákladů spojených s přenosem tohoto odmítnutí;
+
+(42) další formy přímého marketingu, které jsou pro odesílatele nákladnější a neznamenají finanční náklady pro účastníky a uživatele, jako například telefonické hovory mezi osobami, mohou opravňovat udržování systému, který dává účastníkům nebo uživatelům možnost oznámit, že si nepřejí takové hovory přijímat. Aby však nedošlo ke snížení existující úrovně ochrany soukromí, členské státy musí mít právo potvrdit platnost vnitrostátních systémů, které povolují takové hovory určené pouze pro ty účastníky a uživatele, kteří k nim dali souhlas předem;
+
+(43) v zájmu usnadnění účinného prosazování pravidel Společenství, které se týkají nevyžádaných zpráv pro účely přímého marketingu, je nezbytné zakázat používání falešných totožností, falešných zpátečních adres nebo čísel při zasílání nevyžádaných zpráv pro účely přímého marketingu;
+
+(44) určité systémy elektronické pošty umožňují účastníkům prohlédnout si řádek odesílatele a předmětu zprávy elektronické pošty, a zprávu vymazat, aniž by museli stáhnout zbývající obsah elektronické pošty či jakýchkoli příloh, čímž se sníží náklady, které by mohly vzniknout při stahování nevyžádané elektronické pošty či příloh. Tato opatření mohou být nadále užitečná v určitých případech jako doplňující nástroj k obecným povinnostem stanoveným touto směrnicí
+
+(45) touto směrnicí nejsou dotčena opatření, která členské státy přijmou na ochranu oprávněných zájmů právnických osob s ohledem na nevyžádaná sdělení pro účely přímého marketingu. Pokud členské státy vytvoří rejstřík rozhodnutí neúčastnit se takové komunikace ("opt-out register") pro právnické osoby, většinou podnikající uživatele, bude plně použitelný článek 7 směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o některých právních aspektech služeb informační společnosti, zejména elektronického obchodu, na vnitřním trhu (směrnice o elektronickém obchodu) [6];
+
+(46) funkce pro poskytování služeb elektronických komunikací mohou být součástí sítě nebo jakékoli části koncového zařízení uživatele, včetně softwaru. Ochrana osobních údajů a soukromí uživatele veřejně dostupných služeb elektronických komunikací musí být nezávislá na konfiguraci různých komponentů, které jsou nezbytné pro poskytování služby, a na rozdělování nezbytných funkcí mezi těmito komponenty. Směrnice 95/46/ES pokrývá veškeré formy zpracování osobních údajů bez ohledu na použitou technologii. Existence zvláštních pravidel pro služby elektronických komunikací vedle obecných pravidel pro další komponenty, které jsou nezbytné pro poskytování takových služeb, nutně nemusí napomoci ochraně osobních údajů a soukromí technologicky neutrálním způsobem. Může být tedy nezbytné přijmout opatření vyžadující, aby výrobci určitých druhů zařízení používaných pro služby elektronických komunikací sestavovali své výrobky takovým způsobem, že do nich zabudují zabezpečovací zařízení, která zajistí ochranu osobních údajů a soukromí uživatelů a účastníků. Přijetí takových opatření v souladu se směrnicí Evropského parlamentu a Rady 1999/5/ES ze dne 9. března 1999 o rádiových zařízeních a telekomunikačních koncových zařízeních a o vzájemném uznávání jejich shody [7] zajistí, že zavádění technických vlastností elektronických komunikačních zařízení, včetně softwaru na ochranu údajů, bude harmonizováno tak, aby bylo slučitelné s vytvářením vnitřního trhu;
+
+(47) nejsou-li dodržována práva uživatelů a účastníků, musí vnitrostátní právní předpisy poskytnout opravné prostředky. Každé osobě, ať již podléhá soukromému či veřejnému právu, která nebude dodržovat vnitrostátní opatření přijatá podle této směrnice, musí být uloženy sankce;
+
+(48) při uplatňování této směrnice je užitečné čerpat ze zkušeností Pracovní skupiny pro fyzických ochranu osob v souvislosti se zpracováním osobních údajů složené ze zástupců orgánů dozoru členských států, která byla zřízena článkem 29 směrnice 95/46/ES;
+
+(49) k usnadnění dosažení souladu s touto směrnicí je třeba přijmout určitá zvláštní opatření pro zpracování dat, které již probíhá, k datu, kdy vnitrostátní právní předpisy provádějící tuto směrnici nabydou účinnosti,
+
+PŘIJALY TUTO SMĚRNICI:
+
+Článek 1
+
+Oblast působnosti a cíl
+
+1. Touto směrnicí se harmonizují předpisy členských států, požadované pro zajištění rovnocenné úrovně ochrany základních práv a svobod, zejména práva na soukromí, se zřetelem na zpracování osobních údajů v odvětví elektronických komunikací, a pro zajištění volného pohybu těchto údajů a elektronických komunikačních zařízení a služeb ve Společenství.
+
+2. Ustanovení této směrnice upřesňují a doplňují směrnici 95/46/ES pro účely uvedené v odstavci 1. Navíc poskytují ochranu oprávněných zájmů účastníků, kteří jsou právnickými osobami.
+
+3. Tato směrnice se nevztahuje na činnosti, které nespadají do oblasti působnosti Smlouvy o založení Evropského společenství, jako činnosti uvedené v hlavě V a VI Smlouvy o založení Evropské unie, a v žádném případě na činnosti týkající se veřejné bezpečnosti, obrany, bezpečnosti státu (včetně hospodářské prosperity státu, pokud jsou tyto činnosti spojeny s otázkami bezpečnosti státu) a na činnosti státu v oblasti trestního práva.
+
+Článek 2
+
+Definice
+
+Není-li stanoveno jinak, použijí se definice uvedené ve směrnici 95/46/ES a směrnici Evropského parlamentu a Rady 2002/21/ES ze dne 7. března 2002 o společném předpisovém rámci pro sítě a služby elektronických komunikací (rámcová směrnice) [8].
+
+Použijí se rovněž tyto definice:
+
+(a) "uživatelem" se rozumí jakákoli fyzická osoba používající veřejně dostupnou službu elektronické komunikace pro soukromé či obchodní účely, přičemž není nezbytně nutné, aby byla účastníkem této služby;
+
+(b) "provozními údaji" se rozumějí jakékoli údaje zpracovávané pro účely přenosu sdělení sítí elektronických komunikací nebo pro jeho účtování;
+
+(c) "lokalizačními údaji" se rozumějí jakékoli údaje zpracovávané v síti elektronických komunikací, které určují zeměpisnou polohu koncového zařízení uživatele veřejně dostupné služby elektronických komunikací;
+
+(d) "sdělením" se rozumí jakákoli informace, která se vyměňuje nebo přenáší mezi určitým počtem zúčastněných stran prostřednictvím veřejně dostupné služby elektronických komunikací; toto nezahrnuje informace přenášené jako součást vysílání pro veřejnost prostřednictvím sítě elektronických komunikací s výjimkou případů, kdy lze informace přiřadit k identifikovatelnému účastníku nebo uživateli, který tyto informace přijímá;
+
+(e) "voláním" se rozumí spojení uskutečněné prostřednictvím veřejně přístupné telefonní služby, které umožňuje obousměrnou komunikaci v reálném čase;
+
+(f) "souhlas" uživatele či účastníka odpovídá souhlasu subjektu údajů podle směrnice 95/46/ES;
+
+(g) "službou s přidanou hodnotou" se rozumí jakákoli služba vyžadující zpracování provozních údajů nebo lokalizačních údajů odlišných od provozních, pokud jdou nad rámec toho, co je nezbytné pro přenos sdělení nebo jeho účtování;
+
+(h) "elektronickou poštou" se rozumí jakákoli textová, hlasová, zvuková či obrazová zpráva posílaná prostřednictvím veřejné komunikační sítě, kterou lze uchovávat v síti nebo v koncovém zařízení příjemce, dokud si ji příjemce nevyzvedne.
+
+Článek 3
+
+Dotčené služby
+
+1. Tato směrnice se vztahuje na zpracování osobních údajů ve spojení s poskytováním veřejně dostupných služeb elektronických komunikací ve veřejných komunikačních sítích ve Společenství.
+
+2. Články 8, 10 a 11 se vztahují na účastnické linky připojené k digitálním ústřednám a v případě, že je to technicky možné a nevyžaduje to neúměrné ekonomické zatížení, se vztahují na účastnické linky připojené k analogovým ústřednám.
+
+3. Členské státy uvědomí Komisi o případech, ve kterých by splnění požadavků podle článků 8, 10 a 11 bylo technicky nemožné nebo by vyžadovalo neúměrné ekonomické zatížení.
+
+Článek 4
+
+Bezpečnost
+
+1. Poskytovatel veřejně dostupných služeb elektronických komunikací musí přijmout vhodná technická a organizační opatření, aby zajistil bezpečnost svých služeb, v případě nutnosti i v součinnosti s provozovatelem veřejné komunikační sítě, s ohledem na bezpečnost sítě. Se zřetelem na technickou a nákladovou stránku jejich provádění je třeba, aby tato opatření zajišťovala úroveň bezpečnosti odpovídající stávajícímu riziku.
+
+2. Existuje-li zvláštní riziko, že bude narušena bezpečnost sítě, musí poskytovatel veřejně dostupných služeb elektronických komunikací informovat účastníky o takovém riziku a pokud toto riziko přesahuje rozsah opatření, která má přijmout poskytovatel služeb, musí účastníky informovat o veškerých možných opatřeních k nápravě, včetně stanovení pravděpodobných souvisejících nákladů.
+
+Článek 5
+
+Důvěrný charakter sdělení
+
+1. Členské státy zajistí prostřednictvím vnitrostátních právních předpisů důvěrný charakter sdělení přenášených pomocí veřejné komunikační sítě a veřejně dostupných služeb elektronických komunikací a s nimi souvisejících provozních údajů. Zejména zakáží příposlech, odposlech, uchovávání nebo jiné druhy zachycování či sledování sdělení a s nimi souvisejících provozních údajů osobami jinými než uživateli bez souhlasu dotčených uživatelů, pokud k takovému jednání nejsou zákonem oprávněny v souladu s čl. 15 odst. 1. Tento odstavec nebrání technickému uchovávání, které je nezbytné pro přenos sdělení, aniž by tím byla dotčena zásada důvěrnosti.
+
+2. Odstavec 1 se nedotýká v souladu se zákonem povoleného zaznamenávání sdělení a s ním souvisejících provozních údajů, je-li prováděno v rámci zákonných obchodních praktik za účelem prokazování obchodních transakcí nebo jakéhokoli jiného sdělení v rámci podnikatelských činností.
+
+3. Členské státy zajistí, aby užívání sítí elektronických komunikací k uchovávání informací nebo získávání přístupu k informacím uchovávaným v koncovém zařízení účastníka nebo uživatele bylo povoleno pouze za podmínky, že dotčený účastník či uživatel byl jasně a úplně informován v souladu se směrnicí 95/46/ES, mimo jiné o účelech zpracování, a že je mu správcem údajů nabídnuto právo odmítnout takové zpracování. To nebrání technickému ukládání nebo takovému přístupu, jehož jediným účelem je provedení nebo usnadnění přenosu sdělení prostřednictvím sítí elektronických komunikací nebo, je-li to nezbytně nutné pro poskytování služeb informační společnosti, které si účastník nebo uživatel výslovně vyžádal.
+
+Článek 6
+
+Provozní údaje
+
+1. Provozní údaje vztahující se k účastníkům a uživatelům zpracovávané a uchovávané provozovatelem veřejné komunikační sítě nebo poskytovatelem veřejně dostupné služby elektronických komunikací, musí být vymazány nebo anonymizovány, jakmile již nejsou potřebné pro přenos sdělení, aniž by tímto byly dotčeny odstavce 2, 3 a 5 tohoto článku a čl. 15 odst. 1.
+
+2. Je možno zpracovávat provozní údaje nezbytné pro účely účtování a stanovení plateb za propojení. Takovéto zpracování je přípustné pouze do konce období, v němž lze právně napadnout účet či uplatňovat nárok na platbu.
+
+3. Pro potřeby marketingu služeb elektronických komunikací nebo pro poskytování služeb s přidanou hodnotou může poskytovatel veřejně dostupných služeb elektronických komunikací zpracovávat údaje uvedené v odstavci 1 pouze v nezbytném rozsahu a po dobu pro tyto služby nebo marketing nezbytnou, pokud k tomu dal svůj souhlas účastník nebo uživatel, jehož se údaje týkají. Účastníci či uživatelé musí mít možnost kdykoliv svůj souhlas se zpracováním provozních údajů vzít zpět.
+
+4. Poskytovatel služby musí informovat účastníka nebo uživatele o tom, jaké druhy provozních údajů a po jakou dobu budou zpracovávány pro účely uvedené v odstavci 2; při zpracování prováděném pro účely uvedené v odstavci 3 musí být tato informace poskytnuta ještě před získáním souhlasu.
+
+5. Zpracování provozních údajů podle odstavců 1, 2, 3 a 4 musí být omezeno na osoby, které jednají z pověření provozovatelů veřejných komunikačních sítí a poskytovatelů veřejně dostupných služeb elektronických komunikací, a které se zabývají účtováním nebo řízením provozu, požadavky zákazníků, odhalováním podvodů, marketingem služeb elektronických komunikací nebo poskytováním služeb s přidanou hodnotou, a musí být omezeno na rozsah, který je nezbytný pro účely těchto činností.
+
+6. Odstavce 1, 2, 3 a 5 se použijí, aniž by tím byla dotčena možnost informovat příslušné subjekty o provozních údajích v souladu s použitelnými právními předpisy s cílem řešit spory týkající se zejména propojení či účtování.
+
+Článek 7
+
+Podrobný rozpis účtů
+
+1. Účastníci mají právo obdržet účet bez podrobného rozpisu položek.
+
+2. Členské státy použijí vnitrostátní předpisy, aby uvedly do souladu právo účastníků, kteří dostávají podrobný rozpis účtů, s právem na soukromí volajících uživatelů a volaných účastníků, např. zajištěním toho, že těmto uživatelům a účastníkům budou k dispozici dostatečné alternativní komunikační nebo platební metody podporující soukromí.
+
+Článek 8
+
+Uvedení a omezení identifikace volající a spojené linky
+
+1. Je-li nabízeno uvedení identifikace volající linky, poskytovatel služby musí nabídnout volajícímu uživateli možnost potlačit identifikaci volající linky pro každé volání jednotlivě, a to jednoduchým způsobem a zdarma. Volající účastník musí mít tuto možnost pro každou linku.
+
+2. Je-li nabízeno uvedení identifikace volající linky, poskytovatel služby musí nabídnout volanému účastníkovi možnost potlačit identifikaci volající linky u příchozích volání, a to jednoduchým způsobem a pro odůvodněné použití této funkce rovněž zdarma.
+
+3. Je-li nabízeno uvedení identifikace volající linky a je-li identifikace volající linky provedena ještě před spojením volání, musí poskytovatel služby nabídnout volanému účastníkovi možnost odmítnout příchozí volání, u kterých volající uživatel nebo účastník potlačil uvedení identifikace volající linky, a to jednoduchým způsobem.
+
+4. Je-li nabízeno uvedení identifikace spojené linky, poskytovatel služby musí nabídnout volanému účastníkovi možnost potlačit uvedení identifikace spojené linky volajícímu uživateli, a to jednoduchým způsobem a zdarma.
+
+5. Odstavec 1 se použije rovněž v případě volání směřujících ze Společenství do třetích zemí. Odstavce 2, 3 a 4 se použijí rovněž v případě příchozích volání ze třetích zemí.
+
+6. Členské státy zajistí, že pokud bude nabízeno uvedení identifikace volající a/nebo spojené linky, budou poskytovatelé veřejně dostupných služeb elektronických komunikací o tomto informovat veřejnost, jakož i o možnostech uvedených v odstavcích 1, 2, 3, a 4.
+
+Článek 9
+
+Lokalizační údaje odlišné od provozních údajů
+
+1. Mohou-li být zpracovávány lokalizační údaje odlišné od provozních údajů, které se vztahují k uživatelům nebo účastníkům veřejných komunikačních sítí nebo veřejně dostupných služeb elektronických komunikací, je možné tyto údaje zpracovávat pouze poté, co byly anonymizovány údaje, anebo se souhlasem uživatelů nebo účastníků v nezbytném rozsahu a po nezbytnou dobu pro poskytování služeb s přidanou hodnotou. Poskytovatel služeb musí informovat uživatele nebo účastníky před obdržením jejich souhlasu o druhu lokalizačních údajů odlišných od provozních údajů, které budou zpracovávány, o účelu a délce doby zpracování a o tom, zda budou údaje předány třetí osobě za účelem poskytování služeb s přidanou hodnotou. Uživatelé nebo účastníci musí mít možnost kdykoliv vzít zpět svůj souhlas se zpracováním lokalizačních údajů odlišných od provozních údajů.
+
+2. Pokud byl získán souhlas uživatelů či účastníků se zpracováním lokalizačních údajů odlišných od provozních údajů, musí mít i nadále možnost jednoduchým způsobem a zdarma dočasně odmítnout zpracování těchto údajů pro každé připojení k síti nebo pro každý přenos sdělení.
+
+3. V souladu s odstavci 1 a 2 musí být zpracování lokalizačních údajů odlišných od provozních údajů omezeno na osoby, které jednají z pověření provozovatele veřejných komunikačních sítí nebo poskytovatele veřejně dostupných služeb elektronických komunikací nebo třetích osob, které poskytují služby s přidanou hodnotou, a musí být omezeno na to, co je nezbytné pro poskytování služeb s přidanou hodnotou.
+
+Článek 10
+
+Výjimky
+
+Členské státy zajistí, aby existovaly průhledné postupy určující způsob, který provozovatele veřejné komunikační sítě a/nebo poskytovatele veřejně dostupné služby elektronických komunikací opravňuje nedbat na:
+
+(a) potlačení identifikace volající linky, a to dočasně a na základě žádosti účastníka, který požaduje vysledovat zlovolné či obtěžující volání. V souladu s vnitrostátními právními předpisy budou v tomto případě údaje obsahující identifikaci volajícího účastníka uchovány a dány k dispozici provozovatelem veřejné komunikační sítě a/nebo poskytovatelem veřejně dostupné služby elektronických komunikací;
+
+(b) potlačení identifikace volající linky a dočasné zamítnutí či neexistenci souhlasu účastníka nebo uživatele se zpracováním lokalizačních údajů, a sice pro jednotlivá volání v případě organizací zabývajících se zpracováním tísňových volání a členským státem za takové uznaných, včetně donucovacích orgánů, lékařských služeb první pomoci a hasičské záchranné služby, a to za účelem odpovídání na tato volání.
+
+Článek 11
+
+Automatické přesměrování volání
+
+Členské státy zajistí, aby měl každý účastník možnost jednoduchým způsobem a zdarma pozastavit automatické přesměrování volání třetí osobou do koncového zařízení účastníka.
+
+Článek 12
+
+Účastnické seznamy
+
+1. Členské státy zajistí, aby účastníci byli informováni zdarma a před zařazením do seznamu o účelu/účelech tištěného nebo elektronického účastnického seznamu, který bude k dispozici veřejnosti nebo dosažitelný prostřednictvím informačních služeb o účastnických číslech, a ve kterém mohou být uvedeny jejich osobní údaje, a o dalších možnostech využití založených na vyhledávacích funkcích zabudovaných v elektronických verzích seznamu.
+
+2. Členské státy zajistí, aby účastníci měli možnost určit, zda jejich osobní údaje budou uvedeny ve veřejném seznamu a pokud ano, tak které, v rozsahu, ve kterém jsou tyto údaje významné pro účely seznamu stanovené poskytovatelem seznamu, a možnost ověřit, opravit či odstranit tyto údaje. Neuvedení ve veřejném účastnickém seznamu, ověření, oprava či odstranění osobních údajů ze seznamu musí být prováděno zdarma.
+
+3. Členské státy mohou vyžadovat, aby byli účastníci požádáni o dodatečný souhlas, bude-li účel veřejného účastnického seznamu jiný, než je vyhledávání podrobností pro kontaktování osoby na základě jejího jména a případně nutnosti i minimálního množství dalších identifikátorů.
+
+4. Odstavce 1 a 2 se použijí na účastníky, kteří jsou fyzickými osobami. V rámci práva Společenství a použitelných vnitrostátních právních předpisů členské státy také zajistí, že budou dostatečně chráněny oprávněné zájmy účastníků, kteří nejsou fyzickými osobami, pokud jde o jejich uvedení ve veřejných účastnických seznamech.
+
+Článek 13
+
+Nevyžádaná sdělení
+
+1. Automatické volací systémy bez zásahu člověka (automatické volací přístroje), faximilní přístroje (faxy) nebo elektronickou poštu je možno použít pro účely přímého marketingu pouze v případě účastníků, kteří k tomu dali předchozí souhlas.
+
+2. Bez ohledu na odstavec 1, pokud fyzická nebo právnická osoba získává od svých zákazníků podrobnosti jejich elektronického kontaktu pro elektronickou poštu v souvislosti s prodejem výrobku nebo služby a v souladu se směrnicí 95/46/ES, může tato fyzická či právnická osoba využít tyto podrobnosti elektronického kontaktu pro účely přímého marketingu svých vlastních obdobných výrobků nebo služeb pouze za předpokladu, že je zákazníkům jasně a zřetelně poskytnuta možnost zdarma a jednoduchým způsobem nesouhlasit s takovým využitím podrobností jejich elektronického kontaktu v době, kdy se shromažďují, a při zasílání každého jednotlivého sdělení, pokud zákazník původně toto využití neodmítl.
+
+3. Členské státy musí přijmout vhodná opatření zajišťující, že nevyžádaná sdělení, zdarma, pro účely přímého marketingu, v případech jiných než uvedených v odstavcích 1 a 2, nebudou povolena buď bez souhlasu dotčených účastníků, nebo ve vztahu k účastníkům, kteří si nepřejí taková sdělení dostávat, přičemž výběr z uvedených možností bude stanoven vnitrostátními právními předpisy.
+
+4. V každém případě je nutno zakázat praxi posílat elektronickou poštu pro účely přímého marketingu, pokud tato skrývá nebo utajuje totožnost odesílatele, jehož jménem se sdělení přenáší, anebo ji posílat bez platné adresy, na kterou by příjemce mohl odeslat žádost o ukončení zasílání takových sdělení.
+
+5. Odstavce 1 a 3 se použijí na účastníky, kteří jsou fyzickými osobami. V rámci práva Společenství a použitelných vnitrostátních právních předpisů členské státy také zajistí, že budou dostatečně chráněny oprávněné zájmy účastníků, kteří nejsou fyzickými osobami, pokud jde o nevyžádaná sdělení.
+
+Článek 14
+
+Technické znaky a normalizace
+
+1. Při provádění ustanovení této směrnice členské státy zajistí s výhradou odstavců 2 a 3, že na koncové zařízení nebo jiné elektronické komunikační zařízení nebudou kladeny žádné povinné požadavky na zvláštní technické znaky, které by bránily uvádění zařízení na trh a volnému oběhu tohoto zařízení v členských státech a mezi nimi.
+
+2. Budou-li ustanovení této směrnice prováděna výlučně s požadavkem na zvláštní technické znaky v sítích elektronických komunikací, členské státy uvědomí Komisi v souladu s postupem uvedeným ve směrnici Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a pravidel pro služby informační společnosti [9].
+
+3. V případě potřeby lze přijmout opatření, aby bylo zajištěno, že koncové zařízení je sestrojeno tak, že odpovídá právu uživatelů na ochranu a kontrolu využití jejich osobních údajů v souladu se směrnicí 1999/5/ES a rozhodnutím Rady 87/95/EHS ze dne 22. prosince 1986 o normalizaci v oblasti informačních technologií a telekomunikací [10].
+
+Článek 15
+
+Použití některých ustanovení směrnice 95/46/ES
+
+1. Členské státy mohou přijmout legislativní opatření, kterými omezí rozsah práv a povinností uvedených v článku 5, článku 6, čl. 8 odst. 1, 2, 3 a 4 a článku 9 této směrnice, pokud toto omezení představuje v demokratické společnosti nezbytné, přiměřené a úměrné opatření pro zajištění národní bezpečnosti (tj. bezpečnosti státu), obrany, veřejné bezpečnosti a pro prevenci, vyšetřování, odhalování a stíhání trestných činů nebo neoprávněného použití elektronického komunikačního systému, jak je uvedeno v čl. 13 odst. 1 směrnice 95/64/ES. Členské státy mohou mimo jiné přijmout právní opatření umožňující zadržení údajů na omezenou dobu na základě důvodů uvedených v tomto odstavci. Veškerá opatření uvedená v tomto odstavci musí být v souladu s obecnými zásadami práva Společenství, včetně zásad uvedených v čl. 6 odst. 1 a 2 Smlouvy o založení Evropské unie.
+
+2. Ustanovení směrnice 95/46/ES, kapitoly III o soudním přezkumu, odpovědnosti a sankcích, se použijí s ohledem na vnitrostátní právní předpisy přijaté v souladu s touto směrnicí a s ohledem na práva jednotlivců vyplývající z této směrnice.
+
+3. Pracovní skupina pro ochranu fyzických osob v souvislosti se zpracováním osobních údajů, zřízená podle článku 29 směrnice 95/46/ES, plní rovněž úkoly stanovené článkem 30 uvedené směrnice týkající se záležitostí upravených touto směrnicí, zejména ochrany základních práv a svobod a oprávněných zájmů v odvětví elektronických komunikací.
+
+Článek 16
+
+Přechodná ustanovení
+
+1. Článek 12 se nepoužije na vydávání účastnických seznamů, které byly vydány nebo uvedeny na trh v tištěné formě nebo v off-line elektronické formě ještě před tím, než vnitrostátní předpisy přijaté na základě této směrnice nabudou účinnosti.
+
+2. Jsou-li osobní údaje účastníků pevných nebo mobilních veřejných hlasových telefonních služeb součástí veřejného účastnického seznamu v souladu s ustanoveními směrnice 95/46/ES a článkem 11 směrnice 97/66/ES ještě před tím, než vnitrostátní předpisy přijaté podle této směrnice vstoupí v platnost, mohou osobní údaje těchto účastníků zůstat uvedeny v tomto veřejném účastnickém seznamu v jeho tištěné nebo elektronické verzi, včetně verzí se zpětnou vyhledávací funkcí, pokud účastníci nestanoví jinak poté, co získali úplné informace o účelech a možnostech volby v souladu s článkem 12 této směrnice.
+
+Článek 17
+
+Provedení
+
+1. Členské státy uvedou v účinnost právní předpisy nezbytné pro dosažení souladu s touto směrnicí do 31. října 2003. Neprodleně o nich uvědomí Komisi.
+
+Tato opatření přijatá členskými státy musí obsahovat odkaz na tuto směrnici nebo musí být takový odkaz učiněn při jejich úředním vyhlášení. Způsob odkazu si stanoví členské státy.
+
+2. Členské státy sdělí Komisi znění vnitrostátních právních předpisů, které přijmou v oblasti působnosti této směrnice a jejich veškeré následné úpravy.
+
+Článek 18
+
+Přezkum
+
+Nejpozději do tří let od data uvedeného v čl. 17 odst. 1 předloží Komise Evropskému parlamentu a Radě zprávu o uplatňování této směrnice a jejím dopadu na hospodářské subjekty a spotřebitele, zejména s ohledem na ustanovení o nevyžádaných sděleních, přičemž vezme v úvahu mezinárodní prostředí. Pro tento účel může Komise vyžadovat od členských států informace, které musí být poskytnuty bez zbytečného odkladu. V případě potřeby navrhne Komise úpravy této směrnice, přičemž vezme v úvahu výsledky uvedené zprávy, případné změny v tomto odvětví a další návrhy, které bude považovat za nezbytné pro zvýšení účinnosti této směrnice.
+
+Článek 19
+
+Zrušovací ustanovení
+
+Směrnice 97/66/ES se zrušuje s účinkem ode dne uvedeného v čl. 17 odst. 1.
+
+Odkazy na zrušenou směrnici se považují za odkazy na tuto směrnici.
+
+Článek 20
+
+Vstup v platnost
+
+Tato směrnice vstupuje v platnost dnem vyhlášení v Úředním věstníku Evropských společenství.
+
+Článek 21
+
+Určení
+
+Tato směrnice je určena členským státům.
+
+
+V Bruselu dne 12. července 2002.
+
+Za Evropský parlament
+
+předseda
+
+P. Cox
+
+Za Radu
+
+předseda
+
+T. Pedersen
+
+[1] Úř. věst. C 365 E, 19.12.2000, s. 223.
+
+[2] Úř. věst. C 123, 25.4.2001, s. 53.
+
+[3] Stanovisko Evropského parlamentu ze dne 13. listopadu 2001 (dosud nezveřejněné v Úředním věstníku), společný postoj Rady ze dne 28. ledna 2002 (Úř. věst. C 113 E, 14.5.2002, s. 39) a rozhodnutí Evropského parlamentu ze dne 30. května 2002 (dosud nezveřejněné v Úředním věstníku). Rozhodnutí Rady ze dne 25. června 2002.
+
+[4] Úř. věst. L 281, 23.11.1995, s. 31.
+
+[5] Úř. věst. L 24, 30.1.1998, s. 1.
+
+[6] Úř. věst. L 178, 17.7.2000, s. 1.
+
+[7] Úř. věst. L 91, 7.4.1999, s. 10.
+
+[8] Úř. věst. L 108, 24.4.2002, s. 33.
+
+[9] Úř. věst. L 204, 21.7.1998, s. 37, ve znění směrnice 98/48/ES (Úř. věst. L 217, 5.8.1998, s. 18).
+
+[10] Úř. věst. L 36, 7.2.1987, s. 31, ve znění Aktu o přistoupení z roku 1994.
+
+--------------------------------------------------

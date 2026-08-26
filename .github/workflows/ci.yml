@@ -1,0 +1,49 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "${{ matrix.python-version }}" }
+      - run: pip install -e ".[dev]"
+
+      # 1. dataset integrity
+      - run: parallax-bench validate
+
+      # 2. the quickstart contract — offline, no GPU, under two minutes
+      - name: smoke end-to-end
+        run: |
+          timeout 120 parallax-bench run --system baseline-local --subset smoke
+          parallax-bench score
+          parallax-bench report
+
+      # 3. hygiene
+      - run: ruff check src tests benchmark/build
+      - run: mypy src/parallax_bench
+      - run: pytest -q
+
+  secrets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: gitleaks
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: no production hostnames or instance topology
+        run: |
+          ! grep -rEn "edgeant\.cz|instances\.conf|JWT_SECRET_KEY *= *[^$ ]" \
+              --include="*.py" --include="*.toml" --include="*.md" --include="*.json" \
+              --exclude-dir=.git . \
+            || { echo "::error::production identifier or secret in the diff"; exit 1; }

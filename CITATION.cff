@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use parallax-bench, please cite it as below."
+title: "parallax-bench: Measuring language-induced retrieval displacement in RAG systems using parallel corpora"
+type: software
+authors:
+  - family-names: "Brůha"
+    given-names: "Ondřej"
+    email: "ondrej.bruha@alphacodes.eu"
+repository-code: "https://github.com/ondrejbruha/parallax-bench"
+license: Apache-2.0
+keywords:
+  - retrieval-augmented generation
+  - multilingual retrieval
+  - benchmark
+  - parallel corpora
+  - Czech

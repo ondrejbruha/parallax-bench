@@ -1,0 +1,24 @@
+# Copy to systems.toml and adjust. Secrets ONLY via ${ENV_VARS} — never
+# literal values, never production URLs (see docs/adding-a-system.md).
+#
+# `baseline-local` is built in and needs no entry here.
+
+# Ablations are two configured instances of the same adapter — reranking
+# on/off is expressed purely through configuration, never as a protocol knob.
+
+[[systems]]
+id = "edge-ant-rerank"
+adapter = "parallax_bench.adapters.edge_ant:EdgeAntSystem"
+config = { base_url = "${EDGE_ANT_BASE_URL}", jwt_secret = "${EDGE_ANT_JWT_SECRET}", mail = "${EDGE_ANT_MAIL}", prefetch_k = 50, result_count = 10 }
+
+[[systems]]
+id = "edge-ant-norerank"
+adapter = "parallax_bench.adapters.edge_ant:EdgeAntSystem"
+# prefetch_k == result_count makes Edge Ant skip the reranker
+config = { base_url = "${EDGE_ANT_BASE_URL}", jwt_secret = "${EDGE_ANT_JWT_SECRET}", mail = "${EDGE_ANT_MAIL}", prefetch_k = 10, result_count = 10 }
+
+# Local baseline with the dense half enabled (pip install 'parallax-bench[baseline]')
+[[systems]]
+id = "baseline-hybrid"
+adapter = "parallax_bench.adapters.baseline_local:BaselineLocalSystem"
+config = { embedding_model = "intfloat/multilingual-e5-small" }

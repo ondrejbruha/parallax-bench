@@ -1,0 +1,37 @@
+{
+  "name": "parallax-bench-runner",
+  "description": "Example Heroku deployment of the parallax-bench runner. No secrets here — values are set per app, never committed.",
+  "stack": "heroku-24",
+  "env": {
+    "EDGE_ANT_BASE_URL": {
+      "description": "Base URL of the system under test (behind your tunnel). Value set at deploy time, never committed.",
+      "required": true
+    },
+    "EDGE_ANT_JWT_SECRET": {
+      "description": "Shared JWT secret for the benchmark identity on the SUT.",
+      "required": true
+    },
+    "EDGE_ANT_MAIL": {
+      "description": "Mail claim for the self-signed benchmark JWT.",
+      "required": true
+    },
+    "PARALLAX_SYSTEM": {
+      "description": "System id from systems.toml to run (e.g. edge-ant-rerank).",
+      "required": true
+    },
+    "PARALLAX_PHASE": {
+      "description": "retrieval | generation",
+      "value": "retrieval"
+    },
+    "PARALLAX_DATA_VERSION": {
+      "description": "Data version to run (e.g. v1).",
+      "value": "v1"
+    }
+  },
+  "addons": [
+    { "plan": "heroku-postgresql:essential-0" }
+  ],
+  "buildpacks": [
+    { "url": "heroku/python" }
+  ]
+}

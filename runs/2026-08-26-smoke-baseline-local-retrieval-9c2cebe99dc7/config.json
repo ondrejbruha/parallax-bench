@@ -1,0 +1,16 @@
+{
+  "system_id": "baseline-local",
+  "adapter": "parallax_bench.adapters.baseline_local:BaselineLocalSystem",
+  "adapter_config": {},
+  "data_version": "smoke",
+  "index_prefix": "bench_",
+  "phase": "retrieval",
+  "k": 100,
+  "modes": null,
+  "languages": [
+    "cs",
+    "de",
+    "en"
+  ],
+  "harness_version": "0.1.dev1+gf0d1ac3bc.d20260826"
+}

@@ -1,0 +1,1172 @@
+L_2019186DE.01005701.xml
+
+
+11.7.2019
+
+
+DE
+
+
+Amtsblatt der Europäischen Union
+
+
+L 186/57
+
+
+VERORDNUNG (EU) 2019/1150 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+
+
+vom 20. Juni 2019
+
+
+zur Förderung von Fairness und Transparenz für gewerbliche Nutzer von Online-Vermittlungsdiensten
+
+
+(Text von Bedeutung für den EWR)
+
+
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 114,
+
+
+auf Vorschlag der Europäischen Kommission,
+
+
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
+
+
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses  ( 1 ) ,
+
+
+nach Anhörung des Ausschusses der Regionen,
+
+
+gemäß dem ordentlichen Gesetzgebungsverfahren  ( 2 ) ,
+
+
+in Erwägung nachstehender Gründe:
+
+
+(1)
+
+
+Online-Vermittlungsdienste sind wesentliche Voraussetzungen für das Unternehmertum und neue Geschäftsmodelle, Handel und Innovation, die zudem das Verbraucherwohl verbessern können und zunehmend sowohl vom privaten als auch vom öffentlichen Sektor genutzt werden. Sie bieten Zugang zu neuen Märkten und geschäftlichen Chancen und ermöglichen es so Unternehmen, die Vorteile des Binnenmarktes zu nutzen. Sie ermöglichen es Verbrauchern in der Union, von diesen Vorteilen zu profitieren, vor allem durch eine größere Auswahl an Waren und Dienstleistungen und durch einen Beitrag zum Angebot wettbewerbsfähiger Preise im Internet; sie führen aber auch zu Problemstellungen, die es zu bewältigen gilt, um für Rechtssicherheit zu sorgen.
+
+
+(2)
+
+
+Online-Vermittlungsdienste können für den geschäftlichen Erfolg von Unternehmen, die solche Dienste nutzen, um die Verbraucher zu erreichen, von entscheidender Bedeutung sein. Um die mit der Online-Plattformwirtschaft verbundenen Vorteile voll auszuschöpfen, ist es daher wichtig, dass die Unternehmen den Online-Vermittlungsdiensten, mit denen sie in Geschäftsbeziehungen eintreten, vertrauen können. Dies ist hauptsächlich deswegen von Bedeutung, weil der Anstieg bei der Vermittlung von Transaktionen über Online-Vermittlungsdienste, den starke, durch Daten ausgelöste indirekte Netzeffekte noch weiter vorantreiben, dazu führt, dass gewerbliche Nutzer, insbesondere Kleinstunternehmen, kleine und mittlere Unternehmen (KMU), die Verbraucher erreichen wollen, zunehmend von diesen Diensten abhängig werden. Angesichts dieser wachsenden Abhängigkeit haben die Anbieter dieser Dienste häufig eine größere Verhandlungsmacht, die es ihnen gestattet, sich einseitig in einer möglicherweise unlauteren Weise zu verhalten, die den legitimen Interessen ihrer gewerblichen Nutzer und indirekt auch der Verbraucher in der Union schaden kann. Sie könnten beispielsweise gewerblichen Nutzern einseitig Praktiken aufzwingen, die gröblich von der guten Geschäftspraktik abweichen oder gegen das Gebot von Treu und Glauben und des redlichen Geschäftsverkehrs verstoßen. Die vorliegende Verordnung befasst sich mit solchen potenziellen Reibungen in der Online-Plattformwirtschaft.
+
+
+(3)
+
+
+Die Verbraucher haben sich die Verwendung von Online-Vermittlungsdiensten zu Eigen gemacht. Für das Verbraucherwohl ist darüber hinaus ein wettbewerbsfähiges, faires und transparentes Online-Ökosystem, in dem sich Unternehmen verantwortungsvoll verhalten, ausschlaggebend. Mit der Sicherstellung von Transparenz und Vertrauen in die Online-Plattformwirtschaft in den Beziehungen zwischen den Unternehmen könnte indirekt dazu beigetragen werden, auch das Vertrauen der Verbraucher in die Online-Plattformwirtschaft zu erhöhen. Mit den direkten Auswirkungen, die die Entwicklung der Online-Plattformwirtschaft auf die Verbraucher hat, befassen sich hingegen andere Rechtsvorschriften der Union, vor allem der Besitzstand für Verbraucherschutz.
+
+
+(4)
+
+
+Genauso können Online-Suchmaschinen für den Datenverkehr im Internet von Unternehmen, die Verbrauchern Waren oder Dienstleistungen über Websites anbieten, wichtige Quellen darstellen und damit den geschäftlichen Erfolg solcher Nutzer mit Unternehmenswebsite, die ihre Waren oder Dienstleistungen im Binnenmarkt online anbieten, erheblich beeinflussen. Diesbezüglich hat das Ranking von Websites durch die Anbieter von Online-Suchmaschinen, auch solcher Websites, über die Nutzer mit Unternehmenswebsite ihre Waren und Dienstleistungen Verbrauchern anbieten, erhebliche Auswirkungen auf die Wahlmöglichkeiten der Verbraucher und den geschäftlichen Erfolg dieser Nutzer mit Unternehmenswebsite. Daher können sich Anbieter von Online-Suchmaschinen, selbst wenn kein Vertragsverhältnis zu Nutzern mit Unternehmenswebsite besteht, einseitig in einer möglicherweise unlauteren Weise verhalten, die den legitimen Interessen der Nutzer mit Unternehmenswebsite und indirekt auch der Verbraucher in der Union schaden kann.
+
+
+(5)
+
+
+Die Art der Beziehung zwischen Anbietern von Online-Vermittlungsdiensten und gewerblichen Nutzern könnte auch zu Situationen führen, in denen gewerbliche Nutzer vielfach nur begrenzte Möglichkeiten haben, Abhilfe zu erlangen, wenn einseitige Maßnahmen der Anbieter solcher Dienste zu einer Streitigkeit führen. In vielen Fällen werden von diesen Anbietern keine zugänglichen und wirksamen internen Beschwerdemanagementsysteme angeboten. Bestehende alternative außergerichtliche Streitbeilegungsmechanismen können sich aus einer Vielzahl von Gründen — darunter der Mangel an spezialisierten Mediatoren und die Angst der gewerblichen Nutzer vor Vergeltungsmaßnahmen — als unwirksam erweisen.
+
+
+(6)
+
+
+Online-Vermittlungsdienste und Online-Suchmaschinen sowie die von diesen Diensten vermittelten Transaktionen haben ein inhärent grenzübergreifendes Potenzial und sind in der Wirtschaft von heute für das reibungslose Funktionieren des Binnenmarkts der Union von besonderer Bedeutung. Die potenziell unlauteren und schädlichen Geschäftspraktiken bestimmter Anbieter solcher Dienste und das Fehlen wirksamer Abhilfemechanismen behindern die vollständige Erschließung dieses Potenzials und beeinträchtigen das reibungslose Funktionieren des Binnenmarkts.
+
+
+(7)
+
+
+Es sollten auf der Ebene der Union gezielte Vorschriften verbindlich festgelegt werden, um ein faires, vorhersehbares, tragfähiges und vertrauenswürdiges Online-Geschäftsumfeld im Binnenmarkt sicherzustellen. Insbesondere sollten den gewerblichen Nutzern von Online-Vermittlungsdiensten in der gesamten Union eine angemessene Transparenz und wirksame Abhilfemöglichkeiten geboten werden, um grenzüberschreitende Geschäfte innerhalb der Union zu erleichtern und auf diese Weise das reibungslose Funktionieren des Binnenmarkts zu verbessern und die möglicherweise entstehende Fragmentierung in bestimmten Bereichen, die unter diese Verordnung fallen, zu bekämpfen.
+
+
+(8)
+
+
+Diese Vorschriften sollten auch für geeignete Anreize zur Förderung von Fairness und Transparenz sorgen, insbesondere hinsichtlich des Rankings von Nutzern mit Unternehmenswebsite in den von den Online-Suchmaschinen generierten Suchergebnissen. Gleichzeitig sollten diese Vorschriften das in der Online-Plattformwirtschaft im weiteren Sinne vorhandene enorme Innovationspotenzial anerkennen und schützen und einen gesunden Wettbewerb ermöglichen, der mehr Wahlmöglichkeiten für die Verbraucher schafft. Es sollte präzisiert werden, dass diese Verordnung das nationale Zivilrecht, insbesondere das Vertragsrecht, wie etwa die Bestimmungen über die Wirksamkeit, das Zustandekommen, die Wirkungen oder die Beendigung eines Vertrags, nicht berühren sollte, soweit die Vorschriften des nationalen Zivilrechts mit dem Unionsrecht in Einklang stehen und die relevanten Aspekte nicht unter diese Verordnung fallen. Es sollte den Mitgliedstaaten weiterhin freistehen, nationale Rechtsvorschriften anzuwenden, mit denen einseitige Handlungen oder unlautere Geschäftspraktiken untersagt oder geahndet werden, soweit die relevanten Aspekte nicht durch die Bestimmungen dieser Verordnung geregelt werden.
+
+
+(9)
+
+
+Da Online-Vermittlungsdienste und Online-Suchmaschinen in der Regel eine globale Dimension aufweisen, sollte diese Verordnung für Anbieter dieser Dienste unabhängig davon gelten, ob sie in einem Mitgliedstaat oder außerhalb der Union niedergelassen sind, sofern zwei kumulative Bedingungen erfüllt sind. Erstens sollten die gewerblichen Nutzer oder die Nutzer mit Unternehmenswebsite in der Union niedergelassen sein. Zweitens sollten die gewerblichen Nutzer oder die Nutzer mit Unternehmenswebsite ihre Waren oder Dienstleistungen mit Hilfe dieser Dienste Verbrauchern anbieten, die sich zumindest hinsichtlich eines Teils der Transaktion in der Union befinden. Um festzustellen, ob gewerbliche Nutzer oder Nutzer mit Unternehmenswebsite Verbrauchern in der Union Waren oder Dienstleistungen anbieten, ist es notwendig zu prüfen, ob es offenkundig ist, dass gewerbliche Nutzer oder Nutzer mit Unternehmenswebsite ihre Tätigkeiten auf Verbraucher in einem oder mehreren Mitgliedstaaten ausrichten. Dieses Kriterium sollte entsprechend der einschlägigen Rechtsprechung des Gerichtshofs der Europäischen Union zu Artikel 17 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates  ( 3 ) und zu Artikel 6 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates  ( 4 ) ausgelegt werden. Diese Verbraucher sollten sich zwar in der Union befinden, müssen jedoch weder ihren Wohnsitz in der Union haben noch die Staatsangehörigkeit eines Mitgliedstaats besitzen. Dementsprechend sollte diese Verordnung nicht gelten, wenn gewerbliche Nutzer oder Nutzer mit Unternehmenswebsite nicht in der Union niedergelassen sind oder wenn sie zwar in der Union niedergelassen sind, aber Online-Vermittlungsdienste oder Online-Suchmaschinen nutzen, um Waren oder Dienstleistungen ausschließlich Verbrauchern außerhalb der Union oder Personen, die keine Verbraucher sind, anzubieten. Ferner sollte diese Verordnung unabhängig von dem ansonsten auf einen Vertrag anzuwendenden Recht gelten.
+
+
+(10)
+
+
+Eine große Bandbreite von Beziehungen zwischen Unternehmen und Verbrauchern wird online durch Betreiber mehrseitiger Dienste vermittelt, welche im Wesentlichen auf ein und demselben das Ökosystem bildenden Geschäftsmodell beruhen. Um die relevanten Dienste zu erfassen, sollte der Begriff „Online-Vermittlungsdienste“ präzise und technologieneutral definiert werden. Die Dienste sollten insbesondere aus Diensten der Informationsgesellschaft bestehen, die dadurch gekennzeichnet sind, dass sie darauf abzielen, die Anbahnung direkter Transaktionen zwischen gewerblichen Nutzern und Verbrauchern zu vermitteln, und zwar unabhängig davon, ob die Transaktionen letztlich online, auf dem Online-Portal des jeweiligen Anbieters von Online-Vermittlungsdiensten oder des gewerblichen Nutzers, offline oder aber überhaupt nicht abgeschlossen werden, das heißt, dass als Voraussetzung dafür, dass Online-Vermittlungsdienste in den Geltungsbereich dieser Verordnung fallen, kein Vertragsverhältnis zwischen gewerblichen Nutzern und Verbrauchern erforderlich sein sollte. Die bloße Einbeziehung eines Dienstes von nur untergeordneter Bedeutung sollte nicht damit gleichgesetzt werden, die Vermittlung von Transaktionen im Sinne von Online-Vermittlungsdiensten zum Ziel einer Website oder Dienstleistung zu erklären. Darüber hinaus sollten die Dienste auf der Grundlage eines Vertragsverhältnisses zwischen den Anbietern und gewerblichen Nutzern, die Verbrauchern Waren oder Dienstleistungen anbieten, erbracht werden. Es sollte davon ausgegangen werden, dass ein solches Vertragsverhältnis besteht, wenn die beiden betroffenen Parteien in eindeutiger Weise auf einem dauerhaften Datenträger ihre Absicht bekunden, gebunden zu sein, ohne dass hierfür eine ausdrückliche schriftliche Vereinbarung erforderlich ist.
+
+
+(11)
+
+
+Bei den Online-Vermittlungsdiensten, die unter diese Verordnung fallen, sollte es sich daher beispielsweise um Online-Marktplätze für den elektronischen Geschäftsverkehr handeln, darunter auch kollaborative Marktplätze, auf denen gewerbliche Nutzer aktiv sind, Online-Dienste für Softwareanwendungen, etwa Vertriebsplattformen für Softwareanwendungen (application stores), und Online-Dienste sozialer Medien, ungeachtet der zur Bereitstellung der betreffenden Dienste verwendeten Technologie. In diesem Sinne könnten Online-Vermittlungsdienste auch durch Sprachassistenztechnologie bereitgestellt werden. Es sollte auch nicht von Belang sein, ob die oben genannten Transaktionen zwischen gewerblichen Nutzern und Verbrauchern Zahlungen von Geldbeträgen umfassen oder ob sie teilweise offline geschlossen werden. Diese Verordnung sollte jedoch nicht für Peer-to-Peer-Online-Vermittlungsdienste ohne Beteiligung gewerblicher Nutzer, reine Business-to-Business-Online-Vermittlungsdienste, die nicht Verbrauchern angeboten werden, Online-Werbeplatzierungsinstrumente und Online-Werbebörsen gelten, die nicht bereitgestellt werden, um die Anbahnung direkter Transaktionen zu vermitteln, und bei denen kein Vertragsverhältnis mit Verbrauchern besteht. Aus demselben Grund sollten Softwaredienste für die Suchmaschinenoptimierung sowie Dienste im Zusammenhang mit Werbeblocker-Software nicht unter diese Verordnung fallen. Die technischen Funktionen und Schnittstellen, die lediglich Hardware und Anwendungen miteinander verbinden, sollten nicht unter diese Verordnung fallen, da sie in der Regel die Voraussetzungen für Online-Vermittlungsdienste nicht erfüllen. Solche Funktionen bzw. Schnittstellen können jedoch mit bestimmten Online-Vermittlungsdiensten direkt verbunden sein oder als Ergänzung dienen; in diesem Fall sollten die entsprechenden Anbieter von Online-Vermittlungsdiensten Transparenzanforderungen mit Blick auf eine differenzierte Behandlung auf der Grundlage dieser Funktionen und Schnittstellen unterliegen. Diese Verordnung sollte auch nicht für Online-Zahlungsdienste gelten, da diese die geltenden Anforderungen nicht selbst erfüllen, sondern eher ein mit der Transaktion der Bereitstellung von Waren und Dienstleistungen für die betreffenden Verbraucher inhärent verbundener Dienst sind.
+
+
+(12)
+
+
+Im Einklang mit der einschlägigen Rechtsprechung des Gerichtshofs der Europäischen Union und angesichts der Tatsache, dass die Abhängigkeit gewerblicher Nutzer hauptsächlich bei Online-Vermittlungsdiensten beobachtet wurde, die Verbrauchern, bei denen es sich um natürliche Personen handelt, als „Zugangstor“ dienen, sollte der Begriff „Verbraucher“, der zur Abgrenzung des Anwendungsbereichs dieser Verordnung verwendet wird, so zu verstehen sein, dass er sich ausschließlich auf natürliche Personen bezieht, wenn sie zu Zwecken handeln, die nicht ihrer geschäftlichen, gewerblichen, handwerklichen oder beruflichen Tätigkeit zugerechnet werden können.
+
+
+(13)
+
+
+Angesichts des hohen Innovationstempos sollte die in der Verordnung verwendete Definition von Online-Suchmaschinen technologieneutral sein. Insbesondere sollten auch Spracheingaben unter die Definition fallen.
+
+
+(14)
+
+
+Die Anbieter von Online-Vermittlungsdiensten neigen dazu, vorformulierte allgemeine Geschäftsbedingungen zu verwenden, und um gewerbliche Nutzer erforderlichenfalls wirksam zu schützen, sollte diese Verordnung dann Anwendung finden, wenn die für ein Vertragsverhältnis geltenden allgemeinen Geschäftsbedingungen — unabhängig von ihrer Bezeichnung oder ihrer Form — von dem Anbieter von Online-Vermittlungsdiensten einseitig festgelegt werden. Ob die allgemeinen Geschäftsbedingungen einseitig festgelegt wurden, sollte auf der Grundlage einer Gesamtbewertung im Einzelfall beurteilt werden. Für die Gesamtbewertung sollten die relative Größe der betroffenen Parteien, die Tatsache, dass Verhandlungen stattgefunden haben, oder die Tatsache, dass bestimmte Bestimmungen in diesen allgemeinen Geschäftsbedingungen möglicherweise Gegenstand entsprechender Verhandlungen waren und gemeinsam von dem jeweiligen Anbieter und dem jeweiligen gewerblichen Nutzer festgelegt wurden, für sich genommen nicht entscheidend sein. Darüber hinaus bedeutet die Verpflichtung für Anbieter von Online-Vermittlungsdiensten, ihre Geschäftsbedingungen gewerblichen Nutzern auch in der vorvertraglichen Phase ihrer Geschäftsbeziehungen leicht zugänglich zu machen, dass die gewerblichen Nutzer, denen es gelungen ist, erfolgreich zu verhandeln, nicht auf die Transparenz verzichten müssen, die sich aus dieser Verordnung ergibt.
+
+
+(15)
+
+
+Damit gewerbliche Nutzer anhand der für ein Vertragsverhältnis geltenden allgemeinen Geschäftsbedingungen erkennen können, welche gewerblichen Bedingungen für die Nutzung, Beendigung und Aussetzung von Online-Vermittlungsdiensten gelten, und Vorhersehbarkeit in ihrer Geschäftsbeziehung erlangen, sollten diese allgemeinen Geschäftsbedingungen klar und verständlich formuliert sein. Allgemeine Geschäftsbedingungen sollten dann nicht als klar und verständlich formuliert gelten, wenn sie unbestimmt oder ungenau abgefasst sind oder Angaben zu wichtigen gewerblichen Fragen nicht ausführlich genug regeln, und somit für den gewerblichen Nutzer in den wichtigsten Aspekten des Vertragsverhältnisses kein angemessenes Maß an Vorhersehbarkeit gegeben ist. Darüber hinaus sollten irreführende Formulierungen nicht als klar und verständlich betrachtet werden.
+
+
+(16)
+
+
+Damit gewerblichen Nutzern ausreichend klar ist, wo und an wen ihre Waren oder Dienstleistungen vermarktet werden, sollten die Anbieter von Online-Vermittlungsdiensten transparent gegenüber ihren gewerblichen Nutzern auftreten, was zusätzliche Vertriebskanäle und etwaige Partnerprogramme betrifft, die sie unter Umständen für die Vermarktung der besagten Waren oder Dienstleistungen nutzen. Zusätzliche Kanäle und Partnerprogramme sollten technologieneutral verstanden werden, können aber unter anderem andere Websites, Softwareanwendungen oder sonstige Vermittlungsdienste umfassen, die zur Vermarktung der vom gewerblichen Nutzer angebotenen Waren und Dienstleistungen verwendet werden.
+
+
+(17)
+
+
+Die Inhaberschaft und die Kontrolle von Rechten des geistigen Eigentums im Internet können für die Anbieter von Online-Vermittlungsdiensten und für deren gewerbliche Nutzer von erheblicher wirtschaftlicher Bedeutung sein. Damit bei gewerblichen Nutzern für Klarheit und Transparenz und ein besseres Verständnis gesorgt wird, sollten die Anbieter von Online-Vermittlungsdiensten in ihre allgemeinen Geschäftsbedingungen allgemeine oder, sofern sie dies wünschen, ausführlichere Informationen über die etwaigen Auswirkungen dieser allgemeinen Geschäftsbedingungen auf die Inhaberschaft und die Kontrolle von Rechten des geistigen Eigentums der gewerblichen Nutzer aufnehmen. Die entsprechenden Informationen könnten unter anderem Angaben zu der allgemeinen Verwendung von Logos, Marken und geschäftlichen Bezeichnungen enthalten.
+
+
+(18)
+
+
+Zur Förderung tragfähiger Geschäftsbeziehungen und zur Vermeidung unlauteren Verhaltens zum Nachteil gewerblicher Nutzer kann es unerlässlich sein, die Transparenz der allgemeinen Geschäftsbedingungen zu gewährleisten. Die Anbieter von Online-Vermittlungsdiensten sollten daher auch sicherstellen, dass die allgemeinen Geschäftsbedingungen zu jedem Zeitpunkt der Geschäftsbeziehung, auch für eventuell künftige gewerbliche Nutzer vor Vertragsabschluss, leicht verfügbar sind und dass alle Änderungen dieser allgemeinen Geschäftsbedingungen den betroffenen gewerblichen Nutzern auf einem dauerhaften Datenträger innerhalb einer angesichts der jeweiligen Umstände angemessenen und verhältnismäßigen Frist, die jedoch mindestens 15 Tagen betragen sollte, mitgeteilt werden. Es sollten dann verhältnismäßige Fristen, die länger als 15 Tage sind, eingeräumt werden, wenn die gewerblichen Nutzer aufgrund der vorgeschlagenen Änderungen der allgemeinen Geschäftsbedingungen technische oder geschäftliche Anpassungen vornehmen müssen, um der Änderung Rechnung zu tragen, etwa wenn sie erhebliche technische Anpassungen an ihren Waren oder Dienstleistungen vornehmen müssen. Diese Frist gilt nicht, wenn und insoweit als der betroffene gewerbliche Nutzer eindeutig auf sie verzichtet hat oder wenn und insoweit als der Diensteanbieter aufgrund des Unionsrechts oder nationalen Rechts gesetzlich oder durch behördliche Anordnung verpflichtet ist, die Änderung ohne Einhaltung der Frist umzusetzen. Vorgeschlagene redaktionelle Veränderungen sollten jedoch insoweit nicht unter den Begriff „Änderung“ fallen, als sie den Inhalt oder die Bedeutung der allgemeinen Geschäftsbedingungen nicht ändern. Die Anforderung, vorgeschlagene Änderungen auf einem dauerhaften Datenträger mitzuteilen, sollte den gewerblichen Nutzern ermöglichen, die betreffenden Änderungen zu einem späteren Zeitpunkt eingehend zu überprüfen. Die gewerblichen Nutzer sollten das Recht haben, ihren Vertrag innerhalb von 15 Tagen nach Erhalt der Mitteilung über eine Änderung zu kündigen, sofern – etwa aufgrund des nationalen Zivilrechts – keine kürzere Frist für den Vertrag gilt.
+
+
+(19)
+
+
+Im Allgemeinen sollte das Einstellen neuer Waren oder Dienstleistungen, einschließlich Softwareanwendungen, in den Online-Vermittlungsdienst als eindeutige bestätigende Handlung betrachtet werden, durch die der gewerbliche Nutzer auf die Frist verzichtet, die für die Änderungen bei den allgemeinen Geschäftsbedingungen erforderlich ist. Wenn sich jedoch die angemessene und verhältnismäßige Frist auf mehr als 15 Tage beläuft, da der gewerbliche Nutzer wegen der Änderungen der allgemeinen Geschäftsbedingungen erhebliche technische oder geschäftliche Anpassungen an seinen Waren oder Dienstleistungen vornehmen muss, sollte nicht automatisch davon ausgegangen werden, dass auf die Frist verzichtet wird, wenn der gewerbliche Nutzer neue oder aktualisierte Waren und Dienstleistungen einstellt. Die Anbieter von Online-Vermittlungsdiensten sollten davon ausgehen, dass die gewerblichen Nutzer aufgrund von Änderungen der allgemeinen Geschäftsbedingungen erhebliche technische Anpassungen vornehmen müssen, wenn etwa bestimmte Funktionen des Online-Vermittlungsdienstes, zu denen die gewerblichen Nutzer Zugang hatten, gänzlich entfernt oder hinzugefügt werden, oder wenn die gewerblichen Nutzer unter Umständen ihre Waren anpassen und Dienstleistungen neu programmieren müssen, um durch die Online-Vermittlungsdienste tätig sein zu können.
+
+
+(20)
+
+
+Zum Schutz der gewerblichen Nutzer und um Rechtssicherheit für beide Parteien zu schaffen, sollten allgemeine Geschäftsbedingungen, die dem nicht entsprechen, nichtig sein, d. h. sie sollten mit Wirkung erga omnes und ex tunc so behandelt werden, als hätten sie nie bestanden. Dies sollte jedoch nur für die jeweiligen Bestimmungen der Geschäftsbedingungen gelten, die die den Vorgaben nicht genügen. Alle übrigen Bestimmungen sollten weiterhin wirksam und durchsetzbar sein, sofern sie getrennt von den nicht den Vorgaben entsprechenden Bestimmungen betrachtet werden können. Unvermittelte Änderungen bestehender allgemeiner Geschäftsbedingungen können die Geschäftstätigkeit des gewerblichen Nutzers erheblich beeinträchtigen. Um solche negativen Auswirkungen auf gewerbliche Nutzer zu begrenzen und einem solchen Verhalten entgegenzuwirken, sollten Änderungen, die unter Verletzung der Pflicht zur Einräumung einer festgelegten Frist vorgenommen werden, als nichtig gelten, d. h. sie werden erga omnes und ex tunc so betrachtet, als hätten sie nie bestanden.
+
+
+(21)
+
+
+Damit gewerbliche Nutzer die durch Online-Vermittlungsdienste gebotenen Geschäftsmöglichkeiten in vollem Umfang ausschöpfen können, sollten die Anbieter solcher Dienste ihre gewerblichen Nutzer nicht vollständig daran hindern, ihre unternehmerische Identität im Rahmen ihres Angebots bzw. ihrer Präsenz bei den betreffenden Online-Vermittlungsdiensten zu verwenden. Dieses Verbot einer Einmischung sollte jedoch nicht als ein Recht der gewerblichen Nutzer verstanden werden, einseitig über die Darstellung ihres Angebots oder ihrer Präsenz bei den betreffenden Online-Vermittlungsdiensten zu entscheiden.
+
+
+(22)
+
+
+Ein Anbieter von Online-Vermittlungsdiensten kann aus legitimen Gründen beschließen, die Bereitstellung seiner Dienste für einen bestimmten gewerblichen Nutzer einzuschränken, auszusetzen oder zu beenden, indem er beispielsweise einzelne Waren oder Dienstleistungen eines bestimmten gewerblichen Nutzers auslistet oder aus den Suchergebnissen nimmt. Abgesehen von der Aussetzung können Anbieter von Online-Vermittlungsdiensten die individuelle Aufführung von gewerblichen Nutzern auch einschränken, beispielsweise durch deren Rückstufung oder durch negative Auswirkungen auf das Erscheinungsbild eines gewerblichen Nutzers (dimming), was eine Herabsetzung seines Rankings einschließen kann. Da solche Entscheidungen die Interessen des betroffenen gewerblichen Nutzers erheblich beeinträchtigen können, sollte er vor oder gleichzeitig mit dem Wirksamwerden der Einschränkung oder Aussetzung eine Begründung der Entscheidung auf einem dauerhaften Datenträger erhalten. Um die negativen Auswirkungen solcher Entscheidungen auf gewerbliche Nutzer so gering wie möglich zu halten, sollten die Anbieter von Online-Vermittlungsdiensten auch eine Möglichkeit zur Klärung der Fakten, die zu der Entscheidung geführt haben, im Rahmen des internen Beschwerdemanagementverfahrens bieten; dem gewerblichen Nutzer wird dies, sofern möglich, dabei helfen, die Regelkonformität wieder herzustellen. Widerruft der Anbieter von Online-Vermittlungsdiensten darüber hinaus die Entscheidung über eine Einschränkung, Aussetzung oder Beendigung, etwa, weil die Entscheidung fälschlicherweise ergangen ist oder weil der Verstoß gegen die allgemeinen Geschäftsbedingungen, der zu dieser Entscheidung geführt habt, nicht bösgläubig begangen und in zufriedenstellender Weise behoben wurde, sollte der Anbieter den betroffenen gewerblichen Nutzer unverzüglich wieder einsetzen, auch indem dem gewerblichen Nutzers Zugang zu persönlichen oder andern Daten, oder beidem, die vor der Entscheidung zur Verfügung standen, eingeräumt wird.
+
+
+Anhand der Begründung hinsichtlich der Entscheidung, die Erbringung von Online-Vermittlungsdiensten einzuschränken, auszusetzen oder zu beenden, sollten gewerbliche Nutzer beurteilen können, ob sie diese Entscheidung mit Aussicht auf Erfolg anfechten könnten, was diesen mehr Möglichkeiten eröffnet, bei Bedarf wirksamen Rechtsschutz zu ersuchen. In der Begründung sollten die Gründe für die Entscheidung angegeben werden und zwar unter Verweis auf die Gründe, die der Anbieter bereits im Voraus in den allgemeinen Geschäftsbedingungen festgelegt hatte, und — unter Wahrung der Verhältnismäßigkeit — auf die jeweiligen konkreten Umstände, einschließlich der Mitteilungen Dritter, die zu dieser Entscheidung führten. Ein Anbieter von Online-Vermittlungsdiensten sollte jedoch nicht verpflichtet sein, eine Begründung für Einschränkungen, Aussetzungen oder Beendigungen abzugeben, wenn dies gegen gesetzliche oder behördlich angeordnete Verpflichtungen verstoßen würde. Eine Begründung sollte außerdem nicht erforderlich sein, wenn ein Anbieter von Online-Vermittlungsdiensten nachweisen kann, dass der betroffene gewerbliche Nutzer wiederholt gegen die geltenden allgemeinen Geschäftsbedingungen verstoßen hat, was zur vollständigen Beendigung der betreffenden Online-Vermittlungsdienste geführt hat.
+
+
+(23)
+
+
+Die vollständige Beendigung der Bereitstellung der Online-Vermittlungsdienste und die damit verbundene Löschung von für die Nutzung von Online-Vermittlungsdiensten bereitgestellten oder durch die Nutzung dieser Dienste generierten Daten stellt einen Verlust an wesentlicher Information dar, der erhebliche Auswirkungen für gewerbliche Nutzer haben könnte und ferner ihre Fähigkeit zur ordnungsgemäßen Inanspruchnahme anderer ihnen nach dieser Verordnung gewährten Rechte beeinträchtigen könnte. Daher sollte der Anbieter von Online-Vermittlungsdiensten dem betroffenen gewerblichen Nutzer auf einem dauerhaften Datenträger mindestens 30 Tage vor dem Wirksamwerden der vollständigen Beendigung der Bereitstellung seiner Online-Vermittlungsdienste eine Begründung liefern. Nicht gelten sollte diese Frist jedoch beispielsweise dann, wenn ein Anbieter eines Online-Vermittlungsdienstes gesetzlich oder durch behördliche Anordnung verpflichtet ist, die Bereitstellung der Online-Vermittlungsdienste für einen bestimmten gewerblichen Nutzer vollständig zu beenden. Ebenso wenig sollte die Frist von 30 Tagen gelten, wenn ein Anbieter von Online-Vermittlungsdiensten Rechte auf Beendigung nach nationalem Recht — im Einklang mit Unionsrecht — geltend macht, die eine sofortige Beendigung erlauben, wenn unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der Interessen beider Parteien nach vernünftigem Ermessen nicht erwartet werden kann, dass das Vertragsverhältnis bis zum vereinbarten Ende oder bis zum Ablauf einer Frist fortgesetzt wird. Schließlich sollte die Frist von 30 Tagen nicht gelten, wenn ein Anbieter von Online-Vermittlungsdiensten einen wiederholten Verstoß gegen die Geschäftsbedingungen aufzeigen kann. Die verschiedenen Ausnahmen von der Frist von 30 Tagen können insbesondere in Verbindung mit illegalen oder unangemessenen Inhalten, der Sicherheit einer Ware oder einer Dienstleistung, Fälschung, Betrug, Schadsoftware, Spam, Datenschutzverletzungen, sonstigen Cybersicherheitsrisiken oder der Eignung der Ware oder der Dienstleistung für Minderjährige gegeben sein. Damit für Verhältnismäßigkeit gesorgt ist, sollten die Anbieter von Online-Vermittlungsdiensten, sofern dies angemessen und technisch möglich ist, nur einzelne Waren oder Dienstleistungen eines gewerblichen Nutzers auslisten. Bei der vollständigen Beendigung der Bereitstellung der Online-Vermittlungsdienste handelt es sich um die gravierendste Maßnahme.
+
+
+(24)
+
+
+Das Ranking der Waren und Dienstleistungen durch die Anbieter von Online-Vermittlungsdiensten hat erheblichen Einfluss auf die Wahlmöglichkeiten der Verbraucher und damit auch auf den geschäftlichen Erfolg der gewerblichen Nutzer, die diese Waren und Dienstleistungen den Verbrauchern anbieten. Der Begriff „Ranking“ bezieht sich auf die relative Hervorhebung der Angebote gewerblicher Nutzer oder die Relevanz, die Suchergebnissen zugemessen wird, wenn sie von den Anbietern von Online-Vermittlungsdiensten oder von den Anbietern von Online-Suchmaschinen — unter Verwendung von algorithmischer Sequenzierung, Beurteilungs- oder Bewertungsmechanismen oder von visueller Hervorhebung oder anderen Hervorhebungsinstrumenten oder einer Kombination davon — dargeboten, organisiert oder kommuniziert werden. Die Vorhersehbarkeit schließt ein, dass die Anbieter von Online-Vermittlungsdiensten das Ranking nicht willkürlich festlegen. Daher sollten die Anbieter die Hauptparameter für das Ranking bereits im Vorfeld darlegen, um die Vorhersehbarkeit für gewerbliche Nutzer zu erhöhen und um es diesen zu ermöglichen, die Funktionsweise des Ranking-Mechanismus besser zu verstehen und die Ranking-Praktiken verschiedener Anbieter zu vergleichen. Die spezifische Ausgestaltung dieser Transparenzverpflichtung ist für die gewerblichen Nutzer wichtig, da sie die Ermittlung einer begrenzten Anzahl der relevantesten Parameter aus einer möglicherweise viel größeren Anzahl von Parametern, die sich auf das Ranking auswirken, umfasst. Diese begründete Beschreibung sollte für die gewerblichen Nutzer von Hilfe sein, wenn es darum geht, die Präsentation ihrer Waren und Dienstleistungen oder einige der inhärenten Merkmale der Waren und Dienstleistungen zu verbessern. Als Hauptparametergelten alle allgemeinen Kriterien, Prozesse und spezifischen Signale, die in die Algorithmen eingebunden sind, oder sonstige Anpassungs- oder Rückstufungsmechanismen, die im Zusammenhang mit dem Ranking eingesetzt werden.
+
+
+(25)
+
+
+Die Erläuterung der Hauptparameter für das Ranking sollte auch eine Erklärung jeder Möglichkeit enthalten, wie gewerbliche Nutzer ihr Ranking gegen Leistung eines Entgelts aktiv beeinflussen können und eine Erklärung wie sich dies jeweils auswirken würde. Der Begriff „Entgelt“ könnte sich in diesem Zusammenhang auf Zahlungen beziehen, die mit dem hauptsächlichen oder ausschließlichen Ziel der Verbesserung des Rankings geleistet werden, sowie auf indirekte Entgelte in Form des Akzeptierens — durch einen gewerblichen Nutzer — beliebiger Zusatzverpflichtungen, die diese Verbesserung möglicherweise als praktische Auswirkung beinhalten, wie etwa die Nutzung von Zusatzdiensten oder Premiumfunktionen. Der Inhalt der Erläuterung — einschließlich der Angabe der Zahl und der Art der Hauptparameter — kann dementsprechend je nach dem betreffenden Online-Vermittlungsdienst stark variieren, sollte aber gewerblichen Nutzern ein angemessenes Verständnis dafür vermitteln, wie der Ranking-Mechanismus die Merkmale der von den gewerblichen Nutzern angebotenen Waren oder Dienstleistungen berücksichtigt und wie relevant diese Merkmale für die Verbraucher des jeweiligen Online-Vermittlungsdienstes sind. Die zur Messung der Qualität der Waren oder Dienstleistungen der gewerblichen Nutzer verwendeten Indikatoren, die Verwendung von Editorprogrammen und ihre Fähigkeit, das Ranking dieser Waren oder Dienstleistungen zu beeinflussen, die Bandbreite der Auswirkung von Entgeltleistungen auf das Ranking sowie Elemente, die die Ware oder die Dienstleistung selbst nicht oder nur entfernt betreffen, etwa Darstellungsmerkmale des Online-Angebots, könnten Beispiele für Hauptparameter sein, die, wenn sie in eine klar und verständlich formulierte allgemeine Beschreibung des Rankingmechanismus einbezogen sind, dem gewerblichen Nutzer dabei helfen sollten, das erforderliche angemessene Verständnis von dessen Funktionsweise zu erwerben.
+
+
+(26)
+
+
+In gleicher Weise hat das Ranking von Websites durch die Anbieter von Online-Suchmaschinen, vor allem von Websites, über die Unternehmen ihre Waren und Dienstleistungen Verbrauchern anbieten, erhebliche Auswirkungen auf die Wahlmöglichkeiten der Verbraucher und auf den geschäftlichen Erfolg von Nutzern mit Unternehmenswebsite. Anbieter von Online-Suchmaschinen sollten daher eine Erläuterung der Hauptparameter zur Verfügung stellen, die das Ranking aller indexierten Websites, auch jener von Nutzern mit Unternehmenswebsite sowie anderer Websites, und die relative Bedeutung dieser Hauptparameter gegenüber anderen Parametern bestimmen. Zusätzlich zur Berücksichtigung der Merkmale von Waren und Dienstleistungen und deren Relevanz für Verbraucher sollte diese Erläuterung zu Online-Suchmaschinen es den Nutzern mit Unternehmenswebsite auch ermöglichen, ein angemessenes Verständnis darüber zu erlangen, ob und gegebenenfalls wie und in welchem Umfang bestimmte Gestaltungsmerkmale einer Website, wie deren Optimierung für die Anzeige auf Mobilgeräten, berücksichtigt werden. Sie sollte auch eine Erläuterung aller für die Nutzer mit Unternehmenswebsite verfügbaren Möglichkeiten zur aktiven Beeinflussung des Rankings gegen Entgelt sowie eine Erklärung enthalten, wie sich dies jeweils auswirken würde. In Abwesenheit eines Vertragsverhältnisses zwischen den Anbietern von Online-Suchmaschinen und Nutzern mit Unternehmenswebsite sollte diese Erläuterung an einer offensichtlichen und leicht zugänglichen Stelle der jeweiligen Online-Suchmaschine öffentlich verfügbar gemacht werden. Bereiche von Websites, bei denen sich die Nutzer einloggen oder registrieren müssen, sollten diesbezüglich nicht als leicht und öffentlich zugänglich gelten.
+
+
+Um die Vorhersehbarkeit für Nutzer mit Unternehmenswebsite sicherzustellen, sollte die Erläuterung stets aktualisiert werden, und zwar so, dass beispielsweise Änderungen der Hauptparameter leicht erkennbar sind. Eine aktuelle Beschreibung der Hauptparameterkäme neben den Nutzern der Online-Suchmaschine mit Unternehmenswebsite auch anderen Nutzern zugute. Die Anbieter von Online-Suchmaschinen können unter Umständen beschließen, das Ranking in einem bestimmten Fall zu beeinflussen oder eine bestimmte Website aufgrund einer Mitteilung von Dritten auszulisten. Da keine Vertragsbeziehung zwischen den Parteien vorliegt, kann im Gegensatz zu den Anbietern von Online-Vermittlungsdiensten von Anbietern von Online-Suchmaschinen nicht erwartet werden, dass sie einen Nutzer mit Unternehmenswebsite direkt über eine aufgrund einer Mitteilung erfolgte Änderung im Ranking oder eine Auslistung benachrichtigen. Dennoch sollte es einem Nutzer mit Unternehmenswebsite möglich sein, den Inhalt der Mitteilung, der in dem jeweiligen Einzelfall zur Änderung im Ranking oder zur Auslistung einer bestimmten Website geführt hat, einzusehen und den Inhalt der Mitteilung, etwa über eine öffentlich zugänglichen Online-Datenbank, zu überprüfen. Damit würde einer missbräuchlichen Nutzung von möglicherweise zu einer Auslistung führenden Mitteilungen vonseiten der Wettbewerber entgegengewirkt werden.
+
+
+(27)
+
+
+Die Anbieter von Online-Vermittlungsdiensten oder von Online-Suchmaschinen sollten nach dieser Verordnung nicht verpflichtet sein, die detaillierte Funktionsweise ihrer Rankingmethoden — einschließlich der Algorithmen — offenzulegen. Ferner sollte ihre Fähigkeit, — auch im Interesse der Verbraucher — gegen eine böswillige Manipulation des Rankings durch Dritte vorzugehen, nicht beeinträchtigt werden. Eine allgemeine Erläuterung der für das Ranking verwendeten Hauptparameter sollte diese Interessen wahren und zugleich den gewerblichen Nutzern und den Nutzern mit Unternehmenswebsite ein angemessenes Verständnis der Funktionsweise des Rankings im Rahmen der von ihnen vorgenommenen Nutzung spezifischer Online-Vermittlungsdienste oder Online-Suchmaschinen vermitteln. Damit das Ziel dieser Verordnung verwirklicht wird, darf daher die Berücksichtigung der geschäftlichen Interessen der Anbieter von Online-Vermittlungsdiensten oder Online-Suchmaschinen niemals dazu führen, dass die Offenlegung der für das Ranking entscheidenden Hauptparameter verweigert wird. Wenngleich die vorliegende Verordnung unbeschadet der Richtlinie (EU) 2016/943 des Europäischen Parlaments und des Rates  ( 5 ) gilt, so sollte sich doch die Erläuterung in diesem Zusammenhang zumindest auf aktuelle Daten zur Relevanz der für das Ranking verwendeten Parameter stützen.
+
+
+(28)
+
+
+Die Kommission sollte Leitlinien erarbeiten, die den Anbietern von Online-Vermittlungsdiensten und von Online-Suchmaschinen eine Hilfestellung bei der Anwendung der in dieser Verordnung für das Ranking festgelegten Transparenzvorschriften bieten. Auf diesem Weg sollte ein Beitrag zur Optimierung der Art und Weise geleistet werden, in der die Hauptparameter zur Festlegung des Rankings ermittelt und gewerblichen Nutzern und Nutzern mit Unternehmenswebsite vorgestellt werden.
+
+
+(29)
+
+
+Nebenwaren und -dienstleistungen sollten im Sinne von Waren und Dienstleistungen verstanden werden, die dem Verbraucher unmittelbar vor Abschluss der Transaktion, die mittels der Online-Vermittlungsdienste angebahnt wurde, zur Ergänzung der vom gewerblichen Nutzer angebotenen Hauptware oder -dienstleistung angeboten werden. Nebenwaren und -dienstleistungen bezeichnet Produkte, die für ihre Funktion typischerweise von der Hauptware oder -dienstleistung abhängen und sich direkt auf sie beziehen. Daher sollte dieser Begriff Waren und Dienstleistungen ausschließen, die, ohne ergänzender Natur zu sein, bloß zusätzlich zur jeweiligen Hauptware oder -dienstleistung verkauft werden. Beispiele für Nebendienstleistungen umfassen Reparaturdienste für eine bestimmte Ware oder Finanzprodukte wie eine Versicherung für einen Leihwagen, die zur Ergänzung der von dem gewerblichen Nutzer angebotenen bestimmten Waren oder Dienste angeboten werden. Gleichfalls könnten Nebenwaren Waren mit einschließen, die das von gewerblichen Nutzern angebotene bestimmte Produkt in Form eines Upgrade oder eines Werkzeugs zur individuellen Anpassung des Produkts ergänzen. Anbieter von Online-Vermittlungsdiensten, die Verbrauchern Nebenwaren und -dienstleistungen zu einer von einem gewerblichen Nutzer über ihren Online-Vermittlungsdienst verkauften Ware oder Dienst anbieten, sollten in ihre allgemeinen Geschäftsbedingungen eine Beschreibung der Art der angebotenen Nebenwaren und -dienstleistungen aufnehmen. Eine solche Beschreibung sollte in den allgemeinen Geschäftsbedingungen unabhängig davon enthalten sein, ob die Nebenware oder -dienstleistung von dem Anbieter von Online-Vermittlungsdiensten selbst oder einem Dritten bereitgestellt wird. Eine solche Beschreibung sollte umfassend genug sein, um es einem gewerblichen Nutzer zu ermöglichen, zu verstehen, ob eine beliebige Ware oder ein beliebiger Dienst als Nebenware oder -dienstleistung zu seinen Produkten verkauft wird. Die Beschreibung sollte nicht notwendigerweise die bestimmte Ware oder den bestimmten Dienst, sondern eher die Art des Produkts bezeichnen, das in Ergänzung des Hauptprodukts des gewerblichen Nutzers angeboten wird. Darüber hinaus sollte die Beschreibung unter allen Umständen Angaben dazu enthalten, ob und unter welchen Bedingungen der gewerbliche Nutzer ebenfalls berechtigt ist, seine eigenen Nebenwaren und -dienstleistungen über die Online-Vermittlungsdienste anzubieten.
+
+
+(30)
+
+
+Bietet ein Anbieter von Online-Vermittlungsdiensten bestimmte Waren oder Dienstleistungen Verbrauchern über seine eigenen Online-Vermittlungsdienste oder über einen gewerblichen Nutzer an, über den er die Kontrolle ausübt, konkurriert dieser Anbieter möglicherweise direkt mit anderen gewerblichen Nutzern seiner Online-Vermittlungsdienste, über die er keine Kontrolle ausübt; dies könnte dem Anbieter einen wirtschaftlichen Anreiz und die Möglichkeit geben, seine Kontrolle über Online-Vermittlungsdienste zu nutzen, um seinen eigenen Angeboten oder den Angeboten eines gewerblichen Nutzers, über den er die Kontrolle ausübt, technische und wirtschaftliche Vorteile einzuräumen, die er gewerblichen Nutzern verweigert, die mit ihm im Wettbewerb stehen. Ein solches Verhalten könnte den lauteren Wettbewerb beeinträchtigen und die Wahlmöglichkeiten der Verbraucher einschränken. Insbesondere in solchen Situationen ist es wichtig, dass der Anbieter der Online-Vermittlungsdienste transparent handelt und in einer angemessenen Erläuterung und unter Angabe der entsprechenden Erwägungen darlegt, ob er — sei es durch rechtliche, geschäftliche oder technische Mittel, etwa Funktionen unter Nutzung von Betriebssystemen, — Waren oder Dienstleistungen, die er selbst anbietet, möglicherweise anders behandelt als solche, die von gewerblichen Nutzern angeboten werden. Damit die Verhältnismäßigkeit gewahrt bleibt, sollte diese Verpflichtung für die Ebene der Online-Vermittlungsdienste insgesamt gelten, nicht jedoch für die Ebene der einzelnen Waren oder Dienstleistungen, die über diese Dienste angeboten werden.
+
+
+(31)
+
+
+Bietet ein Anbieter einer Online-Suchmaschine Verbrauchern bestimmte Waren und Dienstleistungen über seine eigene Online-Suchmaschine oder über einen Nutzer mit Unternehmenswebsite an, über den er die Kontrolle ausübt, konkurriert dieser Anbieter möglicherweise direkt mit anderen Nutzern mit Unternehmenswebsite, die seine Online-Suchmaschinen nutzten und über die er keine Kontrolle ausübt. Insbesondere in solchen Situationen ist es wichtig, dass der Anbieter der Online-Suchmaschine transparent handelt und in einer Erläuterung darlegt, ob er — sei es durch rechtliche, geschäftliche oder technische Mittel — Waren oder Dienstleistungen, die er selbst oder über einen Nutzer mit Unternehmenswebsite, über den er die Kontrolle ausübt, anbietet, möglicherweise anders behandelt als solche, die von Nutzern mit Unternehmenswebsite angeboten werden, die mit ihm im Wettbewerb stehen. Damit die Verhältnismäßigkeit gewahrt bleibt, sollte diese Verpflichtung für die Ebene der Online-Suchmaschine insgesamt gelten, nicht jedoch für die Ebene der einzelnen Waren oder Dienstleistungen, die über diese Dienste angeboten werden.
+
+
+(32)
+
+
+In dieser Verordnung sollte auf besondere Vertragsbestimmungen, insbesondere für Fälle von Ungleichgewicht der Verhandlungsmacht, eingegangen werden, um sicherzustellen, dass Vertragsbeziehungen nach Treu und Glauben und auf der Grundlage des redlichen Geschäftsverkehrs gestaltet werden. Für Vorhersehbarkeit und Transparenz ist erforderlich, dass die gewerblichen Nutzer eine reale Möglichkeit erhalten, sich mit Änderungen der allgemeinen Geschäftsbedingungen vertraut zu machen, die daher nicht rückwirkend eingeführt werden sollten, es sei denn, dass sie auf einer gesetzlichen oder behördlich angeordneten Verpflichtung beruhen oder für diese gewerblichen Nutzer von Vorteil sind. Zudem sollten die Bedingungen, unter denen ihre Vertragsbeziehung mit den Anbietern von Online-Vermittlungsdiensten beendet werden kann, gegenüber den gewerblichen Nutzern klar dargelegt werden. Die Anbieter von Online-Vermittlungsdiensten sollten sicherstellen, dass die Voraussetzungen für die Beendigung von Online-Vermittlungsdiensten stets verhältnismäßig sind und ohne unangemessene Schwierigkeiten erfüllt werden können. Die gewerblichen Nutzer sollten schließlich umfassend über jeglichen Zugriff informiert werden, den Anbieter von Online-Vermittlungsdiensten auch nach Ablauf des Vertrages auf Daten haben, die gewerbliche Nutzer im Rahmen ihrer Nutzung von Online-Vermittlungsdiensten liefern oder generieren.
+
+
+(33)
+
+
+Die Fähigkeit, auf Daten, auch personenbezogene Daten, zuzugreifen und diese zu nutzen, kann eine erhebliche Wertschöpfung in der Online-Plattformwirtschaft ermöglichen, und zwar sowohl ganz allgemein als auch für die beteiligten gewerblichen Nutzer und Online-Vermittlungsdienste. Daher ist es wichtig, dass Anbieter von Online-Vermittlungsdiensten den gewerblichen Nutzern klar den Umfang, die Art und die Bedingungen ihres Zugriffs auf bestimmte Datenkategorien sowie deren Nutzung darlegen. Die Erläuterung sollte verhältnismäßig sein und könnte eher auf allgemeine Zugriffsbedingungen verweisen anstatt eine umfassende Auflistung aktueller Daten oder Datenkategorien zu enthalten. Die Auflistung bestimmter Arten aktueller Daten, die für gewerbliche Nutzer von großer Bedeutung sein könnten, und die spezifischen Zugriffsbedingungen können jedoch ebenfalls in die Erläuterung aufgenommen werden. Diese Daten könnten auch Bewertungen und Rezensionen umfassen, die gewerbliche Nutzern bei den Online-Vermittlungsdiensten angesammelt haben. Insgesamt sollten die gewerblichen Nutzer dank der Erläuterung verstehen können, ob sie die Daten zur Steigerung ihrer Wertschöpfung, auch durch die etwaige Einschaltung von Datendiensten Dritter, nutzen können.
+
+
+(34)
+
+
+Für die gewerblichen Nutzer ist es gleichermaßen wichtig, zu verstehen, ob der Anbieter Daten an Dritte weitergibt, die bei der Nutzung des Vermittlungsdienstes durch die gewerblichen Nutzer generiert werden. Die gewerblichen Nutzer sollten insbesondere auf die Weitergabe von Daten an Dritte aufmerksam gemacht werden, die zu Zwecken erfolgt, die für das ordnungsgemäße Funktionieren der Online-Vermittlungsdienste nicht erforderlich sind, etwa wenn der Anbieter die Daten aus geschäftlichen Erwägungen zu Geld macht. Damit die gewerblichen Nutzer ihr Mitspracherecht hinsichtlich einer solchen Datenweitergabe uneingeschränkt wahrnehmen können, sollten die Anbieter von Online-Vermittlungsdiensten auch ausdrücklich die Möglichkeiten für eine Ablehnung der Datenweitergabe erläutern, sofern diese im Rahmen ihrer vertraglichen Beziehungen zu den gewerblichen Nutzern bestehen.
+
+
+(35)
+
+
+Diese Anforderungen sind nicht als Pflicht für die Anbieter von Online-Vermittlungsdiensten zu verstehen, ihren gewerblichen Nutzern personenbezogene oder nicht personenbezogene Daten entweder mitzuteilen oder darauf zu verzichten. Transparenzmaßnahmen könnten jedoch zu einem verstärkten Austausch von Daten beitragen und als Hauptquelle für Innovation und Wachstum das Ziel der Schaffung eines gemeinsamen europäischen Datenraums stärken. Die Verarbeitung personenbezogener Daten sollte mit dem Rechtsrahmen der Union für den Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und für die Achtung der Privatsphäre und den Schutz personenbezogener Daten in der elektronischen Kommunikation, insbesondere der Verordnung (EU) 2016/679  ( 6 ) , der Richtlinie (EU) 2016/680  ( 7 ) und der Richtlinie 2002/58/EG  ( 8 ) des Europäischen Parlaments und des Rates, in Einklang stehen.
+
+
+(36)
+
+
+In bestimmten Fällen können die Anbieter von Online-Vermittlungsdiensten in ihren allgemeinen Geschäftsbedingungen die Möglichkeit gewerblicher Nutzer einschränken, Waren oder Dienstleistungen zu günstigeren Bedingungen auf anderem Wege als über diese Online-Vermittlungsdienste anzubieten. In diesen Fällen sollten die betreffenden Anbieter dies insbesondere unter Verweis auf die wichtigsten wirtschaftlichen, geschäftlichen oder rechtlichen Gründe für die Einschränkung erläutern. Diese Transparenzpflicht sollte jedoch nicht so verstanden werden, dass sie die Beurteilung der Rechtmäßigkeit einer solchen Einschränkung nach anderen Vorschriften des Unionsrechts oder dem n nationalen Recht der Mitgliedstaaten, das mit dem Unionsrecht im Einklang steht etwa im Bereich des Wettbewerbsrechts oder der unlauteren Geschäftspraktiken, sowie die Anwendung solcher Gesetze berührt.
+
+
+(37)
+
+
+Damit gewerbliche Nutzer, auch solche, deren Nutzung der einschlägigen Online-Vermittlungsdienste möglicherweise eingeschränkt, ausgesetzt oder beendet wurde, Zugang zu unmittelbaren, geeigneten und wirksamen Abhilfemöglichkeiten haben, sollten Anbieter von Online-Vermittlungsdiensten ein internes Beschwerdemanagementsystem vorsehen. Das interne Beschwerdemanagementsystem sollte transparent sein, auf den Grundsätzen der Transparenz und der Gleichbehandlung in gleichen Situationen beruhen und so ausgelegt sein, dass ein erheblicher Teil der Beschwerden in einem angemessenen Zeitraum bilateral zwischen dem Anbieter von Online-Vermittlungsdiensten und den betroffenen gewerblichen Nutzern beigelegt werden kann. Die Anbieter von Online-Vermittlungsdiensten könnten während der laufenden Beschwerde die von ihnen bereits getroffene Entscheidung aufrechterhalten. Jegliche Bemühungen, eine Einigung mithilfe des internen Beschwerdemanagementverfahrens herbeizuführen, berühren nicht das Recht der Anbieter von Online-Vermittlungsdiensten oder der gewerblichen Nutzer, während des internen Beschwerdemanagementverfahrens oder danach jederzeit Klage vor Gericht zu erheben. Darüber hinaus sollten die Anbieter von Online-Vermittlungsdiensten Informationen über die Funktionsweise und Wirksamkeit ihres internen Beschwerdemanagementsystems veröffentlichen und diese zumindest jährlich überprüfen, um den gewerblichen Nutzern verstehen zu helfen, welche Arten von Problemen im Zusammenhang mit der Bereitstellung unterschiedlicher Online-Vermittlungsdienste hauptsächlich auftreten können und welche Möglichkeiten es gibt, diese Probleme rasch und wirksam bilateral zu lösen.
+
+
+(38)
+
+
+Die in dieser Verordnung festgelegten Anforderungen an die internen Beschwerdemanagementsysteme haben den Zweck, den Anbietern von Online-Vermittlungsdiensten ein angemessenes Maß an Flexibilität bei der Handhabung dieser Systeme und beim Umgang mit einzelnen Beschwerden einzuräumen, um den Verwaltungsaufwand so gering wie möglich zu halten. Außerdem bezwecken die internen Beschwerdemanagementsysteme es, den Anbietern von Online-Vermittlungsdiensten zu ermöglichen, bei Bedarf angemessen auf eine etwaige missbräuchliche Nutzung dieser Systeme zu reagieren, auf die es möglicherweise manche Nutzer abgesehen haben. Angesichts der Kosten für die Einrichtung und den Betrieb solcher Systeme sollten Anbieter von Online-Vermittlungsdiensten, bei denen es sich um kleine Unternehmen im Sinne der einschlägigen Bestimmungen der Empfehlung 2003/361/EG  ( 9 ) der Kommission handelt, von diesen Verpflichtungen ausgenommen werden Die in der genannten Empfehlung enthaltenen Konsolidierungsvorschriften stellen sicher, dass jeglicher Umgehung vorgebeugt wird. Diese Ausnahme sollte das Recht dieser Unternehmen, auf freiwilliger Basis ein internes, den Kriterien dieser Verordnung genügendes internes Beschwerdemanagementsystem einzurichten, nicht berühren.
+
+
+(39)
+
+
+Der Gebrauch des Wortes „intern“ sollte nicht dahingehend verstanden werden, dass ein internes Beschwerdemanagementsystem nicht an einen externen Dienstleister oder eine andere Unternehmensform ausgelagert werden darf, solange ein solcher Anbieter oder eine solche andere Unternehmensstruktur über die volle Befugnis und Möglichkeit verfügt, dafür zu sorgen, dass das interne Beschwerdemanagementsystem die Anforderungen dieser Verordnung erfüllt.
+
+
+(40)
+
+
+Die Mediation bietet Anbietern von Online-Vermittlungsdiensten und deren gewerblichen Nutzern eine Möglichkeit, Streitigkeiten zufriedenstellend beizulegen, ohne ein Gerichtsverfahren anstrengen zu müssen, das langwierig und kostspielig sein kann. Daher sollten Anbieter von Online-Vermittlungsdiensten die Mediation erleichtern, indem sie vor allem mindestens zwei öffentliche oder private Mediatoren benennen, mit denen sie bereit sind, zusammenzuarbeiten. Das Ziel der Verpflichtung zur Angabe einer Mindestanzahl an Mediatoren ist es, die Neutralität der Mediatoren zu wahren. Mediatoren, die ihre Dienste von einem Ort außerhalb der Union erbringen, sollten nur dann benannt werden, wenn der Rückgriff auf deren Dienste in keiner Weise den betroffenen gewerblichen Nutzern den Rechtsschutz vorenthält, der ihnen nach Unionsrecht oder dem Recht der Mitgliedstaaten, etwa nach den Anforderungen dieser Verordnung und dem geltenden Recht zum Schutz personenbezogener Daten und Geschäftsgeheimnissen, zusteht. Damit diese Mediatoren zugänglich, lauter und so rasch, effizient und wirksam wie möglich sind, sollten für sie gewisse Kriterien gelten. Dessen ungeachtet sollte es den Anbietern von Online-Vermittlungsdiensten und ihren gewerblichen Nutzern weiterhin freistehen, gemeinsam einen Mediator ihrer Wahl zu benennen, wenn eine Streitigkeit zwischen ihnen entstanden ist. Im Einklang mit der Richtlinie 2008/52/EG des Europäischen Parlaments und des Rates  ( 10 ) sollte die in dieser Verordnung vorgesehene Mediation ein auf Freiwilligkeit beruhendes Verfahren in dem Sinne sein, dass die Parteien selbst für das Verfahren verantwortlich sind und es jederzeit einleiten und beenden können. Ungeachtet des freiwilligen Charakters sollten die Anbieter von Online-Vermittlungsdiensten Anträge auf Einleitung der in dieser Verordnung vorgesehenen Mediation nach Treu und Glauben prüfen.
+
+
+(41)
+
+
+Die Anbieter von Online-Vermittlungsdiensten sollten unter Berücksichtigung aller einschlägigen Aspekte des jeweiligen Falls einen angemessenen Anteil an den Gesamtkosten der Mediation tragen. Hierzu sollte der Mediator einen Vorschlag vorlegen, welchen Anteil er im Einzelfall für angemessen hält. Angesichts der Kosten und des Verwaltungsaufwands, die mit der notwendigen Benennung von Mediatoren in den allgemeinen Geschäftsbedingungen verbunden sind, sollten die Anbieter von Online-Vermittlungsdiensten, bei denen es sich um kleine Unternehmen im Sinne der einschlägigen Bestimmungen der Empfehlung 2003/361/EG handelt, von dieser Verpflichtung ausgenommen werden. Die in der genannten Empfehlung enthaltenen Konsolidierungsvorschriften stellen sicher, dass jeglicher Umgehung dieser Verpflichtung vorgebeugt wird. Dies sollte jedoch das Recht dieser Unternehmen, in ihren allgemeinen Geschäftsbedingungen den Kriterien dieser Verordnung genügende Mediatoren zu benennen, nicht berühren.
+
+
+(42)
+
+
+Da die Anbieter von Online-Vermittlungsdiensten stets verpflichtet sein sollten, Mediatoren zu benennen, mit denen sie bereit sind zusammenzuarbeiten, und sich nach Treu und Glauben an etwaigen Mediationsversuchen zu beteiligen, die gemäß dieser Verordnung unternommen werden, sollten diese Verpflichtungen zur festgelegt werden, dass eine missbräuchliche Nutzung des Mediationssystems durch gewerbliche Nutzer verhindert wird. In diesem Sinne sollten auch gewerbliche Nutzer verpflichtet sein, nach Treu und Glauben in die Mediation zu gehen. Die Anbieter von Online-Vermittlungsdiensten sollten nicht verpflichtet sein, in die Mediation zu gehen, wenn ein gewerblicher Nutzer ein Verfahren in einer Streitsache einleitet, zu der dieser gewerbliche Nutzer in der Vergangenheit ein Mediationsverfahren eingeleitet hat und in der der Mediator zu dem Schluss gekommen ist, dass der gewerbliche Nutzer wider Treu und Glauben gehandelt hat. Die Anbieter von Online-Vermittlungsdiensten sollten ebenso wenig verpflichtet sein, mit gewerblichen Nutzern in die Mediation zu gehen, deren Mediationsversuche mehrfach gescheitert sind. Diese Sonderfälle sollten nicht die Möglichkeit des gewerblichen Nutzers beschränken, ein Mediationsverfahren in einem Fall einzuleiten, in dem der Mediator festgestellt hat, dass der Gegenstand der Mediation keinen Bezug zu früheren Fällen aufweist.
+
+
+(43)
+
+
+Um die Streitbeilegung im Zusammenhang mit der Bereitstellung von Online-Vermittlungsdiensten mittels Mediation in der Union zu erleichtern, sollte die Kommission in enger Zusammenarbeit mit den Mitgliedstaaten die Einrichtung spezialisierter Mediationsorganisationen, an denen es derzeit fehlt, fördern. Die Einbeziehung von Mediatoren, die über Fachkenntnisse im Bereich der Online-Vermittlungsdienste sowie der einzelnen Wirtschaftszweige, in denen diese Dienste angeboten werden, verfügen, dürfte das Vertrauen beider Parteien in den Mediationsprozess stärken und die Wahrscheinlichkeit erhöhen, dass das Verfahren rasch, gerecht und zufriedenstellend abgeschlossen werden kann.
+
+
+(44)
+
+
+Verschiedene Faktoren, wie fehlende finanzielle Mittel, Angst vor Vergeltung und Exklusivbestimmungen für die Wahl des geltenden Rechts und des Gerichtsstands in den allgemeinen Geschäftsbedingungen, können die Wirksamkeit vorhandener Möglichkeiten des gerichtlichen Rechtsschutzes insbesondere dann einschränken, wenn von gewerblichen Nutzern oder Nutzern mit Unternehmenswebsite verlangt wird, individuell und identifizierbar tätig zu werden. Im Hinblick auf eine wirksame Anwendung dieser Verordnung sollten Organisationen oder Verbände, die gewerbliche Nutzer oder Nutzer mit Unternehmenswebsite vertreten, sowie bestimmte öffentliche Stellen, die in den Mitgliedstaaten eingerichtet wurden, die Möglichkeit haben, im Einklang mit den nationalen Rechtsvorschriften, einschließlich der nationalen Verfahrensvorschriften, nationale Gerichte anzurufen. Mit der Klageeinreichung vor nationalen Gerichten sollte das Ziel verfolgt werden, dass Verstöße gegen die in dieser Verordnung festgelegten Bestimmungen eingestellt oder verboten werden und eine künftige Schädigung, die die Tragfähigkeit der Geschäftsbeziehungen in der Online-Plattformwirtschaft beeinträchtigen könnte, vermieden wird. Um sicherzustellen, dass diese Organisationen oder Verbände dieses Recht wirksam und angemessen wahrnehmen, sollten sie bestimmten Kriterien genügen. Insbesondere müssen sie gemäß den Rechtsvorschriften eines Mitgliedstaats ordnungsgemäß gegründet worden sein, keinen Erwerbszweck verfolgen und ihre Ziele dauerhaft verfolgen. Diese Anforderungen sollten die Ad-hoc-Gründung von Organisationen oder Verbänden zum Zweck einer bestimmten Klageeinreichung oder bestimmter Klageeinreichungen oder aus Erwerbszwecken verhindern. Darüber hinaus sollte jeglicher unangemessener Einfluss durch Drittgeldgeber auf die Entscheidungsfindung der entsprechenden Organisationen und Verbände verhindert werden.
+
+
+Zur Vermeidung von Interessenkonflikten sollte insbesondere verhindert werden, dass Organisationen oder Verbände, die gewerbliche Nutzer oder Nutzer mit Unternehmenswebsite vertreten, unter jeglichem unangemessenen Einfluss von Anbietern von Online-Vermittlungsdiensten oder Online-Suchmaschinen stehen. Die vollständige Offenlegung von Informationen über Mitgliedschaft und Finanzierungsquellen sollte den nationalen Gerichten die Beurteilung der Frage erleichtern, ob diese Auswahlkriterien erfüllt sind. Angesichts des besonderen Status der einschlägigen Behörden in den Mitgliedstaaten, in denen solche Stellen eingerichtet wurden, sollte als alleinige Auflage gelten, dass diese Stellen entsprechend dem einschlägigen nationalen Recht speziell damit beauftragt wurden, entweder im kollektiven Interesse der betroffenen Parteien oder im allgemeinen Interesse entsprechende Gerichtsverfahren anzustrengen, ohne dass diese Kriterien auf solche Behörden angewandt werden müssen. Etwaige derartige Klagen sollten in keiner Weise das Recht der gewerblichen Nutzer und der Nutzer mit Unternehmenswebsite berühren, ein individuelles Gerichtsverfahren anzustrengen.
+
+
+(45)
+
+
+Die Identität der Organisationen, Verbände und öffentlichen Stellen, die nach Auffassung der Mitgliedstaaten qualifiziert sein sollten, nach dieser Verordnung Klage zu erheben, sollten der Kommission mitgeteilt werden. Im Zuge dieser Mitteilung sollten die Mitgliedstaaten gezielt auf die einschlägigen nationalen Bestimmungen hinweisen, nach denen die Organisation, der Verband oder die öffentliche Stelle gegründet wurde, und gegebenenfalls auf das einschlägige öffentliche Register, in dem die Organisation oder der Verband erfasst ist. Diese zusätzliche Möglichkeit zur Benennung durch die Mitgliedstaaten sollte für ein gewisses Maß an Rechtssicherheit und Vorhersehbarkeit sorgen, auf das sich gewerbliche Nutzer und Nutzer mit Unternehmenswebsite verlassen können. Gleichzeitig wird damit beabsichtigt, Gerichtsverfahren effizienter zu gestalten und zu beschleunigen, was in diesem Zusammenhang angemessen scheint. Die Kommission sollte dafür sorgen, dass im Amtsblatt der Europäischen Union eine Liste dieser Organisationen, Verbände und öffentlichen Stellen veröffentlicht wird. Eine Aufnahme in diese Liste sollte als widerlegbarer Nachweis dafür dienen, dass die Organisation, der Verband oder die öffentliche Stelle zur Klageerhebung berechtigt ist. Bestehen Bedenken hinsichtlich einer Benennung, so sollte der Mitgliedstaat, der eine Organisation, einen Verband oder eine öffentliche Stelle benannt hat, diesen Bedenken nachgehen. Die Organisationen, Verbände und öffentlichen Stellen, die nicht von einem Mitgliedstaat benannt wurden, sollten die Möglichkeit haben, Gerichtsverfahren vor den nationalen Gerichten anzustrengen, wobei die Berechtigung zur Klageerhebung anhand der in der Verordnung vorgegebenen Kriterien zu prüfen ist.
+
+
+(46)
+
+
+Die Mitgliedstaaten sollten verpflichtet werden, für eine angemessene und wirksame Durchsetzung dieser Verordnung zu sorgen. Es bestehen bereits verschiedene Durchsetzungssysteme in den Mitgliedstaaten, und sie sollten nicht verpflichtet werden, neue nationale Durchsetzungsstellen einzurichten. Die Mitgliedstaaten sollten die Möglichkeit haben, bereits bestehende Behörden, einschließlich Gerichten, mit der Durchsetzung dieser Verordnung zu betrauen. Die Mitgliedstaaten sollten mit dieser Verordnung nicht verpflichtet werden, eine Durchsetzung von Amts wegen vorzusehen oder Geldbußen festzusetzen.
+
+
+(47)
+
+
+Die Kommission sollte die Anwendung dieser Verordnung in enger Zusammenarbeit mit den Mitgliedstaaten fortlaufend überwachen. In diesem Zusammenhang sollte die Kommission auf die Einrichtung eines breiten Netzes für den Informationsaustausch hinwirken, indem sie einschlägige Fachgremien, Exzellenzzentren und die Beobachtungsstelle für die Online-Plattformwirtschaft nutzt. Die Mitgliedstaaten sollten der Kommission auf Anfrage alle einschlägigen Informationen übermitteln, über die sie in diesem Zusammenhang verfügen. Schließlich sollte dieser Maßnahme die insgesamt verbesserte Transparenz der Geschäftsbeziehungen zwischen gewerblichen Nutzern und Anbietern von Online-Vermittlungsdiensten und zwischen Nutzern mit Unternehmenswebsite und Online-Suchmaschinen zugutekommen, die mit dieser Verordnung erreicht werden soll. Damit die Kommission ihre Überwachungs- und Überprüfungsaufgaben nach dieser Verordnung wirksam erfüllen kann, sollte sie bestrebt sein, Informationen von Anbietern von Online-Vermittlungsdiensten einzuholen. Die Anbieter von Online-Vermittlungsdiensten sollten nach Treu und Glauben mit der Kommission zusammenarbeiten, indem sie die Erhebung der entsprechenden Daten erforderlichenfalls erleichtern.
+
+
+(48)
+
+
+Verhaltenskodizes, die entweder von den betreffenden Diensteanbietern oder von den diese vertretenden Organisationen oder Verbänden ausgearbeitet werden, können zur ordnungsgemäßen Anwendung dieser Verordnung beitragen und sollten daher gefördert werden. Bei der Ausarbeitung solcher Verhaltenskodizes in Rücksprache mit allen einschlägigen interessierten Kreisen sollte den besonderen Merkmalen der jeweiligen Wirtschaftszweige sowie den besonderen Merkmalen der KMU Rechnung getragen werden. Diese Verhaltenskodizes sollten objektiv und diskriminierungsfrei formuliert werden.
+
+
+(49)
+
+
+Die Kommission sollte diese Verordnung regelmäßig bewerten und ihre Auswirkungen auf die Online-Plattformwirtschaft genau überwachen; dabei sollte sie insbesondere feststellen, inwieweit Änderungen angesichts der einschlägigen technologischen oder geschäftlichen Entwicklungen notwendig geworden sind. Diese Bewertung sollte auch die Auswirkungen auf die gewerblichen Nutzer umfassen, die sich aus der allgemeinen Anwendung von Exklusivbestimmungen für die Wahl des geltenden Rechts und des Gerichtsstands in den einseitig vom Anbieter von Online-Vermittlungsdiensten festgelegten allgemeinen Geschäftsbedingungen ergeben könnten. Um einen umfassenden Überblick über die Entwicklungen in dieser Branche zu erhalten, sollte bei der Bewertung berücksichtigt werden, welche Erfahrungen die Mitgliedstaaten und die einschlägigen Interessenträger gemacht haben. Die Expertengruppe der Beobachtungsstelle für die Online-Plattformwirtschaft, die im Einklang mit dem Beschluss C(2018)2393 der Kommission eingerichtet wurde, ist äußerst wichtig, wenn es darum geht, Informationen für die Bewertung dieser Verordnung durch die Kommission zur Verfügung zu stellen. Die Kommission sollte daher die Stellungnahmen und Berichte, die ihr von der Gruppe vorgelegt werden, gebührend berücksichtigen. Im Anschluss an die Bewertung sollte die Kommission geeignete Maßnahmen ergreifen. Weitere Maßnahmen, auch legislativer Art, können angezeigt sein, falls bzw. dort, wo sich die in dieser Verordnung festgelegten Bestimmungen als unzureichend erweisen, um in dieser Branche fortbestehende Ungleichgewichte und unlautere Geschäftspraktiken angemessen in Angriff zu nehmen.
+
+
+(50)
+
+
+Entsprechend den Zielen des Übereinkommens der Vereinten Nationen über die Rechte von Menschen mit Behinderungen  ( 11 ) sollte bei der Vorlage der nach dieser Verordnung geforderten Informationen so weit wie möglich auf die besonderen Bedürfnisse von Menschen mit Behinderungen geachtet werden.
+
+
+(51)
+
+
+Da das Ziel dieser Verordnung, nämlich die Gewährleistung eines fairen, vorhersehbaren, tragfähigen und vertrauenswürdigen Online-Geschäftsumfelds im Binnenmarkt von den Mitgliedstaaten nicht ausreichend verwirklicht werden kann, sondern vielmehr wegen des Umfangs und der Auswirkungen des Vorhabens auf Unionsebene besser zu verwirklichen ist, kann die Union im Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union verankerten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Verordnung nicht über das für die Verwirklichung dieser Ziele erforderliche Maß hinaus.
+
+
+(52)
+
+
+Mit dieser Verordnung soll dem in Artikel 47 der Grundrechtecharta der Europäischen Union verankerten Anspruch auf einen wirksamen Rechtsbehelf und ein unparteiisches Gericht uneingeschränkte Geltung verschafft werden und die Anwendung der in Artikel 16 der Grundrechtecharta verankerten unternehmerischen Freiheit gefördert werden —
+
+
+HABEN FOLGENDE VERORDNUNG ERLASSEN:
+
+
+Artikel 1
+
+
+Gegenstand und Anwendungsbereich
+
+
+(1)   Mit dieser Verordnung soll zum reibungslosen Funktionieren des Binnenmarkts beigetragen werden, indem Vorschriften festgelegt werden, mit denen sichergestellt wird, dass für gewerbliche Nutzer von Online-Vermittlungsdiensten und Nutzer mit Unternehmenswebsite im Hinblick auf Suchmaschinen eine angemessene Transparenz, Fairness und wirksame Abhilfemöglichkeiten geschaffen werden.
+
+
+(2)   Diese Verordnung gilt für Online-Vermittlungsdienste und Online-Suchmaschinen, unabhängig vom Niederlassungsort oder Sitz der Anbieter dieser Dienste und unabhängig vom ansonsten anzuwendenden Recht, die gewerblichen Nutzern und Nutzern mit Unternehmenswebsite bereitgestellt bzw. zur Bereitstellung angeboten werden, die ihre Niederlassung oder ihren Wohnsitz in der Europäischen Union haben und die über diese Online-Vermittlungsdienste oder Online-Suchmaschinen Waren oder Dienstleistungen in der Europäischen Union befindlichen Verbrauchern anbieten.
+
+
+(3)   Diese Verordnung gilt nicht für Online-Zahlungsdienste, Online-Werbeinstrumente oder Online-Werbebörsen, die nicht bereitgestellt werden, um die Anbahnung direkter Transaktionen zu vermitteln, und bei denen kein Vertragsverhältnis mit Verbrauchern besteht.
+
+
+(4)   Diese Verordnung gilt unbeschadet der Vorschriften der Mitgliedstaaten, durch die im Einklang mit dem Unionsrecht einseitige Handlungen oder unlautere Geschäftspraktiken verboten oder geahndet werden, soweit die relevanten Aspekte nicht durch diese Verordnung geregelt werden. Diese Verordnung berührt nicht das nationale Zivilrecht, insbesondere das Vertragsrecht, etwa die Bestimmungen über die Wirksamkeit, das Zustandekommen, die Wirkungen oder die Beendigung eines Vertrags, soweit die Vorschriften des nationalen Zivilrechts mit dem Unionsrecht in Einklang stehen und soweit die relevanten Aspekte nicht durch diese Verordnung geregelt werden.
+
+
+(5)   Diese Verordnung gilt unbeschadet der Rechtsvorschriften der Union, insbesondere jener für die Bereiche justizielle Zusammenarbeit in Zivilsachen, Wettbewerb, Datenschutz, Schutz von Geschäftsgeheimnissen, Verbraucherschutz, elektronischer Geschäftsverkehr und Finanzdienstleistungen.
+
+
+Artikel 2
+
+
+Begriffsbestimmungen
+
+
+Für die Zwecke dieser Verordnung bezeichnet der Ausdruck:
+
+
+1.
+
+
+„gewerblicher Nutzer“ jede im Rahmen einer geschäftlichen oder beruflichen Tätigkeit handelnde Privatperson oder jede juristische Person, die über Online-Vermittlungsdienste und für Zwecke im Zusammenhang mit ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit Verbrauchern Waren oder Dienstleistungen anbietet;
+
+
+2.
+
+
+„Online-Vermittlungsdienste“ Dienste, die alle nachstehenden Anforderungen erfüllen:
+
+
+a)
+
+
+Es handelt sich um Dienste der Informationsgesellschaft im Sinne des Artikels 1 Absatz 1 Buchstabe b der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates  ( 12 ) .
+
+
+b)
+
+
+Sie ermöglichen es gewerblichen Nutzern, Verbrauchern Waren oder Dienstleistungen anzubieten, indem sie die Einleitung direkter Transaktionen zwischen diesen gewerblichen Nutzern und Verbrauchern vermitteln, unabhängig davon, wo diese Transaktionen letztlich abgeschlossen werden.
+
+
+c)
+
+
+Sie werden gewerblichen Nutzern auf der Grundlage eines Vertragsverhältnisses zwischen dem Anbieter dieser Dienste und den gewerblichen Nutzern, die den Verbrauchern Waren oder Dienstleistungen anbieten, bereitgestellt;
+
+
+3.
+
+
+„Anbieter von Online-Vermittlungsdiensten“ jede natürliche oder juristische Person, die gewerblichen Nutzern Online-Vermittlungsdienste bereitstellt oder zur Bereitstellung anbietet;
+
+
+4.
+
+
+„Verbraucher“ jede natürliche Person, die zu Zwecken handelt, die außerhalb der gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit dieser Person liegen;
+
+
+5.
+
+
+„Online-Suchmaschine“ einen digitalen Dienst, der es Nutzern ermöglicht, in Form eines Stichworts, einer Spracheingabe, einer Wortgruppe oder einer anderen Eingabe Anfragen einzugeben, um prinzipiell auf allen Websites oder auf allen Websites in einer bestimmten Sprache eine Suche zu einem beliebigen Thema vorzunehmen und Ergebnisse in einem beliebigen Format angezeigt zu bekommen, über die sie Informationen im Zusammenhang mit dem angeforderten Inhalt finden können;
+
+
+6.
+
+
+„Anbieter von Online-Suchmaschinen“ eine natürliche oder juristische Person, die Verbrauchern Online-Suchmaschinen bereitstellt oder zur Bereitstellung anbietet;
+
+
+7.
+
+
+„Nutzer mit Unternehmenswebsite“ eine natürliche oder juristische Person, die über eine Online-Schnittstelle, d. h. über eine Software (darunter Websites oder Teile davon und Anwendungen, einschließlich mobiler Anwendungen) und für Zwecke im Zusammenhang mit ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit Verbrauchern Waren oder Dienstleistungen anbietet;
+
+
+8.
+
+
+„Ranking“ die relative Hervorhebung von Waren und Dienstleistungen, die über Online-Vermittlungsdienste angeboten werden, oder die Relevanz, die Suchergebnissen von Online-Suchmaschinen zugemessen wird, wie von Anbietern von Online-Vermittlungsdiensten bzw. von Anbietern von Online-Suchmaschinen organisiert, dargestellt und kommuniziert, unabhängig von den für diese Darstellung, Organisation oder Kommunikation verwendeten technischen Mitteln;
+
+
+9.
+
+
+„Kontrolle“ das Eigentum an einem Unternehmen oder die Fähigkeit, bestimmenden Einfluss auf ein Unternehmen auszuüben, im Sinne von Artikel 3 Absatz 2 der Verordnung (EG) Nr. 139/2004 des Rates  ( 13 ) ;
+
+
+10.
+
+
+„allgemeine Geschäftsbedingungen“ alle Bedingungen oder Bestimmungen, die unabhängig von ihrer Bezeichnung oder Form das Vertragsverhältnis zwischen dem Anbieter von Online-Vermittlungsdiensten und ihren gewerblichen Nutzern regeln und einseitig vom Anbieter der Online-Vermittlungsdienste festgelegt werden, wobei diese einseitige Festlegung auf der Grundlage einer Gesamtbewertung festgestellt wird, im Rahmen derer die relative Größe der betroffenen Parteien, die Tatsache, dass Verhandlungen stattgefunden haben, oder die Tatsache, dass einzelne Bestimmungen in diesen Bedingungen möglicherweise Gegenstand von Verhandlungen waren und gemeinsam von dem jeweiligen Anbieter und dem jeweiligen gewerblichen Nutzer festgelegt wurden, für sich genommen nicht entscheidend ist;
+
+
+11.
+
+
+„Nebenwaren und -dienstleistungen“ Waren und Dienstleistungen, die dem Verbraucher vor Abschluss der Transaktion, die mittels der Online-Vermittlungsdienste angebahnt wurde, zusätzlich und ergänzend zu der vom gewerblichen Nutzer über die Online-Vermittlungsdienste angebotenen Hauptware oder -dienstleistung angeboten werden;
+
+
+12.
+
+
+„Mediation“ ein strukturiertes Verfahren im Sinne des Artikels 3 Buchstabe a der Richtlinie 2008/52/EG;
+
+
+13.
+
+
+„dauerhafter Datenträger“ jedes Medium, das es gewerblichen Nutzern gestattet, an sie persönlich gerichtete Informationen so zu speichern, dass sie sie in der Folge für eine den Zwecken der Informationen angemessene Dauer abrufen und einsehen können, und das die unveränderte Wiedergabe der gespeicherten Informationen ermöglicht.
+
+
+Artikel 3
+
+
+Allgemeine Geschäftsbedingungen
+
+
+(1)   Anbieter von Online-Vermittlungsdiensten stellen sicher, dass ihre allgemeinen Geschäftsbedingungen
+
+
+a)
+
+
+klar und verständlich formuliert sind;
+
+
+b)
+
+
+für gewerbliche Nutzer zu jedem Zeitpunkt ihrer Geschäftsbeziehung mit dem Anbieter von Online-Vermittlungsdiensten, auch während der Phase vor Vertragsabschluss, leicht verfügbar sind;
+
+
+c)
+
+
+die Gründe benennen, bei deren Vorliegen entschieden werden kann, die Bereitstellung ihrer Online-Vermittlungsdienste für gewerbliche Nutzer vollständig oder teilweise auszusetzen oder zu beenden oder sie in irgendeiner anderen Art einzuschränken;
+
+
+d)
+
+
+Informationen über zusätzliche Vertriebskanäle oder etwaige Partnerprogramme enthalten, über die der Anbieter von Online-Vermittlungsdiensten die vom gewerblichen Nutzer angebotenen Waren und Dienstleistungen vermarkten könnte;
+
+
+e)
+
+
+allgemeine Informationen zu den Auswirkungen der allgemeinen Geschäftsbedingungen auf die Inhaberschaft und die Kontrolle von Rechten des geistigen Eigentums gewerblicher Nutzer enthalten.
+
+
+(2)   Anbieter von Online-Vermittlungsdiensten unterrichten die betroffenen gewerblichen Nutzer auf einem dauerhaften Datenträger über jegliche vorgeschlagene Änderung ihrer allgemeinen Geschäftsbedingungen.
+
+
+Die vorgeschlagenen Änderungen dürfen erst nach Ablauf einer im Hinblick auf Art und Umfang der geplanten Änderungen und deren Folgen für den betroffenen gewerblichen Nutzer angemessenen und verhältnismäßigen Frist umgesetzt werden. Diese Frist beträgt mindestens 15 Tage ab dem Zeitpunkt, an dem der Anbieter der Online-Vermittlungsdienste die betroffenen gewerblichen Nutzer über die vorgeschlagenen Änderungen unterrichtet hat. Die Anbieter von Online-Vermittlungsdiensten müssen längere Fristen einräumen, wenn dies erforderlich ist, um es gewerblichen Nutzern zu ermöglichen, die aufgrund der Änderung notwendigen technischen oder geschäftlichen Anpassungen vorzunehmen.
+
+
+Der betroffene gewerbliche Nutzer hat das Recht, den Vertrag mit dem Anbieter der Online-Vermittlungsdienste vor Ablauf der Frist zu kündigen. Eine entsprechende Kündigung entfaltet innerhalb von 15 Tagen nach Eingang der Mitteilung gemäß Unterabsatz 1 Wirkung, sofern für den Vertrag keine kürzere Frist gilt.
+
+
+Die betroffenen gewerblichen Nutzer können nach Erhalt der Mitteilung nach Unterabsatz 1 jederzeit entweder durch eine schriftliche Erklärung oder eine eindeutige bestätigende Handlung auf die in Unterabsatz 2 genannte Frist verzichten.
+
+
+Das Einstellen neuer Waren oder Dienstleistungen in den Online-Vermittlungsdiensten vor Ablauf der Frist ist als eindeutige bestätigende Handlung zu betrachten, durch die auf die Frist verzichtet wird, außer in den Fällen, in denen die angemessene und verhältnismäßige Frist mehr als 15 Tage beträgt, weil der gewerbliche Nutzer aufgrund der Änderungen der allgemeinen Geschäftsbedingungen erhebliche technische Anpassungen an seinen Waren oder Dienstleistungen vornehmen muss. In diesen Fällen gilt das Einstellen neuer Waren und Dienstleistungen durch den gewerblichen Nutzer nicht automatisch als Verzicht auf die Frist.
+
+
+(3)   Allgemeine Geschäftsbedingungen oder darin enthaltene Einzelbestimmungen, die den Anforderungen des Absatzes 1 nicht genügen, sowie vom Anbieter von Online-Vermittlungsdiensten vorgenommene Änderungen der allgemeinen Geschäftsbedingungen, die den Bestimmungen von Absatz 2 zuwiderlaufen, sind nichtig.
+
+
+(4)   Die Frist nach Absatz 2 Unterabsatz 2 gilt nicht, wenn ein Anbieter von Online-Vermittlungsdiensten
+
+
+a)
+
+
+aufgrund gesetzlicher oder behördlich angeordneter Verpflichtungen Änderungen der allgemeinen Geschäftsbedingungen in einer Art und Weise vornehmen muss, die es ihm nicht gestatten, die in Absatz 2 Unterabsatz 2 genannte Frist einzuhalten;
+
+
+b)
+
+
+in Ausnahmefällen seine allgemeinen Geschäftsbedingungen zur Abwehr einer unvorhergesehenen und unmittelbar drohenden Gefahr ändern muss, um die Online-Vermittlungsdienste, Verbraucher oder gewerbliche Nutzer vor Betrug, Schadsoftware, Spam, Verletzungen des Datenschutzes oder anderen Cybersicherheitsrisiken zu schützen.
+
+
+(5)   Anbieter von Online-Vermittlungsdiensten stellen sicher, dass die Identität der gewerblichen Nutzer, die Waren und Dienstleistungen über die Online-Vermittlungsdienste anbieten, klar erkennbar ist.
+
+
+Artikel 4
+
+
+Einschränkung, Aussetzung und Beendigung
+
+
+(1)   Beschließt ein Anbieter von Online-Vermittlungsdiensten, die Bereitstellung seiner Online-Vermittlungsdienste für einen bestimmten gewerblichen Nutzer in Bezug auf einzelne von diesem gewerblichen Nutzer angebotene Waren oder Dienstleistungen einzuschränken oder auszusetzen, so übermittelt er dem betroffenen gewerblichen Nutzer vor oder gleichzeitig mit dem Wirksamwerden der Aussetzung oder Einschränkung auf einem dauerhaften Datenträger eine Begründung dieser Entscheidung.
+
+
+(2)   Beschließt ein Anbieter von Online-Vermittlungsdiensten, die Bereitstellung seiner Online-Vermittlungsdienste für einen bestimmten gewerblichen Nutzer vollständig zu beenden, so übermittelt er dem betroffenen gewerblichen Nutzer mindestens 30 Tage vor dem Wirksamwerden der Beendigung auf einem dauerhaften Datenträger eine Begründung dieser Entscheidung.
+
+
+(3)   Im Falle einer Einschränkung, Aussetzung oder Beendigung bietet der Anbieter von Online-Vermittlungsdiensten dem gewerblichen Nutzer die Möglichkeit, die Tatsachen und Umstände im Rahmen des internen Beschwerdemanagementverfahrens gemäß Artikel 11 zu klären. Wird die Einschränkung, Aussetzung oder Beendigung durch den Anbieter von Online-Vermittlungsdiensten aufgehoben, setzt er den gewerblichen Nutzer umgehend wieder ein, wozu auch der Zugang zu personenbezogenen oder sonstigen Daten oder beidem gehört, die durch die Nutzung der einschlägigen Online-Vermittlungsdienste vor dem Wirksamwerden der Einschränkung, Aussetzung oder Beendigung generiert wurden.
+
+
+(4)   Die Frist gemäß Absatz 2 gilt nicht, wenn ein Anbieter von Online-Vermittlungsdiensten
+
+
+a)
+
+
+gesetzlichen oder behördlich angeordneten Verpflichtungen unterliegt, die eine vollständige Beendigung der Bereitstellung der Online-Vermittlungsdienste für einen bestimmten gewerblichen Nutzer erfordern und ihm dabei keine Einhaltung der Frist erlauben;
+
+
+b)
+
+
+sein Recht auf Beendigung aufgrund eines zwingenden Grunds nach nationalem Recht, das im Einklang mit dem Unionsrecht steht, ausübt;
+
+
+c)
+
+
+nachweisen kann, dass der betroffene gewerbliche Nutzer wiederholt gegen die geltenden allgemeinen Geschäftsbedingungen verstoßen hat, was zur vollständigen Beendigung der betreffenden Online-Vermittlungsdienste geführt hat.
+
+
+In den Fällen, in denen die in Absatz 2 genannte Frist nicht gilt, stellt der Anbieter von Online-Vermittlungsdiensten dem betroffenen gewerblichen Nutzer unverzüglich eine Begründung für seine Entscheidung auf einem dauerhaften Datenträger zur Verfügung.
+
+
+(5)   In der in den Absätzen 1 und 2 und Absatz 4 Unterabsatz 2 genannten Begründung gibt der Anbieter der Online-Vermittlungsdienste die konkreten Tatsachen oder Umstände, einschließlich des Inhalts der Mitteilungen Dritter, die ihn zu seiner Entscheidung bewogen haben, und die für diese Entscheidung geltenden Gründe gemäß Artikel 3 Absatz 1 Buchstabe c an.
+
+
+Ein Anbieter von Online-Vermittlungsdiensten ist nicht verpflichtet, eine Begründung abzugeben, wenn er aufgrund gesetzlicher oder behördlich angeordneter Verpflichtungen die konkreten Tatsachen oder Umstände und den zutreffenden Grund bzw. die zutreffenden Gründe nicht offenlegen darf, oder wenn er nachweisen kann, dass der betroffene gewerbliche Nutzer wiederholt gegen die geltenden allgemeinen Geschäftsbedingungen verstoßen hat, was zur vollständigen Beendigung der betreffenden Online-Vermittlungsdienste geführt hat.
+
+
+Artikel 5
+
+
+Ranking
+
+
+(1)   Anbieter von Online-Vermittlungsdiensten stellen in ihren allgemeinen Geschäftsbedingungen die das Ranking bestimmenden Hauptparameter und die Gründe für die relative Gewichtung dieser Hauptparametergegenüber anderen Parametern dar.
+
+
+(2)   Die Anbieter von Online-Suchmaschinen stellen die Hauptparameter, die einzeln oder gemeinsam für die Festlegung des Rankings am wichtigsten sind, und die relative Gewichtung dieser Hauptparameter dar, indem sie in ihren Online-Suchmaschinen klar und verständlich formulierte Erläuterungen bereitstellen, die öffentlich und leicht verfügbar sind. Sie sorgen dafür, dass diese Beschreibungen stets aktuell sind.
+
+
+(3)   Enthalten die Hauptparameter die Möglichkeit, dass die gewerblichen Nutzer oder die Nutzer mit Unternehmenswebsite das Ranking beeinflussen können, indem sie dem jeweiligen Anbieter direkt oder indirekt ein Entgelt entrichten, so erläutert der Anbieter diese Möglichkeit und legt gemäß den in Absatz 1 und 2 genannten Anforderungen dar, wie sich derartige Entgelte auf das Ranking auswirken.
+
+
+(4)   Hat der Anbieter einer Online-Suchmaschine die Reihenfolge des Rankings in einem konkreten Fall geändert oder eine bestimmte Website infolge der Mitteilung eines Dritten ausgelistet, bietet der Anbieter dem Nutzer mit Unternehmenswebsite die Möglichkeit, den Inhalt der Mitteilung einzusehen.
+
+
+(5)   Die in den Absätzen 1, 2 und 3 genannten Erläuterungen müssen den gewerblichen Nutzern oder den Nutzern mit Unternehmenswebsite ein angemessenes Verständnis der Frage ermöglichen, ob und gegebenenfalls wie und in welchem Umfang der Rankingmechanismus Folgendes berücksichtigt:
+
+
+a)
+
+
+die Merkmale der Waren und Dienstleistungen, die Verbrauchern über Online-Vermittlungsdienste oder Online-Suchmaschinen angeboten werden;
+
+
+b)
+
+
+die Relevanz dieser Merkmale für diese Verbraucher;
+
+
+c)
+
+
+im Falle von Online-Suchmaschinen die Gestaltungsmerkmale der Website, die von Nutzern mit Unternehmenswebsite verwendet werden.
+
+
+(6)   Die Anbieter von Online-Vermittlungsdiensten und Anbieter von Online-Suchmaschinen sind zur Einhaltung der Anforderungen dieses Artikels nicht verpflichtet, Algorithmen oder Informationen offenzulegen, die mit hinreichender Sicherheit dazu führen würden, dass eine Täuschung oder Schädigung von Verbrauchern durch die Manipulation von Suchergebnissen möglich wird. Dieser Artikel gilt unbeschadet der Richtlinie (EU) 2016/943.
+
+
+(7)   Um die Anbieter von Online-Vermittlungsdiensten und die Anbieter von Online-Suchmaschinen bei der Einhaltung der Anforderungen dieses Artikels zu unterstützen und um deren Durchsetzung zu erleichtern, begleitet die Kommission die in diesem Artikel festgelegten Transparenzanforderungen durch Leitlinien.
+
+
+Artikel 6
+
+
+Nebenwaren und -dienstleistungen
+
+
+Wenn Verbrauchern über die Online-Vermittlungsdienste entweder durch den Anbieter von Online-Vermittlungsdiensten oder durch Dritte Nebenwaren und -dienstleistungen, einschließlich Finanzprodukten, angeboten werden, nimmt der Anbieter von Online-Vermittlungsdiensten in seine allgemeinen Geschäftsbedingungen eine Beschreibung der Art der angebotenen Nebenwaren und -dienstleistungen und eine Angabe dazu auf, ob und unter welchen Bedingungen der gewerbliche Nutzer ebenfalls berechtigt ist, seine eigenen Nebenwaren und -dienstleistungen über die Online-Vermittlungsdienste anzubieten.
+
+
+Artikel 7
+
+
+Differenzierte Behandlung
+
+
+(1)   Die Anbieter von Online-Vermittlungsdiensten erläutern in ihren allgemeinen Geschäftsbedingungen jegliche etwaige differenzierte Behandlung von Waren und Dienstleistungen, die Verbrauchern über diese Online-Vermittlungsdienste einerseits entweder von diesem Anbieter selbst oder von gewerblichen Nutzern, die von diesem Anbieter kontrolliert werden, und andererseits von sonstigen gewerblichen Nutzern angeboten werden. Diese Erläuterung bezieht sich auf die wichtigsten wirtschaftlichen, geschäftlichen oder rechtlichen Erwägungen, die einer solchen differenzierten Behandlung zugrunde liegen.
+
+
+(2)   Die Anbieter von Online-Suchmaschinen erläutern jegliche etwaige differenzierte Behandlung von Waren und Dienstleistungen, die Verbrauchern über diese Online-Suchmaschinen einerseits entweder von diesem Anbieter selbst oder von Nutzern mit Unternehmenswebsite, die von diesem Anbieter kontrolliert werden, und andererseits von sonstigen Nutzern mit Unternehmenswebsite angeboten werden.
+
+
+(3)   Die in den Absätzen 1 und 2 genannte Erläuterung umfasst gegebenenfalls insbesondere Angaben zu jeglicher differenzierten Behandlung durch konkrete Maßnahmen oder durch das Verhalten des Anbieters von Online-Vermittlungsdiensten oder des Anbieters von Online-Suchmaschinen in Bezug auf Folgendes:
+
+
+a)
+
+
+etwaiger Zugang des Anbieters oder der gewerblichen Nutzer, oder der Nutzer mit Unternehmenswebsite, die der Anbieter kontrolliert, zu personenbezogenen oder sonstigen Daten oder beidem, die gewerbliche Nutzer, Nutzer mit Unternehmenswebsite oder Verbraucher für die Nutzung der betreffenden Online-Vermittlungsdienste oder der betreffenden Online-Suchmaschinen zur Verfügung stellen oder die im Zuge der Bereitstellung dieser Dienste generiert werden;
+
+
+b)
+
+
+Ranking oder andere Einstellungen, die der Anbieter anwendet und die den Zugang der Verbraucher zu Waren oder Dienstleistungen beeinflussen, die von anderen gewerblichen Nutzern über diese Online-Vermittlungsdienste oder von anderen Nutzern mit Unternehmenswebsite über diese Online-Suchmaschinen angeboten werden;
+
+
+c)
+
+
+etwaige direkte oder indirekte Entgelte für die Nutzung der betreffenden Online-Vermittlungsdienste oder Online-Suchmaschinen;
+
+
+d)
+
+
+Zugang zu den Diensten, Funktionen oder technischen Schnittstellen, die für den gewerblichen Nutzer oder den Nutzer mit Unternehmenswebsite relevant sind und mit der Nutzung der betreffenden Online-Vermittlungsdienste oder Online-Suchmaschinen unmittelbar im Zusammenhang stehen oder eine Ergänzung zu deren Nutzung sind, sowie die Bedingungen und die direkt oder indirekt erhobene Vergütung für die Nutzung dieser Dienste, Funktionen oder technischen Schnittstellen.
+
+
+Artikel 8
+
+
+Besondere Vertragsbestimmungen
+
+
+Um sicherzustellen, dass die Vertragsbeziehungen zwischen den Anbietern von Online-Vermittlungsdiensten und den gewerblichen Nutzern nach Treu und Glauben und auf der Grundlage des redlichen Geschäftsverkehrs gestaltet werden, sind die Anbieter von Online-Vermittlungsdiensten zu Folgendem verpflichtet:
+
+
+a)
+
+
+Sie erlegen keine rückwirkenden Änderungen an den allgemeinen Geschäftsbedingungen auf, es sei denn, dies geschieht in Erfüllung einer gesetzlichen oder behördlich angeordneten Verpflichtung oder die rückwirkenden Änderungen sind für die gewerblichen Nutzer von Vorteil;
+
+
+b)
+
+
+Sie sorgen dafür, dass ihre allgemeinen Geschäftsbedingungen Informationen über die Bedingungen enthalten, unter denen die gewerblichen Nutzer die Vertragsbeziehung mit dem Anbieter von Online-Vermittlungsdiensten beenden können; und
+
+
+c)
+
+
+Sie nehmen in ihre allgemeinen Geschäftsbedingungen eine Beschreibung des vorhandenen oder nicht vorhandenen technischen und vertraglichen Zugangs zu den von dem gewerblichen Nutzer bereitgestellten oder generierten Informationen auf, den sie behalten, nachdem der Vertrag zwischen dem Anbieter von Online-Vermittlungsdiensten und dem gewerblichen Nutzer abgelaufen ist.
+
+
+Artikel 9
+
+
+Datenzugang
+
+
+(1)   Die Anbieter von Online-Vermittlungsdiensten erläutern in ihren allgemeinen Geschäftsbedingungen den technischen und vertraglichen Zugang oder das Fehlen eines solchen Zugangs für gewerbliche Nutzer zu personenbezogenen oder sonstigen Daten oder beidem, die gewerbliche Nutzer oder Verbraucher für die Nutzung der betreffenden Online-Vermittlungsdienste zur Verfügung stellen oder die im Zuge der Bereitstellung dieser Dienste generiert werden.
+
+
+(2)   Mittels der in Absatz 1 genannten Erläuterung informieren die Anbieter von Online-Vermittlungsdiensten gewerbliche Nutzer angemessen insbesondere darüber,
+
+
+a)
+
+
+ob der Anbieter der Online-Vermittlungsdienste Zugang zu personenbezogenen oder sonstigen Daten oder zu beidem hat, die gewerbliche Nutzer oder Verbraucher für die Nutzung dieser Dienste zur Verfügung stellen oder die im Zuge der Bereitstellung dieser Dienste generiert werden, sowie gegebenenfalls darüber, zu welchen Kategorien dieser Daten und zu welchen Bedingungen er Zugang hat;
+
+
+b)
+
+
+ob ein gewerblicher Nutzer Zugang zu personenbezogenen oder sonstigen Daten oder beidem hat, die dieser gewerbliche Nutzer im Zusammenhang mit der Nutzung der betreffenden Online-Vermittlungsdienste durch den gewerblichen Nutzer zur Verfügung gestellt hat oder die im Zuge der Bereitstellung dieser Dienste für diesen gewerblichen Nutzer und die Verbraucher der Waren oder Dienstleistungen des gewerblichen Nutzers generiert wurden, sowie gegebenenfalls darüber, zu welchen Kategorien dieser Daten und zu welchen Bedingungen er Zugang hat;
+
+
+c)
+
+
+zusätzlich zu Buchstabe b, ob ein gewerblicher Nutzer Zugang zu personenbezogenen Daten oder sonstigen Daten oder beidem, auch in aggregierter Form, hat, die im Zuge der allen gewerblichen Nutzern und Verbrauchern bereitgestellten Online-Vermittlungsdienste zur Verfügung gestellt oder generiert wurden, und gegebenenfalls darüber, zu welchen Kategorien dieser Daten und zu welchen Bedingungen er Zugang hat; und
+
+
+d)
+
+
+ob die unter Buchstabe a genannten Daten Dritten zur Verfügung gestellt werden, einschließlich, wenn die Bereitstellung dieser Daten für Dritte für das ordnungsgemäße Funktionieren der Online-Vermittlungsdienste nicht erforderlich ist, Informationen zur Konkretisierung des Zwecks einer solchen Datenweitergabe sowie Möglichkeiten, die gewerblichen Nutzern für eine Ablehnung dieser Datenweitergabe offenstehen.
+
+
+(3)   Dieser Artikel lässt die Anwendung der Verordnung (EU) 2016/679, der Richtlinie (EU) 2016/680 und der Richtlinie 2002/58/EC unberührt.
+
+
+Artikel 10
+
+
+Einschränkung der Möglichkeit, andere Bedingungen auf anderem Wege anzubieten
+
+
+(1)   Schränken die Anbieter von Online-Vermittlungsdiensten bei der Bereitstellung ihrer Dienste gewerbliche Nutzer in ihrer Möglichkeit ein, Verbrauchern dieselben Waren und Dienstleistungen zu anderen Bedingungen auf anderem Wege als über ihre Dienste anzubieten, müssen sie in ihren allgemeinen Geschäftsbedingungen die Gründe für diese Einschränkung angeben und diese öffentlich leicht verfügbar machen. Hierbei sind die wichtigsten wirtschaftlichen, geschäftlichen oder rechtlichen Gründe für die Einschränkungen anzugeben.
+
+
+(2)   Die in Absatz 1 genannte Verpflichtung berührt nicht etwaige Verbote oder Beschränkungen in Bezug auf die Auferlegung solcher Einschränkungen, die sich für Anbieter von Online-Vermittlungsdiensten aus der Anwendung anderer Unionsrechtsakte oder von nationalem Recht ergeben, das im Einklang mit dem Unionsrecht steht, denen der Anbieter von Online-Vermittlungsdiensten unterliegt.
+
+
+Artikel 11
+
+
+Internes Beschwerdemanagementsystem
+
+
+(1)   Die Anbieter von Online-Vermittlungsdiensten richten ein internes System für die Bearbeitung von Beschwerden gewerblicher Nutzer ein.
+
+
+Dieses interne Beschwerdemanagementsystem muss für gewerbliche Nutzer leicht zugänglich und kostenfrei sein, und eine Bearbeitung innerhalb eines angemessenen Zeitrahmens muss sichergestellt sein. Es muss auf den Grundsätzen der Transparenz, der Gleichbehandlung in gleichen Situationen und der Behandlung von Beschwerden in einer Art und Weise beruhen, die ihrer Bedeutung und ihrer Komplexität angemessen ist. Es muss gewerblichen Nutzern die Möglichkeit bieten, Beschwerden in Bezug auf die folgenden Probleme direkt bei dem betreffenden Anbieter einzureichen:
+
+
+a)
+
+
+die mutmaßliche Nichteinhaltung einer der in dieser Verordnung festgelegten Verpflichtungen durch den Anbieter, die sich auf den Beschwerde führenden gewerblichen Nutzer (im Folgenden „Beschwerdeführer“) auswirkt,
+
+
+b)
+
+
+technische Probleme, die in direktem Zusammenhang mit der Bereitstellung von Online-Vermittlungsdiensten stehen und die sich auf den Beschwerdeführer auswirken;
+
+
+c)
+
+
+Maßnahmen oder Verhaltensweisen des Anbieters, die in direktem Zusammenhang mit der Bereitstellung der Online-Vermittlungsdienste stehen und die sich auf den Beschwerdeführer auswirken.
+
+
+(2)   Im Rahmen ihres internen Beschwerdemanagementsystems haben Anbieter von Online-Vermittlungsdiensten folgende Pflichten:
+
+
+a)
+
+
+die sorgfältige Prüfung der eingereichten Beschwerden und die möglicherweise notwendige weitere Bearbeitung der Beschwerden, um eine angemessene Lösung für das Problem herbeizuführen;
+
+
+b)
+
+
+die zügige und wirksame Bearbeitung von Beschwerden unter Berücksichtigung der Bedeutung und Komplexität des Problems;
+
+
+c)
+
+
+die individuelle sowie klar und verständlich formulierte Unterrichtung des Beschwerdeführers über das Ergebnis des internen Beschwerdemanagementverfahrens.
+
+
+(3)   Die Anbieter von Online-Vermittlungsdiensten stellen in ihren allgemeinen Geschäftsbedingungen alle einschlägigen Informationen zur Verfügung, die sich auf den Zugang zu ihrem internen Beschwerdemanagementsystem und dessen Funktionsweise beziehen.
+
+
+(4)   Die Anbieter von Online-Vermittlungsdiensten erstellen Informationen zur Funktionsweise und Wirksamkeit ihres internen Beschwerdemanagementsystems und machen diese Informationen öffentlich leicht verfügbar. Sie überprüfen die Informationen mindestens einmal jährlich und aktualisieren sie, wenn wesentliche Änderungen erforderlich sind.
+
+
+Hierbei sind die Anzahl der eingereichten Beschwerden, die wichtigsten Arten von Beschwerden, der durchschnittliche Zeitbedarf für die Bearbeitung der Beschwerden und aggregierte Informationen über das Ergebnis der Beschwerden anzugeben.
+
+
+(5)   Die Bestimmungen dieses Artikels gelten nicht für Anbieter von Online-Vermittlungsdiensten, bei denen es sich um kleine Unternehmen im Sinne des Anhangs zur Empfehlung 2003/361/EG der Kommission handelt.
+
+
+Artikel 12
+
+
+Mediation
+
+
+(1)   Die Anbieter von Online-Vermittlungsdiensten geben in ihren allgemeinen Geschäftsbedingungen zwei oder mehr Mediatoren an, mit denen sie bereit sind zusammenzuarbeiten, um mit gewerblichen Nutzern eine außergerichtliche Beilegung etwaiger Streitigkeiten zwischen dem Anbieter und dem gewerblichen Nutzer zu erzielen, die sich auf die Bereitstellung der betreffenden Online-Vermittlungsdienste, darunter auch auf Beschwerden beziehen, die nicht mit den in Artikel 11 genannten Mitteln des internen Beschwerdemanagementsystems gelöst werden können.
+
+
+Die Anbieter von Online-Vermittlungsdiensten können nur dann Mediatoren benennen, die ihre Mediationsdienste von einem Ort außerhalb der Europäischen Union erbringen, wenn sichergestellt ist, dass den betroffenen gewerblichen Nutzern effektiv kein im Unionsrecht oder dem Recht eines Mitgliedstaats festgelegter Rechtsschutz infolge der Tatsache vorenthalten wird, dass die Mediatoren ihre Mediationsdienste von außerhalb der Europäischen Union erbringen.
+
+
+(2)   Die in Absatz 1 genannten Mediatoren müssen folgende Bedingungen erfüllen:
+
+
+a)
+
+
+Sie sind unparteiisch und unabhängig.
+
+
+b)
+
+
+Ihre Mediationsdienste sind für gewerbliche Nutzer der betreffenden Online-Vermittlungsdienste erschwinglich.
+
+
+c)
+
+
+Sie sind in der Lage, ihre Mediationsdienste in der Sprache der allgemeinen Geschäftsbedingungen zu erbringen, die das Vertragsverhältnis zwischen dem Anbieter der Online-Vermittlungsdienste und dem betroffenen gewerblichen Nutzer regeln.
+
+
+d)
+
+
+Sie sind entweder physisch am Ort der Niederlassung oder am Wohnsitz des gewerblichen Nutzers oder mittels Kommunikationstechnik aus der Ferne leicht zu erreichen.
+
+
+e)
+
+
+Sie können ihre Mediationsdienste unverzüglich erbringen.
+
+
+f)
+
+
+Sie verfügen über ein ausreichendes Verständnis der allgemeinen Geschäftsbeziehungen zwischen Unternehmen, sodass sie wirksam zum Versuch der Streitbeilegung beitragen können.
+
+
+(3)   Ungeachtet des freiwilligen Charakters der Mediation beteiligen sich Anbieter von Online-Vermittlungsdiensten und gewerbliche Nutzer nach Treu und Glauben an allen Mediationsversuchen, die gemäß diesem Artikel unternommen werden.
+
+
+(4)   Die Anbieter von Online-Vermittlungsdiensten tragen in jedem Einzelfall einen angemessenen Anteil an den Gesamtkosten der Mediation. Der angemessene Anteil an den Gesamtkosten wird ausgehend von einem Vorschlag des Mediators unter Berücksichtigung aller einschlägigen Elemente des jeweiligen Falls, insbesondere der Stichhaltigkeit der Forderungen der Streitparteien, des Verhaltens der Parteien sowie der Größe und der Finanzstärke der Parteien im Verhältnis zueinander, bestimmt.
+
+
+(5)   Jeder Versuch, nach diesem Artikel eine Einigung über die Streitbeilegung durch Mediation herbeizuführen, berührt nicht das Recht der betreffenden Anbieter von Online-Vermittlungsdiensten und der betroffenen gewerblichen Nutzer, zu jedem Zeitpunkt vor, während oder nach der Mediation Klage vor Gericht zu erheben.
+
+
+(6)   Auf Ersuchen eines gewerblichen Nutzers müssen die Anbieter von Online-Vermittlungsdiensten vor oder während einer Mediation Informationen über das Funktionieren und die Wirksamkeit der Mediation im Zusammenhang mit ihren Tätigkeiten bereitstellen.
+
+
+(7)   Die in Absatz 1 genannte Verpflichtung gilt nicht für Anbieter von Online-Vermittlungsdiensten, bei denen es sich um kleine Unternehmen im Sinne des Anhangs zur Empfehlung 2003/361/EG handelt.
+
+
+Artikel 13
+
+
+Spezialisierte Mediatoren
+
+
+Die Kommission fordert in enger Zusammenarbeit mit den Mitgliedstaaten Anbieter von Online-Vermittlungsdiensten sowie Organisationen und Verbände, die diese vertreten, auf, einzeln oder gemeinsam eine oder mehrere Organisationen zu gründen, die Mediationsdienste anbieten und die in Artikel 12 Absatz 2 genannten Bedingungen erfüllen, um speziell die außergerichtliche Beilegung von Streitigkeiten mit gewerblichen Nutzern im Zusammenhang mit der Bereitstellung von Online-Vermittlungsdiensten und unter besonderer Berücksichtigung des grenzüberschreitenden Charakters dieser Dienste zu erleichtern.
+
+
+Artikel 14
+
+
+Klageeinreichung vor Gericht durch repräsentative Organisationen oder Verbände und durch öffentliche Stellen
+
+
+(1)   Organisationen und Verbände, die ein berechtigtes Interesse an der Vertretung gewerblicher Nutzer oder von Nutzern mit Unternehmenswebsite haben, sowie in den Mitgliedstaaten eingerichtete öffentliche Stellen haben das Recht, zuständige nationale Gerichte in der Europäischen Union anzurufen, und zwar entsprechend den Rechtsvorschriften des Mitgliedstaats, in dem die Klage gegen einen Anbieter von Online-Vermittlungsdiensten oder von Online-Suchmaschinen wegen der Nichteinhaltung der einschlägigen, in dieser Verordnung festgelegten Bestimmungen mit dem Ziel eingereicht wird, diese Nichteinhaltung zu beenden oder zu untersagen.
+
+
+(2)   Die Kommission ermutigt die Mitgliedstaaten, bewährte Verfahren und Informationen mit anderen Mitgliedstaaten auf der Grundlage von Registern rechtswidriger Handlungen, die Gegenstand von Unterlassungsverfügungen seitens nationaler Gerichte waren, auszutauschen, sofern solche Register von den einschlägigen öffentlichen Stellen oder Behörden eingerichtet wurden.
+
+
+(3)   Organisationen oder Verbände haben das in Absatz 1 genannte Recht nur dann, wenn sie alle folgenden Bedingungen erfüllen:
+
+
+a)
+
+
+Sie sind nach dem Recht eines Mitgliedstaats ordnungsgemäß errichtet.
+
+
+b)
+
+
+Sie verfolgen Ziele, die im kollektiven Interesse der Gruppe gewerblicher Nutzer oder der Nutzer mit Unternehmenswebsite sind, die sie dauerhaft vertreten.
+
+
+c)
+
+
+Sie verfolgen keine Gewinnerzielungsabsicht.
+
+
+d)
+
+
+Ihre Entscheidungsfindung wird nicht unangemessen durch Drittgeldgeber, insbesondere durch Anbieter von Online-Vermittlungsdiensten oder Online-Suchmaschinen, beeinflusst.
+
+
+Zu diesem Zweck veröffentlichen die Organisationen und Verbände alle Informationen darüber, wer ihre Mitglieder sind, und über ihre Finanzierungsquellen.
+
+
+(4)   In Mitgliedstaaten, in denen öffentliche Stellen eingerichtet wurden, sind diese berechtigt, das in Absatz 1 genannte Recht auszuüben, sofern sie nach dem Recht des betreffenden Mitgliedstaats damit beauftragt wurden, die kollektiven Interessen von gewerblichen Nutzern oder von Nutzern mit Unternehmenswebsite wahrzunehmen, oder dafür zu sorgen, dass die in dieser Verordnung festgelegten Bestimmungen eingehalten werden.
+
+
+(5)   Die Mitgliedstaaten können
+
+
+a)
+
+
+Organisationen oder Verbände mit Sitz in ihrem Mitgliedstaat, die mindestens die Anforderungen des Absatzes 3 erfüllen, auf deren Antrag sowie
+
+
+b)
+
+
+öffentlichen Stellen mit Sitz in ihrem Mitgliedstaat, die die Anforderungen des Absatzes 4 erfüllen,
+
+
+benennen, die das in Absatz 1 genannte Recht erhalten. Die Mitgliedstaaten teilen der Kommission Namen und Zweck aller solcher benannten Organisationen, Verbände oder öffentlichen Stellen mit.
+
+
+(6)   Die Kommission erstellt ein Verzeichnis der gemäß Absatz 5 benannten Organisationen, Verbände und öffentlichen Stellen. Dieses Verzeichnis enthält den Zweck dieser Organisationen, Verbände und öffentlichen Stellen. Es wird im Amtsblatt der Europäischen Union veröffentlicht. Änderungen an diesem Verzeichnis werden umgehend veröffentlicht, und ein aktualisiertes Verzeichnis wird alle sechs Monate veröffentlicht.
+
+
+(7)   Die Gerichte akzeptieren die Liste nach Absatz 6 als Nachweis der Berechtigung der Organisation, des Verbands oder der öffentlichen Stelle zur Klageerhebung unbeschadet ihres Rechts zu prüfen, ob der Zweck des Klägers dessen Klageerhebung im Einzelfall rechtfertigt.
+
+
+(8)   Äußert ein Mitgliedstaat oder die Kommission Bedenken hinsichtlich der Erfüllung der in Absatz 3 genannten Kriterien durch eine Organisation oder einen Verband oder der in Absatz 4 genannten Kriterien durch eine öffentliche Stelle, so prüft der Mitgliedstaat, der die Organisation, den Verband oder die öffentliche Stelle nach Absatz 5 benannt hat, die Bedenken und widerruft gegebenenfalls die Benennung, wenn eines oder mehrere der Kriterien nicht erfüllt sind.
+
+
+(9)   Das in Absatz 1 genannte Recht gilt unbeschadet des Rechts gewerblicher Nutzer und der Nutzer mit Unternehmenswebsite, vor den zuständigen nationalen Gerichten und entsprechend dem Recht des Mitgliedstaats, in dem die Klage eingereicht wird, eine Klage zu erheben, die auf individuellen Rechten beruht und darauf abzielt, eine Nichteinhaltung der einschlägigen in dieser Verordnung festgelegten Bestimmungen durch Anbieter von Online-Vermittlungsdiensten oder Anbieter von Online-Suchmaschinen zu unterbinden.
+
+
+Artikel 15
+
+
+Durchsetzung
+
+
+(1)   Jeder Mitgliedstaat sorgt für eine angemessene und wirksame Durchsetzung dieser Verordnung.
+
+
+(2)   Die Mitgliedstaaten erlassen Vorschriften über die Maßnahmen, die bei Verstößen gegen diese Verordnung anwendbar sind, und stellen deren Umsetzung sicher. Die Maßnahmen müssen wirksam, verhältnismäßig und abschreckend sein.
+
+
+Artikel 16
+
+
+Überwachung
+
+
+Die Kommission überwacht sorgfältig und in enger Zusammenarbeit mit den Mitgliedstaaten die Auswirkungen dieser Verordnung auf die Beziehungen zwischen Online-Vermittlungsdiensten und ihren gewerblichen Nutzern einerseits und Online-Suchmaschinen und Nutzern mit Unternehmenswebsite andererseits. Zu diesem Zweck sammelt die Kommission, auch durch Durchführung einschlägiger Studien, relevante Informationen, mit deren Hilfe die Entwicklung dieser Beziehungen überwacht werden kann. Die Mitgliedstaaten unterstützen die Kommission, indem sie auf Anfrage alle einschlägigen gesammelten Informationen, auch zu konkreten Fällen, übermitteln. Die Kommission kann für die Zwecke dieses Artikels und des Artikels 18 Informationen von Anbietern von Online-Vermittlungsdiensten einholen.
+
+
+Artikel 17
+
+
+Verhaltenskodex
+
+
+(1)   Die Kommission fordert die Anbieter von Online-Vermittlungsdiensten sowie Organisationen und Verbände, die diese vertreten, auf, zusammen mit gewerblichen Nutzern, einschließlich KMU, und ihren Vertretungsorganisationen Verhaltenskodizes auszuarbeiten, die die ordnungsgemäße Anwendung dieser Verordnung unterstützen und die den besonderen Merkmalen der verschiedenen Branchen, in denen Online-Vermittlungsdienste angeboten werden, sowie den besonderen Merkmalen von KMU Rechnung tragen.
+
+
+(2)   Die Kommission fordert die Anbieter von Online-Suchmaschinen sowie Organisationen und Verbände, die diese vertreten, auf, Verhaltenskodizes auszuarbeiten, die speziell darauf ausgerichtet sind, die ordnungsgemäße Anwendung von Artikel 5 zu unterstützen.
+
+
+(3)   Die Kommission fordert die Anbieter von Online-Vermittlungsdiensten auf, branchenspezifische Verhaltenskodizes anzunehmen und umzusetzen, wenn solche branchenspezifischen Verhaltenskodizes existieren und weit verbreitet sind.
+
+
+Artikel 18
+
+
+Überprüfung
+
+
+(1)   Bis zum 13. Januar 2022 und danach alle drei Jahre wird die Kommission diese Verordnung evaluieren und dem Europäischen Parlament, dem Rat und dem Europäischen Wirtschafts- und Sozialausschuss einen Bericht vorlegen.
+
+
+(2)   Bei der ersten Evaluierung dieser Verordnung wird vor allem auf Folgendes geachtet:
+
+
+a)
+
+
+Bewertung der Einhaltung der in den Artikeln 3 bis 10 festgelegten Verpflichtungen und deren Auswirkungen auf die Online-Plattformwirtschaft;
+
+
+b)
+
+
+Bewertung der Auswirkungen und der Wirksamkeit etwaiger erstellter Verhaltenskodizes bei der Verbesserung von Fairness und Transparenz;
+
+
+c)
+
+
+weitere Untersuchung der Probleme, die durch die Abhängigkeit gewerblicher Nutzer von Online-Vermittlungsdiensten verursacht werden, und der Probleme, die durch unlautere Geschäftspraktiken von Anbietern von Online-Vermittlungsdiensten verursacht werden, und genauere Feststellung, in welchem Maß diese Praktiken weiterhin weit verbreitet sind;
+
+
+d)
+
+
+Untersuchung der Frage, ob zwischen Waren und Dienstleistungen, die durch einen gewerblichen Nutzer angeboten werden, und Waren und Dienstleistungen, die von einem Anbieter von Online-Vermittlungsdiensten angeboten oder kontrolliert werden, ein lauterer Wettbewerb herrscht, und ob die Anbieter von Online-Vermittlungsdiensten diesbezüglich privilegierte Daten missbräuchlich nutzen;
+
+
+e)
+
+
+Bewertung der Auswirkung dieser Verordnung auf etwaige Ungleichgewichte in den Beziehungen zwischen den Anbietern von Betriebssystemen und ihren gewerblichen Nutzern;
+
+
+f)
+
+
+Bewertung der Frage, ob der Geltungsbereich der Verordnung, insbesondere hinsichtlich der Bestimmung des Begriffs „gewerblicher Nutzer“, geeignet ist, Scheinselbstständigkeit keinen Vorschub zu leisten.
+
+
+Durch die erste und die folgenden Evaluierungen wird ermittelt, ob zusätzliche Vorschriften, etwa zur Durchsetzung, möglicherweise notwendig sind, um für ein faires, vorhersehbares, tragfähiges und vertrauenswürdiges Online-Geschäftsumfeld im Binnenmarkt zu sorgen. Im Anschluss an die Evaluierungen ergreift die Kommission geeignete Maßnahmen, wozu auch Gesetzgebungsvorschläge gehören können.
+
+
+(3)   Die Mitgliedstaaten übermitteln der Kommission alle ihnen vorliegenden einschlägigen Informationen, die diese für die Ausarbeitung des in Absatz 1 genannten Berichts benötigt.
+
+
+(4)   Bei der Evaluierung dieser Verordnung berücksichtigt die Kommission unter anderem die Stellungnahmen und Berichte, die ihr von der Expertengruppe für die Beobachtungsstelle für die Online-Plattformwirtschaft vorgelegt werden. Außerdem berücksichtigt sie den Inhalt und die Funktionsweise der Verhaltenskodizes, die gegebenenfalls nach Artikel 17 erstellt wurden.
+
+
+Artikel 19
+
+
+Inkrafttreten und Geltungsbeginn
+
+
+(1)   Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+
+
+(2)   Sie gilt ab dem 12. Juli 2020.
+
+
+Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitgliedstaat.
+
+
+Geschehen zu Brüssel am 20. Juni 2019.
+
+
+Im Namen des Europäischen Parlaments
+
+
+Der Präsident
+
+
+A. TAJANI
+
+
+Im Namen des Rates
+
+
+Der Präsident
+
+
+G. CIAMBA
+
+
+( 1 )
+ABl. C 440 vom 6.12.2018, S. 177 .
+
+
+( 2 )   Standpunkt des Europäischen Parlaments vom 17. April 2019 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom 14. Juni 2019.
+
+
+( 3 )   Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen ( ABl. L 351 vom 20.12.2012, S. 1 ).
+
+
+( 4 )   Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse anzuwendende Recht (Rom I) ( ABl. L 177 vom 4.7.2008, S. 6 ).
+
+
+( 5 )   Richtlinie (EU) 2016/943 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über den Schutz vertraulichen Know-hows und vertraulicher Geschäftsinformationen (Geschäftsgeheimnisse) vor rechtswidrigem Erwerb sowie rechtswidriger Nutzung und Offenlegung ( ABl. L 157 vom 15.6.2016, S. 1 ).
+
+
+( 6 )   Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) ( ABl. L 119 vom 4.5.2016, S. 1 ).
+
+
+( 7 )   Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates ( ABl. L 119 vom 4.5.2016, S. 89 ).
+
+
+( 8 )   Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen Kommunikation (Datenschutzrichtlinie für elektronische Kommunikation) ( ABl. L 201 vom 31.7.2002, S. 37 ).
+
+
+( 9 )   Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen ( ABl. L 124 vom 20.5.2003, S. 36 ).
+
+
+( 10 )   Richtlinie 2008/52/EG des Europäischen Parlaments und des Rates vom 21. Mai 2008 über bestimmte Aspekte der Mediation in Zivil- und Handelssachen ( ABl. L 136 vom 24.5.2008, S. 3 ).
+
+
+( 11 )   Beschluss 2010/48/EC des Rates vom 26. November 2009 über den Abschluss des Übereinkommens der Vereinten Nationen über die Rechte von Menschen mit Behinderungen durch die Europäische Gemeinschaft ( ABl. L 23 vom 27.1.2010, S. 37 ).
+
+
+( 12 )   Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft ( ABl. L 241 vom 17.9.2015, S. 1 ).
+
+
+( 13 )   Verordnung (EG) Nr. 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen („EG-Fusionskontrollverordnung“) ( ABl. L 24 vom 29.1.2004, S. 1 ).

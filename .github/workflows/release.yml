@@ -1,0 +1,30 @@
+name: release
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }      # hatch-vcs needs tags
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pipx run build
+      - run: pipx run twine check dist/*
+      - name: verify bundled data made it into the wheel
+        run: python -m zipfile -l dist/parallax_bench-*.whl | grep -q "_data/smoke/queries.jsonl"
+      - uses: actions/upload-artifact@v4
+        with: { name: dist, path: dist/ }
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: pypi
+    permissions:
+      id-token: write               # OIDC — the whole trick
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { name: dist, path: dist/ }
+      - uses: pypa/gh-action-pypi-publish@release/v1

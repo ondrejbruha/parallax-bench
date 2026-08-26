@@ -1,0 +1,2047 @@
+L_2019172EN.01005601.xml
+
+
+26.6.2019
+
+
+EN
+
+
+Official Journal of the European Union
+
+
+L 172/56
+
+
+DIRECTIVE (EU) 2019/1024 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+
+of 20 June 2019
+
+
+on open data and the re-use of public sector information
+
+
+(recast)
+
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,
+
+
+Having regard to the proposal from the European Commission,
+
+
+After transmission of the draft legislative act to the national parliaments,
+
+
+Having regard to the opinion of the European Economic and Social Committee  ( 1 ) ,
+
+
+After consulting the Committee of the Regions,
+
+
+Acting in accordance with the ordinary legislative procedure  ( 2 ) ,
+
+
+Whereas:
+
+
+(1)
+
+
+Directive 2003/98/EC of the European Parliament and of the Council  ( 3 ) has been substantially amended. Since further amendments are to be made, that Directive should be recast in the interests of clarity.
+
+
+(2)
+
+
+Pursuant to Article 13 of Directive 2003/98/EC and five years after the adoption of Directive 2013/37/EU of the European Parliament and of the Council  ( 4 ) , which amended Directive 2003/98/EC, the Commission, after consulting the relevant stakeholders, evaluated and reviewed the functioning of Directive 2003/98/EC in the framework of a regulatory fitness and performance programme.
+
+
+(3)
+
+
+Following the stakeholder consultation and in the light of the result of the impact assessment, the Commission considered that action at Union level was necessary in order to address the remaining and emerging barriers to a wide re-use of public sector and publicly funded information across the Union, in order to bring the legislative framework up to date with the advances in digital technologies and to further stimulate digital innovation, especially with regard to artificial intelligence.
+
+
+(4)
+
+
+The substantive changes introduced to the legal text so as to fully exploit the potential of public sector information for the European economy and society should focus on the following areas: the provision of real-time access to dynamic data via adequate technical means, the increase of the supply of valuable public data for re-use, including from public undertakings, research performing organisations and research funding organisations, the tackling of the emergence of new forms of exclusive arrangements, the use of exceptions to the principle of charging the marginal cost and the relationship between this Directive and certain related legal instruments, including Regulation (EU) 2016/679 of the European Parliament and of the Council  ( 5 ) and Directives 96/9/EC  ( 6 ) , 2003/4/EC  ( 7 ) and 2007/2/EC  ( 8 ) of the European Parliament and of the Council.
+
+
+(5)
+
+
+Access to information is a fundamental right. The Charter of Fundamental Rights of the European Union (Charter) provides that everyone has the right to freedom of expression, including the freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.
+
+
+(6)
+
+
+Article 8 of the Charter guarantees the right to the protection of personal data and provides that such data must be processed fairly for specified purposes and on the basis of the consent of the person concerned or some other legitimate basis laid down by law, and subject to control by an independent authority.
+
+
+(7)
+
+
+The Treaty on the Functioning of the European Union (TFEU) provides for the establishment of an internal market and of a system ensuring that competition in the internal market is not distorted. Harmonisation of the rules and practices in the Member States relating to the exploitation of public sector information contributes to the achievement of those objectives.
+
+
+(8)
+
+
+The public sector in Member States collects, produces, reproduces and disseminates a wide range of information in many areas of activity, such as social, political, economic, legal, geographical, environmental, meteorological, seismic, touristic, business, patent-related and educational areas. Documents produced by public sector bodies of the executive, legislature or judiciary constitute a vast, diverse and valuable pool of resources that can benefit society. Providing that information, which includes dynamic data, in a commonly used electronic format allows citizens and legal entities to find new ways to use them and create new, innovative products and services. Member States and public sector bodies may be able to benefit from and receive adequate financial support from relevant Union funds and programmes, ensuring a wide use of digital technologies or the digital transformation of public administrations and public services, in their efforts to make data easily available for re-use.
+
+
+(9)
+
+
+Public sector information represents an extraordinary source of data that can contribute to improving the internal market and to the development of new applications for consumers and legal entities. Intelligent data usage, including their processing through artificial intelligence applications, can have a transformative effect on all sectors of the economy.
+
+
+(10)
+
+
+Directive 2003/98/EC established a set of minimum rules governing the re-use and the practical arrangements for facilitating re-use of existing documents held by public sector bodies of the Member States, including executive, legislative and judicial bodies. Since the adoption of the first set of rules on re-use of public sector information, the amount of data in the world, including public data, has increased exponentially and new types of data are being generated and collected. In parallel, there is a continuous evolution in technologies for analysis, exploitation and processing of data, such as machine learning, artificial intelligence and the internet of things. That rapid technological evolution makes it possible to create new services and new applications, which are built upon the use, aggregation or combination of data. The rules originally adopted in 2003, and amended in 2013, no longer keep pace with those rapid changes, and as a result, the economic and social opportunities offered by the re-use of public data risk being missed.
+
+
+(11)
+
+
+The evolution towards a data-based society, where data from different domains and activities are used, influences the life of every citizen in the Union, inter alia, by enabling them to gain new ways of accessing and acquiring knowledge.
+
+
+(12)
+
+
+Digital content plays an important role in that evolution. Content production has given rise to rapid job creation in recent years and continues to do so. Most of those jobs are created by innovative start-ups and small and medium-sized enterprises (SMEs).
+
+
+(13)
+
+
+One of the principal aims of the establishment of an internal market is the creation of conditions conducive to the development of services and products Union-wide and within Member States. Public sector information or information collected, produced, reproduced, and disseminated within the exercise of a public task or a service of general interest, is an important primary material for digital content products and services and will become an even more important content resource with the development of advanced digital technologies, such as artificial intelligence, distributed ledger technologies and the internet of things. Broad, cross-border geographical coverage will also be essential in that context. Increased possibilities of re-using such information is expected, inter alia, to allow all Union businesses, including microenterprises and SMEs, as well as civil society, to exploit its potential and contribute to economic development and high-quality job creation and protection, especially for the benefit of local communities, and to important societal goals such as accountability and transparency.
+
+
+(14)
+
+
+Allowing the re-use of documents held by a public sector body adds value for the benefit of re-users, end users and society in general and in many cases for the benefit of the public sector body itself, by promoting transparency and accountability and by providing feedback from re-users and end users, which allows the public sector body concerned to improve the quality of the information collected and the performance of its tasks.
+
+
+(15)
+
+
+There are considerable differences in the rules and practices in the Member States relating to the exploitation of public sector information resources, which constitute barriers to bringing out the full economic potential of that key document resource. The fact that practice in public sector bodies in exploiting public sector information continues to vary among Member States should be taken into account. Minimum harmonisation of national rules and practices on the re-use of public sector documents should therefore be pursued where the differences in national regulations and practices or the absence of clarity hinder the smooth functioning of the internal market and the proper development of the information society in the Union.
+
+
+(16)
+
+
+Open data as a concept is generally understood to denote data in an open format that can be freely used, re-used and shared by anyone for any purpose. Open data policies which encourage the wide availability and re-use of public sector information for private or commercial purposes, with minimal or no legal, technical or financial constraints, and which promote the circulation of information not only for economic operators but primarily for the public, can play an important role in promoting social engagement, and kick-start and promote the development of new services based on novel ways to combine and make use of such information. Member States are therefore encouraged to promote the creation of data based on the principle of ‘open by design and by default’, with regard to all documents falling within the scope of this Directive. In doing so they should ensure a consistent level of protection of public interest objectives, such as public security, including where sensitive critical infrastructure protection related information are concerned. They should also ensure the protection of personal data, including where information in an individual data set does not present a risk of identifying or singling out a natural person, but when that information is combined with other available information, it could entail such a risk.
+
+
+(17)
+
+
+Moreover, without minimum harmonisation at Union level, legislative activity at national level, which has already been initiated in a number of Member States in order to respond to the technological challenges, might result in even more significant divergence. The impact of such legislative divergence and uncertainties will become more significant with the further development of the information society, which has already greatly increased cross-border exploitation of information.
+
+
+(18)
+
+
+Member States have established re-use policies under Directive 2003/98/EC and some of them have been adopting ambitious open data approaches to make the re-use of accessible public data easier for citizens and legal entities beyond the minimum level set by that Directive. There is a risk that diverging rules across Member States act as a barrier to the cross-border offer of products and services and prevent comparable public data sets from being re-usable for pan-Union applications based on them. Therefore, minimum harmonisation is required to determine what public data are available for re-use in the internal information market, consistent with and not affecting the relevant access regimes, both general and sectoral, such as that defined in Directive 2003/4/EC. The provisions of Union and national law that go beyond those minimum requirements, in particular in cases of sectoral law, should continue to apply. Examples of provisions that exceed the minimum harmonisation level of this Directive include lower thresholds for permissible charges for re-use than the thresholds provided for in this Directive or less restrictive licensing terms than those referred to in this Directive. In particular, this Directive is without prejudice to provisions that exceed the minimum harmonisation level of this Directive as laid down in Commission delegated regulations adopted under Directive 2010/40/EU of the European Parliament and of the Council  ( 9 ) .
+
+
+(19)
+
+
+Moreover, Member States are encouraged to go beyond the minimum requirements set out in this Directive by applying its requirements to documents held by public undertakings, which are related to activities that have been found, pursuant to Article 34 of Directive 2014/25/EU of the European Parliament and of the Council  ( 10 ) , to be directly exposed to competition. Member States may also decide to apply the requirements of this Directive to private undertakings, in particular those that provide services of general interest.
+
+
+(20)
+
+
+A general framework for the conditions governing re-use of public sector documents is needed in order to ensure fair, proportionate and non-discriminatory conditions for the re-use of such information. Public sector bodies collect, produce, reproduce and disseminate documents to fulfil their public tasks. Public undertakings collect, produce, reproduce and disseminate documents to provide services in the general interest. Use of such documents for other reasons constitutes re-use. Member States' policies can go beyond the minimum standards established in this Directive, thus allowing for more extensive re-use. When transposing this Directive, Member States can use terms other than ‘document’, provided that they retain the full scope of the definition of ‘document’ set out in this Directive.
+
+
+(21)
+
+
+This Directive should apply to documents the supply of which forms part of the public tasks of the public sector bodies concerned, as defined by law or by other binding rules in the Member States. In the absence of such rules the public tasks should be defined in accordance with common administrative practice in the Member States, provided that the scope of the public tasks is transparent and subject to review. The public tasks could be defined generally or on a case-by-case basis for individual public sector bodies.
+
+
+(22)
+
+
+This Directive should apply to documents that are made accessible for re-use when public sector bodies license, sell, disseminate, exchange or provide information. To avoid cross-subsidies, re-use should include further use of documents within the organisation itself for activities falling outside the scope of its public tasks. Activities falling outside the public task typically include supply of documents that are produced and charged for exclusively on a commercial basis and in competition with others in the market.
+
+
+(23)
+
+
+This Directive does not restrict or impair the performance of the statutory tasks of public authorities and other public sector bodies. This Directive lays down an obligation for Member States to make all existing documents re-usable unless access is restricted or excluded under national rules on access to documents or subject to the other exceptions laid down in this Directive. This Directive builds on the existing access regimes in the Member States and does not change the national rules for access to documents. It does not apply to cases in which citizens or legal entities can, under the relevant access regime, obtain a document only if they can prove a particular interest. At Union level, Article 41 on the right to good administration and Article 42 on the right of access to documents in the Charter recognise the right of any citizen of the Union and any natural or legal person residing or having its registered office in a Member State to have access to documents held by the European Parliament, the Council and the Commission. Public sector bodies should be encouraged to make available for re-use any documents held by them. Public sector bodies should promote and encourage re-use of documents, including official texts of a legislative and administrative nature in those cases where the public sector body has the right to authorise their re-use.
+
+
+(24)
+
+
+Member States often entrust the provision of services in the general interest with entities outside of the public sector while maintaining a high degree of control over such entities. At the same time, Directive 2003/98/EC applies only to documents held by public sector bodies, while excluding public undertakings from its scope. This leads to poor availability for re-use of documents produced in the performance of services in the general interest in a number of areas, in particular in the utility sectors. It also greatly reduces the potential for the creation of cross-border services based on documents held by public undertakings that provide services in the general interest.
+
+
+(25)
+
+
+Directive 2003/98/EC should therefore be amended in order to ensure that it can be applied to the re-use of existing documents produced in the performance of services in the general interest by public undertakings pursuing one of the activities referred to in Articles 8 to 14 of Directive 2014/25/EU, as well as by public undertakings acting as public service operators pursuant to Article 2 of Regulation (EC) No 1370/2007 of the European Parliament and of the Council  ( 11 ) , public undertakings acting as air carriers fulfilling public service obligations pursuant to Article 16 of Regulation (EC) No 1008/2008 of the European Parliament and of the Council  ( 12 ) , and public undertakings acting as Community shipowners fulfilling public service obligations pursuant to Article 4 of Council Regulation (EEC) No 3577/92  ( 13 ) .
+
+
+(26)
+
+
+This Directive does not contain a general obligation to allow the re-use of documents produced by public undertakings. The decision whether or not to authorise re-use should remain with the public undertaking concerned, except where otherwise required by this Directive or by Union or national law. Only after the public undertaking has made a document available for re-use, should it observe the relevant obligations laid down in Chapters III and IV of this Directive, in particular as regards format, charging, transparency, licences, non-discrimination and prohibition of exclusive arrangements. On the other hand, public undertakings should not be required to comply with the requirements laid down in Chapter II, such as the rules applicable to processing of requests. When allowing the re-use of documents, particular attention should be given to sensitive critical infrastructure protection related information as defined in Council Directive 2008/114/EC  ( 14 ) and of essential services within the meaning of Directive (EU) 2016/1148 of the European Parliament and of the Council  ( 15 ) .
+
+
+(27)
+
+
+The volume of research data generated is growing exponentially and has potential for re-use beyond the scientific community. In order to be able to address mounting societal challenges efficiently and in a holistic manner, it has become crucial and urgent to be able to access, blend and re-use data from different sources, as well as across sectors and disciplines. Research data includes statistics, results of experiments, measurements, observations resulting from fieldwork, survey results, interview recordings and images. It also includes meta-data, specifications and other digital objects. Research data is different from scientific articles reporting and commenting on findings resulting from their scientific research. For many years, the open availability and re-usability of scientific research data stemming from public funding has been subject to specific policy initiatives. Open access is understood as the practice of providing online access to research outputs free of charge for the end user and without restrictions on use and re-use beyond the possibility to require acknowledgement of authorship. Open access policies aim in particular to provide researchers and the public at large with access to research data as early as possible in the dissemination process and to facilitate its use and re-use. Open access helps enhance quality, reduce the need for unnecessary duplication of research, speed up scientific progress, combat scientific fraud, and it can overall favour economic growth and innovation. Beside open access, commendable efforts are being made to ensure that data management planning becomes a standard scientific practice and to support the dissemination of research data that are findable, accessible, interoperable and re-usable (the FAIR principle).
+
+
+(28)
+
+
+For the reasons explained above, it is appropriate to set an obligation on Member States to adopt open access policies with respect to publicly funded research data and ensure that such policies are implemented by all research performing organisations and research funding organisations. Research performing organisations and research funding organisations could also be organised as public sector bodies or public undertakings. This Directive applies to such hybrid organisations only in their capacity as research performing organisations and to their research data. Open access policies typically allow for a range of exceptions from making scientific research results openly available. The Commission Recommendation of 25 April 2018 on access to and preservation of scientific information describes, among other things, relevant elements of open access policies. Additionally, the conditions, under which certain research data can be re-used, should be improved. For that reason, certain obligations stemming from this Directive should be extended to research data resulting from scientific research activities subsidised by public funding or co-funded by public and private-sector entities. Under the national open access policies, publicly funded research data should be made open as the default option. However, in this context, concerns in relation to privacy, protection of personal data, confidentiality, national security, legitimate commercial interests, such as trade secrets, and to intellectual property rights of third parties should be duly taken into account, according to the principle ‘as open as possible, as closed as necessary’. Moreover, research data which are excluded from access on grounds of national security, defence or public security should not be covered by this Directive. In order to avoid any administrative burden, obligations stemming from this Directive should apply only to such research data that have already been made publicly available by researchers, research performing organisations or research funding organisations through an institutional or subject-based repository and should not impose extra costs for the retrieval of the datasets or require additional curation of data. Member States may extend the application of this Directive to research data made publicly available through other data infrastructures than repositories, through open access publications, as an attached file to an article, a data paper or a paper in a data journal. Documents other than research data should continue to be exempt from the scope of this Directive.
+
+
+(29)
+
+
+The definition of ‘public sector body’ is based on the definition in point (1) of Article 2(1) of Directive 2014/24/EU of the European Parliament and of the Council  ( 16 ) . The definition of ‘body governed by public law’ set out in that Directive and the definition of ‘public undertaking’ set out in Directive 2014/25/EU should apply to this Directive.
+
+
+(30)
+
+
+This Directive lays down the definition of the term ‘document’ and that definition should include any part of a document. The term ‘document’ should cover any representation of acts, facts or information — and any compilation of such acts, facts or information — whatever its medium (paper, or electronic form or as a sound, visual or audiovisual recording). The definition of ‘document’ is not intended to cover computer programmes. Member States may extend the application of this Directive to computer programmes.
+
+
+(31)
+
+
+Public sector bodies are increasingly making their documents available for re-use in a proactive manner, by ensuring online discoverability and actual availability of documents and associated metadata in an open format that can be machine-readable and that ensure interoperability, re-use and accessibility. Documents should also be made available for re-use following a request lodged by a re-user. In those cases, the time limit for replying to requests for re-use should be reasonable and in accordance with the equivalent time for requests to access the document under the relevant access regimes. Public undertakings, educational establishments, research performing organisations and research funding organisations should however be exempt from that requirement. Reasonable time limits throughout the Union will stimulate the creation of new aggregated information products and services at pan-Union level. This is particularly important for dynamic data (including environmental, traffic, satellite, meteorological and sensor generated data), the economic value of which depends on the immediate availability of the information and of regular updates. Dynamic data should therefore be made available immediately after collection, or in the case of a manual update immediately after the modification of the dataset, via an application programming interface (API) so as to facilitate the development of internet, mobile and cloud applications based on such data. Where this is not possible due to technical or financial constraints, public sector bodies should make the documents available in a timeframe that allows their full economic potential to be exploited. Specific measures should be taken in order to lift relevant technical and financial constraints. Should a licence be used, the timely availability of documents may be a part of the terms of the licence. Where data verification is essential in the light of justified public interest reasons, in particular for public health and safety, dynamic data should be made available immediately after verification. Such essential verification should not affect the frequency of the updates.
+
+
+(32)
+
+
+In order to get access to the data opened for re-use by this Directive, it would be useful to ensure access to dynamic data through well-designed APIs. An API is a set of functions, procedures, definitions and protocols for machine-to-machine communication and the seamless exchange of data. APIs should be supported by clear technical documentation that is complete and available online. Where possible, open APIs should be used. Union or internationally recognised standard protocols should be applied and international standards for datasets should be used where applicable. APIs can have different levels of complexity and can mean a simple link to a database to retrieve specific datasets, a web interface, or more complex set-ups. There is general value in re-using and sharing data via a suitable use of APIs as this will help developers and start-ups to create new services and products. It is also a crucial ingredient of creating valuable ecosystems around data assets that are often unused. The set-up and use of API needs to be based on several principles: availability, stability, maintenance over lifecycle, uniformity of use and standards, user-friendliness as well as security. For dynamic data, meaning frequently updated data, often in real time, public sector bodies and public undertakings should make this available for re-use immediately after collection by ways of suitable APIs and, where relevant, as a bulk download, save for cases where this would impose a disproportionate effort. Assessment of the proportionality of the effort should take into account the size and operating budget of the public sector body or the public undertaking in question.
+
+
+(33)
+
+
+The possibilities for re-use can be improved by limiting the need to digitise paper-based documents or to process digital files to make them mutually compatible. Therefore, public sector bodies should make documents available in any pre-existing format or language, through electronic means where possible and appropriate. Public sector bodies should view requests for extracts from existing documents favourably when to grant such a request would involve only a simple operation. Public sector bodies should not, however, be obliged to provide an extract from a document or to modify the format of the requested information where this involves a disproportionate effort. To facilitate re-use, public sector bodies should make their own documents available in a format which, as far as possible and appropriate, is not dependent on the use of specific software. Where possible and appropriate, public sector bodies should take into account the possibilities for the re-use of documents by and for persons with disabilities by providing the information in an accessible format in accordance with the requirements of Directive (EU) 2016/2102 of the European Parliament and of the Council  ( 17 ) .
+
+
+(34)
+
+
+To facilitate re-use, public sector bodies should, where possible and appropriate, make documents, including those published on websites, available through an open and machine-readable format and together with their metadata, at the best level of precision and granularity, in a format that ensures interoperability, for example by processing them in a way consistent with the principles governing the compatibility and usability requirements for spatial information under Directive 2007/2/EC.
+
+
+(35)
+
+
+A document should be considered to be in a machine-readable format if it is in a file format that is structured in such a way that software applications can easily identify, recognise and extract specific data from it. Data encoded in files that are structured in a machine-readable format should be considered to be machine-readable data. A machine-readable format can be open or proprietary. They can be formal standards or not. Documents encoded in a file format that limits automatic processing, because the data cannot, or cannot easily, be extracted from them, should not be considered to be in a machine-readable format. Member States should, where possible and appropriate, encourage the use of a Union or internationally recognised open, machine-readable format. The European interoperability framework should be taken into account, where applicable, when designing technical solutions for the re-use of documents.
+
+
+(36)
+
+
+Charges for the re-use of documents constitute an important market entry barrier for start-ups and SMEs. Documents should therefore be made available for re-use free of charge and, where charges are necessary, they should in principle be limited to the marginal costs. Where public sector bodies carry out a particularly extensive search for requested information or extremely costly modifications of the format of requested information, either voluntarily or as required under national law, marginal costs may cover the costs associated with such activities. In exceptional cases, the necessity of not hindering the normal running of public sector bodies that are required to generate revenue to cover a substantial part of their costs relating to the performance of their public tasks should be taken into consideration. This also applies where a public sector body has made data available as open data but is obliged to generate revenue to cover a substantial part of their costs relating to the performance of other public tasks. The role of public undertakings in a competitive economic environment should also be acknowledged. In such cases, public sector bodies and public undertakings should therefore be able to charge above marginal costs. Those charges should be set according to objective, transparent and verifiable criteria and the total income from supplying and allowing re-use of documents should not exceed the cost of collection and production, including purchasing from third parties, reproduction, maintenance, storage and dissemination, together with a reasonable return on investment. Where applicable, it should also be possible to include in the eligible cost the costs of anonymisation of personal data and costs of measures taken to protect the confidentiality of data. Member States may require public sector bodies and public undertakings to disclose those costs. The requirement to generate revenue to cover a substantial part of the public sector bodies' costs relating to the performance of their public tasks or the scope of the services of general interest entrusted with public undertakings does not have to be a legal requirement and may stem, for example, from administrative practices in Member States. Such a requirement should be regularly reviewed by the Member States.
+
+
+(37)
+
+
+The return on investment can be understood as a percentage, in addition to marginal costs, allowing for the recovery of the cost of capital and the inclusion of a real rate of return. As the cost of capital is closely linked to credit institutions' interest rates, which are themselves based on the fixed rate of the European Central Bank (ECB) on main refinancing operations, the reasonable return on investment should not be more than 5 % above the ECB's fixed interest rate.
+
+
+(38)
+
+
+Libraries, including university libraries, museums and archives should be able to charge above marginal costs in order not to hinder their normal running. In the case of such public sector bodies, the total income from supplying and allowing re-use of documents over the appropriate accounting period should not exceed the cost of collection, production, reproduction, dissemination, preservation and rights clearance, together with a reasonable return on investment. Where applicable, the costs of anonymisation of personal data or of commercially sensitive information should also be included in the eligible cost. For the purpose of libraries, including university libraries, museums and archives, and bearing in mind their particularities, the prices charged by the private sector for the re-use of identical or similar documents could be considered when calculating a reasonable return on investment.
+
+
+(39)
+
+
+The upper limits for charges set in this Directive are without prejudice to the right of Member States to apply lower charges or no charges at all.
+
+
+(40)
+
+
+Member States should lay down the criteria for charging above marginal costs. For example, they should be able to lay down such criteria in national rules or to designate an appropriate body or appropriate bodies, other than the public sector body itself, competent to lay down such criteria. That body should be organised in accordance with the constitutional and legal systems of the Member States. It could be an existing body with budgetary executive powers and under political responsibility.
+
+
+(41)
+
+
+Ensuring that the conditions for re-use of public sector documents are clear and publicly available is a pre-condition for the development of a Union-wide information market. Therefore, all applicable conditions for the re-use of documents should be made clear to the potential re-users. Member States should encourage the creation of indices accessible on line, where appropriate, of available documents so as to promote and facilitate requests for re-use. Applicants for re-use of documents held by entities other than public undertakings, educational establishments, research performing organisations and research funding organisations should be informed of available means of redress relating to decisions or practices affecting them. This will be particularly important for start-ups and SMEs, which may not be familiar with interactions with public sector bodies from other Member States and corresponding means of redress.
+
+
+(42)
+
+
+The means of redress should include the possibility of review by an impartial review body. That body could be an already existing national authority, such as the national competition authority, the supervisory authority established in accordance with Regulation (EU) 2016/679, the national access to documents authority or a national judicial authority. That body should be organised in accordance with the constitutional and legal systems of Member States. Recourse to that body should not pre-empt any means of redress otherwise available to applicants for re-use. It should however be distinct from the Member State mechanism laying down the criteria for charging above marginal costs. The means of redress should include the possibility of review of negative decisions but also of decisions which, although permitting re-use, could still affect applicants on other grounds, in particular by the charging rules applied. The review process should be swift, in accordance with the needs of a rapidly changing market.
+
+
+(43)
+
+
+Making public all generally available documents held by the public sector — concerning not only the political process but also the legal and administrative process — is a fundamental instrument for extending the right to knowledge, which is a basic principle of democracy. That objective is applicable to institutions at every level, be it local, national or international.
+
+
+(44)
+
+
+The re-use of documents should not be subject to conditions. However, in some cases justified by a public interest objective, a licence may be issued imposing conditions on the re-use by the licensee dealing with issues such as liability, the protection of personal data, the proper use of documents, guaranteeing non-alteration and the acknowledgement of source. If public sector bodies license documents for re-use, the licence conditions should be objective, proportionate and non-discriminatory. Standard licences that are available online may also play an important role in this respect. Therefore Member States should provide for the availability of standard licences. Any licences for the re-use of public sector information should, in any event, place as few restrictions on re-use as possible, for example limiting restrictions to an indication of source. Open licences in the form of standardised public licences available online which allow data and content to be freely accessed, used, modified and shared by anyone for any purpose, and which rely on open data formats, should play an important role in this respect. Therefore, Member States should encourage the use of open licences that should eventually become common practice across the Union. Without prejudice to liability requirements laid down in Union or national law where a public sector body or a public undertaking makes documents available for re-use without any other conditions or restrictions, that public sector body or public undertaking may be allowed to waive all liability with regards to the documents made available for re-use.
+
+
+(45)
+
+
+If the competent authority decides no longer to make available certain documents for re-use, or to cease updating those documents, it should make those decisions publicly known, at the earliest opportunity, by electronic means where possible.
+
+
+(46)
+
+
+Conditions for re-use should be non-discriminatory for comparable categories of re-use. In that regard, the prohibition of discrimination should not, for example, prevent the exchange of information between public sector bodies free of charge for the exercise of public tasks, whilst other parties are charged for re-use of the same documents. Neither should it prevent the adoption of a differentiated charging policy for commercial and non-commercial re-use.
+
+
+(47)
+
+
+Member States should in particular ensure that re-use of documents of public undertakings does not lead to market distortion and that fair competition is not undermined.
+
+
+(48)
+
+
+Public sector bodies should comply with Union and national competition rules when establishing the principles for re-use of documents avoiding as far as possible exclusive agreements between themselves and private partners. However, in order to provide a service of general economic interest, an exclusive right to re-use specific public sector documents may sometimes be necessary. This may be the case if no commercial publisher would publish the information without such an exclusive right. In this regard, it is appropriate to take into account public service contracts that are excluded from the scope of Directive 2014/24/EU pursuant to Article 11 of that Directive and innovation partnerships as referred to in Article 31 of Directive 2014/24/EU.
+
+
+(49)
+
+
+There are numerous cooperation arrangements between libraries, including university libraries, museums, archives and private partners, which involve digitisation of cultural resources granting exclusive rights to private partners. Practice has shown that such public-private partnerships can facilitate worthwhile use of cultural collections and at the same time accelerate access to the cultural heritage for members of the public. It is therefore appropriate to take into account current divergences between Member States with regard to digitisation of cultural resources, by a specific set of rules pertaining to agreements on digitisation of such resources. Where an exclusive right relates to digitisation of cultural resources, a certain period of exclusivity might be necessary in order to give the private partner the possibility to recoup its investment. That period should, however, be limited to as short a time as possible in order to comply with the principle that public domain material should stay in the public domain once it is digitised. The period of an exclusive right to digitise cultural resources should in general not exceed 10 years. Any period of exclusivity longer than 10 years should be subject to review, taking into account technological, financial and administrative changes in the environment since the arrangement was entered into. In addition, any public private partnership for the digitisation of cultural resources should grant the partner cultural institution full rights with respect to the post-termination use of digitised cultural resources.
+
+
+(50)
+
+
+Arrangements between data holders and data re-users which do not expressly grant exclusive rights but which can reasonably be expected to restrict the availability of documents for re-use should be subject to additional public scrutiny. The essential aspects of such arrangements should therefore be published online at least two months before coming into effect, namely two months before the agreed date on which the performance of the obligations of the parties is set to begin. The publication should give interested parties an opportunity to request the re-use of the documents covered by those arrangements and prevent the risk of restricting the range of potential re-users. In any event, the essential aspects of such arrangements in their final form agreed by the parties should also be made public online without undue delay following their conclusion.
+
+
+(51)
+
+
+This Directive aims to minimise the risk of excessive first-mover advantage that could limit the number of potential re-users of the data. Where contractual arrangements are likely, in addition to a Member State's obligations under this Directive to grant documents, to entail a transfer of that Member State's resources within the meaning of Article 107(1) TFEU, this Directive should be without prejudice to the application of the competition and State aid rules laid down in Articles 101 to 109 TFEU. It follows from the State aid rules laid down in Articles 107, 108 and 109 TFEU that a Member State must check ex ante whether State aid may be involved in the relevant contractual arrangement and ensure that it complies with the State aid rules.
+
+
+(52)
+
+
+This Directive does not affect the protection of individuals with regard to the processing of personal data under Union and national law, particularly Regulation (EU) 2016/679 and Directive 2002/58/EC of the European Parliament and of the Council  ( 18 ) and including any supplementing provisions of national law. This means, inter alia, that the re-use of personal data is permissible only if the principle of purpose limitation as set out in point (b) of Article 5(1) and Article 6 of Regulation (EU) 2016/679 is met. Anonymous information is information which does not relate to an identified or identifiable natural person or to personal data rendered anonymous in such a manner that the data subject is not or is no longer identifiable. Rendering information anonymous is a means of reconciling the interests in making public sector information as re-usable as possible with the obligations under data protection law, but it comes at a cost. It is appropriate to consider that cost to be one of the cost items to be considered to be part of the marginal cost of dissemination as referred to in this Directive.
+
+
+(53)
+
+
+When taking decisions on the scope and conditions for the re-use of public sector documents containing personal data, for example in the health sector, data protection impact assessments may have to be performed in accordance with Article 35 of Regulation (EU) 2016/679.
+
+
+(54)
+
+
+The intellectual property rights of third parties are not affected by this Directive. For the avoidance of doubt, the term ‘intellectual property rights’ refers to copyright and related rights only, including sui generis forms of protection. This Directive does not apply to documents covered by industrial property rights, such as patents and registered designs and trade marks. The Directive neither affects the existence or ownership of intellectual property rights of public sector bodies, nor does it limit the exercise of these rights in any way beyond the boundaries set by this Directive. The obligations imposed in accordance with this Directive should apply only insofar as they are compatible with international agreements on the protection of intellectual property rights, in particular the Berne Convention for the Protection of Literary and Artistic Works (Berne Convention), the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) and the WIPO Copyright Treaty (WCT). Public sector bodies should, however, exercise their copyright in a way that facilitates re-use.
+
+
+(55)
+
+
+Taking into account Union law and the international obligations of Member States and of the Union, particularly under the Berne Convention and the TRIPS Agreement, documents for which third parties hold intellectual property rights should be excluded from the scope of this Directive. If a third party was the initial owner of the intellectual property rights for a document held by libraries, including university libraries, museums and archives and the term of protection of those rights has not expired, that document should, for the purpose of this Directive, be considered to be a document for which third parties hold intellectual property rights.
+
+
+(56)
+
+
+This Directive should be without prejudice to the rights, including economic and moral rights, that employees of public sector bodies may enjoy under national law.
+
+
+(57)
+
+
+Moreover, where any document is made available for re-use, the public sector body concerned should retain the right to exploit that document.
+
+
+(58)
+
+
+This Directive is without prejudice to Directive 2014/24/EU.
+
+
+(59)
+
+
+Tools that help potential re-users to find documents available for re-use and the conditions for re-use can facilitate considerably the cross-border use of public sector documents. Member States should therefore ensure that practical arrangements are in place that help re-users in their search for documents available for re-use. Examples of such practical arrangements are assets lists, which should preferably be accessible online, of main documents (documents that are extensively re-used or that have the potential to be extensively re-used), and portal sites that are linked to decentralised assets lists. Member States should also facilitate the long-term availability for re-use of public sector information, in accordance with the applicable preservation policies.
+
+
+(60)
+
+
+The Commission should facilitate the cooperation among Member States and support the design, testing, implementation and deployment of interoperable electronic interfaces that enable more efficient and secure public services.
+
+
+(61)
+
+
+This Directive is without prejudice to Directive 2001/29/EC of the European Parliament and of the Council  ( 19 ) . It provides for conditions within which public sector bodies can exercise their intellectual property rights in the internal information market when allowing re-use of documents. Where public sector bodies are holders of the right provided for in Article 7(1) of Directive 96/9/EC, they should not exercise that right in order to prevent re-use or to restrict the re-use of existing documents beyond the limits provided for in this Directive.
+
+
+(62)
+
+
+The Commission has supported the development of an online open data maturity report with relevant performance indicators for the re-use of public sector information in all the Member States. A regular update of that report will contribute to the exchange of information between the Member States and the availability of information on policies and practices across the Union.
+
+
+(63)
+
+
+It is necessary to ensure that the Member States monitor the extent of the re-use of public sector information, the conditions under which it is made available, and the redress practices.
+
+
+(64)
+
+
+The Commission may assist the Member States in implementing this Directive in a consistent way by issuing and updating existing guidelines, particularly on recommended standard licences, datasets and charging for the re-use of documents, after consulting interested parties.
+
+
+(65)
+
+
+One of the principal aims of the establishment of the internal market is the creation of conditions conducive to the development of Union-wide services. Libraries, including university libraries, museums and archives hold a significant amount of valuable public sector information resources, in particular since digitisation projects have multiplied the amount of digital public domain material. Those cultural heritage collections and related metadata are a potential base for digital content products and services and have a huge potential for innovative re-use in sectors such as learning and tourism. Other types of cultural establishment, such as orchestras, operas, ballets and theatres, including the archives that are part of those establishments, should remain outside the scope of this Directive because of their specificity as performing arts and the fact that almost all of their material is subject to third-party intellectual property rights.
+
+
+(66)
+
+
+In order to provide for conditions supporting the re-use of documents which is associated with important socioeconomic benefits having a particular high value for the economy and society, a list of thematic categories of high-value datasets should be set out in an Annex. By way of illustration, and without prejudice to the implementing acts identifying the high-value datasets to which the specific requirements set out in this Directive should apply, taking into account the Commission guidelines on recommended standard licences, datasets and charging for the reuse of documents, the thematic categories could, inter alia, cover postcodes, national and local maps (geospatial), energy consumption and satellite images (earth observation and environment), in situ data from instruments and weather forecasts (meteorological), demographic and economic indicators (statistics), business registers and registration identifiers (companies and company ownership), road signs and inland waterways (mobility).
+
+
+(67)
+
+
+In order to amend the list of thematic categories of high-value datasets by adding further thematic categories, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level, and that those consultations be conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making  ( 20 ) . In particular, to ensure equal participation in the preparation of delegated acts, the European Parliament and the Council receive all documents at the same time as Member States' experts, and their experts systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
+
+
+(68)
+
+
+An Union-wide list of datasets with a particular potential to generate socioeconomic benefits together with harmonised re-use conditions constitutes an important enabler of cross-border data applications and services. In order to ensure uniform conditions for the implementation of this Directive, implementing powers should be conferred on the Commission to support the re-use of documents associated with important socioeconomic benefits by adopting a list of specific high-value datasets to which specific requirements of this Directive apply, along with the arrangements for their publication and re-use. Consequently, those specific requirements will not apply prior to the adoption by the Commission of implementing acts. The list should take into account sectoral Union legal acts that regulate the publication of datasets, such as Directives 2007/2/EC and 2010/40/EU, to ensure that datasets are made available under corresponding standards and sets of metadata. The list should be based on the thematic categories set out in this Directive. In preparing the list, the Commission should carry out appropriate consultations, including at expert level. Moreover, when deciding on the inclusion in the list of data held by public undertakings or on their free availability, the effects on competition in the relevant markets should be taken into account. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council  ( 21 ) .
+
+
+(69)
+
+
+For the purpose of ensuring their maximum impact and to facilitate re-use, the high-value datasets should be made available for re-use with minimal legal restrictions and free of charge. They should also be published via APIs. However, this does not preclude public sector bodies from charging for services that they provide in relation to the high-value datasets in their exercise of public authority, in particular certifying the authenticity or veracity of documents.
+
+
+(70)
+
+
+Since the objectives of this Directive, namely to facilitate the creation of Union-wide information products and services based on public sector documents, to ensure the effective cross-border use of public sector documents on the one hand by private businesses, particularly by SMEs, for added-value information products and services, and on the other hand by citizens to facilitate the free circulation of information and communication, cannot be sufficiently achieved by the Member States but can rather, by reason of the pan-Union scope of the proposed action, be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance with the principle of proportionality as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+
+
+(71)
+
+
+This Directive respects the fundamental rights and observes the principles recognised in particular by the Charter, including the right to privacy, the protection of personal data, the right to property and the integration of persons with disabilities. Nothing in this Directive should be interpreted or implemented in a manner that is inconsistent with the Council of Europe Convention for the Protection of Human Rights and Fundamental Freedoms.
+
+
+(72)
+
+
+The European Data Protection Supervisor was consulted in accordance with Article 28(2) of Regulation (EC) No 45/2001 of the European Parliament and of the Council  ( 22 ) and delivered an opinion on 10 July 2018  ( 23 ) .
+
+
+(73)
+
+
+The Commission should carry out an evaluation of this Directive. Pursuant to the Interinstitutional Agreement of 13 April 2016 on Better Law-Making, that evaluation should be based on the five criteria of efficiency, effectiveness, relevance, coherence and value added and should provide the basis for impact assessments of options for further action.
+
+
+(74)
+
+
+This Directive should be without prejudice to the obligations of the Member States relating to the time-limit for the transposition into national law of the Directives set out in Annex II, Part B,
+
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+
+CHAPTER I
+
+
+GENERAL PROVISIONS
+
+
+Article 1
+
+
+Subject matter and scope
+
+
+1.   In order to promote the use of open data and stimulate innovation in products and services, this Directive establishes a set of minimum rules governing the re-use and the practical arrangements for facilitating the re-use of:
+
+
+(a)
+
+
+existing documents held by public sector bodies of the Member States;
+
+
+(b)
+
+
+existing documents held by public undertakings that are:
+
+
+(i)
+
+
+active in the areas defined in Directive 2014/25/EU;
+
+
+(ii)
+
+
+acting as public service operators pursuant to Article 2 of Regulation (EC) No 1370/2007;
+
+
+(iii)
+
+
+acting as air carriers fulfilling public service obligations pursuant to Article 16 of Regulation (EC) No 1008/2008; or
+
+
+(iv)
+
+
+acting as Community shipowners fulfilling public service obligations pursuant to Article 4 of Regulation (EEC) No 3577/92;
+
+
+(c)
+
+
+research data pursuant to the conditions set out in Article 10.
+
+
+2.   This Directive does not apply to:
+
+
+(a)
+
+
+documents the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State, or, in the absence of such rules, as defined in accordance with common administrative practice in the Member State in question, provided that the scope of the public tasks is transparent and subject to review;
+
+
+(b)
+
+
+documents held by public undertakings:
+
+
+(i)
+
+
+produced outside the scope of the provision of services in the general interest as defined by law or other binding rules in the Member State;
+
+
+(ii)
+
+
+related to activities directly exposed to competition and therefore, pursuant to Article 34 of Directive 2014/25/EU, not subject to procurement rules;
+
+
+(c)
+
+
+documents for which third parties hold intellectual property rights;
+
+
+(d)
+
+
+documents, such as sensitive data, which are excluded from access by virtue of the access regimes in the Member State, including on grounds of:
+
+
+(i)
+
+
+the protection of national security (namely, State security), defence, or public security;
+
+
+(ii)
+
+
+statistical confidentiality;
+
+
+(iii)
+
+
+commercial confidentiality (including business, professional or company secrets);
+
+
+(e)
+
+
+documents access to which is excluded or restricted on grounds of sensitive critical infrastructure protection related information as defined in point (d) of Article 2 of Directive 2008/114/EC;
+
+
+(f)
+
+
+documents access to which is restricted by virtue of the access regimes in the Member States, including cases whereby citizens or legal entities have to prove a particular interest to obtain access to documents;
+
+
+(g)
+
+
+logos, crests and insignia;
+
+
+(h)
+
+
+documents, access to which is excluded or restricted by virtue of the access regimes on grounds of protection of personal data, and parts of documents accessible by virtue of those regimes which contain personal data the re-use of which has been defined by law as being incompatible with the law concerning the protection of individuals with regard to the processing of personal data or as undermining the protection of privacy and the integrity of the individual, in particular in accordance with Union or national law regarding the protection of personal data;
+
+
+(i)
+
+
+documents held by public service broadcasters and their subsidiaries, and by other bodies or their subsidiaries for the fulfilment of a public service broadcasting remit;
+
+
+(j)
+
+
+documents held by cultural establishments other than libraries, including university libraries, museums and archives;
+
+
+(k)
+
+
+documents held by educational establishments of secondary level and below, and, in the case of all other educational establishments, documents other than those referred to in point (c) of paragraph 1;
+
+
+(l)
+
+
+documents other than those referred to in point (c) of paragraph 1 held by research performing organisations and research funding organisations, including organisations established for the transfer of research results.
+
+
+3.   This Directive builds on, and is without prejudice to, Union and national access regimes.
+
+
+4.   This Directive is without prejudice to Union and national law on the protection of personal data, in particular Regulation (EU) 2016/679 and Directive 2002/58/EC and the corresponding provisions of national law.
+
+
+5.   The obligations imposed in accordance with this Directive shall apply only insofar as they are compatible with the provisions of international agreements on the protection of intellectual property rights, in particular the Berne Convention, the TRIPS Agreement and the WCT.
+
+
+6.   The right for the maker of a database provided for in Article 7(1) of Directive 96/9/EC shall not be exercised by public sector bodies in order to prevent the re-use of documents or to restrict re-use beyond the limits set by this Directive.
+
+
+7.   This Directive governs the re-use of existing documents held by public sector bodies and public undertakings of the Member States, including documents to which Directive 2007/2/EC applies.
+
+
+Article 2
+
+
+Definitions
+
+
+For the purpose of this Directive, the following definitions apply:
+
+
+(1)
+
+
+‘public sector body’ means the State, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law;
+
+
+(2)
+
+
+‘bodies governed by public law’ means bodies that have all of the following characteristics:
+
+
+(a)
+
+
+they are established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character;
+
+
+(b)
+
+
+they have legal personality; and
+
+
+(c)
+
+
+they are financed, for the most part by the State, regional or local authorities, or by other bodies governed by public law; or are subject to management supervision by those authorities or bodies; or have an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities, or by other bodies governed by public law;
+
+
+(3)
+
+
+‘public undertaking’ means any undertaking active in the areas set out in point (b) of Article 1(1) over which the public sector bodies may exercise directly or indirectly a dominant influence by virtue of their ownership of it, their financial participation therein, or the rules which govern it. A dominant influence on the part of the public sector bodies shall be presumed in any of the following cases in which those bodies, directly or indirectly:
+
+
+(a)
+
+
+hold the majority of the undertaking's subscribed capital;
+
+
+(b)
+
+
+control the majority of the votes attaching to shares issued by the undertaking;
+
+
+(c)
+
+
+can appoint more than half of the undertaking's administrative, management or supervisory body;
+
+
+(4)
+
+
+‘university’ means any public sector body that provides post-secondary-school higher education leading to academic degrees;
+
+
+(5)
+
+
+‘standard licence’ means a set of predefined re-use conditions in a digital format, preferably compatible with standardised public licences available online;
+
+
+(6)
+
+
+‘document’ means:
+
+
+(a)
+
+
+any content whatever its medium (paper or electronic form or as a sound, visual or audiovisual recording); or
+
+
+(b)
+
+
+any part of such content;
+
+
+(7)
+
+
+‘anonymisation’ means the process of changing documents into anonymous documents which do not relate to an identified or identifiable natural person, or the process of rendering personal data anonymous in such a manner that the data subject is not or no longer identifiable;
+
+
+(8)
+
+
+‘dynamic data’ means documents in a digital form, subject to frequent or real-time updates, in particular because of their volatility or rapid obsolescence; data generated by sensors are typically considered to be dynamic data;
+
+
+(9)
+
+
+‘research data’ means documents in a digital form, other than scientific publications, which are collected or produced in the course of scientific research activities and are used as evidence in the research process, or are commonly accepted in the research community as necessary to validate research findings and results;
+
+
+(10)
+
+
+‘high-value datasets’ means documents the re-use of which is associated with important benefits for society, the environment and the economy, in particular because of their suitability for the creation of value-added services, applications and new, high-quality and decent jobs, and of the number of potential beneficiaries of the value-added services and applications based on those datasets;
+
+
+(11)
+
+
+‘re-use’ means the use by persons or legal entities of documents held by:
+
+
+(a)
+
+
+public sector bodies, for commercial or non-commercial purposes other than the initial purpose within the public task for which the documents were produced, except for the exchange of documents between public sector bodies purely in pursuit of their public tasks; or
+
+
+(b)
+
+
+public undertakings, for commercial or non-commercial purposes other than for the initial purpose of providing services in the general interest for which the documents were produced, except for the exchange of documents between public undertakings and public sector bodies purely in pursuit of the public tasks of public sector bodies;
+
+
+(12)
+
+
+‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;
+
+
+(13)
+
+
+‘machine-readable format’ means a file format structured so that software applications can easily identify, recognise and extract specific data, including individual statements of fact, and their internal structure;
+
+
+(14)
+
+
+‘open format’ means a file format that is platform-independent and made available to the public without any restriction that impedes the re-use of documents;
+
+
+(15)
+
+
+‘formal open standard’ means a standard which has been laid down in written form, detailing specifications for the requirements on how to ensure software interoperability;
+
+
+(16)
+
+
+‘reasonable return on investment’ means a percentage of the overall charge, in addition to that needed to recover the eligible costs, not exceeding 5 percentage points above the fixed interest rate of the ECB;
+
+
+(17)
+
+
+‘third party’ means any natural or legal person other than a public sector body or a public undertaking that holds the data.
+
+
+Article 3
+
+
+General principle
+
+
+1.   Subject to paragraph 2 of this Article, Member States shall ensure that documents to which this Directive applies in accordance with Article 1 shall be re-usable for commercial or non-commercial purposes in accordance with Chapters III and IV.
+
+
+2.   For documents in which libraries, including university libraries, museums and archives hold intellectual property rights and for documents held by public undertakings, Member States shall ensure that, where the re-use of such documents is allowed, those documents shall be re-usable for commercial or non-commercial purposes in accordance with Chapters III and IV.
+
+
+CHAPTER II
+
+
+REQUESTS FOR RE-USE
+
+
+Article 4
+
+
+Processing of requests for re-use
+
+
+1.   Public sector bodies shall, through electronic means where possible and appropriate, process requests for re-use and shall make the document available for re-use to the applicant or, if a licence is needed, finalise the licence offer to the applicant within a reasonable time that is consistent with the time frames laid down for the processing of requests for access to documents.
+
+
+2.   Where no time limits or other rules regulating the timely provision of documents have been established, public sector bodies shall process the request and shall deliver the documents for re-use to the applicant or, if a licence is needed, finalise the licence offer to the applicant as soon as possible, and in any event within 20 working days of receipt. That time frame may be extended by a further 20 working days in the case of extensive or complex requests. In such cases, the applicant shall be notified as soon as possible, and in any event within three weeks of the initial request, that more time is needed to process the request and the reasons why.
+
+
+3.   In the event of a negative decision, the public sector bodies shall communicate the grounds for refusal to the applicant on the basis of the relevant provisions of the access regime in that Member State or of the provisions transposing this Directive, in particular points (a) to (h) of Article 1(2) or Article 3. Where a negative decision is based on point (c) of Article 1(2), the public sector body shall include a reference to the natural or legal person who is the rightsholder, where known, or alternatively to the licensor from which the public sector body has obtained the relevant material. Libraries, including university libraries, museums and archives, shall not be required to include such a reference.
+
+
+4.   Any decision on re-use shall contain a reference to the means of redress where the applicant wishes to challenge the decision. The means of redress shall include the possibility of review by an impartial review body with the appropriate expertise, such as the national competition authority, the relevant access to documents authority, the supervisory authority established in accordance with Regulation (EU) 2016/679 or a national judicial authority, whose decisions are binding upon the public sector body concerned.
+
+
+5.   For the purposes of this Article, Member States shall establish practical arrangements to facilitate effective re-use of documents. Those arrangements may in particular include the means to supply adequate information on the rights provided for in this Directive and to offer relevant assistance and guidance.
+
+
+6.   The following entities shall not be required to comply with this Article:
+
+
+(a)
+
+
+public undertakings;
+
+
+(b)
+
+
+educational establishments, research performing organisations and research funding organisations.
+
+
+CHAPTER III
+
+
+CONDITIONS FOR RE-USE
+
+
+Article 5
+
+
+Available formats
+
+
+1.   Without prejudice to Chapter V, public sector bodies and public undertakings shall make their documents available in any pre-existing format or language and, where possible and appropriate, by electronic means, in formats that are open, machine-readable, accessible, findable and re-usable, together with their metadata. Both the format and the metadata shall, where possible, comply with formal open standards.
+
+
+2.   Member States shall encourage public sector bodies and public undertakings to produce and make available documents falling within the scope of this Directive in accordance with the principle of ‘open by design and by default’.
+
+
+3.   Paragraph 1 shall not imply an obligation for public sector bodies to create or adapt documents or provide extracts in order to comply with that paragraph where this would involve disproportionate effort, going beyond a simple operation.
+
+
+4.   Public sector bodies shall not be required to continue the production and storage of a certain type of document with a view to the re-use of such documents by a private or public sector organisation.
+
+
+5.   Public sector bodies shall make dynamic data available for re-use immediately after collection, via suitable APIs and, where relevant, as a bulk download.
+
+
+6.   Where making dynamic data available for re-use immediately after collection, as referred to in paragraph 5, would exceed the financial and technical capacities of the public sector body, thereby imposing a disproportionate effort, those dynamic data shall be made available for re-use within a time frame or with temporary technical restrictions that do not unduly impair the exploitation of their economic and social potential.
+
+
+7.   Paragraphs 1 to 6 shall apply to existing documents held by public undertakings which are available for re-use.
+
+
+8.   The high-value datasets, as listed in accordance with Article 14(1) shall be made available for re-use in machine-readable format, via suitable APIs and, where relevant, as a bulk download.
+
+
+Article 6
+
+
+Principles governing charging
+
+
+1.   The re-use of documents shall be free of charge.
+
+
+However, the recovery of the marginal costs incurred for the reproduction, provision and dissemination of documents as well as for anonymisation of personal data and measures taken to protect commercially confidential information may be allowed.
+
+
+2.   By way of exception, paragraph 1 shall not apply to the following:
+
+
+(a)
+
+
+public sector bodies that are required to generate revenue to cover a substantial part of their costs relating to the performance of their public tasks;
+
+
+(b)
+
+
+libraries, including university libraries, museums and archives;
+
+
+(c)
+
+
+public undertakings.
+
+
+3.   Member States shall publish online a list of the public sector bodies referred to in point (a) of paragraph 2.
+
+
+4.   In the cases referred to in points (a) and (c) of paragraph 2, the total charges shall be calculated in accordance with objective, transparent and verifiable criteria. Such criteria shall be laid down by Member States.
+
+
+The total income from supplying and allowing the re-use of documents over the appropriate accounting period shall not exceed the cost of their collection, production, reproduction, dissemination and data storage, together with a reasonable return on investment, and — where applicable — the anonymisation of personal data and measures taken to protect commercially confidential information.
+
+
+Charges shall be calculated in accordance with the applicable accounting principles.
+
+
+5.   Where charges are made by the public sector bodies referred to in point (b) of paragraph 2, the total income from supplying and allowing the re-use of documents over the appropriate accounting period shall not exceed the cost of collection, production, reproduction, dissemination, data storage, preservation and rights clearance and, where applicable, the anonymisation of personal data and measures taken to protect commercially confidential information, together with a reasonable return on investment.
+
+
+Charges shall be calculated in accordance with the accounting principles applicable to the public sector bodies involved.
+
+
+6.   The re-use of the following shall be free of charge for the user:
+
+
+(a)
+
+
+subject to Article 14(3), (4) and (5), the high-value datasets, as listed in accordance with paragraph 1 of that Article;
+
+
+(b)
+
+
+research data referred to in point (c) of Article 1(1).
+
+
+Article 7
+
+
+Transparency
+
+
+1.   In the case of standard charges for the re-use of documents, any applicable conditions and the actual amount of those charges, including the calculation basis for such charges, shall be pre-established and published, through electronic means where possible and appropriate.
+
+
+2.   In the case of charges for the re-use other than those referred to in paragraph 1, the factors that are taken into account in the calculation of those charges shall be indicated at the outset. Upon request, the holder of the documents in question shall also indicate the way in which such charges have been calculated in relation to a specific re-use request.
+
+
+3.   Public sector bodies shall ensure that applicants for re-use of documents are informed of available means of redress relating to decisions or practices affecting them.
+
+
+Article 8
+
+
+Standard licences
+
+
+1.   The re-use of documents shall not be subject to conditions, unless such conditions are objective, proportionate, non-discriminatory and justified on grounds of a public interest objective.
+
+
+When re-use is subject to conditions, those conditions shall not unnecessarily restrict possibilities for re-use and shall not be used to restrict competition.
+
+
+2.   In Member States where licences are used, Member States shall ensure that standard licences for the re-use of public sector documents, which can be adapted to meet particular licence applications, are available in digital format and can be processed electronically. Member States shall encourage the use of such standard licences.
+
+
+Article 9
+
+
+Practical arrangements
+
+
+1.   Member States shall make practical arrangements facilitating the search for documents available for re-use, such as asset lists of main documents with relevant metadata, accessible where possible and appropriate online and in machine-readable format, and portal sites that are linked to the asset lists. Where possible, Member States shall facilitate the cross-linguistic search for documents, in particular by enabling metadata aggregation at Union level.
+
+
+Member States shall also encourage public sector bodies to make practical arrangements facilitating the preservation of documents available for re-use.
+
+
+2.   Member States shall, in cooperation with the Commission, continue efforts to simplify access to datasets, in particular by providing a single point of access and by progressively making available suitable datasets held by public sector bodies with regard to the documents to which this Directive applies, as well as to data held by Union institutions, in formats that are accessible, readily findable and re-usable by electronic means.
+
+
+Article 10
+
+
+Research data
+
+
+1.   Member States shall support the availability of research data by adopting national policies and relevant actions aiming at making publicly funded research data openly available (‘open access policies’), following the principle of ‘open by default’ and compatible with the FAIR principles. In that context, concerns relating to intellectual property rights, personal data protection and confidentiality, security and legitimate commercial interests, shall be taken into account in accordance with the principle of ‘as open as possible, as closed as necessary’. Those open access policies shall be addressed to research performing organisations and research funding organisations.
+
+
+2.   Without prejudice to point (c) of Article 1(2), research data shall be re-usable for commercial or non-commercial purposes in accordance with Chapters III and IV, insofar as they are publicly funded and researchers, research performing organisations or research funding organisations have already made them publicly available through an institutional or subject-based repository. In that context, legitimate commercial interests, knowledge transfer activities and pre-existing intellectual property rights shall be taken into account.
+
+
+CHAPTER IV
+
+
+NON-DISCRIMINATION AND FAIR TRADING
+
+
+Article 11
+
+
+Non-discrimination
+
+
+1.   Any applicable conditions for the re-use of documents shall be non-discriminatory for comparable categories of re-use, including for cross-border re-use.
+
+
+2.   If documents are re-used by a public sector body as input for its commercial activities which fall outside the scope of its public tasks, the same charges and other conditions shall apply to the supply of the documents for those activities as apply to other users.
+
+
+Article 12
+
+
+Exclusive arrangements
+
+
+1.   The re-use of documents shall be open to all potential actors in the market, even if one or more market actors already exploit added-value products based on those documents. Contracts or other arrangements between the public sector bodies or public undertakings holding the documents and third parties shall not grant exclusive rights.
+
+
+2.   However, where an exclusive right is necessary for the provision of a service in the public interest, the validity of the reason for granting such an exclusive right shall be subject to regular review, and shall, in any event, be reviewed every three years. The exclusive arrangements established on or after 16 July 2019 shall be made publicly available online at least two months before they come into effect. The final terms of such arrangements shall be transparent and shall made publicly available online.
+
+
+This paragraph shall not apply to digitisation of cultural resources.
+
+
+3.   Notwithstanding paragraph 1, where an exclusive right relates to the digitisation of cultural resources, the period of exclusivity shall in general not exceed 10 years. Where that period exceeds 10 years, its duration shall be subject to review during the 11th year and, if applicable, every seven years thereafter.
+
+
+The arrangements granting exclusive rights referred to in the first subparagraph shall be transparent and made public.
+
+
+In the case of an exclusive right referred to in the first subparagraph, the public sector body concerned shall be provided free of charge with a copy of the digitised cultural resources as part of those arrangements. That copy shall be available for re-use at the end of the period of exclusivity.
+
+
+4.   Legal or practical arrangements that, without expressly granting an exclusive right, aim at, or could reasonably be expected to lead to, a restricted availability for the re-use of documents by entities other than the third party participating in the arrangement, shall be made publicly available online at least two months before their coming into effect. The effect of such legal or practical arrangements on the availability of data for re-use shall be subject to regular reviews and shall, in any event, be reviewed every three years. The final terms of such arrangements shall be transparent and made publicly available online.
+
+
+5.   Exclusive arrangements existing on 17 July 2013 that do not qualify for the exceptions set out in paragraphs 2 and 3 and that were entered into by public sector bodies shall be terminated at the end of the contract and in any event not later than on 18 July 2043.
+
+
+Exclusive arrangements existing on 16 July 2019 that do not qualify for the exceptions set out in paragraphs 2 and 3, and that were entered into by public undertakings, shall be terminated at the end of the contract and in any event not later than on 17 July 2049.
+
+
+CHAPTER V
+
+
+HIGH-VALUE DATASETS
+
+
+Article 13
+
+
+Thematic categories of high-value datasets
+
+
+1.   In order to provide for conditions to support the re-use of high-value datasets, a list of thematic categories of such datasets is set out in Annex I.
+
+
+2.   The Commission is empowered to adopt delegated acts in accordance with Article 15 in order to amend Annex I by adding new thematic categories of high-value datasets in order to reflect technological and market developments.
+
+
+Article 14
+
+
+Specific high-value datasets and arrangements for publication and re-use
+
+
+1.   The Commission shall adopt implementing acts laying down a list of specific high-value datasets belonging to the categories set out in Annex I and held by public sector bodies and public undertakings among the documents to which this Directive applies.
+
+
+Such specific high-value datasets shall be:
+
+
+(a)
+
+
+available free of charge, subject to paragraphs 3, 4 and 5;
+
+
+(b)
+
+
+machine readable;
+
+
+(c)
+
+
+provided via APIs; and
+
+
+(d)
+
+
+provided as a bulk download, where relevant.
+
+
+Those implementing acts may specify the arrangements for the publication and re-use of high-value datasets. Such arrangements shall be compatible with open standard licences.
+
+
+The arrangements may include terms applicable to re-use, formats of data and metadata and technical arrangements for dissemination. Investments made by the Member States in open data approaches, such as investments into the development and roll-out of certain standards, shall be taken into account and balanced against the potential benefits from inclusion in the list.
+
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+
+
+2.   The identification of specific high-value datasets pursuant to paragraph 1 shall be based on the assessment of their potential to:
+
+
+(a)
+
+
+generate significant socioeconomic or environmental benefits and innovative services;
+
+
+(b)
+
+
+benefit a high number of users, in particular SMEs;
+
+
+(c)
+
+
+assist in generating revenues; and
+
+
+(d)
+
+
+be combined with other datasets.
+
+
+For the purpose of identifying such specific high-value datasets, the Commission shall carry out appropriate consultations, including at expert level, conduct an impact assessment and ensure complementarity with existing legal acts, such as Directive 2010/40/EU, with respect to the re-use of documents. That impact assessment shall include a cost-benefit analysis and an analysis of whether providing high-value datasets free of charge by public sector bodies that are required to generate revenue to cover a substantial part of their costs relating to the performance of their public tasks would lead to a substantial impact on the budget of such bodies. With regard to high-value datasets held by public undertakings, the impact assessment shall give special consideration to the role of public undertakings in a competitive economic environment.
+
+
+3.   By way of derogation from point (a) of the second subparagraph of paragraph 1, the implementing acts referred to in paragraph 1 shall provide that the availability of high-value datasets free of charge is not to apply to specific high-value datasets held by public undertakings where that would lead to a distortion of competition in the relevant markets.
+
+
+4.   The requirement to make high-value datasets available free of charge pursuant to point (a) of the second subparagraph of paragraph 1 shall not apply to libraries, including university libraries, museums and archives.
+
+
+5.   Where making high-value datasets available free of charge by public sector bodies that are required to generate revenue to cover a substantial part of their costs relating to the performance of their public tasks would lead to a substantial impact on the budget of the bodies involved, Member States may exempt those bodies from the requirement to make those high-value datasets available free of charge for a period of no more than two years following the entry into force of the relevant implementing act adopted in accordance with paragraph 1.
+
+
+CHAPTER VI
+
+
+FINAL PROVISIONS
+
+
+Article 15
+
+
+Exercise of the delegation
+
+
+1.   The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+
+2.   The power to adopt delegated acts referred to in Article 13(2) shall be conferred on the Commission for a period of five years from 16 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+
+3.   The delegation of power referred to in Article 13(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+
+4.   Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+
+5.   As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+
+6.   A delegated act adopted pursuant to Article 13(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+
+Article 16
+
+
+Committee procedure
+
+
+1.   The Commission shall be assisted by a Committee on open data and the re-use of public sector information. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+
+2.   Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+
+Article 17
+
+
+Transposition
+
+
+1.   Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 17 July 2021. They shall immediately communicate the text of those measures to the Commission.
+
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+
+2.   Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+
+Article 18
+
+
+Commission evaluation
+
+
+1.   No sooner than 17 July 2025, the Commission shall carry out an evaluation of this Directive, and submit a report on the main findings of that evaluation to the European Parliament and to the Council as well as to the European Economic and Social Committee.
+
+
+Member States shall provide the Commission with the information necessary for the preparation of that report.
+
+
+2.   The evaluation shall, in particular, address the scope and social and economic impact of this Directive, including:
+
+
+(a)
+
+
+the extent of the increase in re-use of public sector documents to which this Directive applies, especially by SMEs;
+
+
+(b)
+
+
+the impact of the high-value datasets;
+
+
+(c)
+
+
+the effects of the principles applied to charging and the re-use of official texts of a legislative and administrative nature;
+
+
+(d)
+
+
+the re-use of documents held by other entities than public sector bodies,
+
+
+(e)
+
+
+the availability and the use of APIs;
+
+
+(f)
+
+
+the interaction between data protection rules and re-use possibilities;
+
+
+(g)
+
+
+further possibilities of improving the proper functioning of the internal market and supporting economic and labour market development.
+
+
+Article 19
+
+
+Repeal
+
+
+Directive 2003/98/EC, as amended by the Directive listed in Annex II, Part A, is repealed with effect from 17 July 2021, without prejudice to the obligations of the Member States relating to the time-limits for the transposition into national law and the dates of application of the Directives set out in Annex II, Part B.
+
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex III.
+
+
+Article 20
+
+
+Entry into force
+
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+
+
+Article 21
+
+
+Addressees
+
+
+This Directive is addressed to the Member States.
+
+
+Done at Brussels, 20 June 2019.
+
+
+For the European Parliament
+
+
+The President
+
+
+A. TAJANI
+
+
+For the Council
+
+
+The President
+
+
+G. CIAMBA
+
+
+( 1 )
+OJ C 62, 15.2.2019, p. 238 .
+
+
+( 2 )   Position of the European Parliament of 4 April 2019 (not yet published in the Official Journal) and Decision of the Council of 6 June 2019.
+
+
+( 3 )   Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the re-use of public sector information ( OJ L 345, 31.12.2003, p. 90 ).
+
+
+( 4 )   Directive 2013/37/EU of the European Parliament and of the Council of 26 June 2013 amending Directive 2003/98/EC on the re-use of public sector information ( OJ L 175, 27.6.2013, p. 1 ).
+
+
+( 5 )   Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) ( OJ L 119, 4.5.2016, p. 1 ).
+
+
+( 6 )   Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases ( OJ L 77, 27.3.1996, p. 20 ).
+
+
+( 7 )   Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC ( OJ L 41, 14.2.2003, p. 26 ).
+
+
+( 8 )   Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) ( OJ L 108, 25.4.2007, p. 1 ).
+
+
+( 9 )   Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport ( OJ L 207, 6.8.2010, p. 1 ).
+
+
+( 10 )   Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC ( OJ L 94, 28.3.2014, p. 243 ).
+
+
+( 11 )   Regulation (EC) No 1370/2007 of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70 ( OJ L 315, 3.12.2007, p. 1 ).
+
+
+( 12 )   Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community ( OJ L 293, 31.10.2008, p. 3 ).
+
+
+( 13 )   Council Regulation (EEC) No 3577/92 of 7 December 1992 applying the principle of freedom to provide services to maritime transport within Member States (maritime cabotage) ( OJ L 364, 12.12.1992, p. 7 ).
+
+
+( 14 )   Council Directive 2008/114/EC of 8 December 2008 on the identification and designation of European critical infrastructures and the assessment of the need to improve their protection ( OJ L 345, 23.12.2008, p. 75 ).
+
+
+( 15 )   Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union ( OJ L 194, 19.7.2016, p. 1 ).
+
+
+( 16 )   Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC ( OJ L 94, 28.3.2014, p. 65 ).
+
+
+( 17 )   Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies ( OJ L 327, 2.12.2016, p. 1 ).
+
+
+( 18 )   Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) ( OJ L 201, 31.7.2002, p. 37 ).
+
+
+( 19 )   Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society ( OJ L 167, 22.6.2001, p. 10 ).
+
+
+( 20 )
+OJ L 123, 12.5.2016, p. 1 .
+
+
+( 21 )   Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers ( OJ L 55, 28.2.2011, p. 13 ).
+
+
+( 22 )   Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( OJ L 8, 12.1.2001, p. 1 ).
+
+
+( 23 )
+OJ C 305, 30.8.2018, p. 7 .
+
+
+ANNEX I
+
+
+List of thematic categories of high-value datasets, as referred to in Article 13(1)
+
+
+1.
+
+
+Geospatial
+
+
+2.
+
+
+Earth observation and environment
+
+
+3.
+
+
+Meteorological
+
+
+4.
+
+
+Statistics
+
+
+5.
+
+
+Companies and company ownership
+
+
+6.
+
+
+Mobility
+
+
+ANNEX II
+
+
+Part A
+
+
+Repealed Directive with the amendment thereto
+
+
+(referred to in Article 19)
+
+
+Directive 2003/98/EC of the European Parliament and of the Council
+
+
+( OJ L 345, 31.12.2003, p. 90 ).
+
+
+Directive 2013/37/EU of the European Parliament and of the Council
+
+
+( OJ L 175, 27.6.2013, p. 1 ).
+
+
+Part B
+
+
+Time-limits for transposition into national law and dates of application
+
+
+(referred to in Article 19)
+
+
+Directive
+
+
+Time-limit for transposition
+
+
+Date of application
+
+
+2003/98/EC
+
+
+1 July 2005
+
+
+1 July 2005
+
+
+2013/37/EU
+
+
+18 July 2015
+
+
+18 July 2015
+
+
+ANNEX III
+
+
+CORRELATION TABLE
+
+
+Directive 2003/98/EC
+
+
+This Directive
+
+
+Article 1(1)
+
+
+Article 1(1), introductory wording
+
+
+Article 1(1)(a), (b) and (c)
+
+
+Article 1(2), introductory wording
+
+
+Article 1(2), introductory wording
+
+
+Article 1(2)(a)
+
+
+Article 1(2)(a)
+
+
+—
+
+
+Article 1(2)(b)
+
+
+Article 1(2)(b)
+
+
+Article 1(2)(c)
+
+
+Article 1(2)(c)
+
+
+Article 1(2)(d)
+
+
+—
+
+
+Article 1(2)(e)
+
+
+Article 1(2)(ca)
+
+
+Article 1(2)(f)
+
+
+Article 1(2)(cb)
+
+
+Article 1(2)(g)
+
+
+Article 1(2)(cc)
+
+
+Article 1(2)(h)
+
+
+Article 1(2)(d)
+
+
+Article 1(2)(i)
+
+
+Article 1(2)(e)
+
+
+Article 1(2)(l)
+
+
+Article 1(2)(f)
+
+
+Article 1(2)(j)
+
+
+—
+
+
+Article 1(2)(k)
+
+
+Article 1(3)
+
+
+Article 1(3)
+
+
+Article 1(4)
+
+
+Article 1(4)
+
+
+Article 1(5)
+
+
+Article 1(5)
+
+
+—
+
+
+Article 1(6) and (7)
+
+
+Article 2, introductory wording
+
+
+Article 2, introductory wording
+
+
+Article 2(1)
+
+
+Article 2(1)
+
+
+Article 2(2)
+
+
+Article 2(2)
+
+
+—
+
+
+Article 2(3) and (5)
+
+
+Article 2(3)
+
+
+Article 2(6)
+
+
+—
+
+
+Article 2(7) to (10)
+
+
+Article 2(4)
+
+
+Article 2(11)
+
+
+Article 2(5)
+
+
+Article 2(12)
+
+
+Article 2(6)
+
+
+Article 2(13)
+
+
+Article 2(7)
+
+
+Article 2(14)
+
+
+Article 2(8)
+
+
+Article 2(15)
+
+
+Article 2(9)
+
+
+Article 2(4)
+
+
+—
+
+
+Article 2(16) and (17)
+
+
+Article 3
+
+
+Article 3
+
+
+Article 4(1)
+
+
+Article 4(1)
+
+
+Article 4(2)
+
+
+Article 4(2)
+
+
+Article 4(3)
+
+
+Article 4(3)
+
+
+Article 4(4)
+
+
+Article 4(4)
+
+
+—
+
+
+Article 4(5)
+
+
+Article 4(5)
+
+
+Article 4(6), introductory wording
+
+
+Article 4(6)(a) and (b)
+
+
+Article 5(1)
+
+
+Article 5(1)
+
+
+—
+
+
+Article 5(2)
+
+
+Article 5(2)
+
+
+Article 5(3)
+
+
+Article 5(3)
+
+
+Article 5(4)
+
+
+—
+
+
+Article 5(5) to (8)
+
+
+—
+
+
+Article 6(1), first subparagraph
+
+
+Article 6(1)
+
+
+Article 6(1), second subparagraph
+
+
+Article 6(2), introductory wording
+
+
+Article 6(2), introductory wording
+
+
+Article 6(2)(a)
+
+
+Article 6(2)(a)
+
+
+Article 6(2)(b)
+
+
+—
+
+
+Article 6(2)(c)
+
+
+Article 6(2)(b)
+
+
+—
+
+
+Article 6(2)(c)
+
+
+—
+
+
+Article 6(3)
+
+
+Article 6(3)
+
+
+Article 6(4)
+
+
+Article 6(4)
+
+
+Article 6(5)
+
+
+—
+
+
+Article 6(6)
+
+
+Article 7(1)
+
+
+Article 7(1)
+
+
+Article 7(2)
+
+
+Article 7(2)
+
+
+Article 7(3)
+
+
+—
+
+
+Article 7(4)
+
+
+Article 7(3)
+
+
+Article 8
+
+
+Article 8
+
+
+Article 9
+
+
+Article 9(1)
+
+
+—
+
+
+Article 9(2)
+
+
+—
+
+
+Article 10(1) and (2)
+
+
+Article 10
+
+
+Article 11
+
+
+Article 11(1)
+
+
+Article 12(1)
+
+
+Article 11(2)
+
+
+Article 12(2)
+
+
+Article 11(2a)
+
+
+Article 12(3)
+
+
+—
+
+
+Article 12(4)
+
+
+Article 11(3)
+
+
+—
+
+
+Article 11(4)
+
+
+Article 12(5)
+
+
+—
+
+
+Articles 13 to 16
+
+
+Article 12
+
+
+Article 17(1)
+
+
+—
+
+
+Article 17(2)
+
+
+Article 13(1)
+
+
+Article 18(1)
+
+
+Article 13(2)
+
+
+—
+
+
+Article 13(3)
+
+
+Article 18(2), introductory wording
+
+
+—
+
+
+Article 18(2)(a) to (g)
+
+
+—
+
+
+Article 19
+
+
+Article 14
+
+
+Article 20
+
+
+Article 15
+
+
+Article 21
+
+
+—
+
+
+Annexes I, II and III

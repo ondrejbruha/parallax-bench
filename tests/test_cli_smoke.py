@@ -1,0 +1,90 @@
+"""End-to-end: the quickstart contract. CI runs this on every PR (<2 min)."""
+
+from pathlib import Path
+
+import pandas as pd
+import pytest
+from typer.testing import CliRunner
+
+from parallax_bench.cli import app
+
+REPO = Path(__file__).resolve().parent.parent
+runner = CliRunner()
+
+
+@pytest.fixture()
+def workdir(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    monkeypatch.delenv("DATABASE_URL", raising=False)
+    return tmp_path
+
+
+def test_validate_smoke(workdir):
+    result = runner.invoke(app, ["validate", "--subset", "smoke",
+                                 "--data-dir", str(REPO / "benchmark")])
+    assert result.exit_code == 0, result.output
+    assert "OK" in result.output
+
+
+def test_quickstart_run_score_report(workdir):
+    data = ["--data-dir", str(REPO / "benchmark")]
+    result = runner.invoke(
+        app, ["run", "--system", "baseline-local", "--subset", "smoke", *data]
+    )
+    assert result.exit_code == 0, result.output
+    assert "done=180" in result.output
+
+    result = runner.invoke(app, ["score", *data])
+    assert result.exit_code == 0, result.output
+
+    out_dirs = list((workdir / "runs").iterdir())
+    assert len(out_dirs) == 1
+    metrics = pd.read_csv(out_dirs[0] / "metrics.csv")
+    diag = metrics[
+        (metrics.metric == "ndcg@10") & (metrics.query_lang == metrics.index_lang)
+    ]
+    assert len(diag) == 3
+    # BM25 on the diagonal of the smoke set must be near-perfect; if this
+    # drops, ingest or scoring broke — not the baseline
+    assert (diag["mean"] > 0.9).all(), diag
+    assert (metrics[metrics.metric == "ndcg@10"].missing_rate == 0).all()
+
+    result = runner.invoke(app, ["report"])
+    assert result.exit_code == 0, result.output
+    assert "ndcg@10" in result.output
+
+
+def test_run_is_resumable(workdir):
+    data = ["--data-dir", str(REPO / "benchmark")]
+    result = runner.invoke(
+        app, ["run", "--system", "baseline-local", "--subset", "smoke", *data]
+    )
+    run_id = next(
+        line.split()[2] for line in result.output.splitlines() if line.startswith("created run")
+    )
+    # resuming a finished run is a no-op, not an error
+    result = runner.invoke(
+        app,
+        ["run", "--system", "baseline-local", "--subset", "smoke", *data,
+         "--resume", run_id, "--no-ingest"],
+    )
+    assert result.exit_code == 0, result.output
+    assert "done=180" in result.output
+
+
+def test_generation_phase_on_smoke(workdir):
+    data = ["--data-dir", str(REPO / "benchmark")]
+    result = runner.invoke(
+        app, ["run", "--system", "baseline-local", "--subset", "smoke",
+              "--phase", "generation", *data]
+    )
+    assert result.exit_code == 0, result.output
+    result = runner.invoke(app, ["score", *data])
+    assert result.exit_code == 0, result.output
+    out_dir = next((workdir / "runs").iterdir())
+    gen = pd.read_csv(out_dir / "generation.csv")
+    assert set(gen.regime) >= {"mono", "multi"}
+    # extractive baseline answers come verbatim from the target-language corpus,
+    # so on the mono diagonal the detected language must match the query language
+    mono = gen[gen.regime == "mono"]
+    assert (mono.lang_correct.dropna().astype(bool)).mean() > 0.8

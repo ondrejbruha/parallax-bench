@@ -1,0 +1,2053 @@
+L_2019172DE.01005601.xml
+
+
+26.6.2019
+
+
+DE
+
+
+Amtsblatt der Europäischen Union
+
+
+L 172/56
+
+
+RICHTLINIE (EU) 2019/1024 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+
+
+vom 20. Juni 2019
+
+
+über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors
+
+
+(Neufassung)
+
+
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+
+
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 114,
+
+
+auf Vorschlag der Europäischen Kommission,
+
+
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
+
+
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses  ( 1 ) ,
+
+
+nach Anhörung des Ausschusses der Regionen,
+
+
+gemäß dem ordentlichen Gesetzgebungsverfahren  ( 2 ) ,
+
+
+in Erwägung nachstehender Gründe:
+
+
+(1)
+
+
+Die Richtlinie 2003/98/EG des Europäischen Parlaments und des Rates  ( 3 ) wurde erheblich geändert. Aus Gründen der Klarheit empfiehlt es sich, im Rahmen der anstehenden Änderungen eine Neufassung der genannten Richtlinie vorzunehmen.
+
+
+(2)
+
+
+Gemäß Artikel 13 der Richtlinie 2003/98/EG und fünf Jahre nach Annahme der Richtlinie 2013/37/EU des Europäischen Parlaments und des Rates  ( 4 ) zur Änderung der Richtlinie 2003/98/EG hat die Kommission — im Anschluss an die Konsultation der einschlägigen Interessenträger — im Rahmen des Programms zur Gewährleistung der Effizienz und Leistungsfähigkeit der Rechtsetzung (REFIT) die Wirksamkeit der Richtlinie 2003/98/EG bewertet und überprüft.
+
+
+(3)
+
+
+Im Anschluss an die Konsultation der Interessenträger und im Lichte der Ergebnisse der Folgenabschätzung war die Kommission der Ansicht, dass Maßnahmen auf Unionsebene erforderlich sind, um die verbleibenden und neu entstehenden Hemmnisse zu beseitigen, die einer breiten Weiterverwendung von öffentlichen und öffentlich finanzierten Informationen in der gesamten Union im Wege stehen, um den Rechtsrahmen auf den neuesten Stand der digitalen Technik zu bringen und um weitere digitale Innovationen, insbesondere im Hinblick auf künstliche Intelligenz, zu fördern.
+
+
+(4)
+
+
+Die wesentlichen Änderungen am Rechtstext, die der Ausschöpfung des Potenzials der Informationen des öffentlichen Sektors für die europäische Wirtschaft und Gesellschaft dienen sollen, sollten sich auf die Bereitstellung eines Echtzeit-Zugangs zu dynamischen Daten mithilfe angemessener technischer Mittel, die verstärkte Bereitstellung wertvoller öffentlicher Daten für die Weiterverwendung, unter anderem von öffentlichen Unternehmen, Forschungseinrichtungen und Forschungsförderungseinrichtungen, die Bewältigung neuer Formen von Ausschließlichkeitsvereinbarungen, die Inanspruchnahme von Ausnahmen vom Grundsatz der Gebührenbeschränkung auf die Grenzkosten und das Verhältnis zwischen dieser Richtlinie und bestimmten verwandten Rechtsinstrumenten, einschließlich der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates  ( 5 ) und der Richtlinien 96/9/EG  ( 6 ) , 2003/4/EG  ( 7 ) und 2007/2/EG  ( 8 ) des Europäischen Parlaments und des Rates konzentrieren.
+
+
+(5)
+
+
+Der Zugang zu Informationen ist ein Grundrecht. Die Charta der Grundrechte der Europäischen Union (im Folgenden „Charta“) bestimmt, dass jede Person das Recht auf freie Meinungsäußerung hat; dies schließt die Meinungsfreiheit und die Freiheit ein, Informationen und Ideen ohne behördliche Eingriffe und ohne Rücksicht auf Staatsgrenzen zu empfangen und weiterzugeben.
+
+
+(6)
+
+
+Artikel 8 der Charta gewährleistet das Recht auf Schutz personenbezogener Daten und sieht vor, dass diese Daten nur nach Treu und Glauben für festgelegte Zwecke, mit Einwilligung der betroffenen Person oder auf einer sonstigen gesetzlich geregelten legitimen Grundlage und vorbehaltlich der Überwachung durch eine unabhängige Stelle verarbeitet werden dürfen.
+
+
+(7)
+
+
+Der Vertrag über die Arbeitsweise der Europäischen Union (AEUV) sieht die Schaffung eines Binnenmarkts und eines Systems vor, das Wettbewerbsverzerrungen auf dem Binnenmarkt verhindert. Die Angleichung der Bestimmungen und Verfahren der Mitgliedstaaten zur Nutzung von Informationen des öffentlichen Sektors trägt zur Erreichung dieser Ziele bei.
+
+
+(8)
+
+
+Der öffentliche Sektor in den Mitgliedstaaten erfasst, erstellt, reproduziert und verbreitet ein breites Spektrum an Informationen aus zahlreichen Gebieten wie Informationen über die Bereiche Soziales, Politik, Wirtschaft, Recht, Geografie, Umwelt, Meteorologie, Seismizität, Tourismus, Geschäftsleben, Patentwesen und Bildung. Dokumente, die von öffentlichen Stellen der Exekutive, Legislative oder Judikative erstellt werden, bilden einen umfassenden, vielfältigen und wertvollen Fundus an Ressourcen, der der Gesellschaft zugutekommen kann. Die Bereitstellung dieser Informationen, die auch dynamische Daten umfassen, in einem gängigen elektronischen Format ermöglicht es Bürgern und juristischen Personen, neue Möglichkeiten für deren Nutzung zu finden und neue, innovative Produkte und Dienstleistungen zu schaffen. Die Mitgliedstaaten und öffentliche Stellen können im Rahmen ihrer Bemühungen um die leichte Verfügbarkeit von Daten für die Weiterverwendung möglicherweise Nutzen aus einschlägigen Fonds und Programmen der Union ziehen und angemessene finanzielle Unterstützung aus diesen Quellen erhalten, wodurch eine weitreichende Nutzung digitaler Technologien oder der digitale Wandel in öffentlichen Verwaltungen und im öffentlichen Dienst gewährleistet wird.
+
+
+(9)
+
+
+Informationen des öffentlichen Sektors stellen eine außergewöhnliche Datenquelle dar, die dazu beitragen kann, den Binnenmarkt zu verbessern und neue Anwendungen für Verbraucher und juristische Personen zu entwickeln. Die intelligente Nutzung von Daten, einschließlich ihrer Verarbeitung durch Anwendungen der künstlichen Intelligenz, kann eine transformative Wirkung auf alle Wirtschaftsbereiche haben.
+
+
+(10)
+
+
+Die Richtlinie 2003/98/EG enthält Mindestvorschriften für die Weiterverwendung und die praktischen Mittel zur Erleichterung der Weiterverwendung vorhandener Dokumente, die im Besitz öffentlicher Stellen der Mitgliedstaaten, einschließlich Exekutive, Legislative oder Judikative, sind. Seit der Annahme der ersten Vorschriften über die Weiterverwendung von Informationen des öffentlichen Sektors hat die Menge der Daten in der Welt, auch die der öffentlichen Daten, exponentiell zugenommen und neue Datentypen werden erstellt und gesammelt. Gleichzeitig findet eine kontinuierliche Weiterentwicklung der zur Analyse, Nutzung und Verarbeitung von Daten eingesetzten Technologien statt, etwa im Zusammenhang mit maschinellem Lernen, künstlicher Intelligenz und dem Internet der Dinge. Diese schnelle technologische Entwicklung ermöglicht die Schaffung neuer Dienste und Anwendungen, die auf dem Verwenden, Aggregieren oder Kombinieren von Daten beruhen. Die ursprünglich im Jahr 2003 erlassenen und im Jahr 2013 geänderten Vorschriften können mit diesen schnellen Veränderungen nicht mehr Schritt halten, sodass die Gefahr besteht, dass die wirtschaftlichen und sozialen Chancen, die sich aus der Weiterverwendung öffentlicher Daten ergeben, ungenutzt bleiben.
+
+
+(11)
+
+
+Die Entwicklung hin zu einer datengestützten Gesellschaft, in der Daten aus verschiedenen Bereichen und Tätigkeiten genutzt werden, beeinflusst das Leben aller Bürger der Union, indem ihnen unter anderem neue Möglichkeiten für den Zugang zu und den Erwerb von Kenntnissen erschlossen werden.
+
+
+(12)
+
+
+Digitale Inhalte spielen bei dieser Entwicklung eine wichtige Rolle. Im Bereich der Inhaltsproduktion wurden in den letzten Jahren und werden auch weiterhin rasch Arbeitsplätze geschaffen. Die meisten dieser Arbeitsplätze werden von innovativen Start-ups und kleinen und mittleren Unternehmen (KMU) geschaffen.
+
+
+(13)
+
+
+Eines der Hauptziele der Errichtung eines Binnenmarkts ist die Schaffung von förderlichen Bedingungen für die Entwicklung von Dienstleistungen und Produkten, unionsweit und in den Mitgliedstaaten. Informationen des öffentlichen Sektors oder Informationen, die bei der Erfüllung eines öffentlichen Auftrags oder der Erbringung einer Dienstleistung von allgemeinem Interesse erhoben, erstellt, reproduziert und verbreitet werden, sind wesentliches Ausgangsmaterial für Produkte und Dienstleistungen mit digitalen Inhalten und werden angesichts der Entwicklung fortschrittlicher digitaler Technologien — wie etwa künstlicher Intelligenz, Distributed-Ledger-Technologien und dem Internet der Dinge — zu einer noch bedeutenderen Inhaltsquelle werden. Dabei ist auch eine breite grenzüberschreitende geografische Flächendeckung von Bedeutung. Es ist davon auszugehen, dass erweiterte Möglichkeiten für die Weiterverwendung derartiger Informationen unter anderem alle Unionsunternehmen, auch Kleinstunternehmen und KMU, sowie die Zivilgesellschaft in die Lage versetzen, ihr Potenzial zu nutzen, und zur wirtschaftlichen Entwicklung, zur Schaffung und zum Schutz hochwertiger Arbeitsplätze — insbesondere zugunsten lokaler Gemeinschaften — und zur Verwirklichung wichtiger gesellschaftlicher Ziele wie der Rechenschaftspflicht und der Transparenz beitragen.
+
+
+(14)
+
+
+Die Gestattung der Weiterverwendung von Dokumenten, die sich im Besitz einer öffentlichen Stelle befinden, bewirkt einen zusätzlichen Nutzen zum Vorteil der Weiterverwender, der Endnutzer und der Gesellschaft insgesamt, und in vielen Fällen für die öffentliche Stelle selbst, weil sie so Transparenz und Rechenschaftspflicht fördert und es zu Rückmeldungen von Weiterverwendern und Endnutzern kommt, anhand derer die betreffende öffentliche Stelle die Qualität der gesammelten Informationen sowie die Erfüllung ihres Auftrags verbessern kann.
+
+
+(15)
+
+
+Die Bestimmungen und Verfahren der Mitgliedstaaten zur Nutzung von Informationsquellen des öffentlichen Sektors weichen erheblich voneinander ab, was ein Hemmnis für die Nutzung des wirtschaftlichen Potenzials dieser bedeutenden Dokumentenquelle darstellt. Der Umstand, dass Verfahren der öffentlichen Stellen im Bereich der Nutzung von Informationen des öffentlichen Sektors sich weiterhin von Mitgliedstaat zu Mitgliedstaat unterscheiden sollte berücksichtigt werden. Eine Angleichung der nationalen Bestimmungen und Verfahren für die Weiterverwendung von Dokumenten des öffentlichen Sektors auf einem Mindestniveau sollte daher dort verfolgt werden, wo die Unterschiede zwischen den nationalen Bestimmungen und Verfahren oder ein Mangel an Klarheit das reibungslose Funktionieren des Binnenmarkts und die einwandfreie Entwicklung der Informationsgesellschaft in der Union behindern.
+
+
+(16)
+
+
+Das Konzept „offene Daten“ (Open Data) bezeichnet nach dem allgemeinen Verständnis Daten in einem offenen Format, die von allen zu jedem Zweck frei verwendet, weiterverwendet und weitergegeben werden können. Eine Politik der Förderung offener Daten, die eine breite Verfügbarkeit und Weiterverwendung von Informationen des öffentlichen Sektors zu privaten oder kommerziellen Zwecken mit minimalen oder keinen rechtlichen, technischen oder finanziellen Beschränkungen unterstützt und die die Verbreitung von Informationen nicht nur für Wirtschaftsakteure, sondern vor allem für die Öffentlichkeit fördert, kann eine wichtige Rolle spielen, wenn es darum geht, soziales Engagement zu fördern, und die Entwicklung neuer Dienstleistungen, die solche Informationen auf neuartige Weise kombinieren und nutzen, anzustoßen und zu fördern. Die Mitgliedstaaten werden daher ermutigt, die Erzeugung von Daten nach dem Grundsatz „konzeptionell und standardmäßig offen“ (open by design and by default) für alle Dokumente, die in den Anwendungsbereich dieser Richtlinie fallen, zu fördern. Dadurch sollten sie ein kohärentes Maß des Schutzes der im Allgemeininteresse liegenden Ziele, etwa der öffentlichen Sicherheit, gewährleisten, auch in den Fällen, in denen es sich um sensible vertrauliche Informationen über den Schutz kritischer Infrastrukturen handelt. Sie sollten ebenfalls gewährleisten, dass der Schutz personenbezogener Daten sichergestellt ist, auch in den Fällen, in denen die Informationen in einem einzelnen Datensatz zwar nicht die Gefahr einer Identifizierung oder des Herausgreifens einer natürlichen Person bergen, aber in Kombination mit anderen verfügbaren Informationen eine derartige Gefahr hervorrufen könnten.
+
+
+(17)
+
+
+Darüber hinaus könnten nationale Gesetzgebungsmaßnahmen, die angesichts der technologischen Herausforderungen bereits von einigen Mitgliedstaaten eingeleitet wurden, ohne ein Mindestmaß an Harmonisierung auf Unionsebene zu noch erheblicheren Abweichungen führen. Die Auswirkungen dieser Abweichungen und Unsicherheiten der Gesetzgebung werden mit der Weiterentwicklung der Informationsgesellschaft, die bereits zu einer wesentlich stärkeren grenzüberschreitenden Informationsnutzung geführt hat, wahrscheinlich an Bedeutung gewinnen.
+
+
+(18)
+
+
+Die Mitgliedstaaten haben ihre Weiterverwendungspolitik im Rahmen der Richtlinie 2003/98/EG formuliert, und einige von ihnen haben ehrgeizige Konzepte für den Umgang mit offenen Daten beschlossen, um die Weiterverwendung von zugänglichen öffentlichen Daten für die Bürger und juristische Personen über das in der Richtlinie 2003/98/EG festgelegte Mindestmaß hinaus zu vereinfachen. Es besteht die Gefahr, dass voneinander abweichende Vorschriften zwischen verschiedenen Mitgliedstaaten als Hemmnis auf das grenzübergreifende Angebot von Produkten und Dienstleistungen wirken und verhindern, dass vergleichbare öffentliche Datensätze in auf ihnen aufbauenden Unionsweiten Anwendungen weiterverwendet werden können. Daher ist ein Mindestmaß an Harmonisierung erforderlich, um festzustellen, welche öffentlichen Daten in Übereinstimmung mit den und unbeschadet der einschlägigen Zugangsregelungen — sowohl allgemeiner als auch sektoraler Art, wie zum Beispiel die Regelungen nach der Richtlinie 2003/4/EG — im Informationsbinnenmarkt zur Weiterverwendung zur Verfügung stehen. Die Bestimmungen des Unionsrechts und des nationalen Rechts, die, insbesondere im sektoralen Recht, über diese Mindestanforderungen hinausgehen, sollten weiterhin gelten. Zu den Bestimmungen, die über das von dieser Richtlinie vorgesehene Mindestmaß an Harmonisierung hinausgehen, gehören niedrigere Schwellenwerte für zulässige Weiterverwendungsgebühren als die in dieser Richtlinie festgelegten Schwellenwerte oder weniger strenge Lizenzierungsbedingungen als in dieser Richtlinie vorgesehen. Insbesondere lässt diese Richtlinie Bestimmungen unberührt, die über das von ihr vorgesehene Mindestmaß an Harmonisierung, wie es in den im Rahmen der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates  ( 9 ) angenommenen delegierten Verordnungen der Kommission festgelegt ist, hinausgehen.
+
+
+(19)
+
+
+Darüber hinaus werden die Mitgliedstaaten ermutigt, über die Mindestanforderungen dieser Richtlinie hinauszugehen, indem sie die darin enthaltenen Anforderungen auf im Besitz öffentlicher Unternehmen befindliche Dokumente anwenden, die sich auf Tätigkeiten beziehen, die nach Artikel 34 der Richtlinie 2014/25/EU des Europäischen Parlaments und des Rates  ( 10 ) dem unmittelbaren Wettbewerb ausgesetzt sind. Die Mitgliedstaaten können auch beschließen, die Anforderungen dieser Richtlinie auf private Unternehmen anzuwenden, insbesondere auf solche, die Dienstleistungen von allgemeinem Interesse erbringen.
+
+
+(20)
+
+
+Um zu gewährleisten, dass die Bedingungen für die Weiterverwendung von Dokumenten des öffentlichen Sektors gerecht, angemessen und nichtdiskriminierend sind, ist ein allgemeiner Rahmen erforderlich. Öffentliche Stellen erheben, erstellen, reproduzieren und verbreiten Dokumente zur Erfüllung ihres öffentlichen Auftrags. Öffentliche Unternehmen erheben, erstellen, reproduzieren und verbreiten Dokumente zur Erbringung von Dienstleistungen von allgemeinem Interesse. Die Nutzung dieser Dokumente aus anderen Gründen stellt eine Weiterverwendung dar. Die Mitgliedstaaten können mit ihren Maßnahmen über die in dieser Richtlinie festgelegten Mindeststandards hinausgehen und eine umfassendere Weiterverwendung gestatten. Bei der Umsetzung dieser Richtlinie können die Mitgliedstaaten andere Begriffe als „Dokument“ verwenden, soweit der von der vorliegenden Richtlinie festgelegte Anwendungsbereich der Definition „Dokument“ dadurch vollständig abgedeckt bleibt.
+
+
+(21)
+
+
+Diese Richtlinie sollte für Dokumente gelten, deren Bereitstellung unter den gesetzlich oder durch andere verbindliche Rechtsvorschriften der Mitgliedstaaten festgelegten öffentlichen Auftrag der betreffenden öffentlichen Stellen fällt. Bestehen keine entsprechenden Vorschriften, sollte der öffentliche Auftrag im Einklang mit der allgemeinen Verwaltungspraxis der Mitgliedstaaten unter der Voraussetzung festgelegt werden, dass der Umfang des öffentlichen Auftrags transparent ist und einer Überprüfung unterliegt. Der öffentliche Auftrag könnte allgemein oder für einzelne öffentliche Stellen fallbezogen festgelegt werden.
+
+
+(22)
+
+
+Diese Richtlinie sollte für Dokumente gelten, die für die Weiterverwendung zugänglich gemacht werden, wenn öffentliche Stellen Lizenzen für Informationen vergeben oder Informationen verkaufen, verbreiten, austauschen oder zur Verfügung zu stellen. Damit es nicht zu Quersubventionen kommt, sollte die Weiterverwendung auch die spätere Verwendung von Dokumenten innerhalb derselben Organisation für Tätigkeiten, die nicht unter ihren öffentlichen Auftrag fallen, umfassen. Zu den Tätigkeiten, die nicht unter den öffentlichen Auftrag fallen, gehört in der Regel die Bereitstellung von Dokumenten, die ausschließlich zu kommerziellen Zwecken und im Wettbewerb mit anderen Marktteilnehmern gegen Gebühr erstellt werden.
+
+
+(23)
+
+
+Die Erfüllung der gesetzlichen Aufgaben von Behörden und anderen öffentlichen Stellen wird durch diese Richtlinie nicht eingeschränkt oder beeinträchtigt. Durch diese Richtlinie werden die Mitgliedstaaten verpflichtet werden, alle vorhandenen Dokumente weiterverwendbar zu machen, es sei denn, der Zugang ist im Rahmen der nationalen Vorschriften über den Zugang zu Dokumenten eingeschränkt oder ausgeschlossen oder unterliegt den anderen in dieser Richtlinie niedergelegten Ausnahmen. Diese Richtlinie stützt sich auf die geltenden Zugangsregelungen der Mitgliedstaaten und berührt nicht die nationalen Vorschriften über den Zugang zu Dokumenten. Sie gilt nicht in den Fällen, in denen Bürger oder juristische Personen die Dokumente nach der einschlägigen Zugangsregelung nur erhalten können, wenn sie ein besonderes Interesse nachweisen können. Auf Unionsebene wird in Artikel 41, mit dem Recht auf eine gute Verwaltung, und in Artikel 42, mit dem Recht auf Zugang zu Dokumenten, der Charta das Recht der Unionsbürgerinnen und Unionsbürger und jeder natürlichen oder juristischen Person mit Wohnsitz oder satzungsmäßigem Sitz in einem Mitgliedstaat auf Zugang zu den Dokumenten im Besitz des Europäischen Parlaments, des Rates und der Kommission anerkannt. Öffentliche Stellen sollten ermutigt werden, alle ihre Dokumente zur Weiterverwendung bereitzustellen. Öffentliche Stellen sollten eine Weiterverwendung von Dokumenten einschließlich amtlicher Rechtsetzungs- und Verwaltungstexte in den Fällen fördern und unterstützen, in denen sie berechtigt sind, die Weiterverwendung zu genehmigen.
+
+
+(24)
+
+
+Die Mitgliedstaaten betrauen häufig Einrichtungen außerhalb des öffentlichen Sektors mit der Erbringung von Dienstleistungen von allgemeinem Interesse und üben ein hohes Maß an Kontrolle über diese Einrichtungen aus. Gleichzeitig gilt die Richtlinie 2003/98/EG ausschließlich für Dokumente, die sich im Besitz öffentlicher Stellen befinden; öffentliche Unternehmen hingegen sind von ihrem Anwendungsbereich ausgeschlossen. Dies führt dazu, dass Dokumente, die im Rahmen der Erbringung von Dienstleistungen von allgemeinem Interesse in einer Reihe von Bereichen, insbesondere im Bereich der Versorgungsunternehmen, erstellt werden, nur in unzureichendem Maße für die Weiterverwendung zur Verfügung stehen. Ferner schränkt dies das Potenzial für die Schaffung grenzüberschreitender Dienste auf der Grundlage von Dokumenten im Besitz öffentlicher Unternehmen ein, die Dienstleistungen von allgemeinem Interesse erbringen.
+
+
+(25)
+
+
+Die Richtlinie 2003/98/EG sollte daher geändert werden, damit sie auf die Weiterverwendung von vorhandenen Dokumenten angewendet werden kann, die im Rahmen der Erbringung von Dienstleistungen von allgemeinem Interesse von öffentlichen Unternehmen erstellt werden, die eine der in den Artikeln 8 bis 14 der Richtlinie 2014/25/EU genannten Tätigkeiten ausüben, sowie von öffentlichen Unternehmen, die als Betreiber eines öffentlichen Dienstes gemäß Artikel 2 der Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates  ( 11 ) gelten, von öffentlichen Unternehmen, die als Luftfahrtunternehmen gemeinwirtschaftliche Verpflichtungen gemäß Artikel 16 der Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates  ( 12 ) erfüllen, und von öffentlichen Unternehmen, die als Gemeinschaftsreeder Verpflichtungen des öffentlichen Dienstes gemäß Artikel 4 der Verordnung (EWG) Nr. 3577/92 des Rates  ( 13 ) erfüllen.
+
+
+(26)
+
+
+Diese Richtlinie enthält keine allgemeine Verpflichtung zur Gestattung der Weiterverwendung von Dokumenten, die von öffentlichen Unternehmen erstellt werden. Die Entscheidung, ob eine Weiterverwendung genehmigt wird, sollte Sache des betreffenden öffentlichen Unternehmens sein, sofern eine solche Verpflichtung nicht anderweitig gemäß der vorliegenden Richtlinie, dem Unionsrecht oder dem nationalen Recht besteht. Erst nachdem das öffentliche Unternehmen ein Dokument zur Weiterverwendung bereitgestellt hat, sollte es die einschlägigen Verpflichtungen gemäß den Kapiteln III und IV dieser Richtlinie erfüllen, insbesondere in Bezug auf Formate, Gebühren und Entgelte, Transparenz, Lizenzen, die Nichtdiskriminierung und das Verbot von Ausschließlichkeitsvereinbarungen. Andererseits sollten öffentliche Unternehmen nicht verpflichtet sein, die Anforderungen des Kapitels II — darunter die Vorschriften für die Bearbeitung von Anträgen — zu erfüllen. Bei der Genehmigung einer Weiterverwendung von Dokumenten sollte insbesondere auf sensible vertrauliche Informationen über den Schutz kritischer Infrastrukturen im Sinne der Richtlinie 2008/114/EG des Rates  ( 14 ) und wesentlicher Dienste im Sinne der Richtlinie (EU) 2016/1148 des Europäischen Parlaments und des Rates  ( 15 ) geachtet werden.
+
+
+(27)
+
+
+Der Umfang der in der Forschung erzeugten Daten nimmt exponentiell zu und es besteht Potential für die Weiterverwendung von Daten über wissenschaftliche Kreise hinaus. Um in der Lage zu sein, die gesellschaftlichen Herausforderungen effizient und ganzheitlich anzugehen, ist es wesentlich und dringend erforderlich, Daten aus verschiedenen Quellen über Sektoren und Disziplinen hinweg zugänglich machen, zusammenführen und weiterverwenden zu können. Zu den Forschungsdaten gehören Statistiken, Versuchsergebnisse, Messungen, Beobachtungen aus der Feldarbeit, Umfrageergebnisse, Befragungsaufzeichnungen und Bilder. Auch Metadaten, Spezifikationen und andere digitale Objekte sind Teil davon. Forschungsdaten unterscheiden sich von wissenschaftlichen Artikeln, in denen die Ergebnisse wissenschaftlicher Forschung vorgestellt und kommentiert werden. Seit vielen Jahren sind die offene Verfügbarkeit und Weiterverwendbarkeit wissenschaftlicher Forschungsdaten, die aus öffentlichen Mitteln finanziert wurden, Gegenstand besonderer politischer Initiativen. „Offener Zugang“ ist als die Praxis zu verstehen, Forschungsergebnisse dem Endnutzer kostenlos und ohne Beschränkung der Verwendung und Weiterverwendung, abgesehen von der Möglichkeit, die Nennung des Urhebers zu verlangen, online verfügbar zu machen. Die Politik des offenen Zugangs zielt insbesondere darauf ab, Forschern und der breiten Öffentlichkeit möglichst früh im Verbreitungsprozess Zugang zu Forschungsdaten zu geben und ihre Nutzung und Weiterverwendung zu erleichtern. Ein offener Zugang trägt dazu bei, die Qualität zu verbessern, die Notwendigkeit unnötiger Doppelarbeit in der Forschung zu verringern, den wissenschaftlichen Fortschritt zu beschleunigen und den wissenschaftlichen Betrug zu bekämpfen; außerdem kann er Wirtschaftswachstum und Innovation insgesamt fördern. Neben dem freien Zugang werden anerkennenswerte Bemühungen unternommen, um sicherzustellen, dass die Planung des Datenmanagements gängige wissenschaftliche Praxis wird, und um die Verbreitung von auffindbaren, zugänglichen, interoperablen und weiterverwendbaren (im Folgenden „FAIR-Grundsatz“) Forschungsdaten zu unterstützen.
+
+
+(28)
+
+
+Aus den oben dargelegten Gründen ist es angezeigt, den Mitgliedstaaten die Verpflichtung aufzuerlegen, Strategien für den offenen Zugang in Bezug auf öffentlich finanzierte Forschungsdaten aufzustellen und dafür zu sorgen, dass diese Strategien von allen Forschungseinrichtungen und Forschungsförderungseinrichtungen umgesetzt werden. Forschungseinrichtungen und Forschungsförderungseinrichtungen könnten auch als öffentliche Stellen oder öffentliche Unternehmen eingerichtet sein. Die vorliegende Richtlinie gilt für solche Hybridorganisationen nur in ihrer Funktion als Forschungseinrichtungen und bezüglich ihrer Forschungsdaten. Die Politik des offenen Zugangs lässt in der Regel Ausnahmen von der öffentlichen Bereitstellung wissenschaftlicher Forschungsergebnisse zu. Die Empfehlung der Kommission vom 25. April 2018 über den Zugang zu wissenschaftlichen Informationen und deren Bewahrung geht unter anderem auf die einschlägigen Aspekte der Politik des offenen Zugangs ein. Darüber hinaus sollten die Bedingungen, unter denen bestimmte Forschungsdaten weiterverwendet werden können, verbessert werden. Aus diesem Grund sollten bestimmte Verpflichtungen nach dieser Richtlinie auf Forschungsdaten ausgeweitet werden, die aus mit öffentlichen Mitteln finanzierten oder von öffentlichen und privaten Einrichtungen kofinanzierten wissenschaftlichen Forschungstätigkeiten stammen. Gemäß der nationalen Politik des offenen Zugangs (open access) sollten öffentlich finanzierte Forschungsdaten standardmäßig öffentlich gemacht werden. In diesem Zusammenhang sollten jedoch Bedenken in Bezug auf den Schutz der Privatsphäre und personenbezogener Daten, die Geheimhaltung, die nationale Sicherheit, berechtigte Geschäftsinteressen, wie etwa Geschäftsgeheimnisse, und Rechte Dritter an geistigem Eigentum gemäß dem Grundsatz „so offen wie möglich, so geschlossen wie nötig“ (as open as possible, as closed as necessary) gebührend berücksichtigt werden. Darüber hinaus sollte diese Richtlinie nicht für Forschungsdaten gelten, zu denen aufgrund der nationalen Sicherheit, Verteidigung oder öffentlichen Sicherheit der Zugang ausgeschlossen ist. Um Verwaltungsaufwand zu vermeiden, sollten Verpflichtungen, die sich aus der vorliegenden Richtlinie ergeben, nur für solche Forschungsdaten gelten, die von Forschern, Forschungseinrichtungen oder Forschungsförderungseinrichtungen bereits über ein institutionelles oder thematisches Archiv öffentlich zugänglich gemacht wurden, und diese Verpflichtungen sollten keine zusätzlichen Kosten für den Abruf der Datensätze verursachen oder eine zusätzliche Pflege der Daten erforderlich machen. Die Mitgliedstaaten können den Anwendungsbereich der vorliegenden Richtlinie auch auf Forschungsdaten ausweiten, die durch andere Dateninfrastrukturen als durch Archive — durch frei zugängliche Veröffentlichungen, als angehängte Datei an einen Artikel, an ein Data Paper oder an ein Paper in einem Datenjournal — öffentlich verfügbar gemacht wurden. Andere Arten von Dokumenten als Forschungsdaten sollten weiterhin vom Anwendungsbereich dieser Richtlinie ausgenommen werden.
+
+
+(29)
+
+
+Die Begriffsbestimmung „öffentliche Stelle“ gründet auf Begriffsbestimmung in Artikel 2 Absatz 1 Nummer 1 der Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates  ( 16 ) . Die Begriffsbestimmung „Einrichtung des öffentlichen Rechts“ aus jener Richtlinie und Begriffsbestimmung „öffentliches Unternehmen“ aus der Richtlinie 2014/25/EU sollten für die vorliegende Richtlinie gelten.
+
+
+(30)
+
+
+Diese Richtlinie gibt eine Definition des Begriffs „Dokument“ vor, und diese Begriffsbestimmung sollte alle Teile eines Dokuments umfassen. Der Begriff „Dokument“ sollte jede Darstellung von Handlungen, Tatsachen oder Informationen sowie jede Zusammenstellung solcher Handlungen, Tatsachen oder Informationen unabhängig von der Form des Datenträgers (auf Papier oder in elektronischer Form, Ton-, Bild- oder audiovisuelles Material) umfassen. Der Begriff „Dokument“ erstreckte sich nicht auf Computerprogramme. Die Mitgliedstaaten können den Anwendungsbereich dieser Richtlinie auf Computerprogramme ausweiten.
+
+
+(31)
+
+
+Öffentliche Stellen machen ihre Dokumente zunehmend aktiv für eine Weiterverwendung zugänglich, indem sie dafür sorgen, dass Dokumente und damit zusammenhängende Metadaten in einem offenen Format, die maschinenlesbar sind und Interoperabilität, Weiterverwendung und Zugänglichkeit sicherstellen, online auffindbar und tatsächlich verfügbar sind. Dokumente sollten auch auf Antrag eines Weiterverwenders zur Weiterverwendung zugänglich gemacht werden. In diesen Fällen sollte die Frist für die Beantwortung von Anträgen auf Weiterverwendung angemessen sein und der Frist für die Beantwortung von Anträgen auf Zugang zu den Dokumenten nach den einschlägigen Zugangsregelungen entsprechen. Öffentliche Unternehmen, Bildungseinrichtungen, Forschungseinrichtungen und Forschungsförderungseinrichtungen sollten von dieser Anforderung jedoch ausgenommen werden. Angemessene Fristen in der gesamten Union werden die Erstellung neuer Informationsprodukte und -dienste unionsweit fördern. Dies ist besonders wichtig bei dynamischen Daten (einschließlich Umweltdaten, Verkehrsdaten, Satellitendaten, meteorologische Daten und von Sensoren generierte Daten), deren wirtschaftlicher Wert von ihrer sofortigen Verfügbarkeit und von regelmäßigen Aktualisierungen abhängt. Dynamische Daten sollten daher unmittelbar nach der Erhebung oder, im Falle einer manuellen Aktualisierung, unmittelbar nach der Änderung des Datensatzes über eine Anwendungsprogrammierschnittstelle (im Folgenden „API“) zur Verfügung gestellt werden, um die Entwicklung von Internet-, Mobil- und Cloud-Anwendungen auf der Grundlage solcher Daten zu erleichtern. Ist dies aufgrund technischer oder finanzieller Beschränkungen nicht möglich, so sollten die öffentlichen Stellen die Dokumente innerhalb eines Zeitraums zur Verfügung stellen, der es ermöglicht, ihr volles wirtschaftliches Potenzial zu nutzen. Es sollten spezifische Maßnahmen ergriffen werden, um technische und finanzielle Beschränkungen aufzuheben. Sollte eine Lizenz verwendet werden, so kann die rechtzeitige Verfügbarkeit von Dokumenten Teil der Lizenzbedingungen sein. Wenn angesichts berechtigter Gründe des öffentlichen Interesses, insbesondere der öffentlichen Gesundheit und Sicherheit, eine Datenverifizierung unerlässlich ist, sollten dynamische Daten unmittelbar nach einer Verifizierung verfügbar gemacht werden. Solch eine unerlässliche Verifizierung sollte sich nicht auf die Häufigkeit der Aktualisierungen auswirken.
+
+
+(32)
+
+
+Um Zugang zu den durch diese Richtlinie für eine Weiterverwendung eröffneten Daten zu erhalten, wäre es sinnvoll, den Zugang zu dynamischen Daten mittels gut konzipierter APIs sicherzustellen. Eine API ist ein Bestand an Funktionen, Verfahren, Definitionen und Protokollen für die Maschine-zu-Maschine-Kommunikation und den lückenlosen Datenaustausch. APIs sollten durch eine klare technische Dokumentation gestützt werden, die vollständig und online verfügbar ist. Nach Möglichkeit sollten offene APIs genutzt werden. Es sollten in der Union oder international anerkannte Standardprotokolle zur Anwendung kommen, und gegebenenfalls sollten internationale Standards für Datensätze verwendet werden. APIs können unterschiedlich komplex sein; es kann sich um einen einfachen Link zu einer Datenbank, von der bestimmte Datensätze abgerufen werden, eine Web-Schnittstelle oder komplexere Strukturen handeln. Die Weiterverwendung und der Austausch von Daten durch eine angemessene Verwendung von APIs sind von allgemeinem Wert, da dadurch Entwickler und Start-ups bei der Entwicklung neuer Dienstleistungen und Produkte unterstützt werden. Außerdem handelt es sich um einen wesentlichen Faktor für die Schaffung wertvoller Ökosysteme rund um Datenbestände, die häufig ungenutzt bleiben. Die Einrichtung und Verwendung der API muss sich auf mehrere Grundsätze stützen, darunter Verfügbarkeit, Stabilität, Pflege über den gesamten Lebenszyklus, einheitliche Verwendung und Einhaltung von Normen, Benutzerfreundlichkeit und Sicherheit. Dynamische, d. h. häufig — oftmals in Echtzeit — aktualisierte Daten sollten von öffentlichen Stellen und öffentlichen Unternehmen unmittelbar nach der Erfassung mithilfe geeigneter APIs und gegebenenfalls — außer in Fällen, in denen dies einen unverhältnismäßig hohen Aufwand bedeuten würde — als Massen-Download für die Weiterverwendung zugänglich gemacht werden. Bei der Beurteilung der Verhältnismäßigkeit des Aufwands sollten die Größe und das Betriebsbudget der betreffenden öffentlichen Stelle oder des öffentlichen Unternehmens berücksichtigt werden.
+
+
+(33)
+
+
+Die Möglichkeiten für eine Weiterverwendung können verbessert werden, indem die Notwendigkeit, Papierdokumente zu digitalisieren oder digitale Dateien zu bearbeiten, damit sie untereinander kompatibel sind, verringert wird. Daher sollten öffentliche Stellen Dokumente in allen vorhandenen Formaten oder Sprachen — soweit möglich und sinnvoll — in elektronischer Form zur Verfügung stellen. Öffentliche Stellen sollten Anträge auf Bereitstellung von Auszügen aus vorhandenen Dokumenten positiv beurteilen, wenn einem solchen Antrag bereits durch eine einfache Handhabung entsprochen werden kann. Öffentliche Stellen sollten jedoch nicht verpflichtet sein, einen Auszug aus einem Dokument zur Verfügung zu stellen oder das Format der angeforderten Informationen zu ändern, wenn dies mit einem unverhältnismäßig hohen Aufwand verbunden ist. Um die Weiterverwendung zu erleichtern, sollten die öffentlichen Stellen ihre eigenen Dokumente in einem Format zur Verfügung stellen, das — soweit möglich und sinnvoll — nicht von der Verwendung einer bestimmten Software abhängig ist. Soweit es möglich und sinnvoll ist, sollten die öffentlichen Stellen die Möglichkeiten der Weiterverwendung von Dokumenten durch und für Menschen mit Behinderungen berücksichtigen, indem sie gemäß den Bestimmungen der Richtlinie (EU) 2016/2102 des Europäischen Parlaments und des Rates  ( 17 ) die Informationen in einem barrierefrei zugänglichen Format bereitstellen.
+
+
+(34)
+
+
+Zur Erleichterung der Weiterverwendung sollten öffentliche Stellen, soweit möglich und sinnvoll, die Dokumente — einschließlich solcher, die auf Websites veröffentlicht werden — in einem offenen, maschinenlesbaren Format und zusammen mit den zugehörigen Metadaten in höchstmöglicher Präzision und Granularität in einem Format zugänglich machen, das die Interoperabilität garantiert, indem sie die Dokumente beispielsweise in einer Weise verarbeiten, die den Grundsätzen für Kompatibilitäts- und Verwendbarkeitsanforderungen an Geodaten gemäß der Richtlinie 2007/2/EG entspricht.
+
+
+(35)
+
+
+Ein Dokument sollte als maschinenlesbar gelten, wenn es in einem Dateiformat vorliegt, das so strukturiert ist, dass Softwareanwendungen die konkreten Daten einfach identifizieren, erkennen und extrahieren können. Daten in Dateien, die in maschinenlesbarem Format strukturiert sind, sollten als maschinenlesbare Daten gelten. Ein maschinenlesbares Format kann offen oder proprietär sein. Es kann einem formellen Standard entsprechen oder nicht. Dokumente, die in einem Dateiformat kodiert sind, das eine automatische Verarbeitung einschränkt, weil die Daten nicht oder nicht ohne Weiteres aus ihnen extrahiert werden können, sollten nicht als maschinenlesbar gelten. Die Mitgliedstaaten sollten die Anwendung in der Union oder international anerkannter offener, maschinenlesbarer Formate — wo dies möglich und angemessen ist — fördern. Bei der Entwicklung technischer Lösungen für die Weiterverwendung von Dokumenten sollte gegebenenfalls der europäische Interoperabilitätsrahmen berücksichtigt werden.
+
+
+(36)
+
+
+Gebühren und Entgelte für die Weiterverwendung von Dokumenten stellen eine bedeutende Markteintrittsschranke für Start-ups und KMU dar. Daher sollten Dokumente für die Weiterverwendung kostenfrei zugänglich gemacht werden; sollten Gebühren oder Entgelte erforderlich sein, so sollten sie grundsätzlich auf die Grenzkosten beschränkt sein. Wenn öffentliche Stellen freiwillig oder aufgrund einer entsprechenden Anforderung gemäß nationalem Recht eine besonders ausführliche Suche nach angeforderten Informationen oder äußerst kostenaufwendige Änderungen am Format der angeforderten Informationen vornehmen, können die Grenzkosten die Kosten im Zusammenhang mit solchen Tätigkeiten decken. Dabei sollte in Ausnahmefällen insbesondere die Notwendigkeit berücksichtigt werden, den normalen Betrieb öffentlicher Stellen, die Einnahmen erzielen müssen, um einen wesentlichen Teil ihrer Kosten bei der Wahrnehmung ihres öffentlichen Auftrags zu decken, nicht zu behindern. Dies gilt auch, wenn eine öffentliche Stelle Daten als offene Daten öffentlich verfügbar gemacht hat, aber dazu verpflichtet ist, Einnahmen zu erzielen, um einen wesentlichen Teil der Kosten bei der Wahrnehmung ihres sonstigen öffentlichen Auftrags zu decken. Ferner sollte die Rolle öffentlicher Unternehmen in einem wettbewerbsbestimmten wirtschaftlichen Umfeld anerkannt werden. In solchen Fällen sollte es öffentlichen Stellen und öffentlichen Unternehmen daher erlaubt sein, Gebühren oder Entgelte zu erheben, die über den Grenzkosten liegen. Diese Gebühren oder Entgelte sollten nach objektiven, transparenten und überprüfbaren Kriterien festgelegt werden, und die Gesamteinnahmen aus der Bereitstellung von Dokumenten und der Gestattung ihrer Weiterverwendung sollten die Kosten ihrer Erfassung und Erstellung, — einschließlich des Erwerbs von Dritten —, ihrer Reproduktion, Pflege, Speicherung und Verbreitung zuzüglich einer angemessenen Gewinnspanne nicht übersteigen. Gegebenenfalls sollte es auch möglich sein, die Kosten der Anonymisierung personenbezogener Daten und die Kosten von Maßnahmen zum Schutz der Vertraulichkeit von Daten geltend zu machen. Die Mitgliedstaaten können öffentliche Stellen und öffentliche Unternehmen zur Offenlegung dieser Kosten verpflichten. Die Anforderung, Einnahmen zu erzielen, um einen wesentlichen Teil der Kosten der öffentlichen Stellen bei der Wahrnehmung ihres öffentlichen Auftrags oder der Kosten im Zusammenhang mit dem Umfang der öffentlichen Unternehmen übertragenen nichtwirtschaftlichen Dienstleistungen von allgemeinem Interesse zu decken, setzt keine gesetzliche Grundlage voraus und kann sich beispielsweise aus der Verwaltungspraxis in den Mitgliedstaaten ergeben. Eine solche Anforderung sollte von den Mitgliedstaaten regelmäßig überprüft werden.
+
+
+(37)
+
+
+Die Gewinnspanne kann als Prozentsatz verstanden werden, der — zusätzlich zu den Grenzkosten — die Deckung der Kapitalkosten und die Einbeziehung einer realen Rendite ermöglicht. Da die Kapitalkosten eng an die Zinssätze der Kreditinstitute gekoppelt sind, die wiederum von den Festzinssätzen der Europäischen Zentralbank (EZB) für Hauptrefinanzierungsgeschäfte abhängen, sollte die angemessene Gewinnspanne nicht mehr als 5 % über dem von der EZB festgesetzten Zinssatz liegen.
+
+
+(38)
+
+
+Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archiven sollte es möglich sein, Gebühren zu erheben, die über den Grenzkosten liegen, damit ihr normaler Betrieb nicht behindert wird. Bei diesen öffentlichen Stellen sollten die Gesamteinnahmen aus der Bereitstellung von Dokumenten und der Gestattung ihrer Weiterverwendung für den entsprechenden Abrechnungszeitraum die Kosten ihrer Erfassung, Erstellung, Reproduktion, Verbreitung, Bewahrung und der Rechteklärung zuzüglich einer angemessenen Gewinnspanne nicht übersteigen. Gegebenenfalls sollten auch die Kosten der Anonymisierung personenbezogener Daten oder von Geschäftsgeheimnissen geltend gemacht werden können. In Bezug auf Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archive und angesichts ihrer Besonderheiten könnten die Entgelte, die im Privatsektor für die Weiterverwendung identischer oder ähnlicher Dokumente erhoben werden, bei der Ermittlung der angemessenen Gewinnspanne berücksichtigt werden.
+
+
+(39)
+
+
+Die in dieser Richtlinie festgelegten Obergrenzen für Gebühren und Entgelte sollten nicht das Recht der Mitgliedstaaten berühren, niedrigere oder gar keine Gebühren oder Entgelte zu erheben.
+
+
+(40)
+
+
+Die Mitgliedstaaten sollten die Kriterien für die Erhebung von Gebühren oder Entgelten festlegen, die über den Grenzkosten liegen. Sie sollten beispielsweise solche Kriterien in nationalen Vorschriften niederlegen oder die geeignete Stelle oder die geeigneten Stellen benennen können, die für die Festlegung der Kriterien zuständig ist oder sind, wobei dies nicht die öffentliche Stelle selbst sein darf. Die Ausgestaltung dieser Stelle bzw. dieser Stellen sollte mit den Verfassungs- und Rechtsordnungen der Mitgliedstaaten im Einklang stehen. Es könnte sich hierbei um eine bereits bestehende Stelle handeln, die mit Haushaltsbefugnissen ausgestattet ist und unter politischer Verantwortung steht.
+
+
+(41)
+
+
+Die Gewährleistung der Klarheit und öffentlichen Verfügbarkeit der Bedingungen für die Weiterverwendung von Dokumenten des öffentlichen Sektors ist eine Voraussetzung für die Entwicklung eines unionsweiten Informationsmarktes. Deshalb sollten alle geltenden Bedingungen für die Weiterverwendung von Dokumenten allen potenziellen Weiterverwendern erläutert werden. Die Mitgliedstaaten sollten zur Unterstützung und Erleichterung der Anträge auf Weiterverwendung die Anlage von gegebenenfalls online zugänglichen Verzeichnissen der verfügbaren Dokumente fördern. Antragsteller, die die Weiterverwendung von Dokumenten beantragt haben, die sich im Besitz von anderen Einrichtungen als öffentlichen Unternehmen, Bildungseinrichtungen, Forschungseinrichtungen und Forschungsförderungseinrichtungen befinden, sollten über die verfügbaren Rechtsbehelfe hinsichtlich der sie betreffenden Entscheidungen oder Verfahren unterrichtet werden. Dies wird insbesondere für Start-ups und KMU wichtig sein, die möglicherweise mit dem Umgang mit öffentlichen Stellen anderer Mitgliedstaaten und den entsprechenden Rechtsbehelfen nicht vertraut sind.
+
+
+(42)
+
+
+Zu den Rechtsbehelfen sollte die Möglichkeit der Überprüfung durch eine unabhängige Überprüfungsinstanz gehören. Diese Instanz könnte eine bereits bestehende nationale Behörde sein, wie zum Beispiel die nationale Wettbewerbsbehörde, die gemäß der Verordnung (EU) 2016/679 eingerichtete Aufsichtsbehörde, die für den Zugang zu Dokumenten zuständige nationale Behörde oder ein nationales Gericht. Die Arbeitsweise dieser Stelle sollte mit den Verfassungs- und Rechtsordnungen der Mitgliedstaaten im Einklang stehen. Die Anrufung dieser Stelle sollte nicht den anderen Rechtsbehelfen vorgreifen, die den Antragstellern, die die Weiterverwendung von Dokumenten beantragt haben, zur Verfügung stehen. Sie sollte jedoch von dem Mechanismus der Mitgliedstaaten zur Festlegung der Kriterien für die Erhebung von Gebühren oder Entgelten, die über die Grenzkosten hinausgehen, getrennt sein. Die Rechtsbehelfe sollten die Möglichkeit der Überprüfung abschlägiger Entscheidungen umfassen, jedoch auch von Entscheidungen, in deren Rahmen die Weiterverwendung zwar erlaubt wird, die die Antragsteller jedoch aus anderen Gründen beeinträchtigen könnten, und zwar insbesondere durch die geltende Gebührenordnung. Dieses Überprüfungsverfahren sollte im Einklang mit den Anforderungen eines sich rasch verändernden Marktes zügig vonstattengehen.
+
+
+(43)
+
+
+Die Offenlegung aller allgemein verfügbaren Dokumente, die sich im Besitz des öffentlichen Sektors befinden — die nicht nur die Politik, sondern auch die Justiz und die Verwaltung betreffen — ist ein grundlegendes Mittel zur Erweiterung des Rechts auf Wissen, das wiederum ein Grundpfeiler der Demokratie ist. Diese Zielvorgabe gilt für Institutionen auf allen Ebenen, das heißt auf lokaler, nationaler und internationaler Ebene.
+
+
+(44)
+
+
+Die Weiterverwendung von Dokumenten sollte keinen Bedingungen unterliegen. In einigen Fällen, in denen ein im Allgemeininteresse liegendes Ziel vorliegt, kann jedoch eine Lizenz erteilt werden, in der die Bedingungen für die Weiterverwendung durch den Lizenznehmer, wie die Haftung, der Schutz personenbezogener Daten, die ordnungsgemäße Verwendung der Dokumente, die Garantie der unveränderten Wiedergabe und der Quellennachweis, festgelegt sind. Falls öffentliche Stellen Lizenzen für die Weiterverwendung von Dokumenten vergeben, sollten die Lizenzbedingungen objektiv, verhältnismäßig und nichtdiskriminierend sein. In dieser Hinsicht können auch Standardlizenzen, die online zur Verfügung stehen, eine wichtige Rolle spielen. Die Mitgliedstaaten sollten deshalb für die Verfügbarkeit von Standardlizenzen sorgen. Lizenzen für die Weiterverwendung von Informationen des öffentlichen Sektors sollten jedenfalls die Weiterverwendung so wenig wie möglich beschränken, beispielsweise nur im Hinblick auf die Angabe der Quelle. Offene Lizenzen in Form von standardisierten öffentlichen Lizenzen, die online erteilt werden und es ermöglichen, dass jede Person Daten und Inhalte zu jedem Zweck frei abrufen, verwenden, verändern und weitergeben kann, und die auf offenen Datenformaten beruhen, sollten in diesem Zusammenhang ebenfalls eine wichtige Rolle spielen. Deshalb sollten die Mitgliedstaaten die Verwendung offener Lizenzen fördern, die letztlich überall in der Union zur gängigen Praxis werden sollten. Wenn eine öffentliche Stelle oder ein öffentliches Unternehmen Dokumente ohne weitere Bedingungen oder Einschränkungen zur Weiterverwendung zur Verfügung stellt, kann dieser öffentlichen Stelle oder diesem öffentlichen Unternehmen gestattet werden, jedwede Haftung in Bezug auf die für die Weiterverwendung verfügbar gemachten Dokumente auszuschließen; Haftungsvorschriften nach Unionsrecht oder nationalem Recht bleiben hiervon unberührt.
+
+
+(45)
+
+
+Entscheidet sich die zuständige Behörde, bestimmte Dokumente nicht mehr für die Weiterverwendung zur Verfügung zu stellen oder diese Dokumente nicht mehr zu aktualisieren, so sollte sie diese Entscheidung so bald wie möglich, möglichst auf elektronischem Weg, bekannt geben.
+
+
+(46)
+
+
+Die Bedingungen für die Weiterverwendung sollten für vergleichbare Kategorien der Weiterverwendung nichtdiskriminierend sein. In dieser Hinsicht sollte das Diskriminierungsverbot z. B. nicht verhindern, dass öffentliche Stellen in Erfüllung ihres öffentlichen Auftrags Informationen kostenfrei austauschen, während Dritte für die Weiterverwendung derselben Dokumente Gebühren oder Entgelte entrichten müssen. Ebenso wenig sollte es verhindern, dass für die kommerzielle und die nichtkommerzielle Weiterverwendung unterschiedliche Gebühren oder Entgelte festgelegt werden.
+
+
+(47)
+
+
+Die Mitgliedstaaten sollten insbesondere sicherstellen, dass die Weiterverwendung von Dokumenten öffentlicher Unternehmen nicht zu Marktverzerrungen führt und den fairen Wettbewerb nicht beeinträchtigt.
+
+
+(48)
+
+
+Bei der Aufstellung der Grundsätze für die Weiterverwendung von Dokumenten sollten öffentliche Stellen die Wettbewerbsvorschriften der Union und die nationalen einhalten und Ausschließlichkeitsvereinbarungen zwischen ihnen und privaten Partnern nach Möglichkeit vermeiden. Für die Bereitstellung eines Dienstes von allgemeinem wirtschaftlichen Interesse kann jedoch in manchen Fällen ein ausschließliches Recht auf Weiterverwendung spezifischer Dokumente des öffentlichen Sektors erforderlich sein. Dies kann der Fall sein, wenn kein kommerzieller Verleger die Informationen ohne ein solches ausschließliches Recht veröffentlichen würde. In diesem Zusammenhang ist es angemessen, öffentliche Dienstleistungsaufträge, die gemäß Artikel 11 vom Anwendungsbereich der Richtlinie 2014/24/EU ausgenommen sind, und Innovationspartnerschaften gemäß Artikel 31 der Richtlinie 2014/24/EU zu berücksichtigen.
+
+
+(49)
+
+
+Es gibt zahlreiche Kooperationsvereinbarungen zwischen Bibliotheken (einschließlich Hochschulbibliotheken), Museen, Archiven und privaten Partnern zur Digitalisierung von Kulturbeständen, bei denen öffentliche Stellen privaten Partnern ausschließliche Rechte gewähren. Die Praxis hat gezeigt, dass mit diesen öffentlich-privaten Partnerschaften eine sinnvolle Nutzung von Kulturbeständen erleichtert und gleichzeitig die Erschließung des kulturellen Erbes für die Öffentlichkeit beschleunigt werden kann. Daher ist es angezeigt, den derzeit in Bezug auf die Digitalisierung von Kulturbeständen bestehenden Unterschieden zwischen den Mitgliedstaaten durch besondere Vorschriften für Vereinbarungen über die Digitalisierung dieser Bestände Rechnung zu tragen. Betrifft ein ausschließliches Recht die Digitalisierung von Kulturbeständen, so kann eine bestimmte Schutzdauer erforderlich sein, damit der private Partner die Möglichkeit hat, seine Investition zu amortisieren. Entsprechend dem Grundsatz, dass gemeinfreies Material nach seiner Digitalisierung gemeinfrei bleiben sollte, sollte dieser Zeitraum jedoch so kurz wie möglich sein. Die Dauer des ausschließlichen Rechts zur Digitalisierung von Kulturbeständen sollte im Allgemeinen zehn Jahre nicht überschreiten. Wird ein ausschließliches Recht für einen Zeitraum von mehr als zehn Jahren gewährt, so sollte dieser überprüft werden, wobei bei dieser Überprüfung den technologischen, finanziellen und verwaltungstechnischen Änderungen des Umfelds Rechnung getragen werden sollte, die seit Vertragsbeginn stattgefunden haben. Darüber hinaus sollten im Rahmen öffentlich-privater Partnerschaften für die Digitalisierung von Kulturbeständen der kulturellen Partnereinrichtung alle Rechte in Bezug auf die Nutzung der digitalisierten Kulturbestände nach Vertragsende gewährt werden.
+
+
+(50)
+
+
+Vereinbarungen zwischen Inhabern und Weiterverwendern von Daten, die nicht ausdrücklich ausschließliche Rechte gewähren, bei denen aber davon ausgegangen werden kann, dass sie die Verfügbarkeit von Dokumenten zur Weiterverwendung beschränken, sollten einer zusätzlichen öffentlichen Prüfung unterzogen werden. Daher sollten die wesentlichen Aspekte solcher Vereinbarungen mindestens zwei Monate vor ihrem Inkrafttreten online veröffentlicht werden, nämlich zwei Monate vor dem vereinbarten Tag, an dem die Erbringung der Verpflichtungen der Parteien beginnen soll. Durch die Veröffentlichung soll den interessierten Parteien die Gelegenheit gegeben werden, die Weiterverwendung der unter diese Vereinbarungen fallenden Dokumente zu beantragen und die Gefahr zu vermeiden, dass das Spektrum potenzieller Weiterverwender eingeschränkt wird. In jedem Fall sollten nach Abschluss solcher Vereinbarungen die wesentlichen Aspekte in ihrer endgültigen, zwischen den Parteien vereinbarten Fassung ebenfalls ohne ungebührliche Verzögerung online öffentlich bekannt gemacht werden.
+
+
+(51)
+
+
+Mit dieser Richtlinie soll das Risiko überzogener Vorreitervorteile minimiert werden, die die Zahl potenzieller Weiterverwender der Daten begrenzen könnten. Ist es wahrscheinlich, dass vertragliche Vereinbarungen zusätzlich zu den Verpflichtungen eines Mitgliedstaats zur Bereitstellung von Dokumenten im Rahmen dieser Richtlinie bewirken, dass staatliche Mittel jenes Mitgliedstaats im Sinne des Artikels 107 Absatz 1 AEUV übertragen werden, so sollte diese Richtlinie die Anwendung der in den Artikeln 101 bis 109 AEUV niedergelegten Vorschriften über den Wettbewerb und staatliche Beihilfen unberührt lassen. Aus den Vorschriften über staatliche Beihilfen gemäß den Artikeln 107, 108 und 109 AEUV geht hervor, dass der Mitgliedstaat vorab zu prüfen hat, ob staatliche Beihilfen möglicherweise in der betreffenden vertraglichen Vereinbarung eine Rolle spielen, und dass er die Einhaltung der Vorschriften über staatliche Beihilfen sicherstellen muss.
+
+
+(52)
+
+
+Diese Richtlinie wirkt sich nicht auf den Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten gemäß dem Unionsrecht und dem nationalen Recht, insbesondere nach der Verordnung (EU) 2016/679 und der Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates  ( 18 ) , und einschließlich aller ergänzender Bestimmungen des nationalen Rechts aus. Dies bedeutet unter anderem, dass die Weiterverwendung personenbezogener Daten nur zulässig ist, wenn der Grundsatz der Zweckbindung nach Artikel 5 Absatz 1 Buchstabe b und Artikel 6 der Verordnung (EU) 2016/679 eingehalten wird. Anonyme Informationen sind Informationen, die sich nicht auf eine identifizierte oder identifizierbare natürliche Person beziehen, bzw. Informationen, die sich auf personenbezogene Daten beziehen, die so anonymisiert wurden, dass die betroffene Person nicht oder nicht mehr identifiziert werden kann. Die Anonymisierung von Informationen stellt ein Mittel dar, um das Interesse daran, Informationen des öffentlichen Sektors möglichst weiterverwendbar zu machen, und die aus dem Datenschutzrecht erwachsenden Verpflichtungen miteinander zu vereinbaren; sie verursacht jedoch Kosten. Es ist angemessen, diese Kosten als eine der Kostenpositionen zu betrachten, die zu den in dieser Richtlinie genannten Grenzkosten der Weiterverbreitung zählen.
+
+
+(53)
+
+
+Bei Entscheidungen über den Umfang und die Bedingungen der Weiterverwendung von Dokumenten des öffentlichen Sektors, die personenbezogene Daten enthalten, zum Beispiel im Gesundheitssektor, müssen möglicherweise Datenschutz-Folgenabschätzungen gemäß Artikel 35 der Verordnung (EU) 2016/679 vorgenommen werden.
+
+
+(54)
+
+
+Rechte Dritter an geistigem Eigentum werden von dieser Richtlinie nicht berührt. Zur Vermeidung von Unklarheiten bezieht sich der Begriff „Rechte des geistigen Eigentums“ ausschließlich auf das Urheberrecht und verwandte Schutzrechte, einschließlich Sui-generis-Schutzrechten. Diese Richtlinie gilt nicht für Dokumente, die von gewerblichen Schutzrechten erfasst werden, wie Patente sowie eingetragene Muster und Marken. Die Richtlinie berührt weder das Bestehen von Rechten öffentlicher Stellen an geistigem Eigentum oder deren Inhaberschaft daran und schränkt auch nicht die Wahrnehmung dieser Rechte über die in dieser Richtlinie gesetzten Grenzen hinaus ein. Die sich gemäß dieser Richtlinie ergebenden Verpflichtungen sollten nur insoweit gelten, als sie mit völkerrechtlichen Übereinkommen zum Schutz der Rechte des geistigen Eigentums, insbesondere der Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst (Berner Übereinkunft), dem Übereinkommen über handelsbezogene Aspekte der Rechte des geistigen Eigentums (TRIPS-Übereinkommen) und dem WIPO-Urheberrechtsvertrag (WCT) vereinbar sind. Öffentliche Stellen sollten ihre Urheberrechte jedoch auf eine Weise ausüben, die eine Weiterverwendung erleichtert.
+
+
+(55)
+
+
+Unter Berücksichtigung des Unionsrechts sowie der von den Mitgliedstaaten und der Union eingegangenen völkerrechtlichen Verpflichtungen, insbesondere der Berner Übereinkunft und des TRIPS-Übereinkommens, sollten Dokumente, die geistiges Eigentum Dritter sind, aus dem Anwendungsbereich dieser Richtlinie ausgenommen werden. War ein Dritter ursprünglicher Eigentümer der Rechte am geistigen Eigentum eines Dokuments, das sich nun im Besitz von Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archiven, befindet, und ist die Schutzdauer dieser Rechte noch nicht abgelaufen, so sollte dieses Dokument im Sinne dieser Richtlinie als ein Dokument gelten, an dem Dritte ein geistiges Eigentumsrecht innehaben.
+
+
+(56)
+
+
+Diese Richtlinie berührt nicht die Rechte, einschließlich des wirtschaftlichen Rechts und des Urheberpersönlichkeitsrechts, die den Beschäftigten öffentlicher Stellen nach nationalem Recht zustehen.
+
+
+(57)
+
+
+Wird ein Dokument zur Weiterverwendung zugänglich gemacht, so sollte die betreffende öffentliche Stelle das Verwertungsrecht an jenem Dokument behalten.
+
+
+(58)
+
+
+Diese Richtlinie lässt die Richtlinie 2014/24/EU unberührt.
+
+
+(59)
+
+
+Hilfsmittel, die es potenziellen Weiterverwendern erleichtern, die für die Weiterverwendung verfügbaren Dokumente und die entsprechenden Weiterverwendungsbedingungen zu finden, können die grenzüberschreitende Nutzung von Dokumenten des öffentlichen Sektors wesentlich vereinfachen. Daher sollten die Mitgliedstaaten sicherstellen, dass praktische Vorkehrungen getroffen werden, die Weiterverwendern bei ihrer Suche nach den zur Weiterverwendung verfügbaren Dokumenten behilflich sind. Beispiele für solche praktischen Vorkehrungen sind Bestandslisten der wichtigsten Dokumente, die vorzugsweise online verfügbar sein sollten, (Dokumente, die in großem Umfang weiterverwendet werden oder weiterverwendet werden könnten) und Internet-Portale, die mit dezentralisierten Bestandslisten verbunden sind. Die Mitgliedstaaten sollten nach Maßgabe der geltenden Aufbewahrungsvorschriften auch die langfristige Verfügbarkeit von Informationen des öffentlichen Sektors erleichtern.
+
+
+(60)
+
+
+Die Kommission sollte die Zusammenarbeit zwischen den Mitgliedstaaten erleichtern und die Konzipierung, die Erprobung, die Implementierung und den Einsatz interoperabler elektronischer Schnittstellen unterstützen, die mehr Effizienz und Sicherheit bei den öffentlichen Diensten ermöglichen.
+
+
+(61)
+
+
+Diese Richtlinie lässt die Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates  ( 19 ) unberührt. Sie legt die Bedingungen fest, nach denen öffentliche Stellen ihre Rechte an geistigem Eigentum innerhalb des Informationsbinnenmarkts wahrnehmen können, wenn sie die Weiterverwendung von Dokumenten genehmigen. Wenn öffentliche Stellen Inhaber des Rechts gemäß Artikel 7 Absatz 1 der Richtlinie 96/9/EG sind, sollten sie dieses Recht nicht in Anspruch nehmen, um die Weiterverwendung zu verhindern oder die Weiterverwendung vorhandener Dokumente über die in der vorliegenden Richtlinie festgelegten Beschränkungen hinaus einzuschränken.
+
+
+(62)
+
+
+Die Kommission hat die Entwicklung eines Online-Berichts über den Reifegrad offener Daten mit den einschlägigen Leistungsindikatoren für die Weiterverwendung von Informationen des öffentlichen Sektors in allen Mitgliedstaaten unterstützt. Mit einer regelmäßigen Aktualisierung jenes Berichts soll zum Informationsaustausch zwischen den Mitgliedstaaten und zur Verfügbarkeit von Informationen über Maßnahmen und Verfahren in der ganzen Union beigetragen werden.
+
+
+(63)
+
+
+Es ist notwendig, dass die Mitgliedstaaten das Ausmaß der Weiterverwendung von Informationen des öffentlichen Sektors, die Bedingungen, unter denen diese zugänglich gemacht werden, und die Rechtsbehelfspraxis überwachen.
+
+
+(64)
+
+
+Die Kommission kann die Mitgliedstaaten bei der einheitlichen Umsetzung dieser Richtlinie dadurch unterstützen, dass sie nach Anhörung der Beteiligten Leitlinien insbesondere für empfohlene Standardlizenzen, Datensätze und die Erhebung von Gebühren oder Entgelten für die Weiterverwendung von Dokumenten vorlegt und bestehende Leitlinien aktualisiert.
+
+
+(65)
+
+
+Eines der Hauptziele der Errichtung des Binnenmarkts ist die Schaffung von Bedingungen zur Förderung der Entwicklung unionsweiter Dienstleistungen. Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archive sind im Besitz sehr umfangreicher, wertvoller Informationsbestände des öffentlichen Sektors, zumal sich der Umfang an gemeinfreiem Material durch Digitalisierungsprojekte inzwischen vervielfacht hat. Diese Sammlungen des kulturellen Erbes und die zugehörigen Metadaten fungieren als mögliches Ausgangsmaterial für auf digitalen Inhalten beruhende Produkte und Dienstleistungen und bergen vielfältige Möglichkeiten für die innovative Weiterverwendung, beispielsweise in den Bereichen Lernen und Tourismus. Andere kulturelle Einrichtungen (beispielsweise Orchester, Opern, Ballette und Theater), einschließlich der zu diesen Einrichtungen gehörenden Archive, sollten auch weiterhin außerhalb des Anwendungsbereichs dieser Richtlinie verbleiben, zumal es sich in diesen besonderen Fällen um darstellende Künste handelt und zumal fast ihr gesamtes Material geistiges Eigentum Dritter ist.
+
+
+(66)
+
+
+Um die Bedingungen für die Unterstützung der Weiterverwendung von Dokumenten, die mit wichtigen sozioökonomischen Vorteilen verbunden und für die Wirtschaft und die Gesellschaft von besonders hohem Wert ist, festzulegen, sollte eine Liste thematischer Kategorien für hochwertige Datensätze in einem Anhang festgelegt werden. Zur Veranschaulichung — und unbeschadet der Durchführungsrechtsakte zur Ermittlung hochwertiger Datensätze, für die die spezifischen Anforderungen nach der vorliegenden Richtlinie gelten sollten, und unter Berücksichtigung der Leitlinien für empfohlene Standardlizenzen, Datensätze und Gebühren für die Weiterverwendung von Dokumenten — könnten die thematischen Kategorien unter anderem Postleitzahlen, nationale und lokale Karten (Georaum), Energieverbrauch und Satellitenbilder (Erdbeobachtung und Umwelt), In-situ-Daten von Messinstrumenten und Wettervorhersagen (Meteorologie), demografische und ökonomische Indikatoren (Statistiken), Unternehmensregister und Registrierungskennungen (Unternehmen und Eigentumsverhältnisse von Unternehmen), Straßenverkehrszeichen und Binnenwasserstraßen (Mobilität) umfassen.
+
+
+(67)
+
+
+Um die Liste thematischer Kategorien für hochwertige Datensätze zu ändern, indem weitere thematische Kategorien hinzugefügt werden, sollte der Kommission die Befugnis übertragen werden, gemäß Artikel 290 AEUV Rechtsakte erlassen. Es ist von besonderer Bedeutung, dass die Kommission im Zuge ihrer Vorbereitungsarbeit angemessene Konsultationen, auch auf der Ebene von Sachverständigen, durchführt, die mit den Grundsätzen im Einklang stehen, die in der Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung  ( 20 ) niedergelegt wurden. Um insbesondere für eine gleichberechtigte Beteiligung an der Vorbereitung delegierter Rechtsakte zu sorgen, erhalten das Europäische Parlament und der Rat alle Dokumente zur gleichen Zeit wie die Sachverständigen der Mitgliedstaaten, und ihre Sachverständigen haben systematisch Zugang zu den Sitzungen der Sachverständigengruppen der Kommission, die mit der Vorbereitung der delegierten Rechtsakte befasst sind.
+
+
+(68)
+
+
+Eine unionsweite Liste von Datensätzen mit einem besonderen Potenzial für die Erzielung sozioökonomischer Vorteile in Verbindung mit harmonisierten Bedingungen für die Weiterverwendung stellt eine wichtige Voraussetzung für grenzüberschreitende Datenanwendungen und -dienste dar. Zur Gewährleistung einheitlicher Bedingungen für die Durchführung dieser Richtlinie sollten der Kommission Durchführungsbefugnisse übertragen werden, um die Weiterverwendung von Dokumenten, die mit wichtigen sozioökonomischen Vorteilen verbunden sind, durch die Annahme einer Liste bestimmter hochwertiger Datensätze, auf die spezifische Anforderungen dieser Richtlinie Anwendung finden, sowie der Modalitäten für ihre Veröffentlichung und Weiterverwendung zu unterstützen. Daher sollten diese spezifischen Anforderungen nicht gelten, bevor die Kommission Durchführungsrechtsakte erlassen hat. Die Liste sollte sektorale Rechtsakte der Union, die die Veröffentlichung von Datensätzen regeln, wie die Richtlinien 2007/2/EG und 2010/40/EU, berücksichtigen, um sicherzustellen, dass die Datensätze im Rahmen von einander entsprechenden Standards und Metadatensätzen verfügbar gemacht werden. Die Liste sollte auf thematischen Kategorien basieren, die in dieser Richtlinie aufgeführt sind. Bei der Erstellung der Liste sollte die Kommission angemessene Konsultationen, auch auf der Ebene von Sachverständigen, durchführen. Darüber hinaus sollten bei der Entscheidung, ob Daten im Besitz von öffentlichen Unternehmen in die Liste aufgenommen oder frei verfügbar gemacht werden sollten, die Auswirkungen auf den Wettbewerb in den einschlägigen Märkten berücksichtigt werden. Diese Befugnisse sollten im Einklang mit der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates  ( 21 ) ausgeübt werden.
+
+
+(69)
+
+
+Um ihre größtmögliche Wirkung zu gewährleisten und die Weiterverwendung zu erleichtern, sollten die hochwertigen Datensätze mit minimalen rechtlichen Einschränkungen kostenlos zur Weiterverwendung zugänglich gemacht werden. Sie sollten auch über APIs veröffentlicht werden. Allerdings hindert dies öffentliche Stellen nicht daran, Gebühren oder Entgelte für Dienstleistungen zu erheben, die sie im Rahmen der Ausübung ihrer hoheitlichen Befugnisse erbringen — insbesondere die Zertifizierung der Authentizität oder Richtigkeit von Dokumenten.
+
+
+(70)
+
+
+Da die Ziele dieser Richtlinie, nämlich die Erleichterung der Schaffung unionsweiter Informationsprodukte und -dienstleistungen anhand von Dokumenten des öffentlichen Sektors, sowie die Sicherstellung einer effektiven grenzüberschreitenden Nutzung von Dokumenten des öffentlichen Sektors einerseits durch Privatunternehmen, insbesondere durch KMU, zur Entwicklung von Informationsprodukten und -diensten mit einem Mehrwert und andererseits durch die Bürger zur Erleichterung der freien Verbreitung von Informationen und der Kommunikation, auf Ebene der Mitgliedstaaten nicht ausreichend verwirklicht werden können, sondern wegen der unionsweiten Dimension der vorgeschlagenen Maßnahme eher besser auf Unionsebene zu verwirklichen sind, kann die Union — im Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union niedergelegten Subsidiaritätsprinzip — tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Richtlinie nicht über das für die Verwirklichung dieser Ziele erforderliche Maß hinaus.
+
+
+(71)
+
+
+Diese Richtlinie achtet die Grundrechte und wahrt die Grundsätze, die insbesondere in der Charta anerkannt sind, darunter die Achtung des Privat- und Familienlebens, den Schutz personenbezogener Daten, das Eigentumsrecht und die Integration von Menschen mit Behinderungen. Keine Bestimmung dieser Richtlinie sollte in einer Weise ausgelegt oder umgesetzt werden, die nicht mit der Konvention zum Schutz der Menschenrechte und Grundfreiheiten des Europarats vereinbar ist.
+
+
+(72)
+
+
+Der Europäische Datenschutzbeauftragte wurde gemäß Artikel 28 Absatz 2 der Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates  ( 22 ) angehört und hat am 10. Juli 2018 eine Stellungnahme  ( 23 ) abgegeben.
+
+
+(73)
+
+
+Die Kommission sollte eine Evaluierung dieser Richtlinie vornehmen. Gemäß der Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung sollte sich diese Evaluierung auf die fünf Kriterien Effizienz, Effektivität, Relevanz, Kohärenz und erzielter Mehrwert stützen und die Grundlage der Abschätzung der Folgen weitergehender Maßnahmen bilden.
+
+
+(74)
+
+
+Diese Richtlinie sollte die Verpflichtungen der Mitgliedstaaten hinsichtlich der Frist für die Umsetzung der in Anhang II Teil B genannten Richtlinien in nationales Recht unberührt lassen —
+
+
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+
+
+KAPITEL I
+
+
+ALLGEMEINE BESTIMMUNGEN
+
+
+Artikel 1
+
+
+Gegenstand und Anwendungsbereich
+
+
+(1)   Um die Verwendung offener Daten zu fördern und Anreize für die Innovation bei Produkten und Dienstleistungen zu vermitteln, enthält diese Richtlinie Mindestvorschriften für die Weiterverwendung und die praktischen Modalitäten zur Erleichterung der Weiterverwendung von
+
+
+a)
+
+
+vorhandenen Dokumenten im Besitz öffentlicher Stellen der Mitgliedstaaten;
+
+
+b)
+
+
+vorhandenen Dokumenten im Besitz öffentlicher Unternehmen, die
+
+
+i)
+
+
+in den in der Richtlinie 2014/25/EU festgelegten Bereichen tätig sind;
+
+
+ii)
+
+
+als Betreiber eines öffentlichen Dienstes gemäß Artikel 2 der Verordnung (EG) Nr. 1370/2007 tätig sind;
+
+
+iii)
+
+
+als Luftfahrtunternehmen gemeinwirtschaftliche Verpflichtungen gemäß Artikel 16 der Verordnung (EG) Nr. 1008/2008 erfüllen; oder
+
+
+iv)
+
+
+als Gemeinschaftsreeder Verpflichtungen des öffentlichen Dienstes gemäß Artikel 4 der Verordnung (EWG) Nr. 3577/92 erfüllen;
+
+
+c)
+
+
+Forschungsdaten gemäß den in Artikel 10 festgelegten Bedingungen.
+
+
+(2)   Diese Richtlinie gilt nicht für
+
+
+a)
+
+
+Dokumente, deren Bereitstellung nicht unter den gesetzlich oder durch andere verbindliche Rechtsvorschriften des Mitgliedstaats festgelegten öffentlichen Auftrag der betreffenden öffentlichen Stellen fällt oder, in Ermangelung solcher Rechtsvorschriften, nicht unter den durch allgemeine Verwaltungspraxis in dem betreffenden Mitgliedstaat festgelegten öffentlichen Auftrag fällt, vorausgesetzt, dass der Umfang der öffentlichen Aufträge transparent ist und regelmäßig überprüft wird;
+
+
+b)
+
+
+Dokumente im Besitz öffentlicher Unternehmen,
+
+
+i)
+
+
+die nicht im Rahmen der Erbringung von Dienstleistungen von allgemeinem Interesse im Sinne der gesetzlichen oder sonstigen verbindlichen Vorschriften der Mitgliedstaaten erstellt wurden;
+
+
+ii)
+
+
+die mit unmittelbar dem Wettbewerb ausgesetzten Tätigkeiten zusammenhängen und daher gemäß Artikel 34 der Richtlinie 2014/25/EU nicht den Vorschriften für die Auftragsvergabe unterliegen;
+
+
+c)
+
+
+Dokumente, die geistiges Eigentum Dritter betreffen;
+
+
+d)
+
+
+Dokumente, wie zum Beispiel sensible Daten, die nach den Zugangsregelungen der Mitgliedstaaten nicht zugänglich sind, einschließlich aus Gründen
+
+
+i)
+
+
+des Schutzes der nationalen Sicherheit (d. h. Staatssicherheit), der Verteidigung oder der öffentlichen Sicherheit;
+
+
+ii)
+
+
+der statistischen Geheimhaltung;
+
+
+iii)
+
+
+des Geschäftsgeheimnisses (einschließlich Betriebsgeheimnissen, Berufsgeheimnissen, Unternehmensgeheimnissen);
+
+
+e)
+
+
+Dokumente, die aufgrund ihrer Eigenschaft als vertrauliche Informationen über den Schutz kritischer Infrastrukturen im Sinne des Artikels 2 Buchstabe d der Richtlinie 2008/114/EG nicht oder nur eingeschränkt zugänglich sind;
+
+
+f)
+
+
+Dokumente, zu denen der Zugang durch die Zugangsregelungen der Mitgliedstaaten eingeschränkt ist, einschließlich der Fälle, in denen Bürger oder juristische Personen ein besonderes Interesse nachzuweisen haben, um Zugang zu den Dokumenten zu erhalten;
+
+
+g)
+
+
+Logos, Wappen und Insignien;
+
+
+h)
+
+
+Dokumente, die nach den Zugangsregelungen der Mitgliedstaaten aus Gründen des Schutzes personenbezogener Daten nicht oder nur eingeschränkt zugänglich sind, und Teile von Dokumenten, die nach diesen Regelungen zugänglich sind, wenn sie personenbezogene Daten enthalten, deren Weiterverwendung gesetzlich nicht mit dem Recht über den Schutz natürlicher Personen in Bezug auf die Verarbeitung personenbezogener Daten vereinbar ist oder gesetzlich als Beeinträchtigung des Schutzes der Privatsphäre und der Integrität der betroffenen Personen definiert ist, insbesondere im Einklang mit dem Unionsrecht oder dem nationalen Recht im Hinblick auf den Schutz personenbezogener Daten;
+
+
+i)
+
+
+Dokumente, die im Besitz öffentlich-rechtlicher Rundfunkanstalten und ihrer Zweigstellen oder anderer Stellen und deren Zweigstellen sind und der Wahrnehmung eines öffentlichen Sendeauftrags dienen;
+
+
+j)
+
+
+Dokumente im Besitz anderer kultureller Einrichtungen als Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archiven;
+
+
+k)
+
+
+Dokumente im Besitz von Bildungseinrichtungen der Sekundarstufe und darunter und — bei allen sonstigen Bildungseinrichtungen — andere als die in Absatz 1 Buchstabe c genannten Dokumente;
+
+
+l)
+
+
+andere als die in Absatz 1 Buchstabe c genannten Dokumente im Besitz von Forschungseinrichtungen und Forschungsförderungseinrichtungen, einschließlich Einrichtungen, die zum Zweck des Transfers von Forschungsergebnissen gegründet wurden.
+
+
+(3)   Diese Richtlinie stützt sich auf die Zugangsregelungen der Union und der Mitgliedstaaten und lässt diese Regelungen unberührt.
+
+
+(4)   Diese Richtlinie gilt unbeschadet des Unionsrechts und des nationalen Rechts über den Schutz personenbezogener Daten, insbesondere der Verordnung (EU) 2016/679 und der Richtlinie 2002/58/EG sowie dem entsprechenden nationalen Recht.
+
+
+(5)   Die sich gemäß dieser Richtlinie ergebenden Verpflichtungen gelten nur insoweit, als sie mit den Bestimmungen völkerrechtlicher Übereinkommen zum Schutz der Rechte des geistigen Eigentums, insbesondere der Berner Übereinkunft, dem TRIPS-Übereinkommen und dem WCT, vereinbar sind.
+
+
+(6)   Das Recht der Hersteller von Datenbanken gemäß Artikel 7 Absatz 1 der Richtlinie 96/9/EG nehmen öffentliche Stellen nicht in Anspruch, um dadurch die Weiterverwendung von Dokumenten zu verhindern oder diese Weiterverwendung über die in dieser Richtlinie festgelegten Beschränkungen hinaus einzuschränken.
+
+
+(7)   Diese Richtlinie regelt die Weiterverwendung vorhandener Dokumente, die im Besitz öffentlicher Stellen und öffentlicher Unternehmen der Mitgliedstaaten sind, einschließlich der Dokumente, auf die die Richtlinie 2007/2/EG anwendbar ist.
+
+
+Artikel 2
+
+
+Begriffsbestimmungen
+
+
+Im Sinne dieser Richtlinie bezeichnet der Ausdruck
+
+
+1.
+
+
+„öffentliche Stelle“ den Staat, Gebietskörperschaften, Einrichtungen des öffentlichen Rechts oder Verbände, die aus einer oder mehreren dieser Körperschaften oder einer oder mehreren dieser Einrichtungen des öffentlichen Rechts bestehen;
+
+
+2.
+
+
+„Einrichtungen des öffentlichen Rechts“ Einrichtung, die die folgenden Eigenschaften aufweisen:
+
+
+a)
+
+
+sie wurden zu dem besonderen Zweck gegründet, im Allgemeininteresse liegende Aufgaben zu erfüllen, die nicht kommerzieller Art sind,
+
+
+b)
+
+
+sie Rechtspersönlichkeit besitzen und
+
+
+c)
+
+
+sie werden überwiegend vom Staat, von Gebietskörperschaften oder von anderen Einrichtungen des öffentlichen Rechts finanziert oder unterliegen hinsichtlich ihrer Leitung der Aufsicht durch letztere oder ihre Verwaltungs-, Leitungs- oder Aufsichtsorgan bestehen mehrheitlich aus Mitgliedern, die vom Staat, von Gebietskörperschaften oder von anderen Einrichtungen des öffentlichen Rechts ernannt worden sind;
+
+
+3.
+
+
+„öffentliches Unternehmen“ ein in den in Artikel 1 Absatz 1 Buchstabe b genannten Bereichen tätiges Unternehmen, auf das öffentliche Stellen aufgrund der Eigentumsverhältnisse, der finanziellen Beteiligung oder der für das Unternehmen geltenden Bestimmungen unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben können. Von einem beherrschenden Einfluss der öffentlichen Stellen ist in jedem der folgenden Fälle auszugehen, in denen diese Stellen unmittelbar oder mittelbar
+
+
+a)
+
+
+die Mehrheit des gezeichneten Kapitals des Unternehmens halten;
+
+
+b)
+
+
+über die Mehrheit der mit den Anteilen am Unternehmen verbundenen Stimmrechte verfügen;
+
+
+c)
+
+
+mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder Aufsichtsorgans des Unternehmens ernennen können;
+
+
+4.
+
+
+„Hochschule“ eine öffentliche Stelle, die postsekundäre Bildungsgänge anbietet, die zu einem akademischen Grad führen;
+
+
+5.
+
+
+„Standardlizenz“ eine Reihe vorgegebener Bedingungen für die Weiterverwendung, die in digitalem Format vorliegen und vorzugsweise mit standardisierten online verfügbaren öffentlichen Lizenzen kompatibel sind;
+
+
+6.
+
+
+„Dokument“
+
+
+a)
+
+
+jeden Inhalt unabhängig von der Form des Datenträgers (auf Papier oder in elektronischer Form oder als Ton-, Bild- oder audiovisuelles Aufnahme); oder
+
+
+b)
+
+
+einen beliebigen Teil eines solchen Inhalts;
+
+
+7.
+
+
+„Anonymisierung“ den Prozess, in dessen Verlauf Dokumente in anonyme Dokumente umgewandelt werden, die sich nicht auf eine identifizierte oder identifizierbare natürliche Person beziehen, oder personenbezogene Daten so anonym gemacht werden, dass die betroffene Person nicht oder nicht mehr identifiziert werden kann;
+
+
+8.
+
+
+„dynamische Daten“ Dokumente in digitaler Form, die häufig oder in Echtzeit aktualisiert werden, insbesondere aufgrund ihrer Volatilität oder ihres raschen Veraltens; von Sensoren generierte Daten werden in der Regel als dynamische Daten angesehen;
+
+
+9.
+
+
+„Forschungsdaten“ Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden;
+
+
+10.
+
+
+„hochwertige Datensätze“ Dokumente, deren Weiterverwendung mit wichtigen Vorteilen für die Gesellschaft, die Umwelt und die Wirtschaft verbunden ist, insbesondere aufgrund ihrer Eignung für die Schaffung von Mehrwertdiensten, Anwendungen und neuer, hochwertiger und menschenwürdiger Arbeitsplätze sowie aufgrund der Zahl der potenziellen Nutznießer der Mehrwertdienste und -anwendungen auf der Grundlage dieser Datensätze;
+
+
+11.
+
+
+„Weiterverwendung“ die Nutzung — durch natürliche oder juristische Personen — von Dokumenten, die im Besitz
+
+
+a)
+
+
+öffentlicher Stellen sind, für kommerzielle oder nichtkommerzielle Zwecke, die sich von dem ursprünglichen Zweck im Rahmen des öffentlichen Auftrags, für den die Dokumente erstellt wurden, unterscheiden, abgesehen vom Austausch von Dokumenten zwischen öffentlichen Stellen ausschließlich im Rahmen der Erfüllung ihres öffentlichen Auftrags; oder
+
+
+b)
+
+
+öffentlicher Unternehmen sind, für kommerzielle oder nichtkommerzielle Zwecke, die sich von dem ursprünglichen Zweck der Erbringung von Dienstleistungen von allgemeinem Interesse, für den die Dokumente erstellt wurden, unterscheiden, abgesehen vom Austausch von Dokumenten zwischen öffentlichen Unternehmen und öffentlichen Stellen ausschließlich im Rahmen der Erfüllung des öffentlichen Auftrags öffentlicher Stellen;
+
+
+12.
+
+
+„personenbezogene Daten“ personenbezogene Daten im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2016/679;
+
+
+13.
+
+
+„maschinenlesbares Format“ ein Dateiformat, das so strukturiert ist, dass Softwareanwendungen konkrete Daten, einschließlich einzelner Sachverhaltsdarstellungen und deren interner Struktur, leicht identifizieren, erkennen und extrahieren können;
+
+
+14.
+
+
+„offenes Format“ ein Dateiformat, das plattformunabhängig ist und der Öffentlichkeit ohne Einschränkungen, die der Weiterverwendung von Dokumenten hinderlich wären, zugänglich gemacht wird;
+
+
+15.
+
+
+„formeller, offener Standard“ einen schriftlich niedergelegten Standard, in dem die Anforderungen für die Sicherstellung der Interoperabilität der Software niedergelegt sind;
+
+
+16.
+
+
+„angemessene Gewinnspanne“ einen Prozentsatz der Gesamtkosten, der über den zur Deckung der einschlägigen Kosten erforderlichen Betrag hinausgeht, aber höchstens fünf Prozentpunkte über dem von der EZB festgesetzten Zinssatz liegt;
+
+
+17.
+
+
+„Dritte(r)“ jede natürliche oder juristische Person außer der öffentlichen Stelle oder dem öffentlichen Unternehmen, die/das im Besitz der Daten ist.
+
+
+Artikel 3
+
+
+Allgemeiner Grundsatz
+
+
+(1)   Vorbehaltlich Absatz 2 dieses Artikels stellen die Mitgliedstaaten sicher, dass die Dokumente, auf die diese Richtlinie gemäß Artikel 1 anwendbar ist, gemäß Kapitel III und IV für kommerzielle und nichtkommerzielle Zwecke weiterverwendet werden können.
+
+
+(2)   Für Dokumente, an denen Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archiven Rechte des geistigen Eigentums innehaben, und für Dokumente im Besitz öffentlicher Unternehmen stellen die Mitgliedstaaten sicher, dass diese Dokumente, falls deren Weiterverwendung erlaubt wird, gemäß Kapitel III und IV für kommerzielle und nichtkommerzielle Zwecke weiterverwendet werden können.
+
+
+KAPITEL II
+
+
+ANTRÄGE AUF WEITERVERWENDUNG
+
+
+Artikel 4
+
+
+Bearbeitung von Anträgen auf Weiterverwendung
+
+
+(1)   Für die Bearbeitung von Anträgen auf Weiterverwendung und die Bereitstellung der Dokumente zur Weiterverwendung an den Antragsteller oder — falls eine Lizenz erforderlich ist — für die Unterbreitung eines endgültigen Lizenzangebots an den Antragsteller halten die öffentlichen Stellen eine angemessene Frist ein, die der Frist für die Bearbeitung von Anträgen auf Zugang zu Dokumenten entspricht, und bedienen sich dabei, soweit möglich und sinnvoll, elektronischer Mittel.
+
+
+(2)   Wurden keine Fristen oder sonstige Regelungen für die rechtzeitige Bereitstellung der Dokumente festgelegt, so müssen die öffentlichen Stellen so bald wie möglich, in jedem Fall innerhalb von 20 Arbeitstagen nach Eingang des Antrags den Antrag bearbeiten und dem Antragsteller die Dokumente zur Weiterverwendung bereitstellen oder — falls eine Lizenz erforderlich ist — ihm ein endgültiges Lizenzangebot unterbreiten. Diese Frist kann bei umfangreichen oder komplexen Anträgen um weitere 20 Arbeitstage verlängert werden. In diesen Fällen wird der Antragsteller so bald wie möglich, in jedem Fall jedoch innerhalb von drei Wochen nach dem ursprünglichen Antrag unter Angabe der Gründe davon unterrichtet, dass für die Bearbeitung des Antrags mehr Zeit benötigt wird.
+
+
+(3)   Im Fall eines ablehnenden Bescheids teilt die öffentliche Stelle dem Antragsteller die Gründe für die Ablehnung mit und stützt sich dabei auf die einschlägigen Bestimmungen der Zugangsregelung des betreffenden Mitgliedstaats oder auf die Bestimmungen, die zur Umsetzung dieser Richtlinie, insbesondere gemäß Artikel 1 Absatz 2 Buchstaben a bis h oder Artikel 3, erlassen wurden. Wird ein ablehnender Bescheid auf Artikel 1 Absatz 2 Buchstabe c gestützt, so verweist die öffentliche Stelle auf die natürliche oder juristische Person, die Inhaber der Rechte ist, soweit diese bekannt ist, oder ersatzweise auf den Lizenzgeber, von dem die öffentliche Stelle das betreffende Material erhalten hat. Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archive sind nicht zu diesem Verweis verpflichtet.
+
+
+(4)   Eine Entscheidung über die Weiterverwendung enthält einen Hinweis auf die Rechtsbehelfe, die dem Antragsteller zur Verfügung stehen, um gegen die Entscheidung vorzugehen. Zu den Rechtsbehelfen gehört die Möglichkeit der Überprüfung durch eine unabhängige Überprüfungsinstanz mit den entsprechenden Fachkenntnissen, wie zum Beispiel die nationale Wettbewerbsbehörde, die für den Zugang zu Dokumenten zuständige Behörde, die gemäß der Verordnung (EU) 2016/679 errichtete Aufsichtsbehörde oder ein nationales Gericht, deren Entscheidungen für die betreffende öffentliche Stelle bindend sind.
+
+
+(5)   Für die Zwecke dieses Artikels legen die Mitgliedstaaten praktische Vorkehrungen zur Vereinfachung der effektiven Weiterverwendung von Dokumenten fest. Diese Vorkehrungen können insbesondere die Mittel für die Bereitstellung angemessener Informationen über die in der vorliegenden Richtlinie vorgesehenen Rechte sowie für die Bereitstellung einschlägiger Unterstützung und Orientierung umfassen.
+
+
+(6)   Die folgenden Einrichtungen müssen dem vorliegenden Artikel nicht entsprechen:
+
+
+a)
+
+
+öffentliche Unternehmen;
+
+
+b)
+
+
+Bildungseinrichtungen, Forschungseinrichtungen und Forschungsförderungseinrichtungen.
+
+
+KAPITEL III
+
+
+BEDINGUNGEN FÜR DIE WEITERVERWENDUNG
+
+
+Artikel 5
+
+
+Verfügbare Formate
+
+
+(1)   Unbeschadet des Kapitels V stellen öffentliche Stellen und öffentliche Unternehmen ihre Dokumente in allen vorhandenen Formaten oder Sprachen und, soweit möglich und sinnvoll, auf elektronischem Wege in offenen, maschinenlesbaren, zugänglichen, auffindbaren und weiterverwendbaren Formaten zusammen mit den zugehörigen Metadaten zur Verfügung. Sowohl die Formate als auch die Metadaten müssen soweit möglich förmlichen offenen Standards entsprechen.
+
+
+(2)   Die Mitgliedstaaten bestärken öffentliche Stellen und öffentliche Unternehmen darin, in den Anwendungsbereich dieser Richtlinie fallende Dokumente nach dem Grundsatz „konzeptionell und standardmäßig offen“ (open by design and by default) zu erstellen und zur Verfügung zu stellen.
+
+
+(3)   Absatz 1 verpflichtet die öffentlichen Stellen nicht, Dokumente neu zu erstellen oder anzupassen oder Auszüge aus Dokumenten zur Verfügung zu stellen, um diesem Absatz nachzukommen, wenn dies mit einem unverhältnismäßigen Aufwand verbunden ist, der über eine einfache Bearbeitung hinausgeht.
+
+
+(4)   Öffentliche Stellen sind nicht verpflichtet, die Erstellung und Speicherung bestimmter Arten von Dokumenten im Hinblick auf deren Weiterverwendung durch eine Organisation des privaten oder öffentlichen Sektors fortzusetzen.
+
+
+(5)   Öffentliche Stellen machen dynamische Daten unmittelbar nach der Erfassung mithilfe geeigneter API und gegebenenfalls als Massen-Download zur Weiterverwendung zugänglich.
+
+
+(6)   Würde die Bereitstellung von dynamischen Daten zur Weiterverwendung unmittelbar nach der Erfassung gemäß Absatz 5 die finanzielle und technische Leistungsfähigkeit der öffentlichen Stelle übersteigen und somit zu einem unverhältnismäßigen Aufwand führen, werden jene dynamischen Daten innerhalb einer Frist oder mit vorübergehenden technischen Beschränkungen zur Weiterverwendung zugänglich gemacht, die die Nutzung ihres wirtschaftlichen und sozialen Potenzials nicht übermäßig beeinträchtigen.
+
+
+(7)   Die Absätze 1 bis 6 gelten für vorhandene Dokumente im Besitz öffentlicher Unternehmen, die zur Weiterverwendung verfügbar sind.
+
+
+(8)   Die hochwertigen Datensätze, die gemäß Artikel 14 Absatz 1 in einer Liste aufgeführt werden, werden in maschinenlesbarem Format über geeignete APIs und gegebenenfalls als Massen-Download zur Weiterverwendung zugänglich gemacht.
+
+
+Artikel 6
+
+
+Grundsätze zur Bemessung von Gebühren und Entgelten
+
+
+(1)   Die Weiterverwendung von Dokumenten ist kostenfrei.
+
+
+Allerdings kann die Erstattung der durch die Reproduktion, Bereitstellung und Verbreitung von Dokumenten sowie durch die Anonymisierung personenbezogener Daten und Maßnahmen zum Schutz vertraulicher Geschäftsinformationen verursachten Grenzkosten gestattet werden.
+
+
+(2)   Ausnahmsweise findet Absatz 1 keine Anwendung auf
+
+
+a)
+
+
+öffentliche Stellen, deren Auftrag das Erzielen von Einnahmen erfordert, um einen wesentlichen Teil ihrer Kosten im Zusammenhang mit der Erfüllung ihrer öffentlichen Aufträge zu decken;
+
+
+b)
+
+
+Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archive;
+
+
+c)
+
+
+öffentliche Unternehmen.
+
+
+(3)   Die Mitgliedstaaten veröffentlichen online eine Liste der in Absatz 2 Buchstabe a genannten öffentlichen Stellen.
+
+
+(4)   In den in Absatz 2 Buchstaben a und c genannten Fällen werden die Gesamtkosten nach objektiven, transparenten und nachprüfbaren Kriterien berechnet. Diese Kriterien werden durch die Mitgliedstaaten festgelegt.
+
+
+Die Gesamteinnahmen aus der Bereitstellung von Dokumenten und der Gestattung ihrer Weiterverwendung in dem entsprechenden Abrechnungszeitraum dürfen die Kosten ihrer Erfassung, Erstellung, Reproduktion, Verbreitung und Datenspeicherung, zuzüglich einer angemessenen Gewinnspanne, sowie — gegebenenfalls — der Anonymisierung personenbezogener Daten und Maßnahmen zum Schutz vertraulicher Geschäftsinformationen nicht übersteigen.
+
+
+Die Gebühren und Entgelte werden nach Maßgabe der geltenden Buchführungsgrundsätze berechnet.
+
+
+(5)   Soweit die in Absatz 2 Buchstabe b genannten öffentlichen Stellen Gebühren erheben, dürfen die Gesamteinnahmen aus der Bereitstellung von Dokumenten und der Gestattung ihrer Weiterverwendung in dem entsprechenden Abrechnungszeitraum die Kosten ihrer Erfassung, Erstellung, Reproduktion, Verbreitung, Datenspeicherung, Bewahrung und der Rechteklärung sowie, gegebenenfalls, der Anonymisierung personenbezogener Daten und Maßnahmen zum Schutz vertraulicher Geschäftsinformationen zuzüglich einer angemessenen Gewinnspanne nicht übersteigen.
+
+
+Die Gebühren und Entgelte werden nach Maßgabe der für die betreffenden öffentlichen Stellen geltenden Buchführungsgrundsätze berechnet.
+
+
+(6)   Die Weiterverwendung folgender Daten ist für den Nutzer kostenfrei:
+
+
+a)
+
+
+vorbehaltlich Artikel 14 Absätze 3, 4 und 5, der hochwertigen Datensätze, die gemäß Absatz 1 jenes Artikels in einer Liste festgelegt werden;
+
+
+b)
+
+
+der Forschungsdaten gemäß Artikel 1 Absatz 1 Buchstabe c.
+
+
+Artikel 7
+
+
+Transparenz
+
+
+(1)   Im Falle von Standardgebühren oder Standardentgelten für die Weiterverwendung von Dokumenten werden die entsprechenden Bedingungen und die tatsächliche Höhe dieser Gebühren oder Entgelte einschließlich der Berechnungsgrundlage dieser Gebühren oder Entgelte, im Voraus festgelegt und, soweit möglich und sinnvoll, in elektronischer Form veröffentlicht.
+
+
+(2)   Im Falle von Gebühren oder Entgelten für die Weiterverwendung, die in Absatz 1 nicht genannt sind, müssen im Voraus die Faktoren angegeben werden, die bei der Berechnung dieser Gebühren oder Entgelte berücksichtigt werden. Auf Anfrage gibt der Inhaber der Dokumente auch die Berechnungsweise dieser Gebühren oder Entgelte in Bezug auf einen spezifischen Antrag auf Weiterverwendung an.
+
+
+(3)   Die öffentlichen Stellen gewährleisten, dass Antragsteller, die die Weiterverwendung von Dokumenten beantragt haben, über die verfügbaren Rechtsbehelfe hinsichtlich der sie betreffenden Entscheidungen oder Verfahren unterrichtet werden.
+
+
+Artikel 8
+
+
+Standardlizenzen
+
+
+(1)   Die Weiterverwendung von Dokumenten unterliegt keinen Bedingungen, es sei denn, diese Bedingungen sind objektiv, verhältnismäßig, nichtdiskriminierend und durch ein im Allgemeininteresse liegendes Ziel gerechtfertigt.
+
+
+Wenn die Weiterverwendung an Bedingungen gebunden ist, dürfen diese Bedingungen die Möglichkeiten der Weiterverwendung nicht unnötig einschränken und nicht der Behinderung des Wettbewerbs dienen.
+
+
+(2)   Die Mitgliedstaaten, in denen Lizenzen verwendet werden, stellen sicher, dass für die Weiterverwendung von Dokumenten des öffentlichen Sektors Standardlizenzen, die an besondere Lizenzanträge angepasst werden können, in digitaler Form zur Verfügung stehen und elektronisch verarbeitet werden können. Die Mitgliedstaaten fördern die Verwendung solcher Standardlizenzen.
+
+
+Artikel 9
+
+
+Praktische Vorkehrungen
+
+
+(1)   Die Mitgliedstaaten treffen praktische Vorkehrungen, die eine Suche nach den zur Weiterverwendung verfügbaren Dokumenten erleichtern, wie z. B. Bestandslisten der wichtigsten Dokumente mit zugehörigen Metadaten, die, soweit möglich und sinnvoll, online verfügbar sind und in einem maschinenlesbaren Format vorliegen, sowie Internet-Portale, die mit den Bestandslisten verknüpft sind. Soweit möglich, sorgen die Mitgliedstaaten — insbesondere, indem sie die Metadatenaggregation auf Unionsebene ermöglichen — dafür, dass eine sprachübergreifende Suche nach Dokumenten vorgenommen werden kann.
+
+
+Die Mitgliedstaaten bestärken öffentliche Stellen auch darin, praktische Vorkehrungen zu treffen, um die Bewahrung von zur Weiterverwendung verfügbaren Dokumenten zu erleichtern.
+
+
+(2)   Die Mitgliedstaaten setzen in Zusammenarbeit mit der Kommission ihre Bemühungen fort, um den Zugang zu Datensätzen auf elektronischem Wege über zugängliche, einfach auffindbare und weiterverwendbare Formate zu vereinfachen, insbesondere indem sie eine einheitliche Anlaufstelle einrichten und geeignete Datensätze im Besitz öffentlicher Stellen, mit Blick auf die Dokumente, auf die diese Richtlinie Anwendung findet, zu Daten im Besitz der Organe der Union verfügbar machen.
+
+
+Artikel 10
+
+
+Forschungsdaten
+
+
+(1)   Die Mitgliedstaaten unterstützen die Verfügbarkeit von Forschungsdaten durch die Annahme nationaler Strategien und einschlägiger Maßnahmen mit dem Ziel, öffentlich finanzierte Forschungsdaten nach dem Grundsatz der „standardmäßig offenen Daten“ und im Einklang mit den FAIR-Grundsätzen offen zugänglich zu machen (im Folgenden „Politik des offenen Zugangs“). In diesem Zusammenhang sind Anliegen in Bezug auf Rechte des geistigen Eigentums, den Schutz personenbezogener Daten sowie Vertraulichkeit, Sicherheit und legitime Geschäftsinteressen nach dem Grundsatz „so offen wie möglich, so geschlossen wie nötig“ (as open as possible, as closed as necessary) zu berücksichtigen. Diese Politik des offenen Zugangs richtet sich an Forschungseinrichtungen und Forschungsförderungseinrichtungen.
+
+
+(2)   Unbeschadet Artikel 1 Absatz 2 Buchstabe c können die Forschungsdaten gemäß Kapitel III und IV für kommerzielle und nichtkommerzielle Zwecke weiterverwendet werden, soweit sie öffentlich finanziert wurden und wenn sie von Forschern, Forschungseinrichtungen oder Forschungsförderungseinrichtungen bereits über ein institutionelles oder thematisches Archiv öffentlich zugänglich gemacht wurden. In diesem Zusammenhang sind berechtigte Geschäftsinteressen, Wissenstransfertätigkeiten und bestehende Rechte Dritter an geistigem Eigentum zu berücksichtigen.
+
+
+KAPITEL IV
+
+
+NICHTDISKRIMINIERUNG UND LAUTERER HANDEL
+
+
+Artikel 11
+
+
+Nichtdiskriminierung
+
+
+(1)   Die Bedingungen für die Weiterverwendung von Dokumenten müssen für vergleichbare Kategorien der Weiterverwendung, einschließlich der grenzübergreifenden Weiterverwendung, nichtdiskriminierend sein.
+
+
+(2)   Werden Dokumente von öffentlichen Stellen als Ausgangsmaterial für eigene Geschäftstätigkeiten weiterverwendet, die nicht unter ihren öffentlichen Auftrag fallen, so gelten für die Bereitstellung der Dokumente für diese Tätigkeiten dieselben Gebühren und Entgelte und sonstigen Bedingungen wie für andere Nutzer.
+
+
+Artikel 12
+
+
+Ausschließlichkeitsvereinbarungen
+
+
+(1)   Die Weiterverwendung von Dokumenten steht allen potenziellen Marktteilnehmern offen, selbst wenn auf diesen Dokumenten beruhende Mehrwertprodukte bereits von einem oder mehreren Marktteilnehmern genutzt werden. Verträge oder sonstige Vereinbarungen zwischen den öffentlichen Stellen oder öffentlichen Unternehmen, die im Besitz der Dokumente sind, und Dritten dürfen keine ausschließlichen Rechte gewähren.
+
+
+(2)   Ist allerdings für die Bereitstellung eines Dienstes im öffentlichen Interesse ein ausschließliches Recht erforderlich, so ist der Grund für dessen Erteilung regelmäßig, mindestens jedoch alle drei Jahre, zu überprüfen. Die am oder nach dem 16. Juli 2019 getroffenen Ausschließlichkeitsvereinbarungen werden spätestens zwei Monate vor ihrem Inkrafttreten online öffentlich zugänglich gemacht. Die endgültigen Bedingungen solcher Vereinbarungen müssen transparent sein und online öffentlich zugänglich gemacht werden.
+
+
+Dieser Absatz gilt nicht für die Digitalisierung von Kulturbeständen.
+
+
+(3)   Bezieht sich ein ausschließliches Recht auf die Digitalisierung von Kulturbeständen, darf es ungeachtet des Absatzes 1 im Allgemeinen für höchstens zehn Jahre gewährt werden. Wird es für mehr als zehn Jahre gewährt, wird die Gewährungsdauer im elften Jahr und danach gegebenenfalls alle sieben Jahre überprüft.
+
+
+Die in Unterabsatz 1 genannten Vereinbarungen zur Gewährung ausschließlicher Rechte müssen transparent sein und öffentlich bekannt gemacht werden.
+
+
+Im Falle eines in Unterabsatz 1 genannten ausschließlichen Rechts ist der betreffenden öffentlichen Stelle im Rahmen der Vereinbarung eine Kopie der digitalisierten Kulturbestände gebührenfrei zur Verfügung zu stellen. Diese Kopie wird am Ende des Ausschließlichkeitszeitraums zur Weiterverwendung zur Verfügung gestellt.
+
+
+(4)   Rechtliche oder praktische Vorkehrungen, die nicht ausdrücklich ausschließliche Rechte gewähren, die aber darauf abzielen oder bei denen davon ausgegangen werden kann, dass sie die Weiterverwendung von Dokumenten durch andere Einrichtungen als die an der Vereinbarung beteiligten Dritten beschränken, werden spätestens zwei Monate vor ihrem Inkrafttreten online öffentlich zugänglich gemacht. Die Auswirkungen solcher rechtlichen oder praktischen Vorkehrungen auf die Verfügbarkeit von Daten zur Weiterverwendung sind Gegenstand regelmäßiger Überprüfungen und werden mindestens alle drei Jahre überprüft. Die endgültigen Bedingungen solcher Vereinbarungen müssen transparent sein und online öffentlich zugänglich gemacht werden.
+
+
+(5)   Am 17. Juli 2013 bestehende Ausschließlichkeitsvereinbarungen, die nicht unter die Ausnahmen gemäß Absätze 2 und 3 fallen und die von öffentlichen Stellen getroffen wurden, werden bei Vertragsablauf, spätestens jedoch am 18. Juli 2043 beendet.
+
+
+Am 16. Juli 2019 bestehende Ausschließlichkeitsvereinbarungen, die nicht unter die Ausnahmen der Absätze 2 und 3 fallen und die von öffentlichen Unternehmen getroffen wurden, werden bei Vertragsablauf, spätestens jedoch am 17. Juli 2049 beendet.
+
+
+KAPITEL V
+
+
+HOCHWERTIGE DATENSÄTZE
+
+
+Artikel 13
+
+
+Thematische Kategorien von hochwertigen Datensätzen
+
+
+(1)   Um die Bedingungen für die Förderung der Weiterverwendung hochwertiger Datensätze zu schaffen, enthält der Anhang I eine Liste thematischer Kategorien solcher Datensätze.
+
+
+(2)   Der Kommission wird die Befugnis übertragen, gemäß Artikel 15 delegierte Rechtsakte zur Änderung des Anhangs I durch Aufnahme neuer thematischer Kategorien hochwertiger Datensätze zu erlassen, um der Technologie- und Marktentwicklung Rechnung zu tragen.
+
+
+Artikel 14
+
+
+Bestimmte hochwertige Datensätze und Modalitäten der Veröffentlichung und Weiterverwendung
+
+
+(1)   Die Kommission erlässt Durchführungsrechtakte zur Festlegung einer Liste bestimmter im Besitz öffentlicher Stellen oder öffentlicher Unternehmen befindlicher hochwertiger Datensätze der im Anhang I angegebenen Kategorien unter den Dokumenten, auf die diese Richtlinie Anwendung findet.
+
+
+Solche bestimmten hochwertigen Datensätze müssen
+
+
+a)
+
+
+vorbehaltlich der Absätze 3, 4 und 5 kostenlos verfügbar sein,
+
+
+b)
+
+
+maschinenlesbar sein,
+
+
+c)
+
+
+über API verfügbar sein, und
+
+
+d)
+
+
+gegebenenfalls als Massen-Download verfügbar sein.
+
+
+In jenen Durchführungsrechtakten können die Modalitäten der Veröffentlichung und Weiterverwendung hochwertiger Datensätze festgelegt werden. Diese Modalitäten müssen mit den offenen Standardlizenzen vereinbar sein.
+
+
+Diese Modalitäten können Bedingungen umfassen, die für die Weiterverwendung, Daten- und Metadatenformate sowie die technischen Modalitäten der Verbreitung gelten. Investitionen der Mitgliedstaaten in Konzepte für offene Daten, wie etwa Investitionen in die Entwicklung und Einführung bestimmter Standards, werden berücksichtigt und gegen den potenziellen Nutzen einer Aufnahme in die Liste abgewogen.
+
+
+Diese Durchführungsrechtsakte werden nach dem Prüfverfahren gemäß Artikel 16 Absatz 2 erlassen.
+
+
+(2)   Die Ermittlung bestimmter hochwertiger Datensätze gemäß Absatz 1 beruht auf der Bewertung ihres Potenzials
+
+
+a)
+
+
+für die Erzielung bedeutender sozioökonomischer oder ökologischer Vorteile und innovativer Dienstleistungen,
+
+
+b)
+
+
+für eine große Zahl von Nutzern, insbesondere KMU, von Nutzen zu sein,
+
+
+c)
+
+
+der Erzielung von Einnahmen zu dienen, und
+
+
+d)
+
+
+mit anderen Datensätzen kombiniert zu werden.
+
+
+Zum Zweck der Ermittlung solcher bestimmter hochwertiger Datensätze führt die Kommission angemessene Konsultationen, auch auf der Ebene von Sachverständigen, durch, nimmt eine Folgenabschätzung vor und stellt die Komplementarität mit bestehenden Rechtsakten, wie der Richtlinie 2010/40/EU, in Bezug auf die Weiterverwendung von Dokumenten sicher. Diese Folgenabschätzung umfasst eine Kosten-Nutzen-Analyse und eine Analyse, ob sich die kostenlose Bereitstellung hochwertiger Datensätze durch öffentliche Stellen, die Einnahmen erzielen müssen, um einen wesentlichen Teil ihrer Kosten bei der Wahrnehmung ihres öffentlichen Auftrags zu decken, wesentlich auf den Haushalt solcher Stellen auswirken würde. Bei hochwertigen Datensätzen im Besitz öffentlicher Unternehmen wird die Rolle dieser Unternehmen in einem wettbewerbsbestimmten wirtschaftlichen Umfeld in der Folgenabschätzung besonders berücksichtigt.
+
+
+(3)   Abweichend von Absatz 1 Unterabsatz 2 Buchstabe a wird in den Durchführungsrechtakten gemäß Absatz 1 festgelegt, dass die kostenlose Verfügbarkeit hochwertiger Datensätze nicht für bestimmte hochwertige Datensätze im Besitz öffentlicher Unternehmen gilt, wenn dies zu einer Verfälschung des Wettbewerbs auf den betreffenden Märkten führen würde.
+
+
+(4)   Die Anforderung, hochwertige Datensätze gemäß Absatz 1 Unterabsatz 2 Buchstabe a kostenlos verfügbar zu machen, gilt nicht für Bibliotheken (einschließlich Hochschulbibliotheken), Museen und Archive.
+
+
+(5)   In Fällen, in denen sich die kostenlose Bereitstellung hochwertiger Datensätze durch öffentliche Stellen, die Einnahmen erzielen müssen, um einen wesentlichen Teil ihrer Kosten bei der Wahrnehmung ihres öffentlichen Auftrags zu decken, wesentlich auf den Haushalt der betreffenden Stellen auswirken würde, können die Mitgliedstaaten diese Stellen für einen Zeitraum von höchstens zwei Jahren nach Inkrafttreten des entsprechenden Durchführungsrechtsakts, der gemäß Absatz 1 erlassen wurde, von der Anforderung der kostenlosen Bereitstellung dieser hochwertigen Datensätze befreien.
+
+
+KAPITEL VI
+
+
+SCHLUSSBESTIMMUNGEN
+
+
+Artikel 15
+
+
+Ausübung der Befugnisübertragung
+
+
+(1)   Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem Artikel festgelegten Bedingungen übertragen.
+
+
+(2)   Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 13 Absatz 2 wird der Kommission für einen Zeitraum von fünf Jahren ab dem 16. Juli 2019 übertragen. Die Kommission erstellt spätestens neun Monate vor Ablauf des Zeitraums von fünf Jahren einen Bericht über die Befugnisübertragung. Die Befugnisübertragung verlängert sich stillschweigend um Zeiträume gleicher Länge, es sei denn, das Europäische Parlament oder der Rat widersprechen einer solchen Verlängerung spätestens drei Monate vor Ablauf des jeweiligen Zeitraums.
+
+
+(3)   Die Befugnisübertragung gemäß Artikel 13 Absatz 2 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im Amtsblatt der Europäischen Union oder zu einem im Beschluss über den Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.
+
+
+(4)   Vor dem Erlass eines delegierten Rechtsakts konsultiert die Kommission die von den einzelnen Mitgliedstaaten benannten Sachverständigen, im Einklang mit den in der Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung enthaltenen Grundsätzen.
+
+
+(5)   Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn gleichzeitig dem Europäischen Parlament und dem Rat.
+
+
+(6)   Ein delegierter Rechtsakt, der gemäß Artikel 13 Absatz 2 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von drei Monaten nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um drei Monate verlängert.
+
+
+Artikel 16
+
+
+Ausschussverfahren
+
+
+(1)   Die Kommission wird von einem Ausschuss für offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011.
+
+
+(2)   Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.
+
+
+Artikel 17
+
+
+Umsetzung
+
+
+(1)   Die Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften in Kraft, die erforderlich sind, um dieser Richtlinie bis zum 17. Juli 2021 nachzukommen. Sie teilen der Kommission unverzüglich den Wortlaut dieser Vorschriften mit.
+
+
+Bei Erlass dieser Vorschriften nehmen die Mitgliedstaaten in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf die vorliegende Richtlinie Bezug. In diese Vorschriften fügen sie die Erklärung ein, dass Bezugnahmen in den geltenden Rechts- und Verwaltungsvorschriften auf die durch die vorliegende Richtlinie aufgehobenen Richtlinien als Bezugnahmen auf die vorliegende Richtlinie gelten. Die Mitgliedstaaten regeln die Einzelheiten dieser Bezugnahme und die Formulierung dieser Erklärung.
+
+
+(2)   Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen Rechtsvorschriften mit, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen.
+
+
+Artikel 18
+
+
+Bewertung durch die Kommission
+
+
+(1)   Frühestens am 17. Juli 2025 führt die Kommission eine Bewertung dieser Richtlinie durch und übermittelt dem Europäischen Parlament und dem Rat sowie dem Europäischen Wirtschafts- und Sozialausschuss einen Bericht über die wichtigsten Ergebnisse dieser Bewertung.
+
+
+Die Mitgliedstaaten übermitteln der Kommission alle erforderlichen Angaben zur Ausarbeitung des Berichts.
+
+
+(2)   Bei der Bewertung werden insbesondere der Anwendungsbereich und die gesellschaftlichen und wirtschaftlichen Auswirkungen dieser Richtlinie geprüft, einschließlich
+
+
+a)
+
+
+des Steigerungsgrads der Weiterverwendung — vor allem durch KMU — von Dokumenten des öffentlichen Sektors, auf die diese Richtlinie anwendbar ist;
+
+
+b)
+
+
+der Auswirkungen der hochwertigen Datensätze;
+
+
+c)
+
+
+der Auswirkungen der angewandten Grundsätze für die Bemessung der Gebühren und Entgelte und der Weiterverwendung amtlicher Rechtsetzungs- und Verwaltungstexte;
+
+
+d)
+
+
+der Weiterverwendung von Dokumenten im Besitz anderer Einrichtungen als öffentlicher Stellen;
+
+
+e)
+
+
+der Verfügbarkeit und Verwendung von API;
+
+
+f)
+
+
+des Zusammenwirkens der Datenschutzvorschriften und der Möglichkeiten der Weiterverwendung;
+
+
+g)
+
+
+weiterer Möglichkeiten der Verbesserung des reibungslosen Funktionierens des Binnenmarkts und der Förderung der Entwicklung der Wirtschaft und des Arbeitsmarkts.
+
+
+Artikel 19
+
+
+Aufhebung
+
+
+Die Richtlinie 2003/98/EG in der Fassung der in Anhang II Teil A aufgeführten Richtlinie wird unbeschadet der Verpflichtungen der Mitgliedstaaten hinsichtlich der in Anhang II Teil B genannten Fristen für die Umsetzung der dort genannten Richtlinien in nationales Recht und der Zeitpunkte der Anwendung der Richtlinien in Anhang II Teil B mit Wirkung vom 17. Juli 2021 aufgehoben.
+
+
+Bezugnahmen auf die aufgehobene Richtlinie gelten als Bezugnahmen auf die vorliegende Richtlinie und sind nach Maßgabe der Entsprechungstabelle in Anhang III zu lesen.
+
+
+Artikel 20
+
+
+Inkrafttreten
+
+
+Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+
+
+Artikel 21
+
+
+Adressaten
+
+
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
+
+
+Geschehen zu Brüssel am 20. Juni 2019.
+
+
+Im Namen des Europäischen Parlaments
+
+
+Der Präsident
+
+
+A. TAJANI
+
+
+Im Namen des Rates
+
+
+Der Präsident
+
+
+G. CIAMBA
+
+
+( 1 )
+ABl. C 62 vom 15.2.2019, S. 238 .
+
+
+( 2 )   Standpunkt des Europäischen Parlaments vom 4. April 2019 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom 6. Juni 2019.
+
+
+( 3 )   Richtlinie 2003/98/EG des Europäischen Parlaments und des Rates vom 17. November 2003 über die Weiterverwendung von Informationen des öffentlichen Sektors ( ABl. L 345 vom 31.12.2003, S. 90 ).
+
+
+( 4 )   Richtlinie 2013/37/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Änderung der Richtlinie 2003/98/EG über die Weiterverwendung von Informationen des öffentlichen Sektors ( ABl. L 175 vom 27.6.2013, S. 1 ).
+
+
+( 5 )   Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) ( ABl. L 119 vom 4.5.2016, S. 1 ).
+
+
+( 6 )   Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken ( ABl. L 77 vom 27.3.1996, S. 20 ).
+
+
+( 7 )   Richtlinie 2003/4/EG des Europäischen Parlaments und des Rates vom 28. Januar 2003 über den Zugang der Öffentlichkeit zu Umweltinformationen und zur Aufhebung der Richtlinie 90/313/EWG des Rates ( ABl. L 41 vom 14.2.2003, S. 26 ).
+
+
+( 8 )   Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) ( ABl. L 108 vom 25.4.2007, S. 1 ).
+
+
+( 9 )   Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 zum Rahmen für die Einführung intelligenter Verkehrssysteme im Straßenverkehr und für deren Schnittstellen zu anderen Verkehrsträgern ( ABl. L 207 vom 6.8.2010, S. 1 ).
+
+
+( 10 )   Richtlinie 2014/25/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die Vergabe von Aufträgen durch Auftraggeber im Bereich der Wasser-, Energie- und Verkehrsversorgung sowie der Postdienste und zur Aufhebung der Richtlinie 2004/17/EG ( ABl. L 94 vom 28.3.2014, S. 243 ).
+
+
+( 11 )   Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates ( ABl. L 315 vom 3.12.2007, S. 1 ).
+
+
+( 12 )   Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft ( ABl. L 293 vom 31.10.2008, S. 3 ).
+
+
+( 13 )   Verordnung (EWG) Nr. 3577/92 des Rates vom 7. Dezember 1992 zur Anwendung des Grundsatzes des freien Dienstleistungsverkehrs auf den Seeverkehr in den Mitgliedstaaten (Seekabotage) ( ABl. L 364 vom 12.12.1992, S. 7 ).
+
+
+( 14 )   Richtlinie 2008/114/EG des Rates vom 8. Dezember 2008 über die Ermittlung und Ausweisung europäischer kritischer Infrastrukturen und die Bewertung der Notwendigkeit, ihren Schutz zu verbessern ( ABl. L 345 vom 23.12.2008, S. 75 ).
+
+
+( 15 )   Richtlinie (EU) 2016/1148 des Europäischen Parlaments und des Rates vom 6. Juli 2016 über Maßnahmen zur Gewährleistung eines hohen gemeinsamen Sicherheitsniveaus von Netz- und Informationssystemen in der Union ( ABl. L 194 vom 19.7.2016, S. 1 ).
+
+
+( 16 )   Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die öffentliche Auftragsvergabe und zur Aufhebung der Richtlinie 2004/18/EG ( ABl. L 94 vom 28.3.2014, S. 65 ).
+
+
+( 17 )   Richtlinie (EU) 2016/2102 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über den barrierefreien Zugang zu den Websites und mobilen Anwendungen öffentlicher Stellen ( ABl. L 327 vom 2.12.2016, S. 1 ).
+
+
+( 18 )   Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen Kommunikation (Datenschutzrichtlinie für elektronische Kommunikation) ( ABl. L 201 vom 31.7.2002, S. 37 ).
+
+
+( 19 )   Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft ( ABl. L 167 vom 22.6.2001, S. 10 ).
+
+
+( 20 )
+ABl. L 123 vom 12.5.2016, S. 1 .
+
+
+( 21 )   Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren ( ABl. L 55 vom 28.2.2011, S. 13 ).
+
+
+( 22 )   Verordnung (EG) Nr. 45/2001 des Europäischen Parlaments und des Rates vom 18. Dezember 2000 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe und Einrichtungen der Gemeinschaft und zum freien Datenverkehr ( ABl. L 8 vom 12.1.2001, S. 1 ).
+
+
+( 23 )
+ABl. C 305 vom 30.8.2018, S. 7 .
+
+
+ANHANG I
+
+
+Liste der in Artikel 13 Absatz 1 genannten thematischen Kategorien hochwertiger Datensätze:
+
+
+1.
+
+
+Georaum
+
+
+2.
+
+
+Erdbeobachtung und Umwelt
+
+
+3.
+
+
+Meteorologie
+
+
+4.
+
+
+Statistik
+
+
+5.
+
+
+Unternehmen und Eigentümerschaft von Unternehmen
+
+
+6.
+
+
+Mobilität
+
+
+ANHANG II
+
+
+Teil A
+
+
+Aufgehobene Richtlinie einschließlich Änderungen
+
+
+(siehe Artikel 19)
+
+
+Richtlinie 2003/98/EG des Europäischen Parlaments und des Rates
+
+
+( ABl. L 345 vom 31.12.2003, S. 90 ).
+
+
+Richtlinie 2013/37/EU des Europäischen Parlaments und des Rates
+
+
+( ABl. L 175 vom 27.6.2013, S. 1 ).
+
+
+Teil B
+
+
+Fristen für die Umsetzung in nationales Recht und Zeitpunkte der Anwendung
+
+
+(siehe Artikel 19)
+
+
+Richtlinie
+
+
+Umsetzungsfrist
+
+
+Anwendungsbeginn
+
+
+2003/98/EG
+
+
+1. Juli 2005
+
+
+1. Juli 2005
+
+
+2013/37/EU
+
+
+18. Juli 2015
+
+
+18. Juli 2015
+
+
+ANHANG III
+
+
+ENTSPRECHUNGSTABELLE
+
+
+Richtlinie 2003/98/EG
+
+
+Vorliegende Richtlinie
+
+
+Artikel 1 Absatz 1
+
+
+Artikel 1 Absatz 1 Einleitung
+
+
+Artikel 1 Absatz 1 Buchstabe a, b und c
+
+
+Artikel 1 Absatz 2 Einleitung
+
+
+Artikel 1 Absatz 2 Einleitung
+
+
+Artikel 1 Absatz 2 Buchstabe a
+
+
+Artikel 1 Absatz 2 Buchstabe a
+
+
+—
+
+
+Artikel 1 Absatz 2 Buchstabe b
+
+
+Artikel 1 Absatz 2 Buchstabe b
+
+
+Artikel 1 Absatz 2 Buchstabe c
+
+
+Artikel 1 Absatz 2 Buchstabe c
+
+
+Artikel 1 Absatz 2 Buchstabe d
+
+
+—
+
+
+Artikel 1 Absatz 2 Buchstabe e
+
+
+Artikel 1 Absatz 2 Buchstabe ca
+
+
+Artikel 1 Absatz 2 Buchstabe f
+
+
+Artikel 1 Absatz 2 Buchstabe cb
+
+
+Artikel 1 Absatz 2 Buchstabe g
+
+
+Artikel 1 Absatz 2 Buchstabe cc
+
+
+Artikel 1 Absatz 2 Buchstabe h
+
+
+Artikel 1 Absatz 2 Buchstabe d
+
+
+Artikel 1 Absatz 2 Buchstabe i
+
+
+Artikel 1 Absatz 2 Buchstabe e
+
+
+Artikel 1 Absatz 2 Buchstabe l
+
+
+Artikel 1 Absatz 2 Buchstabe f
+
+
+Artikel 1 Absatz 2 Buchstabe j
+
+
+—
+
+
+Artikel 1 Absatz 2 Buchstabe k
+
+
+Artikel 1 Absatz 3
+
+
+Artikel 1 Absatz 3
+
+
+Artikel 1 Absatz 4
+
+
+Artikel 1 Absatz 4
+
+
+Artikel 1 Absatz 5
+
+
+Artikel 1 Absatz 5
+
+
+—
+
+
+Artikel 1 Absatz 6 und 7
+
+
+Artikel 2 Einleitung
+
+
+Artikel 2 Einleitung
+
+
+Artikel 2 Nummer 1
+
+
+Artikel 2 Nummer 1
+
+
+Artikel 2 Nummer 2
+
+
+Artikel 2 Nummer 2
+
+
+—
+
+
+Artikel 2 Nummer 3 und 5
+
+
+Artikel 2 Nummer 3
+
+
+Artikel 2 Nummer 6
+
+
+—
+
+
+Artikel 2 Nummer 7 bis 10
+
+
+Artikel 2 Nummer 4
+
+
+Artikel 2 Nummer 11
+
+
+Artikel 2 Nummer 5
+
+
+Artikel 2 Nummer 12
+
+
+Artikel 2 Nummer 6
+
+
+Artikel 2 Nummer 13
+
+
+Artikel 2 Nummer 7
+
+
+Artikel 2 Nummer 14
+
+
+Artikel 2 Nummer 8
+
+
+Artikel 2 Nummer 15
+
+
+Artikel 2 Nummer 9
+
+
+Artikel 2 Nummer 4
+
+
+—
+
+
+Artikel 2 Nummer 16 und 17
+
+
+Artikel 3
+
+
+Artikel 3
+
+
+Artikel 4 Absatz 1
+
+
+Artikel 4 Absatz 1
+
+
+Artikel 4 Absatz 2
+
+
+Artikel 4 Absatz 2
+
+
+Artikel 4 Absatz 3
+
+
+Artikel 4 Absatz 3
+
+
+Artikel 4 Absatz 4
+
+
+Artikel 4 Absatz 4
+
+
+—
+
+
+Artikel 4 Absatz 5
+
+
+Artikel 4 Absatz 5
+
+
+Artikel 4 Absatz 6 Einleitung
+
+
+Artikel 4 Absatz 6 Buchstabe a und b
+
+
+—
+
+
+Artikel 4 Absatz 6 Buchstabe a
+
+
+Artikel 5 Absatz 1
+
+
+Artikel 5 Absatz 1
+
+
+—
+
+
+Artikel 5 Absatz 2
+
+
+Artikel 5 Absatz 2
+
+
+Artikel 5 Absatz 3
+
+
+Artikel 5 Absatz 3
+
+
+Artikel 5 Absatz 4
+
+
+—
+
+
+Artikel 5 Absatz 5 bis 8
+
+
+—
+
+
+Artikel 6 Absatz 1 Unterabsatz 1
+
+
+Artikel 6 Absatz 1
+
+
+Artikel 6 Absatz 1 Unterabsatz 2
+
+
+Artikel 6 Absatz 2 Einleitung
+
+
+Artikel 6 Absatz 2 Einleitung
+
+
+Artikel 6 Absatz 2 Buchstabe a
+
+
+Artikel 6 Absatz 2 Buchstabe a
+
+
+Artikel 6 Absatz 2 Buchstabe b
+
+
+—
+
+
+Artikel 6 Absatz 2 Buchstabe c
+
+
+Artikel 6 Absatz 2 Buchstabe b
+
+
+—
+
+
+Artikel 6 Absatz 2 Buchstabe c
+
+
+—
+
+
+Artikel 6 Absatz 3
+
+
+Artikel 6 Absatz 3
+
+
+Artikel 6 Absatz 4
+
+
+Artikel 6 Absatz 4
+
+
+Artikel 6 Absatz 5
+
+
+—
+
+
+Artikel 6 Absatz 6
+
+
+Artikel 7 Absatz 1
+
+
+Artikel 7 Absatz 1
+
+
+Artikel 7 Absatz 2
+
+
+Artikel 7 Absatz 2
+
+
+Artikel 7 Absatz 3
+
+
+—
+
+
+Artikel 7 Absatz 4
+
+
+Artikel 7 Absatz 3
+
+
+Artikel 8
+
+
+Artikel 8
+
+
+Artikel 9
+
+
+Artikel 9 Absatz 1
+
+
+—
+
+
+Artikel 9 Absatz 2
+
+
+—
+
+
+Artikel 10 Absatz 1 und 2
+
+
+Artikel 10
+
+
+Artikel 11
+
+
+Artikel 11 Absatz 1
+
+
+Artikel 12 Absatz 1
+
+
+Artikel 11 Absatz 2
+
+
+Artikel 12 Absatz 2
+
+
+Artikel 11 Absatz 2a
+
+
+Artikel 12 Absatz 3
+
+
+—
+
+
+Artikel 12 Absatz 4
+
+
+Artikel 11 Absatz 3
+
+
+—
+
+
+Artikel 11 Absatz 4
+
+
+Artikel 12 Absatz 5
+
+
+—
+
+
+Artikel 13 bis 16
+
+
+Artikel 12
+
+
+Artikel 17 Absatz 1
+
+
+—
+
+
+Artikel 17 Absatz 2
+
+
+Artikel 13 Absatz 1
+
+
+Artikel 18 Absatz 1
+
+
+Artikel 13 Absatz 2
+
+
+—
+
+
+Artikel 13 Absatz 3
+
+
+Artikel 18 Absatz 2 Einleitung
+
+
+—
+
+
+Artikel 18 Absatz 2 Buchstabe a bis g
+
+
+—
+
+
+Artikel 19
+
+
+Artikel 14
+
+
+Artikel 20
+
+
+Artikel 15
+
+
+Artikel 21
+
+
+—
+
+
+Anhang I, II und III

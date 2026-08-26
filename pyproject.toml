@@ -1,0 +1,74 @@
+[build-system]
+requires = ["hatchling", "hatch-vcs"]
+build-backend = "hatchling.build"
+
+[project]
+name = "parallax-bench"
+dynamic = ["version"]                # z git tagu (hatch-vcs)
+description = "Measuring language-induced retrieval displacement in RAG systems using parallel corpora"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "Apache-2.0"
+authors = [{ name = "Ondřej Brůha", email = "ondrej.bruha@alphacodes.eu" }]
+keywords = ["rag", "retrieval", "multilingual", "benchmark", "evaluation", "czech"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+]
+dependencies = [
+    "httpx[http2]>=0.27",
+    "pydantic>=2.7",
+    "sqlalchemy>=2.0",
+    "tenacity>=8.3",
+    "typer>=0.12",
+    "pandas>=2.2",
+    "scipy>=1.13",
+]
+
+[project.optional-dependencies]
+# BM25 half of baseline_local is built in (no deps); the extra adds the dense half.
+baseline = ["sentence-transformers"]
+web = ["fastapi", "uvicorn"]
+dev = ["pytest", "ruff", "mypy", "pytrec_eval-terrier"]
+
+[project.scripts]
+parallax-bench = "parallax_bench.cli:app"
+
+[project.urls]
+Homepage = "https://github.com/ondrejbruha/parallax-bench"
+Repository = "https://github.com/ondrejbruha/parallax-bench"
+
+[tool.hatch.version]
+source = "vcs"                       # verze = git tag
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/parallax_bench"]
+
+# benchmark/ je mimo src/ — bez force-include by se do wheelu nedostal
+# a quickstart (§6) by po `pip install` nefungoval.
+[tool.hatch.build.targets.wheel.force-include]
+"benchmark/v1" = "parallax_bench/_data/v1"
+"benchmark/smoke" = "parallax_bench/_data/smoke"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.ruff.lint.per-file-ignores]
+"benchmark/build/make_smoke_queries.py" = ["E501"]  # hand-authored query strings
+"src/parallax_bench/cli.py" = ["B008"]              # typer.Option in defaults is the typer idiom
+
+[tool.mypy]
+python_version = "3.12"
+strict = false
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

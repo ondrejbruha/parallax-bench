@@ -1,0 +1,1172 @@
+L_2019186CS.01005701.xml
+
+
+11.7.2019
+
+
+CS
+
+
+Úřední věstník Evropské unie
+
+
+L 186/57
+
+
+NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (EU) 2019/1150
+
+
+ze dne 20. června 2019
+
+
+o podpoře spravedlnosti a transparentnosti pro podnikatelské uživatele online zprostředkovatelských služeb
+
+
+(Text s významem pro EHP)
+
+
+EVROPSKÝ PARLAMENT A RADA EVROPSKÉ UNIE,
+
+
+s ohledem na Smlouvu o fungování Evropské unie, a zejména na článek 114 této smlouvy,
+
+
+s ohledem na návrh Evropské komise,
+
+
+po postoupení návrhu legislativního aktu vnitrostátním parlamentům,
+
+
+s ohledem na stanovisko Evropského hospodářského a sociálního výboru  ( 1 ) ,
+
+
+po konzultaci s Výborem regionů,
+
+
+v souladu s řádným legislativním postupem  ( 2 ) ,
+
+
+vzhledem k těmto důvodům:
+
+
+(1)
+
+
+Online zprostředkovatelské služby jsou klíčovým faktorem podnikání a nových obchodních modelů, obchodu a inovací, které mohou též zlepšit podmínky pro spotřebitele a čím dál tím víc je používají soukromé i veřejné sektory. Poskytují přístup k novým trhům a obchodním příležitostem, a tím umožňují podnikům využít výhod vnitřního trhu. Spotřebitelům v Unii umožňují využít těchto výhod především rozšířením možností jejich volby zboží a služeb, jakož i tím, že přispívají k nabídce konkurenčních cen online, avšak vyvolávají i potíže, které je třeba v zájmu zajištění právní jistoty řešit.
+
+
+(2)
+
+
+Online zprostředkovatelské služby mohou být rozhodující pro obchodní úspěch podniků, které je používají k oslovování spotřebitelů. K plnému využití výhod ekonomiky online platforem je proto důležité, aby podniky online zprostředkovatelským službám, s nimiž vstupují do obchodních vztahů, mohly důvěřovat. To je důležité zejména proto, že vzrůstající zprostředkování transakcí prostřednictvím online zprostředkovatelských služeb podporovaných silnými nepřímými síťovými účinky založenými na datech vede k vyšší závislosti těchto podnikatelských uživatelů, zejména mikropodniků a malých a středních podniků, na těchto službách k oslovování spotřebitelů. Vzhledem k této zvyšující se závislosti mají poskytovatelé uvedených služeb často lepší vyjednávací pozici, která jim umožňuje chovat se v praxi jednostranně způsobem, který nemusí být poctivý a který může poškozovat oprávněné zájmy jejich podnikatelských uživatelů a nepřímo i spotřebitelů v Unii. Mohli by například vůči podnikatelským uživatelům jednostranně uplatňovat praktiky, které se závažným způsobem odchylují od zásad poctivého obchodního styku nebo odporují dobré víře a poctivému jednání. Takovými možnými spory v rámci ekonomiky online platforem se zabývá toto nařízení.
+
+
+(3)
+
+
+Spotřebitelé přijali online zprostředkovatelské služby za své. Konkurenční, spravedlivé a transparentní online prostředí, v němž se společnosti chovají zodpovědně, má zásadní význam i z hlediska podmínek pro spotřebitele. Zajištěním transparentnosti ekonomiky online platforem a důvěry v ni v rámci vztahů mezi podniky by se mohlo přispět i k posílení důvěry spotřebitele v ekonomiku online platforem. Přímými dopady rozvoje ekonomiky online platforem na spotřebitele se nicméně zabývají jiné právní předpisy Unie, zejména spotřebitelské acquis .
+
+
+(4)
+
+
+Podobně mohou být internetové vyhledávače důležitými zdroji internetového provozu pro podniky, které nabízejí spotřebitelům zboží nebo služby prostřednictvím internetových stránek, a mohou mít proto značný vliv na obchodní úspěch těch uživatelů firemních internetových stránek, kteří nabízejí zboží nebo služby online na vnitřním trhu. Pořadí internetových stránek určované poskytovateli internetových vyhledávačů, včetně internetových stránek, jejichž prostřednictvím uživatelé firemních internetových stránek nabízejí své zboží a služby spotřebitelům, má v tomto ohledu významný dopad na volbu spotřebitelů a obchodní úspěch uvedených uživatelů firemních internetových stránek. Poskytovatelé internetových vyhledávačů se proto mohou chovat v praxi jednostranně způsobem, který nemusí být poctivý a který může poškozovat oprávněné zájmy uživatelů firemních internetových stránek a nepřímo i spotřebitelů v Unii, a to i v případě neexistence smluvního vztahu s uživateli firemních internetových stránek.
+
+
+(5)
+
+
+Povaha vztahu mezi poskytovateli online zprostředkovatelských služeb a podnikatelskými uživateli by mohla vést také k situacím, v nichž mají podnikatelští uživatelé často omezené možnosti usilovat o nápravu, pokud jednostranná opatření poskytovatelů těchto služeb vedou ke sporu. Tito poskytovatelé v mnoha případech nenabízejí dostupné a účinné interní systémy pro vyřizování stížností. Stávající alternativní mechanismy mimosoudního řešení sporů rovněž nemusí být účinné z různých důvodů, kromě jiného i kvůli chybějícím specializovaným mediátorům a obavám podnikatelských uživatelů z odvety.
+
+
+(6)
+
+
+Online zprostředkovatelské služby a internetové vyhledávače, jakož i transakce usnadněné těmito službami, mají opravdový přeshraniční potenciál a jsou mimořádně důležité pro řádné fungování vnitřního trhu Unie v současném hospodářství. Potenciálně nekalé a škodlivé obchodní praktiky některých poskytovatelů těchto služeb a neexistence účinných mechanismů nápravy brzdí plné využití tohoto potenciálu a negativně ovlivňuje řádné fungování vnitřního trhu.
+
+
+(7)
+
+
+Na úrovni Unie by měl být stanoven cílený soubor závazných pravidel, aby bylo zajištěno spravedlivé, předvídatelné, udržitelné a důvěryhodné online podnikatelské prostředí v rámci vnitřního trhu. Zejména by se podnikatelským uživatelům online zprostředkovatelských služeb měla poskytnout odpovídající míra transparentnosti a také možnosti účinné nápravy v celé Unii s cílem usnadnit přeshraniční podnikání v jejím v rámci, a zlepšit tím řádné fungování vnitřního trhu, a také s cílem řešit potenciálně vznikající roztříštěnost v konkrétních oblastech, na něž se vztahuje toto nařízení.
+
+
+(8)
+
+
+Uvedená pravidla by měla stanovit také odpovídající podněty na podporu spravedlnosti a transparentnosti, zejména pokud jde o pořadí uživatelů firemních internetových stránek ve výsledcích vyhledávání generovaných internetovými vyhledávači. Tato pravidla by současně měla uznat a zajistit důležitý inovační potenciál širší ekonomiky online platforem a umožnit zdravou hospodářskou soutěž vedoucí k širším možnostem volby spotřebitelů. Je vhodné jasně uvést, že by se toto nařízení nemělo dotýkat vnitrostátního občanského práva, zejména práva smluvního, například pokud jde o úpravu platnosti, uzavírání, účinků nebo ukončení smlouvy, a to v rozsahu, v jakém jsou pravidla vnitrostátního občanského práva v souladu s právem Unie a v jakém nejsou příslušné aspekty upraveny tímto nařízením. Členským státům by měla být ponechána volnost při uplatňování vnitrostátních právních předpisů, které zakazují nebo postihují jednostranné jednání nebo nekalé obchodní praktiky, a to v rozsahu, v jakém nejsou příslušné aspekty upraveny tímto nařízením.
+
+
+(9)
+
+
+Jelikož online zprostředkovatelské služby a internetové vyhledávače mají zpravidla globální rozměr, mělo by se toto nařízení vztahovat na poskytovatele těchto služeb bez ohledu na to, zda jsou usazeni v členském státě nebo mimo Unii, pokud jsou splněny dvě kumulativní podmínky. Za prvé, podnikatelští uživatelé nebo uživatelé firemních internetových stránek by měli být usazeni v Unii. Za druhé, podnikatelští uživatelé nebo uživatelé firemních internetových stránek by při poskytování těchto služeb měli nabízet své zboží nebo služby spotřebitelům, kteří se nacházejí v Unii, alespoň pro část transakce. Aby se určilo, zda podnikatelští uživatelé nebo uživatelé firemních internetových stránek nabízejí zboží či služby spotřebitelům nacházejícím se v Unii, je nutné zjistit, zda je zřejmé, že zaměřují svou činnost na spotřebitele v jednom či více členských státech. Toto kritérium by mělo být vykládáno v souladu s relevantní judikaturou Soudního dvora Evropské unie k čl. 17 odst. 1 písm. c) nařízení Evropského parlamentu a Rady (ES) č. 1215/2012  ( 3 ) a k čl. 6 odst. 1 písm. b) nařízení Evropského parlamentu a Rady (ES) č. 593/2008  ( 4 ) . Tito spotřebitelé by se měli nacházet v Unii, nemusí však mít bydliště v Unii, ani státní příslušnost některého členského státu. Toto nařízení by se tedy nemělo použít, nejsou-li podnikatelští uživatelé nebo uživatelé firemních internetových stránek usazeni v Unii, nebo tehdy, jsou-li usazeni v Unii, ale online zprostředkovatelské služby či internetové vyhledávače používají k nabízení zboží nebo služeb výlučně pro spotřebitele, kteří se nacházejí mimo Unii, nebo pro osoby, které nejsou spotřebiteli. Navíc by se toto nařízení mělo používat bez ohledu na právo, které by jinak bylo pro danou smlouvu rozhodné.
+
+
+(10)
+
+
+Velkou rozmanitost vztahů mezi podniky a spotřebiteli zprostředkovávají online poskytovatelé, kteří poskytují mnohostranné služby založené v podstatě na stejném obchodním modelu budování prostředí. Aby se podchytily příslušné služby, měly by se online zprostředkovatelské služby definovat přesně a technologicky neutrálně. Služby by se měly skládat zejména ze služeb informační společnosti, které se vyznačují tím, že jejich cílem je usnadnit zahájení přímých transakcí mezi podnikatelskými uživateli a spotřebiteli bez ohledu na to, zda transakce jsou nakonec uzavřeny online na internetovém portálu dotčeného poskytovatele online zprostředkovatelských služeb nebo podnikatelského uživatele, offline, či zda nejsou uzavřeny vůbec, což znamená, že by neměla být vyžadována existence jakéhokoli smluvního vztahu mezi podnikatelskými uživateli a spotřebiteli jako nezbytný předpoklad pro to, aby online zprostředkovatelské služby spadaly do oblasti působnosti tohoto nařízení. Na samotné zahrnutí služby okrajového významu by nemělo být nahlíženo jako na úsilí o to, aby internetové stránky nebo služba usnadnily transakce ve smyslu online zprostředkovatelských služeb. Kromě toho by se služby měly poskytovat na základě smluvních vztahů mezi poskytovateli a podnikatelskými uživateli, kteří nabízejí zboží nebo služby spotřebitelům. Tyto smluvní vztahy by se měly považovat za existující, pokud obě dotčené strany jednoznačně vyjádří na trvalém nosiči svůj úmysl být vázány, aniž by byla nezbytně potřebná výslovná písemná dohoda.
+
+
+(11)
+
+
+Příklady online zprostředkovatelských služeb, na něž se vztahuje toto nařízení, by tedy měly zahrnovat online tržiště elektronického obchodování, včetně tržišť vytvářených ve spolupráci, na nichž jsou podnikatelští uživatelé aktivní, dále online služby softwarových aplikací, jako jsou obchody s aplikacemi, a online služby sociálních médií, bez ohledu na technologii, která je k poskytování těchto služeb použita. V tomto smyslu by mohly být online zprostředkovatelské služby rovněž poskytovány prostřednictvím technologie hlasového asistenta. Také by nemělo mít význam, zda tyto transakce mezi podnikatelskými uživateli a spotřebiteli zahrnují peněžitou platbu nebo zda jsou zčásti uzavřeny offline. Toto nařízení by se však nemělo vztahovat na online zprostředkovatelské služby mezi subjekty na stejné úrovni bez přítomnosti podnikatelských uživatelů, čistě mezipodnikové online zprostředkovatelské služby, které nejsou nabízeny spotřebitelům, online reklamní nástroje a online reklamní výměny, které se neposkytují s cílem usnadnit zahájení přímých transakcí a které nezahrnují smluvní vztah se spotřebiteli. Z téhož důvodu by se toto nařízení nemělo vztahovat na softwarové služby provádějící optimalizaci pro vyhledávače ani na služby související se softwarem pro blokování reklam. Toto nařízení by se nemělo vztahovat na technické funkce a rozhraní, které jen propojují hardware a aplikace, neboť obvykle nesplňují požadavky na online zprostředkovatelské služby. Takové funkce a rozhraní mohou být nicméně přímo propojeny s určitými online zprostředkovatelskými službami nebo vůči nim být doplňkové a je-li tomu tak, měli by příslušní poskytovatelé online zprostředkovatelských služeb podléhat požadavkům na transparentnost vztahujícím se na rozdílné zacházení na základě funkcí a rozhraní. Toto nařízení by se rovněž nemělo vztahovat na online platební služby, neboť samy o sobě nesplňují použitelné požadavky, nýbrž ve své podstatě plní spíše pomocnou úlohu při transakcích dodávky zboží a poskytování služeb dotčeným spotřebitelům.
+
+
+(12)
+
+
+V souladu s relevantní judikaturou Soudního dvora Evropské unie a s ohledem na skutečnost, že závislé postavení podnikatelských uživatelů bylo zaznamenáno převážně s ohledem na online zprostředkovatelské služby, které slouží jako brána ke spotřebitelům, kteří jsou fyzickými osobami, by se mělo pojmu spotřebitele použitému k vymezení oblasti působnosti tohoto nařízení rozumět tak, že se vztahuje výlučně na fyzické osoby, pokud jednají za účelem, který nelze považovat za jejich obchodní činnost, podnikání, řemeslo nebo povolání.
+
+
+(13)
+
+
+Vzhledem k rychlému tempu inovací by definice internetového vyhledávače použitá v tomto nařízení měla být technologicky neutrální. Zejména by mělo být zřejmé, že definice zahrnuje rovněž hlasové žádosti.
+
+
+(14)
+
+
+Poskytovatelé online zprostředkovatelských služeb mají sklon používat předem určené smluvní podmínky, a aby se v případě potřeby účinně chránili podnikatelští uživatelé, mělo by se toto nařízení použít v případě, že podmínky smluvních vztahů, bez ohledu na jejich název nebo formu, jsou jednostranně stanoveny poskytovatelem online zprostředkovatelských služeb. Zda byly podmínky jednostranně stanoveny, by mělo být zhodnoceno případ od případu na základě celkového posouzení. Pro celkové posouzení by neměla být sama o sobě rozhodující relativní velikost dotčených stran, skutečnost, že došlo k jednání nebo že určitá ustanovení podmínek mohla být předmětem takového jednání a mohla být sjednána společně příslušným poskytovatelem a podnikatelským uživatelem. Kromě toho povinnost poskytovatelů online zprostředkovatelských služeb učinit své podmínky snadno dostupnými pro podnikatelské uživatele, a to i v předsmluvní fázi jejich obchodního vztahu, znamená, že podnikatelští uživatelé nebudou připraveni o transparentnost vyplývající z tohoto nařízení v důsledku toho, že jsou tak či onak schopni vést jednání úspěšně.
+
+
+(15)
+
+
+S cílem zajistit, aby obecné podmínky smluvního vztahu umožnily podnikatelským uživatelům určit obchodní podmínky pro používání, ukončení a pozastavení online zprostředkovatelských služeb a dosáhnout předvídatelnosti jejich obchodního vztahu, měly by se tyto podmínky vypracovat v jasném a srozumitelném jazyce. Podmínky by se neměly považovat za vypracované v jasném a srozumitelném jazyce, jsou-li nejasné, neurčité, nebo postrádají podrobnosti o důležitých obchodních otázkách, takže podnikatelským uživatelům neposkytují rozumnou míru předvídatelnosti nejdůležitějších aspektů smluvního vztahu. Zavádějící jazyk by přitom neměl být považován za jasný a srozumitelný.
+
+
+(16)
+
+
+Aby bylo podnikatelským uživatelům dostatečně zřejmé, kde a pro koho jsou jejich zboží nebo služby uváděny na trh, měli by poskytovatelé online zprostředkovatelských služeb zajistit transparentnost ve vztahu ke svým podnikatelským uživatelům, pokud jde o veškeré dodatečné distribuční kanály a potenciální přidružené programy, které by mohli využít k uvádění daného zboží nebo služeb na trh. Dodatečné kanály a přidružené programy by měly být pojímány v technologicky neutrálním smyslu, avšak mohly by mimo jiné zahrnovat jiné internetové stránky, aplikace či další online zprostředkovatelské služby, které podnikatelský uživatel používá k uvádění daného zboží nebo služeb na trh.
+
+
+(17)
+
+
+Práva duševního vlastnictví a online kontrola nad nimi mohou mít velký hospodářský význam jak pro poskytovatele online zprostředkovatelských služeb, tak i pro jejich podnikatelské uživatele. Aby se zajistila srozumitelnost a transparentnost pro podnikatelské uživatele a lepší porozumění, měli by poskytovatelé online zprostředkovatelských služeb do svých podmínek zahrnout obecné nebo, přejí-li si tak učinit, podrobnější informace týkající se celkových účinků, nastanou-li, daných podmínek na práva duševního vlastnictví a kontrolu nad nimi. Takové informace by mohly mimo jiné obsahovat informace například o obecném používání log, ochranných známek nebo názvů obchodních značek.
+
+
+(18)
+
+
+Zajištění transparentnosti v obecných podmínkách může být důležité pro podporu udržitelných obchodních vztahů a zamezení nepoctivému chování na újmu podnikatelských uživatelů. Poskytovatelé online zprostředkovatelských služeb by měli proto také zabezpečit, aby podmínky byly snadno dostupné ve všech fázích obchodního vztahu, kromě jiného i pro potenciální podnikatelské uživatele v předsmluvní fázi, a aby jakákoli jejich změna byla oznámena na trvalém nosiči dotčeným podnikatelským uživatelům ve lhůtě pro oznámení, která je rozumná a přiměřená s ohledem na konkrétní okolnosti, a činí nejméně 15 dnů. Přiměřené lhůty pro oznámení delší než 15 dnů by měly být stanoveny v případě, že navržené změny smluvních podmínek po podnikatelských uživatelích vyžadují, aby provedli technické nebo obchodní úpravy s cílem vyhovět změně, například pokud jsou povinni provést významné technické úpravy svého zboží a služeb. Lhůta pro oznámení by se neměla uplatnit, pokud a v tom rozsahu, v němž ji dotčený podnikatelský uživatel jednoznačně odmítne, nebo pokud a v tom rozsahu, v němž potřeba neprodleně provést změnu vyplývá z právního nebo regulačního závazku, který má za povinnost plnit poskytovatel služeb podle práva Unie nebo vnitrostátního práva. Návrhy redakčních změn by však neměly být zahrnuty pod pojmem „změna“, pokud nemění obsah nebo smysl podmínek. Požadavek na oznámení navrhovaných změn na trvalém nosiči by měl podnikatelským uživatelům umožnit účinně tyto změny přezkoumat v pozdější fázi. Podnikatelští uživatelé by měli mít právo ukončit smlouvu do 15 dnů od obdržení oznámení o změně, ledaže se na smlouvu vztahuje kratší lhůta, například na základě vnitrostátního občanského práva.
+
+
+(19)
+
+
+V obecné rovině by nabídka nového zboží a služeb, včetně softwarových aplikací, vložená do online zprostředkovatelských služeb měla být považována za jednoznačné potvrzující jednání, jímž podnikatelský uživatel upouští od lhůty pro oznámení nutné ke změně podmínek. Avšak v případech, kdy rozumná a přiměřená lhůta pro oznámení činí více než 15 dnů, jelikož změny podmínek vyžadují, aby podnikatelský uživatel provedl významné technické a obchodní úpravy svého zboží nebo služeb, by nemělo dojít k automatickému upuštění od lhůty pro oznámení, pokud podnikatelský uživatel nabídne nové zboží a služby. Poskytovatelé online zprostředkovatelských služeb by měli očekávat, že změny podmínek budou vyžadovat, aby podnikatelští uživatelé provedli významné technické úpravy, pokud jsou například odstraněny celé prvky online zprostředkovatelské služby, k níž měli podnikatelští uživatelé přístup, nebo jsou přidány prvky nové nebo jestliže podnikatelští uživatelé mohou být nuceni upravit své zboží nebo přeprogramovat své služby, aby mohli nadále fungovat s využitím online zprostředkovatelských služeb.
+
+
+(20)
+
+
+V zájmu ochrany podnikatelských uživatelů a poskytnutí právní jistoty oběma stranám by příslušný soud měl mít možnost stanovit, že podmínky, které nesplňují právní požadavky, jsou neplatné, a to s účinky erga omnes a ex tunc . Každé takové zjištění soudu by se však mělo týkat pouze konkrétních ustanovení podmínek, která nesplňují právní požadavky. Zbývající ustanovení by měla zůstat platná a vymahatelná, pokud je lze oddělit od ustanovení, která nejsou v souladu s požadavky. Náhlé změny stávajících podmínek mohou značně narušit operace podnikatelských uživatelů. S cílem omezit takové negativní účinky na podnikatelské uživatele a odradit od takového chování, změny provedené v rozporu s povinností stanovit pevnou lhůtu pro oznámení by byly proto neplatné, tj. mělo by se za to, že nikdy neexistovaly, s účinky erga omnes a ex tunc .
+
+
+(21)
+
+
+K zajištění toho, aby podnikatelští uživatelé mohli využívat obchodních příležitostí nabízených online zprostředkovatelskými službami, by poskytovatelé těchto služeb neměli svým podnikatelským uživatelům zcela znemožnit uvádění jejich obchodní identity v rámci jejich nabídek nebo účasti v příslušných online zprostředkovatelských službách. Tento zákaz zasahování by však neměl být chápán jako právo podnikatelských uživatelů jednostranně určit, jakým způsobem se bude prezentovat jejich nabídka nebo účast v příslušných online zprostředkovatelských službách.
+
+
+(22)
+
+
+Poskytovatel online zprostředkovatelských služeb může mít oprávněné důvody rozhodnout, že omezí, pozastaví nebo ukončí poskytování svých služeb danému podnikatelskému uživateli, a to i vyřazením jednotlivého zboží nebo služeb daného podnikatelského uživatele nebo účinným odstraněním výsledků vyhledávání. Pokud je nelze pozastavit, mohou poskytovatelé online zprostředkovatelských služeb rovněž omezit jednotlivé uvádění podnikatelských uživatelů, například jejich degradací nebo negativním ovlivněním zobrazení podnikatelského uživatele (tzv. dimming) nebo snížením jejich pořadí. Avšak vzhledem k tomu, že taková rozhodnutí mohou značně ovlivnit zájmy dotčených podnikatelských uživatelů, mělo by být těmto uživatelům nejpozději v okamžiku, kdy omezení nebo pozastavení nabude účinnosti, poskytnuto na trvalém nosiči odůvodnění takového rozhodnutí. Aby se minimalizoval negativní dopad těchto rozhodnutí na podnikatelské uživatele, měli by poskytovatelé online zprostředkovatelských služeb také umožnit objasnění skutečností, které k tomuto rozhodnutí v rámci interního postupu pro vyřizování stížností vedly, což napomůže podnikatelskému uživateli obnovit soulad s předpisy, je-li to možné. Pokud kromě toho poskytovatel online zprostředkovatelských služeb vezme zpět rozhodnutí omezit, pozastavit nebo ukončit poskytování služeb, například proto, že rozhodnutí bylo učiněno v omylu nebo jestliže porušení podmínek, které k tomuto rozhodnutí vedlo, nebylo učiněno ve zlé víře a bylo dostatečným způsobem napraveno, měl by poskytovatel obnovit podnikatelskému uživateli bez zbytečného odkladu služby, včetně poskytnutí přístupu k osobním nebo jiným údajům z doby před přijetím rozhodnutí.
+
+
+Odůvodnění týkající se rozhodnutí o omezení, pozastavení nebo ukončení poskytování online zprostředkovatelských služeb by mělo podnikatelským uživatelům umožnit, aby zjistili, zda existuje prostor pro napadení daného rozhodnutí, čímž se zvýší možnosti podnikatelských uživatelů usilovat v případě potřeby o účinnou nápravu. Odůvodnění by mělo určit příčiny pro rozhodnutí na základě důvodů, které poskytovatel stanovil předem ve svých podmínkách, a přiměřeně se odvolávat na příslušné zvláštní okolnosti, které k rozhodnutí vedly, včetně oznámení třetích stran. Poskytovatel online zprostředkovatelských služeb by však neměl být povinen odůvodnění omezení, pozastavení nebo ukončení poskytnout, pokud by tím porušil právní nebo regulační povinnost. Odůvodnění by rovněž nemělo být vyžadováno v případě, že je poskytovatel online zprostředkovatelských služeb schopen prokázat, že dotčený podnikatelský uživatel opakovaně porušil platné podmínky, což vedlo k ukončení poskytování všech dotčených online zprostředkovatelských služeb.
+
+
+(23)
+
+
+Ukončení veškerých online zprostředkovatelských služeb a související vymazání údajů poskytnutých k využívání nebo vytvořených prostřednictvím poskytování online zprostředkovatelských služeb představuje ztrátu podstatných informací, jež by mohla mít významný dopad na podnikatelské uživatele a mohla by rovněž zhoršit jejich schopnost řádně vykonávat další práva, která jim svěřuje toto nařízení. Poskytovatel online zprostředkovatelských služeb by proto měl dotčenému podnikatelskému uživateli poskytnout na trvalém nosiči odůvodnění nejméně 30 dní před tím, než ukončení poskytování online zprostředkovatelských služeb v plném rozsahu nabude účinnosti. V případech, kdy právní nebo regulační povinnost vyžaduje, aby poskytovatel online zprostředkovatelských služeb ukončil danému podnikatelskému uživateli poskytování svých online zprostředkovatelských služeb v plném rozsahu, tato lhůta by se neměla uplatnit. Stejně tak by se lhůta pro oznámení v délce 30 dní neměla uplatnit, pokud poskytovatel online zprostředkovatelských služeb uplatní právo na ukončení smlouvy podle vnitrostátních právních předpisů v souladu s právem Unie, jež umožňují okamžité ukončení smlouvy, pokud s přihlédnutím k veškerým okolnostem konkrétního případu a po zvážení zájmů obou stran nelze rozumně očekávat, že tento poskytovatel setrvá ve smluvním vztahu až do sjednané doby nebo do uplynutí výpovědní doby. Lhůta pro oznámení v délce 30 dní by se konečně neměla uplatnit tam, kde poskytovatel online zprostředkovatelských služeb může prokázat opakované porušení podmínek. Různé výjimky z této třicetidenní lhůty mohou zejména vyplynout v souvislosti s nelegálním či nevhodným obsahem, bezpečností zboží či služby, paděláním, podvodem, malwarem, spamem, narušením bezpečnosti údajů, jinými kybernetickými riziky, vhodností zboží nebo služby pro nezletilé. V zájmu zajištění proporcionality by měli poskytovatelé online zprostředkovatelských služeb vyloučit pouze jednotlivé zboží nebo služby podnikatelského uživatele, pokud je to přiměřené a technicky proveditelné. Ukončení všech online zprostředkovatelských služeb představuje nejpřísnější opatření.
+
+
+(24)
+
+
+Pořadí zboží a služeb určované poskytovateli online zprostředkovatelských služeb má významný vliv na volbu spotřebitelů, a tedy na obchodní úspěch podnikatelských uživatelů, kteří nabízejí takové zboží a služby spotřebitelům. Jako pořadí se označuje relativní důležitost nabídek podnikatelských uživatelů nebo relevantnost připisovaná výsledkům vyhledávání v podobě, v jaké je poskytovatelé online zprostředkovatelských služeb nebo poskytovatelé online vyhledávačů prezentují, uspořádají nebo oznamují, a je výsledkem uplatnění algoritmického řazení, mechanismů hodnocení či recenzí, vizuálních označení či jiných nástrojů pro zvýraznění nebo jejich kombinace. Předvídatelností se rozumí, že poskytovatelé online zprostředkovatelských služeb neurčují pořadí svévolně. Poskytovatelé by měli proto předem uvést hlavní parametry, které určují pořadí, aby se zlepšila předvídatelnost pro podnikatelské uživatele, aby se jim umožnilo lépe porozumět fungování mechanismu určování pořadí a aby mohli porovnat postupy různých poskytovatelů v určování pořadí. Zvláštní podmínky tohoto požadavku na transparentnost jsou důležité pro podnikatelské uživatele, neboť obnášejí určení omezeného souboru parametrů, které z potenciálně o mnoho většího souboru parametrů s vlivem na pořadí mají největší význam. Odůvodněný popis by měl podnikatelským uživatelům pomoci zlepšit prezentaci svého zboží a služeb nebo některých inherentních vlastností tohoto zboží a služeb. Pojmu hlavního parametru by se mělo rozumět tak, že zahrnuje jakákoli obecná kritéria, procesy, zvláštní signály začleněné do algoritmů nebo jiné úpravy či mechanismy degradace používané v souvislosti s pořadím.
+
+
+(25)
+
+
+Popis hlavních parametrů určujících pořadí by měl zahrnovat také vysvětlení jakékoli možnosti podnikatelských uživatelů aktivně ovlivnit pořadí za úplatu a jejích relativních účinků. „Úplatou“ by se v tomto ohledu mohly rozumět platby, jejichž hlavním nebo výhradním cílem je dosáhnout lepšího pořadí, jakož i nepřímá úplata spočívající v tom, že podnikatelský uživatel přijme jakékoli další závazky, jejichž praktickým účinkem je dosažení lepšího pořadí, například využívání jakýchkoli doplňkových služeb nebo prémiových prvků. Obsah popisu včetně počtu a typu hlavních parametrů se tak může výrazně lišit v závislosti na konkrétních online zprostředkovatelských službách, avšak měl by zajistit, aby podnikatelští uživatelé přiměřeně porozuměli tomu, jak mechanismus určování pořadí zohledňuje vlastnosti skutečného zboží nebo služeb, které nabízí podnikatelský uživatel, a relevantnost zvláštních online zprostředkovatelských služeb pro spotřebitele. Jsou-li součástí obecného popisu mechanismu určování pořadí formulovaného jasným a srozumitelným jazykem příklady hlavních parametrů, které by podnikatelským uživatelům měly pomoci přiměřeně porozumět fungování mechanismu určování pořadí, mohly by zahrnovat ukazatele používané pro měření kvality zboží nebo služeb podnikatelských uživatelů, používání editorů a jejich schopnost ovlivnit pořadí tohoto zboží a služeb, rozsah vlivu úplat na pořadí, jakož i prvky, které se samotným produktem nebo službou nesouvisejí nebo s nimi souvisejí jen vzdáleně, jako jsou prezentační prvky online nabídky.
+
+
+(26)
+
+
+Podobně má pořadí internetových stránek určované poskytovateli internetových vyhledávačů, zejména těch internetových stránek, jejichž prostřednictvím podniky nabízejí své zboží a služby spotřebitelům, významný dopad na volbu spotřebitelů a obchodní úspěch uživatelů firemních internetových stránek. Poskytovatelé internetových vyhledávačů by měli proto poskytnout popis hlavních parametrů určujících pořadí všech indexovaných internetových stránek a relativní důležitost těchto hlavních parametrů v porovnání s jinými parametry, včetně indexovaných stránek uživatelů firemních internetových stránek a také jiných internetových stránek. Kromě vlastností zboží a služeb a jejich relevantnosti pro spotřebitele by tento popis v případě internetových vyhledávačů měl uživatelům firemních internetových stránek rovněž umožnit přiměřeně porozumět tomu, zda, a pokud ano, v jakém rozsahu jsou zohledněny jisté charakteristické znaky koncepce použité internetové stránky, například jejich optimalizace pro zobrazení na mobilních telekomunikačních zařízeních. Měl by rovněž obsahovat vysvětlení jakékoli možnosti uživatelů firemních internetových stránek aktivně ovlivnit pořadí za úplatu a jejích relativních účinků. V případě, že mezi poskytovateli internetových vyhledávačů a uživateli firemních internetových stránek neexistuje smluvní vztah, měl by tento popis být dostupný pro veřejnost na zjevném a snadno přístupném místě na příslušném internetovém vyhledávači. Oblasti internetových stránek, které od uživatelů vyžadují přihlášení nebo registraci, by v tomto ohledu za snadno přístupné a veřejně dostupné považovány být neměly.
+
+
+Popis by měl z důvodu zajištění předvídatelnosti pro uživatele firemních internetových stránek být průběžně aktualizován, včetně možnosti snadné rozpoznatelnosti hlavních parametrů. Z existence aktualizovaného popisu hlavních parametrů by měli prospěch také jiní uživatelé než uživatelé firemních internetových stránek používající internetové vyhledávače. V některých případech mohou poskytovatelé internetových vyhledávačů rozhodnout, že v konkrétním případě ovlivní určování pořadí nebo vyřadí určitou internetovou stránku z pořadí na základě oznámení třetí strany. Na rozdíl od poskytovatelů online zprostředkovatelských služeb nelze vzhledem k neexistenci smluvního vztahu mezi dotčenými stranami očekávat, že by poskytovatelé internetových vyhledávačů přímo informovali uživatele firemních internetových stránek o změně pořadí nebo vyřazení v důsledku oznámení třetí strany. Uživatel firemních internetových stránek by však měl mít možnost prověřit obsah oznámení, které vedlo v konkrétním případě ke změně pořadí nebo k vyřazení, a přezkoumat obsah oznámení, například ve veřejně přístupné online databázi. To by pomohlo omezit případy, kdy konkurenti zneužívají oznámení za účelem vyřazení ze soutěže.
+
+
+(27)
+
+
+Poskytovatelé online zprostředkovatelských služeb nebo poskytovatelé internetových vyhledávačů by neměli mít povinnost zpřístupňovat podle tohoto nařízení podrobné informace o fungování svého mechanismu určování pořadí včetně algoritmů. Rovněž by neměla být oslabována jejich schopnost zakročit, a to i v zájmu spotřebitelů, proti manipulaci s pořadím, které se ve zlém úmyslu dopustí třetí osoby. Obecný popis hlavních parametrů určujících pořadí by měl tyto zájmy chránit a současně umožnit podnikatelským uživatelům a uživatelům firemních internetových stránek, aby přiměřeně porozuměli tomu, jak určování pořadí v kontextu jejich využívání konkrétních online zprostředkovatelských služeb nebo internetových vyhledávačů funguje. Aby bylo zajištěno dosažení cíle tohoto nařízení, neměly by proto úvahy týkající se obchodních zájmů poskytovatelů online zprostředkovatelských služeb nebo poskytovatelů internetových vyhledávačů nikdy vést k tomu, že bude zpřístupnění hlavních parametrů určujících pořadí odmítnuto. V tomto ohledu by měl poskytnutý popis vycházet přinejmenším ze skutečných údajů o relevantnosti používaných parametrů určujících pořadí, i když by tímto nařízením neměla být dotčena směrnice Evropského parlamentu a Rady (EU) 2016/943  ( 5 ) .
+
+
+(28)
+
+
+Komise by měla vypracovat pokyny, které pomohou poskytovatelům online zprostředkovatelských služeb nebo internetových vyhledávačů při uplatňování požadavků transparentnosti určování pořadí stanovených tímto nařízením. Tím by měl být optimalizován způsob, jímž jsou určovány hlavní parametry určující pořadí a jejich prezentace podnikatelským uživatelům a uživatelům firemních internetových stránek.
+
+
+(29)
+
+
+Doplňkovým zbožím a službami by se mělo rozumět zboží a služby, které jsou spotřebiteli nabízeny okamžitě před dokončením transakce zahájené v rámci online zprostředkovatelských služeb, a to jako doplněk k primárnímu zboží nebo službě nabízeným podnikatelským uživatelem. Jako doplňkové zboží a služby se označují produkty, které typicky závisí na primárním zboží či službě nebo jsou s nimi přímo spojeny, aby mohly plnit svou funkci. Proto by z tohoto pojmu měly být vyloučeny zboží a služby, které jsou prodávány pouze nádavkem k danému primárnímu zboží nebo službám, aniž by byly svou povahou doplňkové. Příkladem doplňkových služeb jsou služby oprav pro určité zboží nebo finanční produkty, jako je pojištění pronájmu vozidel nabízené jako doplněk k určitému zboží nebo službám nabízeným podnikatelským uživatelem. Podobně může doplňkové zboží zahrnovat zboží, které je doplňkem určitého produktu nabízeného podnikatelským uživatelem tím, že představuje jeho aktualizaci nebo nástroj přizpůsobení vztahující se k uvedenému určitému produktu. Poskytovatelé online zprostředkovatelských služeb nabízející zákazníkům prostřednictvím svých online zprostředkovatelských služeb zboží a služby, které jsou doplňkové ke zboží nebo službě prodávané podnikatelským uživatelem, kteří používají jejich internetové zprostředkovatelské služby, by měli stanovit ve svých podmínkách popis druhu nabízeného doplňkového zboží a služeb. Tento popis by měl být dostupný v podmínkách bez ohledu na to, zda je doplňkové zboží dodáváno nebo doplňková služba poskytována poskytovatelem online zprostředkovatelských služeb samotným nebo třetí stranou. Tento popis by měl být dostatečně obsáhlý, aby umožňoval podnikatelskému uživateli porozumět tomu, zda jsou zboží nebo služby prodávány jako doplňkové ke zboží nebo službě podnikatelského uživatele. Popis by neměl nutně obsahovat určité zboží nebo službu, ale spíše druh produktu nabízeného jakožto doplněk k primárnímu produktu podnikatelského uživatele. Dále by tento popis měl za všech okolností obsahovat, zda a za jakých podmínek může podnikatelský uživatel nabízet navíc k primárnímu zboží nebo službám, které nabízí prostřednictvím online zprostředkovatelských služeb, své vlastní doplňkové zboží a služby.
+
+
+(30)
+
+
+Pokud poskytovatel online zprostředkovatelských služeb nabízí sám určité zboží nebo služby spotřebitelům prostřednictvím vlastních online zprostředkovatelských služeb nebo tak činí prostřednictvím podnikatelského uživatele, jehož ovládá, může soutěžit přímo s jinými podnikatelskými uživateli svých online zprostředkovatelských služeb, které poskytovatel neovládá, což může poskytovatele ekonomicky motivovat a dát mu příležitost využít kontrolu nad online zprostředkovatelskou službou k tomu, aby zajistil technické a ekonomické výhody své vlastní nabídce nebo nabídce nabízené prostřednictvím jím ovládaného podnikatelského uživatele, které by mohl upřít konkurenčním podnikatelským uživatelům. Takové chování by mohlo narušit poctivou hospodářskou soutěž a omezit možnosti volby spotřebitele. Zejména v takových situacích je důležité, aby poskytovatel online zprostředkovatelských služeb jednal transparentně a aby, ať už prostřednictvím právních, obchodních, nebo technických prostředků, jako jsou funkce zahrnující operační systémy, poskytl náležitý popis nebo úvahy týkající se každého rozdílného zacházení, které by mohl uplatnit v souvislosti se zbožím nebo službami, jež nabízí sám, ve srovnání se zbožím a službami nabízenými podnikatelskými uživateli. V zájmu zajištění proporcionality by se tato povinnost měla vztahovat spíše na úroveň celkových online zprostředkovatelských služeb než na úroveň jednotlivého zboží nebo služeb nabízených prostřednictvím těchto služeb.
+
+
+(31)
+
+
+Pokud poskytovatel internetového vyhledávače nabízí sám určité zboží nebo služby spotřebitelům prostřednictvím vlastního internetového vyhledávače nebo tak činí prostřednictvím uživatele firemních internetových stránek, jehož ovládá, může soutěžit přímo s jinými uživateli firemních internetových stránek svého internetového vyhledávače, které poskytovatel neovládá. Zejména v takových situacích je důležité, aby poskytovatel internetového vyhledávače jednal transparentně a aby, ať už prostřednictvím právních, obchodních nebo technických prostředků, poskytl popis každého rozdílného zacházení, které by mohl uplatnit v souvislosti se zbožím nebo službami, jež nabízí sám nebo prostřednictvím uživatele firemních internetových stránek, jehož ovládá, v porovnání se zbožím a službami nabízenými soutěžícími uživateli firemních internetových stránek. V zájmu zajištění proporcionality by se tato povinnost měla vztahovat spíše na úroveň internetového vyhledávače jako takového než na úroveň jednotlivého zboží nebo služeb nabízených prostřednictvím těchto služeb.
+
+
+(32)
+
+
+Toto nařízení by mělo řešit také otázku zvláštních smluvních ujednání, zejména v situaci nevyrovnané vyjednávací síly, s cílem zajistit, aby smluvní vztahy byly v souladu s dobrou vírou a poctivým jednáním. V zájmu zajištění předvídatelnosti a transparentnosti by podnikatelští uživatelé měli dostat skutečnou příležitost seznámit se se změnami podmínek, a tyto změny by tedy neměly být vůči nim uplatňovány se zpětnou účinností, jestliže nevycházejí z právní a regulační povinnosti nebo pro ně nejsou přínosné. Kromě toho by podnikatelští uživatelé měli dostat takové informace, aby získali jasnou představu o podmínkách, za kterých lze jejich smluvní vztah s poskytovatelem online zprostředkovatelských služeb ukončit. Poskytovatelé online zprostředkovatelských služeb by měli zajistit, aby podmínky pro ukončení byly vždy přiměřené a bylo možné uplatňovat je bez zbytečných obtíží. V neposlední řadě by podnikatelští uživatelé měli být plně informováni o všech případech, kdy si poskytovatelé online zprostředkovatelských služeb i po ukončení smlouvy zachovávají přístup k informacím, jež podnikatelští uživatelé poskytují nebo generují v rámci používání online zprostředkovatelských služeb.
+
+
+(33)
+
+
+Schopnost přístupu k údajům, včetně osobních údajů, a schopnost je používat může umožnit významnou tvorbu hodnoty v ekonomice online platforem jak obecně, tak i pro zapojené podnikatelské uživatele a online zprostředkovatelské služby. Je proto důležité, aby poskytovatelé online zprostředkovatelských služeb poskytli podnikatelským uživatelům jasný popis rozsahu, povahy a podmínek jejich přístupu k určitým kategoriím údajů a jejich používání. Popis by měl být přiměřený a mohl by spíše odkazovat na obecné podmínky přístupu, než obsahovat vyčerpávající výčet skutečných údajů nebo kategorií údajů. Do popisu by však mohl být zahrnut rovněž výčet některých druhů skutečných údajů, které mohou být pro podnikatelské uživatele vysoce relevantní, a konkrétní podmínky přístupu k nim. Mezi tyto údaje by mohly patřit hodnocení a recenze, které podnikatelští uživatelé nashromáždili v souvislosti s online zprostředkovatelskými službami. Vcelku by měl popis podnikatelským uživatelům umožnit pochopit, zda mohou údaje používat ke zvýšení tvorby hodnot, a to i případným dalším využíváním datových služeb třetích stran.
+
+
+(34)
+
+
+Stejně důležité je, aby podnikatelští uživatelé pochopili, zda poskytovatel sdílí údaje, které se generují při používání zprostředkovatelských služeb podnikatelským uživatelem, se třetími stranami. Podnikatelští uživatelé by měli být zejména upozorněni na sdílení údajů se třetími stranami, které se provádí pro účely, které nejsou nezbytné pro řádné fungování online zprostředkovatelských služeb, například v situaci, kdy poskytovatel zpeněží údaje z komerčních důvodů. Aby měli podnikatelští uživatelé možnost plně vykonat svá práva, na jejichž základě mohou takovéto sdílení údajů ovlivnit, měli by poskytovatelé online zprostředkovatelských služeb výslovně uvádět také všechny možnosti zamezení sdílení údajů, které na základě smluvního vztahu s podnikatelským uživatelem existují.
+
+
+(35)
+
+
+Z těchto požadavků nevyplývá, že by poskytovatelé online zprostředkovatelských služeb museli osobní či neosobní údaje předávat svým podnikatelským uživatelům, ani že by tak činit nesměli. Opatření v zájmu transparentnosti by však mohla přispět k většímu sdílení údajů a posílit cíle v oblasti vytvoření společného evropského datového prostoru, neboť jde o klíčový zdroj inovací a růstu. Zpracování osobních údajů by mělo být v souladu s právním rámcem Unie pro ochranu fyzických osob v souvislosti se zpracováním osobních údajů a pro respektování soukromého života a ochranu osobních údajů v elektronických komunikacích, zejména s nařízením (EU) 2016/679  ( 6 ) , směrnicí (EU) 2016/680  ( 7 ) a směrnicí Evropského parlamentu a Rady 2002/58/ES  ( 8 ) .
+
+
+(36)
+
+
+Poskytovatelé online zprostředkovatelských služeb by v některých případech mohli ve svých podmínkách omezit schopnost podnikatelských uživatelů nabízet zboží a služby spotřebitelům za příznivějších podmínek jinými prostředky než prostřednictvím online zprostředkovatelských služeb. V těchto případech by dotčení poskytovatelé měli uvést důvody tohoto omezení, zejména pokud jde o hlavní ekonomická, obchodní nebo právní hlediska omezení. Tato povinnost transparentnosti by však neměla být chápána tak, že má vliv na posouzení legality takových omezení na základě jiných aktů unijního práva nebo práva členských států v souladu s unijním právem, kromě jiného i v oblastech hospodářské soutěže a nekalých obchodních praktik a uplatňování takových právních předpisů.
+
+
+(37)
+
+
+Poskytovatelé online zprostředkovatelských služeb by měli zajistit interní systém pro vyřizování stížností, a umožnit tak podnikatelským uživatelům, včetně těch, jimž mohlo být používání příslušných online zprostředkovatelských služeb pozastaveno nebo ukončeno, přístup k okamžitým, vhodným a účinným možnostem nápravy. Cílem interního systému pro vyřizování stížností, který by měl být založen na zásadách transparentnosti a rovného zacházení ve stejných situacích, by mělo být zabezpečení toho, aby poskytovatel online zprostředkovatelských služeb a příslušný podnikatelský uživatel mohli podstatnou část stížností řešit dvoustraně v přiměřené lhůtě. V průběhu vyřizování stížnosti mohou poskytovatelé online zprostředkovatelských služeb ponechat v platnosti rozhodnutí, jež přijali. Jakoukoli snahou dosáhnout dohody prostřednictvím interního mechanismu pro vyřizování stížností nejsou dotčena práva dotčených poskytovatelů online zprostředkovatelských služeb nebo podnikatelských uživatelů zahájit soudní řízení kdykoli během vyřizování stížností nebo po něm. Kromě toho by poskytovatelé online zprostředkovatelských služeb měli zveřejňovat a alespoň jednou ročně ověřit informace o fungování a efektivnosti svého interního systému pro vyřizování stížností, aby podnikatelským uživatelům pomohli porozumět hlavním druhům problémů, které mohou vzniknout v souvislosti s poskytováním různých online zprostředkovatelských služeb, a možnosti dosažení rychlého a účinného dvojstranného řešení.
+
+
+(38)
+
+
+Cílem požadavků tohoto nařízení týkajících se interního systému pro vyřizování stížností je umožnit poskytovatelům online zprostředkovatelských služeb přiměřený stupeň flexibility při provozování takových systémů a řešení jednotlivých stížností, aby se minimalizovala každá administrativní zátěž. Kromě toho interní systémy pro vyřizování stížností by měly poskytovatelům online zprostředkovatelských služeb umožnit v případě potřeby přiměřeně řešit každé využití těchto systémů ve zlém úmyslu, o něž by se někteří podnikatelští uživatelé mohli pokoušet. Vzhledem k nákladům na zavedení a fungování takových systémů je vhodné osvobodit od takových povinností všechny poskytovatele online zprostředkovatelských služeb, kteří představují malé podniky, v souladu s příslušnými ustanoveními doporučení Komise 2003/361/ES  ( 9 ) . Pravidla konsolidace stanovená v uvedeném doporučení zajistí, aby nedocházelo k obcházení pravidel. Tímto osvobozením by nemělo být dotčeno právo těchto podniků zavést na dobrovolném základě interní systém pro vyřizování stížností, který splňuje kritéria stanovená v tomto nařízení.
+
+
+(39)
+
+
+Používání slova „interní“ by nemělo být chápáno tak, že brání v přesunu interních systémů pro vyřizování stížností na poskytovatele externích služeb nebo na jinou podnikatelskou strukturu, neboť poskytovatel nebo jiná podnikatelská struktura má plné oprávnění a možnost zajišťovat soulad interního systému pro vyřizování stížností s požadavky tohoto nařízení.
+
+
+(40)
+
+
+Mediace může poskytovatelům online zprostředkovatelských služeb a jejich podnikatelským uživatelům poskytnout prostředky pro uspokojivé řešení sporů, aniž by se musela použít soudní řízení, která mohou být zdlouhavá a nákladná. Poskytovatelé online zprostředkovatelských služeb by proto měli usnadnit mediaci zejména určením nejméně dvou veřejných či soukromých mediátorů, s nimiž jsou ochotni spolupracovat. Cílem určení minimálního počtu mediátorů je ochrana jejich neutrality. Mediátoři, kteří poskytují své služby z místa nacházejícího se mimo Unii, by měli být určeni pouze tehdy, je-li zaručeno, že použití jejich služeb nikterak nezbaví dotčené podnikatelské uživatele právní ochrany, která se jim poskytuje podle unijního práva nebo práva členských států, včetně požadavků tohoto nařízení a platného práva týkajícího se ochrany osobních údajů a obchodního tajemství. Aby tito mediátoři byli dostupní, spravedliví a co nejrychlejší, nejefektivnější a nejúčinnější, měli by splňovat určitá stanovená kritéria. Poskytovatelé online zprostředkovatelských služeb a jejich podnikatelští uživatelé by však poté, co mezi nimi dojde ke sporu, měli mít i nadále možnost společně určit jakéhokoli mediátora podle svého výběru. V souladu se směrnicí Evropského parlamentu a Rady 2008/52/ES  ( 10 ) by mediace podle tohoto nařízení měla být dobrovolná v tom smyslu, že odpovědnost za ni nesou strany samotné a mohou ji také kdykoli zahájit nebo ukončit. Bez ohledu na dobrovolný charakter mediace by měli poskytovatelé online zprostředkovatelských služeb posuzovat žádosti o mediaci v dobré víře podle tohoto nařízení.
+
+
+(41)
+
+
+Poskytovatelé online zprostředkovatelských služeb by měli nést přiměřenou část celkových nákladů mediace s přihlédnutím ke všem příslušným prvkům daného případu. Za tímto účelem by měl mediátor navrhnout, jaká část je v jednotlivém případě přiměřená. Vzhledem k nákladům a administrativní zátěži spojeným s nutností určit v podmínkách mediátory je vhodné osvobodit od této povinnosti všechny poskytovatele online zprostředkovatelských služeb, kteří jsou malými podniky, v souladu s příslušnými ustanoveními doporučení 2003/361/ES. Pravidla konsolidace stanovená v uvedeném doporučení zajistí, aby nedocházelo k obcházení pravidel. Tím by však nemělo být dotčeno právo těchto podniků určit v podmínkách mediátory, kteří splňují kritéria stanovená v tomto nařízení.
+
+
+(42)
+
+
+Vzhledem k tomu, že poskytovatelé online zprostředkovatelských služeb by měli mít vždy povinnost určit mediátory, s nimiž jsou ochotni spolupracovat, a měli by mít povinnost jednat v dobré víře během jakéhokoli pokusu o mediaci v souladu s tímto nařízením., měly by být tyto povinnosti stanoveny tak, aby se zabránilo zneužívání mediačního systému podnikatelskými uživateli. Podnikatelští uživatelé by rovněž měli mít povinnost zúčastnit se mediace v dobré víře. Poskytovatelé online zprostředkovatelských služeb by neměli mít povinnost účastnit se mediačního řízení, pokud podnikatelský uživatel zahájí řízení, v jehož případě už dříve zahájil řízení ve snaze o mediaci, nebo pokud mediátor v daném případě zjistil, že daný podnikatelský uživatel nejednal v dobré víře. Poskytovatelé online zprostředkovatelských služeb by neměli mít povinnost účastnit se mediace s podnikatelskými uživateli, kteří mediátorovi opakovaně podali neúspěšný podnět k mediačnímu řízení. Tyto výjimečné situace by neměly omezovat možnost podnikatelského uživatele předložit věc k mediaci, pokud – jak stanoví mediátor – předmět mediace nesouvisí s předchozími případy.
+
+
+(43)
+
+
+Aby se v Unii usnadnilo řešení sporů týkajících se poskytování online zprostředkovatelských služeb pomocí mediace, Komise by měla ve spolupráci s členskými státy podpořit zřízení specializované mediační organizace, která v současné době chybí. Zapojení mediátorů, kteří mají odborné znalosti online zprostředkovatelských služeb a také specifických průmyslových odvětví, v nichž se tyto služby poskytují, by mělo zvýšit důvěru, kterou mají obě strany v mediační řízení, a pravděpodobnost, že takové řízení, povede k rychlému, spravedlivému a uspokojivému výsledku.
+
+
+(44)
+
+
+Různé faktory, například omezené finanční prostředky, obava z odvety a ustanovení o výlučné volbě práva a soudu uvedená v podmínkách, mohou omezit efektivnost existujících možností soudní nápravy, zejména těch, které vyžadují, aby podnikatelští uživatelé nebo uživatelé firemních internetových stránek jednali samostatně, a aby byli identifikovatelní. Aby se zajistilo účinné uplatňování tohoto nařízení, měla by se organizacím, sdružením zastupujícím podnikatelské uživatele nebo uživatele firemních internetových stránek a rovněž některým veřejným subjektům zřízeným v členských státech poskytnout možnost podat žalobu u vnitrostátních soudů v souladu s vnitrostátními právními předpisy, včetně vnitrostátních procesních požadavků. Cílem takové žaloby u vnitrostátních soudů by mělo být ukončení nebo zákaz porušování pravidel stanovených v tomto nařízení a zamezení budoucím škodám, které by mohly podkopat udržitelné obchodní vztahy v ekonomice online platforem. K zajištění toho, aby takové organizace nebo sdružení účinně a náležitě využívaly tohoto práva, měly by splňovat určitá kritéria. Zejména musí být řádně založeny podle práva členského státu, být neziskové a trvale plnit své cíle. Tyto požadavky by měly zabránit jakémukoli ad hoc zakládání organizací nebo sdružení za účelem provádění zvláštní činnosti či činností nebo za účelem dosažení zisku. Dále by mělo být zajištěno, aby žádná třetí strana, která poskytuje financování, neměla nepatřičný vliv na rozhodování těchto organizací či sdružení.
+
+
+V zájmu zamezení střetu zájmů by se mělo zejména zabránit tomu, aby organizace či sdružení zastupující podnikatelské uživatele nebo uživatele firemních internetových stránek byly vystaveny nežádoucím vlivům ze strany poskytovatelů online zprostředkovatelských služeb nebo poskytovatelů internetových vyhledávačů. Zveřejnění úplných informací o členství a zdrojů financování by mělo vnitrostátním soudům usnadnit posuzování toho, zda byla splněna kritéria způsobilosti. Vzhledem ke zvláštnímu postavení příslušných veřejných subjektů v členských státech, kde byly takové subjekty zřízeny, by se mělo vyžadovat pouze to, aby tyto subjekty byly v souladu s příslušnými předpisy vnitrostátního práva výslovně pověřeny podávat uvedené žaloby ať už ve společném zájmu dotčených stran, nebo v obecném zájmu, aniž by bylo potřeba na takové veřejné subjekty uplatňovat zmíněná kritéria. Takové žaloby by se neměly nikterak dotýkat práv podnikatelských uživatelů a uživatelů firemních internetových stránek na podání samostatné soudní žaloby.
+
+
+(45)
+
+
+Totožnost organizací, sdružení a veřejných subjektů, které by podle názoru členských států měly být oprávněny podat žalobu podle tohoto nařízení, by měla být sdělena Komisi. V rámci tohoto sdělení by měly členské státy uvést konkrétní odkaz na příslušná ustanovení vnitrostátních předpisů, na jejichž základě byly organizace, sdružení nebo veřejný subjekt založeny, a případně odkaz na příslušný veřejný rejstřík, v němž jsou tyto organizace nebo sdružení zapsány. Tato další možnost označení členskými státy by měla zajistit určitou míru právní jistoty a předvídatelnosti, na niž se podnikatelští uživatelé a uživatelé firemních internetových stránek mohou spolehnout. Jejím cílem je zároveň také zefektivnění a zkrácení soudních řízení, což se v tomto kontextu jeví jako vhodné. Komise by měla zajistit zveřejnění seznamu těchto organizací, sdružení a veřejných subjektů v Úředním věstníku Evropské unie . Zařazení na tento seznam by mělo sloužit jako vyvratitelný důkaz právní způsobilosti organizace, sdružení nebo veřejného subjektu podávajících žalobu. Vyvstanou-li v souvislosti s určitým ustanovením obavy, měl by členský stát, jenž danou organizaci, sdružení nebo veřejný subjekt určil, tyto obavy prověřit. Organizace, sdružení a veřejné subjekty, které určitý členský stát neurčil, by měly mít možnost podat žalobu u vnitrostátního soudu, s výhradou posouzení právní způsobilosti podle kritérií stanovených v tomto nařízení.
+
+
+(46)
+
+
+Členské státy by měly mít povinnost zajistit odpovídající a účinné vymáhání tohoto nařízení. V členských státech existují různé systémy vymáhání a členské státy by neměly mít povinnost zřizovat nové vnitrostátní subjekty pro vymáhání. Členské státy by měly mít možnost svěřit vymáhání tohoto nařízení stávajícím orgánům, včetně soudů. Toto nařízení by nemělo členským státům ukládat povinnost stanovit vymáhání z moci úřední ani ukládat pokuty.
+
+
+(47)
+
+
+Komise by měla v úzké spolupráci s členskými státy nepřetržitě sledovat uplatňování tohoto nařízení. V tomto kontextu by Komise měla usilovat o zřízení široké sítě pro výměnu informací díky využití příslušných expertních subjektů, středisek excelence a skupiny pro sledování ekonomiky online platforem. Členské státy by měly Komisi poskytovat na požádání veškeré relevantní informace, jimiž v této souvislosti disponují. Toto opatření by rovněž mělo těžit z celkové posílené transparentnosti obchodních vztahů mezi podnikatelskými uživateli a poskytovateli online zprostředkovatelských služeb a mezi uživateli firemních internetových stránek a internetovými vyhledávači, jejíž dosažení si toto nařízení klade za cíl. Za účelem účinného plnění úkolů sledování a přezkumu podle tohoto nařízení by se Komise měla snažit shromažďovat informace od poskytovatelů online zprostředkovatelských služeb. Poskytovatelé online zprostředkovatelských služeb by měli ve vhodných případech v dobré víře spolupracovat na usnadňování shromažďování takových údajů.
+
+
+(48)
+
+
+Kodexy chování vypracované buď dotčeným poskytovatelem služeb, nebo organizacemi či sdruženími, které ho zastupují, mohou přispět k náležitému uplatňování tohoto nařízení, a měly by se proto podporovat. Pokud se takové kodexy chování vypracovávají v konzultaci se všemi příslušnými zúčastněnými stranami, měly by se zohlednit zvláštní rysy dotčených odvětví a také zvláštní rysy malých a středních podniků. Znění těchto kodexů by mělo být objektivní a nediskriminační.
+
+
+(49)
+
+
+Komise by měla toto nařízení pravidelně hodnotit a důkladně sledovat jeho dopady na ekonomiku online platforem, zejména s ohledem na určení, zda jsou nutné změny zohledňující příslušný vývoj techniky nebo vývoj na trhu. Toto hodnocení by mělo zahrnovat dopady na podnikatelské uživatele, které mohou být důsledkem obecného zahrnování ustanovení o výlučné volbě práva a soudu do smluvních podmínek, které určují jednostranně poskytovatelé online zprostředkovatelských služeb. Za účelem získání širokého přehledu vývoje v tomto odvětví by hodnocení mělo zohledňovat zkušenosti členských států a relevantních zúčastněných stran. Expertní skupina pro sledování ekonomiky online platforem zřízená rozhodnutím Komise C(2018)2393 hraje klíčovou úlohu při sestavování hodnocení tohoto nařízení ze strany Komise. Komise by proto měla řádně zohlednit stanoviska a zprávy, které jí tato skupina předloží. Komise by v návaznosti na toto hodnocení měla přijmout příslušná opatření. Další opatření, včetně opatření legislativní povahy, mohou být vhodná v případě, že se ustanovení tohoto nařízení ukáží nedostatečnými pro řádné vyřešení problému setrvalé nerovnováhy a nekalých obchodních praktik v tomto odvětví.
+
+
+(50)
+
+
+Při poskytování informací vyžadovaných tímto nařízením by se měly co nejvíce vzít v úvahu zvláštní potřeby osob se zdravotním postižením, a to v souladu s cíli Úmluvy Organizace spojených národů o právech osob se zdravotním postižením  ( 11 ) .
+
+
+(51)
+
+
+Jelikož cíle tohoto nařízení, totiž zajištění spravedlivého, předvídatelného, udržitelného a důvěryhodného online podnikatelského prostředí na vnitřním trhu, nemůže být dosaženo uspokojivě členskými státy, ale spíše jej, z důvodu jeho rozsahu a účinků, může být lépe dosaženo na úrovni Unie, může Unie přijmout opatření v souladu se zásadou subsidiarity stanovenou v článku 5 Smlouvy o Evropské unii. V souladu se zásadou proporcionality stanovenou v uvedeném článku nepřekračuje toto nařízení rámec toho, co je nezbytné pro dosažení uvedeného cíle.
+
+
+(52)
+
+
+Toto nařízení se snaží zajistit plné dodržování práva na účinnou právní ochranu a spravedlivý proces stanoveného v článku 47 Listiny základních práv Evropské unie a podporuje uplatňování svobody podnikání stanovené v článku 16 uvedené Listiny,
+
+
+PŘIJALY TOTO NAŘÍZENÍ:
+
+
+Článek 1
+
+
+Předmět a rozsah
+
+
+1.   Účelem tohoto nařízení je přispět k řádnému fungování vnitřního trhu stanovením pravidel k zajištění toho, aby podnikatelským uživatelům online zprostředkovatelských služeb a uživatelům firemních internetových stránek byla ve vztahu k internetovým vyhledávačům poskytnuta náležitá transparentnost, spravedlnost a možnosti účinné nápravy.
+
+
+2.   Toto nařízení se vztahuje na online zprostředkovatelské služby a internetové vyhledávače poskytované, nebo nabízené k poskytnutí, podnikatelským uživatelům a uživatelům firemních internetových stránek, kteří jsou usazeni nebo mají místo pobytu v Unii a kteří prostřednictvím těchto online zprostředkovatelských služeb nebo internetových vyhledávačů nabízejí zboží nebo služby spotřebitelům nacházejícím se v Unii, bez ohledu na místo usazení nebo místo pobytu poskytovatelů takových služeb a bez ohledu na právo, které by jinak bylo rozhodné.
+
+
+3.   Toto nařízení se nevztahuje na online platební služby nebo online reklamní nástroje nebo online reklamní výměny, které nejsou poskytovány s cílem usnadnit zahájení přímých transakcí a které nezahrnují smluvní vztah se spotřebiteli.
+
+
+4.   Tímto nařízením nejsou dotčeny vnitrostátní právní předpisy, které v souladu s právem Unie zakazují nebo postihují jednostranné jednání nebo nekalé obchodní praktiky, v rozsahu, v němž nejsou příslušné aspekty upraveny tímto nařízením. Toto nařízení se nedotýká vnitrostátního občanského práva, zejména práva smluvního, jako jsou pravidla platnosti, uzavírání, účinků nebo ukončení smlouvy, pokud jsou tato pravidla v souladu s právem Unie, a v rozsahu, v jakém nejsou příslušné aspekty upraveny tímto nařízením.
+
+
+5.   Tímto nařízením není dotčeno právo Unie, zejména právo Unie použitelné v oblastech justiční spolupráce v občanských věcech, hospodářské soutěže, ochrany údajů, ochrany obchodního tajemství, ochrany spotřebitele, elektronického obchodování a finančních služeb.
+
+
+Článek 2
+
+
+Definice
+
+
+Pro účely tohoto nařízení se rozumí:
+
+
+1)
+
+
+„podnikatelským uživatelem“ jakákoli soukromá osoba jednající v rámci obchodní nebo profesní činnosti nebo jakákoli právnická osoba, která prostřednictvím online zprostředkovatelských služeb nabízí zboží nebo služby spotřebitelům za účelem, který lze považovat za jejich obchodní činnost, podnikání, řemeslo nebo povolání;
+
+
+2)
+
+
+„online zprostředkovatelskými službami“ služby, které splňují všechna tato kritéria:
+
+
+a)
+
+
+představují služby informační společnosti ve smyslu čl. 1 odst. 1 písm. b) směrnice Evropského parlamentu a Rady (EU) 2015/1535  ( 12 ) ;
+
+
+b)
+
+
+umožňují podnikatelským uživatelům nabízet zboží nebo služby spotřebitelům s cílem usnadnit zahájení přímých transakcí mezi těmito podnikatelskými uživateli a spotřebiteli, bez ohledu na to, kde jsou tyto transakce nakonec uzavřeny;
+
+
+c)
+
+
+jsou poskytovány podnikatelským uživatelům na základě smluvních vztahů mezi poskytovatelem těchto služeb a podnikatelskými uživateli, kteří nabízejí zboží nebo služby spotřebitelům;
+
+
+3)
+
+
+„poskytovatelem online zprostředkovatelských služeb“ jakákoli fyzická nebo právnická osoba, která poskytuje, nebo nabízí k poskytnutí, online zprostředkovatelské služby podnikatelským uživatelům;
+
+
+4)
+
+
+„spotřebitelem“ jakákoli fyzická osoba, která jedná za účelem, který nelze považovat za její obchodní činnost, podnikání, řemeslo nebo povolání;
+
+
+5)
+
+
+„internetovým vyhledávačem“ digitální služba, která uživatelům umožňuje vkládat dotazy za účelem vyhledávání v zásadě na všech internetových stránkách nebo na všech internetových stránkách v určitém jazyce na základě dotazu na jakékoli téma v podobě klíčového slova, hlasové žádosti, sousloví nebo jiného zadání a která poskytuje výsledky v jakémkoli formátu, v nichž lze nalézt informace související s požadovaným obsahem;
+
+
+6)
+
+
+„poskytovatelem internetového vyhledávače“ jakákoli fyzická nebo právnická osoba, která poskytuje nebo nabízí k poskytnutí internetové vyhledávače spotřebitelům;
+
+
+7)
+
+
+„uživatelem firemních internetových stránek“ každá fyzická nebo právnická osoba, která používá online rozhraní, tj. jakýkoli software, včetně internetových stránek nebo jejich části a aplikací, včetně mobilních aplikací, k nabízení zboží nebo služeb spotřebitelům za účelem, který lze považovat za její obchodní činnost, podnikání, řemeslo nebo povolání;
+
+
+8)
+
+
+„pořadím“ relativní důležitost připisovaná zboží nebo službám nabízeným prostřednictvím online zprostředkovatelských služeb nebo relevantnost připisovaná výsledkům vyhledávání internetovými vyhledávači, jak je poskytovatelé online zprostředkovatelských služeb nebo poskytovatelé internetových vyhledávačů prezentují, uspořádávají nebo sdělují, bez ohledu na technické prostředky používané pro takovou prezentaci, uspořádání nebo sdělení;
+
+
+9)
+
+
+„ovládáním“ vlastnictví nebo schopnost vykonávat rozhodující vliv na podnik ve smyslu čl. 3 odst. 2 nařízení Rady (ES) č. 139/2004  ( 13 ) ;
+
+
+10)
+
+
+„podmínkami“ všechny podmínky nebo specifikace bez ohledu na jejich název nebo formu, kterými se řídí smluvní vztah mezi poskytovatelem online zprostředkovatelských služeb a jeho podnikatelskými uživateli a které jednostranně stanoví poskytovatel online zprostředkovatelských služeb; otázka, zda došlo k jednostrannému stanovení podmínek, se zodpoví na základě celkového posouzení, pro které nejsou relativní velikost dotčených stran nebo skutečnost, že došlo k jednání nebo že určitá ustanovení podmínek mohla být předmětem takového jednání a mohla být sjednána společně příslušným poskytovatelem a podnikatelským uživatelem, samy o sobě rozhodující;
+
+
+11)
+
+
+„doplňkovým zbožím a službami“ zboží a služby, které spotřebiteli nabízí podnikatelský uživatel prostřednictvím online zprostředkovatelských služeb před dokončením transakce zahájené v rámci online zprostředkovatelských služeb navíc k primárnímu zboží nebo službě a jako doplněk k nim;
+
+
+12)
+
+
+„mediací“ jakékoli formální řízení, jak je vymezeno v čl. 3 písm. a) směrnice 2008/52/ES;
+
+
+13)
+
+
+„trvalým nosičem“ jakýkoli nástroj, který umožňuje podnikatelským uživatelům ukládat informace určené jim osobně způsobem vhodným pro jejich budoucí použití a po dobu přiměřenou jejich účelu a který umožňuje reprodukci uložených informací v nezměněném stavu.
+
+
+Článek 3
+
+
+Podmínky
+
+
+1.   Poskytovatelé online zprostředkovatelských služeb zajistí, aby jejich podmínky:
+
+
+a)
+
+
+byly sepsány v jasném a srozumitelném jazyce;
+
+
+b)
+
+
+byly snadno dostupné pro podnikatelské uživatele ve všech fázích jejich obchodního vztahu s poskytovatelem online zprostředkovatelských služeb, včetně předsmluvní fáze;
+
+
+c)
+
+
+stanovily důvody pro rozhodnutí zcela nebo zčásti pozastavit, ukončit nebo jakkoli jinak omezit poskytování jejich online zprostředkovatelských služeb podnikatelským uživatelům;
+
+
+d)
+
+
+zahrnovaly informace o jakýchkoli dodatečných distribučních kanálech a potenciálních přidružených programech, jejichž prostřednictvím mohou poskytovatelé online zprostředkovatelských služeb uvádět na trh zboží a služby nabízené podnikatelskými uživateli;
+
+
+e)
+
+
+obsahovaly všeobecné informace o účincích podmínek na práva duševního vlastnictví podnikatelských uživatelů a jejich kontrolu nad těmito právy.
+
+
+2.   Poskytovatelé online zprostředkovatelských služeb oznámí na trvalém nosiči dotčeným podnikatelským uživatelům jakékoli navržené změny svých podmínek.
+
+
+Navržené změny nelze provést dříve, než uplyne lhůta pro oznámení, která je rozumná a přiměřená povaze a rozsahu zamýšlených změn a jejich důsledků pro dotčeného podnikatelského uživatele. Tato lhůta pro oznámení činí nejméně 15 dnů ode dne, kdy poskytovatel online zprostředkovatelských služeb dotčeným podnikatelským uživatelům navržené změny oznámí. Poskytovatelé online zprostředkovatelských služeb lhůtu pro oznámení prodlouží, je-li to nezbytné pro to, aby měli podnikatelští uživatelé dostatek času pro technické či obchodní úpravy umožňující přizpůsobit se těmto změnám.
+
+
+Dotčený podnikatelský uživatel má právo ukončit smlouvu s poskytovatelem online zprostředkovatelských služeb před skončením lhůty pro oznámení. Toto ukončení nabude účinnosti do 15 dnů od obdržení oznámení podle prvního pododstavce, pokud se na smlouvu neuplatní kratší lhůta.
+
+
+Dotčený podnikatelský uživatel může kdykoli po oznámení podle prvního pododstavce buď písemným prohlášením, nebo jiným jednoznačným potvrzujícím jednáním upustit od lhůty pro oznámení uvedené ve druhém pododstavci.
+
+
+Během lhůty pro oznámení se nabídka nového zboží nebo služeb učiněná prostřednictvím příslušných online zprostředkovatelských služeb považuje za jiné jednoznačné potvrzující jednání, jímž se upouští od lhůty pro oznámení, s výjimkou případů, kdy rozumná a přiměřená lhůta pro oznámení činí více než 15 dnů, protože změny podmínek vyžadují, aby podnikatelský uživatel provedl významné technické úpravy svého zboží nebo služeb. V těchto případech není nabídka nového zboží či služeb učiněná podnikatelským uživatelem automaticky považována za upuštění od lhůty pro oznámení.
+
+
+3.   Podmínky nebo jejich jednotlivá ustanovení, které nesplňují požadavky odstavce 1, jakož i změny podmínek, které poskytovatel online zprostředkovatelských služeb provedl v rozporu s odstavcem 2, jsou neplatné.
+
+
+4.   Lhůta pro oznámení stanovená v odst. 2 druhém pododstavci se nepoužije, pokud poskytovatel online zprostředkovatelských služeb musí:
+
+
+a)
+
+
+na základě právní nebo regulační povinnosti změnit své podmínky takovým způsobem, který mu neumožňuje dodržet lhůtu pro oznámení uvedenou v odst. 2 druhém pododstavci;
+
+
+b)
+
+
+výjimečně změnit své podmínky s cílem čelit neočekávanému a bezprostředně hrozícímu nebezpečí spojenému s ochranou online zprostředkovatelských služeb, spotřebitelů či podnikatelských uživatelů před podvodem, malwarem, spamem, porušením zabezpečení údajů nebo jinými kybernetickými riziky.
+
+
+5.   Poskytovatelé online zprostředkovatelských služeb zajistí, aby byla identita podnikatelského uživatele poskytujícího zboží a služby prostřednictvím online zprostředkovatelské služby jasně viditelná.
+
+
+Článek 4
+
+
+Omezení, pozastavení a ukončení poskytování služeb
+
+
+1.   Rozhodne-li se poskytovatel online zprostředkovatelských služeb omezit nebo pozastavit jejich poskytování některému podnikatelskému uživateli ve vztahu k určitému zboží či službám, jež tento podnikatelský uživatel nabízí, poskytne mu nejpozději v okamžiku, kdy omezení nebo pozastavení nabude účinnosti, na trvalém nosiči odůvodnění tohoto rozhodnutí.
+
+
+2.   Rozhodne-li se poskytovatel online zprostředkovatelských služeb zcela ukončit poskytování všech těchto služeb některému podnikatelskému uživateli, poskytne mu nejméně 30 dní před tím, než ukončení nabude účinnosti, na trvalém nosiči odůvodnění tohoto rozhodnutí.
+
+
+3.   V případě omezení, pozastavení nebo ukončení poskytování online zprostředkovatelských služeb umožní jejich poskytovatel podnikatelskému uživateli, aby vyjasnil skutečnosti a okolnosti v rámci interního postupu vyřizování stížností uvedeného v článku 11. Pokud poskytovatel online zprostředkovatelských služeb toto omezení, pozastavení nebo ukončení odvolá, bez zbytečného odkladu podnikatelskému uživateli služby obnoví a poskytne mu přístup k jakýmkoli osobním i jiným údajům, které vznikly v důsledku toho, že před tím, než toto omezení, pozastavení nebo ukončení nabylo účinnosti, podnikatelský uživatel využil dotyčné online zprostředkovatelské služby.
+
+
+4.   Lhůta pro oznámení v odstavci 2 se nepoužije, pokud:
+
+
+a)
+
+
+se na poskytovatele online zprostředkovatelských služeb vztahuje právní nebo regulační povinnost vyžadující, aby ukončil poskytování všech těchto služeb některému podnikatelskému uživateli způsobem, který mu tuto lhůtu pro oznámení neumožňuje dodržet;
+
+
+b)
+
+
+poskytovatel online zprostředkovatelských služeb uplatní právo na ukončení poskytování služeb z naléhavého důvodu podle vnitrostátního práva, které je v souladu s právem Unie, nebo
+
+
+c)
+
+
+poskytovatel online zprostředkovatelských služeb je schopen prokázat, že dotčený podnikatelský uživatel opakovaně porušil platné podmínky, což vedlo k ukončení poskytování všech dotčených online zprostředkovatelských služeb.
+
+
+Pokud se nepoužije lhůta pro oznámení podle odstavce 2, poskytovatel online zprostředkovatelských služeb poskytne dotčenému podnikatelskému uživateli bez zbytečného odkladu na trvalém nosiči odůvodnění tohoto rozhodnutí.
+
+
+5.   Odůvodnění uvedené v odstavcích 1 a 2 a v odst. 4 druhém pododstavci musí obsahovat odkaz na konkrétní skutečnosti nebo okolnosti, včetně obsahu oznámení třetích stran, které vedly k rozhodnutí poskytovatele online zprostředkovatelských služeb, jakož i odkaz na příslušné důvody pro rozhodnutí uvedené v čl. 3 odst. 1 písm. c).
+
+
+Poskytovatel online zprostředkovatelských služeb nemusí odůvodnění poskytnout, pokud se na něj vztahuje právní nebo regulační povinnost neuvádět konkrétní skutečnosti či okolnosti nebo odkaz na příslušný důvod či důvody, nebo pokud je schopen prokázat, že dotčený podnikatelský uživatel opakovaně porušil platné podmínky, což vedlo k ukončení poskytování všech dotčených online zprostředkovatelských služeb.
+
+
+Článek 5
+
+
+Pořadí
+
+
+1.   Poskytovatelé online zprostředkovatelských služeb stanoví ve svých podmínkách hlavní parametry určující pořadí a důvody relativní důležitosti těchto hlavních parametrů v porovnání s ostatními parametry.
+
+
+2.   Poskytovatelé internetových vyhledávačů stanoví hlavní parametry, které jsou jednotlivě nebo společně nejvýznamnější při určování pořadí, a relativní důležitost těchto hlavních parametrů tak, že ve svých internetových vyhledávačích poskytnou snadno a veřejně přístupný popis v jasném a srozumitelném jazyce. Tento popis průběžně aktualizují.
+
+
+3.   Obsahují-li hlavní parametry možnost ovlivnit pořadí za jakoukoli přímou nebo nepřímou úplatu zaplacenou podnikatelskými uživateli nebo uživateli firemních internetových stránek dotčenému poskytovateli, tento poskytovatel rovněž uvede popis těchto možností a účinků takové úplaty na pořadí v souladu s požadavky stanovenými v odstavcích 1 a 2.
+
+
+4.   Pokud poskytovatel internetového vyhledávače na základě oznámení třetí strany změní v konkrétním případě pořadí nebo vyřadí určitou internetovou stránku, umožní uživateli firemních internetových stránek seznámit se s obsahem daného oznámení.
+
+
+5.   Popis uvedený v odstavcích 1, 2 a 3 musí být dostačující, aby podnikatelským uživatelům nebo uživatelům firemních internetových stránek umožnil přiměřeně porozumět tomu, zda, a pokud ano, tak v jakém rozsahu mechanismus určování pořadí zohledňuje:
+
+
+a)
+
+
+vlastnosti zboží a služeb nabízených spotřebitelům prostřednictvím online zprostředkovatelských služeb nebo internetových vyhledávačů;
+
+
+b)
+
+
+relevantnost těchto vlastností pro uvedené spotřebitele;
+
+
+c)
+
+
+pokud jde o internetové vyhledávače, charakteristické znaky koncepce internetové stránky používané uživateli firemních internetových stránek.
+
+
+6.   Poskytovatelé online zprostředkovatelských služeb a internetových vyhledávačů nejsou při plnění požadavků tohoto článku povinni zveřejnit algoritmy ani jakékoli informace, které by s dostatečnou jistotou vedly k tomu, že by bylo možné klamat nebo poškozovat spotřebitele prostřednictvím manipulace s výsledky vyhledávání. Tímto článkem není dotčena směrnice (EU) 2016/943.
+
+
+7.   Pro účely snadnějšího dodržování požadavků tohoto článku poskytovateli online zprostředkovatelských služeb a poskytovateli internetových vyhledávačů a jejich snadnějšího vymáhání vydá Komise pokyny doplňující požadavky na transparentnost stanovené v tomto článku.
+
+
+Článek 6
+
+
+Doplňkové zboží a služby
+
+
+Jsou-li spotřebitelům prostřednictvím online zprostředkovatelských služeb nabízeny doplňkové zboží a služby, včetně finančních produktů, ať už poskytovatelem online zprostředkovatelských služeb nebo třetími stranami, uvede poskytovatel online zprostředkovatelských služeb ve svých podmínkách popis druhu nabízeného doplňkového zboží a služeb a popis toho, zda a za jakých okolností může podnikatelský uživatel nabízet prostřednictvím online zprostředkovatelských služeb své vlastní doplňkové zboží a služby.
+
+
+Článek 7
+
+
+Rozdílné zacházení
+
+
+1.   Poskytovatelé online zprostředkovatelských služeb zahrnou do svých podmínek popis jakéhokoli rozdílného zacházení, které uplatňují nebo mohou uplatňovat ve vztahu ke zboží a službám, jež spotřebitelům prostřednictvím těchto online zprostředkovatelských služeb nabízí jednak buď tento poskytovatel sám, nebo jakýkoli z podnikatelských uživatelů ovládaných tímto poskytovatelem, a jednak jiní podnikatelští uživatelé. Tento popis se vztahuje na hlavní ekonomická, obchodní nebo právní hlediska uvedeného rozdílného zacházení.
+
+
+2.   Poskytovatelé internetových vyhledávačů uvedou popis každého rozdílného způsobu zacházení, který uplatňují nebo mohou uplatňovat ve vztahu ke zboží a službám, jež spotřebitelům prostřednictvím těchto internetových vyhledávačů nabízí jednak buď tento poskytovatel sám, nebo uživatelé firemních internetových stránek ovládaní tímto poskytovatelem, a jednak jiní uživatelé firemních internetových stránek.
+
+
+3.   Popisy uvedené v odstavcích 1 a 2 zahrnují zejména tam, kde je to relevantní, jakékoli rozdílné zacházení prostřednictvím zvláštních opatření nebo chování poskytovatele online zprostředkovatelských služeb nebo poskytovatele internetového vyhledávače, které se vztahují ke kterékoli z těchto skutečností:
+
+
+a)
+
+
+přístup, který poskytovatel nebo jím ovládaní podnikatelští uživatelé či uživatelé firemních internetových stránek mohou mít k jakýmkoli osobním či jiným údajům, jež podnikatelští uživatelé, uživatelé firemních internetových stránek nebo spotřebitelé poskytují pro účely používání dotyčných online zprostředkovatelských služeb nebo internetových vyhledávačů nebo které jsou generovány při poskytování těchto služeb;
+
+
+b)
+
+
+pořadí nebo jiná nastavení, které poskytovatel uplatňuje a které mají vliv na přístup spotřebitelů ke zboží nebo službám nabízeným prostřednictvím těchto online zprostředkovatelských služeb jinými podnikatelskými uživateli nebo prostřednictvím těchto internetových vyhledávačů jinými uživateli firemních internetových stránek;
+
+
+c)
+
+
+přímé nebo nepřímé úplaty účtované za používání dotčených online zprostředkovatelských služeb nebo služeb internetového vyhledávače;
+
+
+d)
+
+
+přístup ke službám nebo funkcím nebo technickým rozhraním, které jsou relevantní pro podnikatelského uživatele nebo uživatele firemních internetových stránek a které jsou přímo spojené s využíváním dotčených online zprostředkovatelských služeb či internetových vyhledávačů nebo jsou pro ně doplňkové, podmínky pro jejich používání nebo jakékoli přímé nebo nepřímé úplaty účtované za jejich používání.
+
+
+Článek 8
+
+
+Zvláštní smluvní ujednání
+
+
+K zajištění toho, aby smluvní vztahy mezi poskytovateli online zprostředkovatelských služeb a podnikatelskými uživateli byly v souladu s dobrou vírou a poctivým jednáním, poskytovatelé online zprostředkovatelských služeb:
+
+
+a)
+
+
+uplatňují změny podmínek se zpětnou působností pouze v případě, že vycházejí z právní nebo regulační povinnosti nebo jsou pro podnikatelské uživatele výhodné;
+
+
+b)
+
+
+zajistí, aby jejich podmínky zahrnovaly informace o podmínkách, za kterých mohou podnikatelští uživatelé svůj smluvní vztah s poskytovatelem online zprostředkovatelských služeb ukončit, a
+
+
+c)
+
+
+zahrnou do svých podmínek popis technického a smluvního přístupu k informacím poskytnutým nebo vygenerovaným podnikatelským uživatelem, které uchovávají po ukončení smlouvy mezi poskytovatelem online zprostředkovatelských služeb a podnikatelským uživatelem, nebo v nich uvedou, že takový technický a smluvní přístup neexistuje.
+
+
+Článek 9
+
+
+Přístup k údajům
+
+
+1.   Poskytovatelé online zprostředkovatelských služeb zahrnou do svých podmínek popis technického a smluvního přístupu podnikatelských uživatelů k jakýmkoli osobním či jiným údajům, jež podnikatelští uživatelé nebo spotřebitelé poskytují pro účely používání dotčených online zprostředkovatelských služeb, nebo které jsou generovány při poskytování těchto služeb, nebo uvedou, že technický a smluvní přístup neexistuje.
+
+
+2.   Prostřednictvím popisu uvedeného v odstavci 1 poskytovatelé online zprostředkovatelských služeb náležitě informují podnikatelské uživatele zejména o tom:
+
+
+a)
+
+
+zda má poskytovatel online zprostředkovatelských služeb přístup k osobním či jiným údajům, jež podnikatelští uživatelé nebo spotřebitelé poskytují pro účely používání těchto služeb nebo které jsou generovány při poskytování těchto služeb, a pokud ano, ke kterým kategoriím těchto údajů a za jakých podmínek;
+
+
+b)
+
+
+zda má podnikatelský uživatel přístup k osobním nebo jiným údajům, které poskytuje v souvislosti se svým používáním dotčených online zprostředkovatelských služeb nebo které jsou generovány při poskytování těchto služeb tomuto podnikatelskému uživateli a spotřebitelům jeho zboží nebo služeb, a pokud ano, ke kterým kategoriím těchto údajů a za jakých podmínek;
+
+
+c)
+
+
+zda kromě písmene b) má podnikatelský uživatel přístup k osobním nebo jiným údajům, a to i v souhrnné formě, které jsou poskytovány nebo generovány při poskytování online zprostředkovatelských služeb všem jejich podnikatelským uživatelům a spotřebitelům, a pokud ano, ke kterým kategoriím těchto údajů a za jakých podmínek, a
+
+
+d)
+
+
+zda jsou kterékoli údaje podle písmene a) poskytovány třetím stranám, a pokud poskytování těchto údajů třetím stranám není pro řádné fungování online zprostředkovatelských služeb nezbytné, informace o účelu tohoto sdílení údajů a veškerých možnostech, jak mohou podnikatelští uživatelé vyloučit toto sdílení údajů.
+
+
+3.   Tímto článkem není dotčeno uplatňování nařízení (EU) 2016/679, směrnice (EU) 2016/680 a směrnice 2002/58/ES.
+
+
+Článek 10
+
+
+Omezení nabízení různých podmínek jinými prostředky
+
+
+1.   Pokud poskytovatelé online zprostředkovatelských služeb omezí při poskytování svých služeb možnost podnikatelských uživatelů nabízet stejné zboží a služby spotřebitelům za různých podmínek jinými prostředky než prostřednictvím těchto služeb, zahrnou do svých podmínek důvody tohoto omezení a zajistí snadný přístup veřejnosti k nim. Tyto důvody musí zahrnovat hlavní ekonomická, obchodní nebo právní hlediska těchto omezení.
+
+
+2.   Povinností stanovenou v odstavci 1 nejsou dotčeny žádné zákazy nebo omezení týkající se uložení takových omezení vyplývajících z uplatňování jiných aktů unijního práva nebo práva členských států, které jsou v souladu s právem Unie a které se vztahují na poskytovatele online zprostředkovatelských služeb.
+
+
+Článek 11
+
+
+Interní systém pro vyřizování stížností
+
+
+1.   Poskytovatelé online zprostředkovatelských služeb zřídí interní systém pro vyřizování stížností podnikatelských uživatelů.
+
+
+Tento interní systém pro vyřizování stížností musí být pro podnikatelské uživatele snadno přístupný a bezplatný a musí zajistit, že stížnosti budou vyřízeny v přiměřené lhůtě. Musí být založen na zásadách transparentnosti a rovného zacházení ve stejných situacích a řešit stížnosti způsobem, který je přiměřený jejich důležitosti a složitosti. Musí podnikatelským uživatelům umožnit podávat přímo u dotčeného poskytovatele stížnosti týkající se těchto otázek:
+
+
+a)
+
+
+domnělého neplnění závazků stanovených v tomto nařízení takovým poskytovatelem, které se dotýká podnikatelského uživatele, který stížnost podal (dále jen „stěžovatel“);
+
+
+b)
+
+
+technické problémy, které přímo souvisejí s poskytováním online zprostředkovatelských služeb a které se dotýkají stěžovatele;
+
+
+c)
+
+
+opatření nebo chování takového poskytovatele, které souvisejí přímo s poskytováním online zprostředkovatelských služeb a které se dotýkají stěžovatele.
+
+
+2.   Poskytovatelé online zprostředkovatelských služeb musí jako součást svého interního systému pro vyřizování stížností:
+
+
+a)
+
+
+náležitě posoudit podané stížnosti a navazující opatření, která možná budou muset přijmout ve věci stížnosti, aby vznesenou otázku náležitě vyřešili;
+
+
+b)
+
+
+vyřizovat stížnosti rychle a účinně s přihlédnutím k důležitosti a složitosti vznesené otázky;
+
+
+c)
+
+
+individualizovaným způsobem oznámit stěžovateli výsledek interního procesu vyřizování stížnosti v jasném a srozumitelném jazyce.
+
+
+3.   Poskytovatelé online zprostředkovatelských služeb uvedou ve svých podmínkách veškeré relevantní informace o přístupu k jejich internímu systému pro vyřizování stížností a o jeho fungování.
+
+
+4.   Poskytovatelé online zprostředkovatelských služeb sestaví informace o fungování a efektivnosti svého interního systému pro vyřizování stížností a veřejnosti k nim zajistí snadný přístup. Ověřují tyto informace alespoň jednou ročně a aktualizují je v případě, že jsou potřebné významné změny.
+
+
+Tyto informace obsahují celkový počet podaných stížností, hlavní druhy stížností, průměrnou dobu potřebnou na jejich vyřízení a souhrnné informace o výsledku stížností.
+
+
+5.   Tento článek se nevztahuje na poskytovatele online zprostředkovatelských služeb, kteří jsou malými podniky ve smyslu přílohy k doporučení Komise 2003/361/ES.
+
+
+Článek 12
+
+
+Mediace
+
+
+1.   Poskytovatelé online zprostředkovatelských služeb ve svých podmínkách určí dva nebo více mediátorů, s nimiž jsou ochotni spolupracovat při pokusu o dosažení dohody s podnikatelskými uživateli o mimosoudním řešení sporů mezi poskytovatelem a podnikatelským uživatelem, které vzniknou v souvislosti s poskytováním dotčených online zprostředkovatelských služeb, včetně stížností, které nemohly být vyřešeny pomocí interního systému pro vyřizování stížností uvedeného v článku 11.
+
+
+Mediátory, kteří poskytují mediační služby z místa mimo Unii, mohou poskytovatelé online zprostředkovatelských služeb určit pouze tehdy, pokud je zajištěno, že dotčení podnikatelští uživatelé nebudou fakticky zbaveni jakýchkoli právních záruk stanovených v právu Unie nebo členských států v důsledku toho, že mediátoři poskytují tyto služby z místa mimo Unii.
+
+
+2.   Mediátoři uvedení v odstavci 1 musí splňovat tyto požadavky:
+
+
+a)
+
+
+jsou nestranní a nezávislí;
+
+
+b)
+
+
+jejich mediační služby jsou cenově dostupné pro podnikatelské uživatele dotčených online zprostředkovatelských služeb;
+
+
+c)
+
+
+jsou schopni poskytovat své mediační služby v jazyce, v němž jsou vyhotoveny podmínky, které upravují smluvní vztah mezi poskytovatelem online zprostředkovatelských služeb a dotčeným podnikatelským uživatelem;
+
+
+d)
+
+
+jsou snadno dostupní buď fyzicky v místě usazení nebo v místě pobytu podnikatelského uživatele, nebo dálkově s použitím komunikačních technologií;
+
+
+e)
+
+
+jsou schopni poskytovat své mediační služby neprodleně;
+
+
+f)
+
+
+dostatečně rozumí všeobecným obchodním vztahům mezi podniky, což jim umožňuje účinně přispívat k pokusům o řešení sporů.
+
+
+3.   Bez ohledu na dobrovolnou povahu mediace musí poskytovatelé online zprostředkovatelských služeb a podnikatelští uživatelé jednat v dobré víře během jakéhokoli pokusu o mediaci v souladu s tímto článkem.
+
+
+4.   Poskytovatelé online zprostředkovatelských služeb nesou v každém jednotlivém případě přiměřenou část celkových nákladů na mediaci. Přiměřená část těchto celkových nákladů se určí na základě návrhu mediátora s přihlédnutím ke všem relevantním aspektům daného případu, zejména k míře opodstatněnosti nároků stran ve sporu, chování stran a vzájemném poměru velikosti a finanční síly stran.
+
+
+5.   Jakýmkoli pokusem o dosažení dohody prostřednictvím mediace ve věci řešení sporu v souladu s tímto článkem nejsou dotčena práva dotčených poskytovatelů online zprostředkovatelských služeb a podnikatelských uživatelů zahájit soudní řízení kdykoli během mediačního řízení, před ním či po něm.
+
+
+6.   Pokud o to podnikatelský uživatel před zahájením mediace nebo v jejím průběhu požádá, zpřístupní mu poskytovatelé online zprostředkovatelských služeb informace o fungování a efektivnosti mediace týkající se jeho činnosti.
+
+
+7.   Povinnost stanovená v odstavci 1 se nevztahuje na poskytovatele online zprostředkovatelských služeb, kteří jsou malými podniky ve smyslu přílohy k doporučení 2003/361/ES.
+
+
+Článek 13
+
+
+Specializovaní mediátoři
+
+
+Komise v úzké spolupráci s členskými státy vybízí poskytovatele online zprostředkovatelských služeb i organizace a sdružení, které je zastupují, k tomu, aby jednotlivě nebo společně založili jednu nebo více organizací poskytujících mediační služby, které splňují požadavky stanovené v čl. 12 odst. 2, za zvláštním účelem usnadnění mimosoudního řešení sporů s podnikatelskými uživateli, které vznikají v souvislosti s poskytováním těchto služeb, s přihlédnutím zejména k přeshraniční povaze online zprostředkovatelských služeb.
+
+
+Článek 14
+
+
+Soudní řízení vedená zastupujícími organizacemi nebo sdruženími a veřejnými subjekty
+
+
+1.   Organizace a sdružení, která mají oprávněný zájem na zastupování podnikatelských uživatelů nebo uživatelů firemních internetových stránek, a veřejné subjekty zřízené v členských státech mají právo podat žalobu u příslušných vnitrostátních soudů v Unii v souladu s právem členského státu, v němž je podána žaloba, znějící na ukončení nebo zákaz neplnění příslušných požadavků tohoto nařízení poskytovateli online zprostředkovatelských služeb nebo poskytovateli internetových vyhledávačů.
+
+
+2.   Komise vybízí členské státy k tomu, aby si s dalšími členskými státy vyměňovaly osvědčené postupy a informace na základě rejstříků protiprávních jednání, která byla předmětem soudních příkazů u vnitrostátních soudů, pokud příslušné veřejné subjekty nebo orgány takové rejstříky zřídí.
+
+
+3.   Organizace nebo sdružení mají právo uvedené v odstavci 1 pouze tehdy, pokud splňují všechna tato kritéria:
+
+
+a)
+
+
+jsou řádně založeny podle práva členského státu;
+
+
+b)
+
+
+sledují cíle, které jsou ve společném zájmu skupiny podnikatelských uživatelů nebo uživatelů firemních internetových stránek, které trvale zastupují;
+
+
+c)
+
+
+jsou neziskové;
+
+
+d)
+
+
+na jejich rozhodování nemá nepatřičný vliv žádná třetí strana, která poskytuje financování, zejména poskytovatelé online zprostředkovatelských služeb nebo internetových vyhledávačů.
+
+
+Za tímto účelem zveřejní organizace nebo sdružení v plném rozsahu informace o svých členech a zdroji financování.
+
+
+4.   Veřejné subjekty musí mít v členských státech, v nichž byly zřízeny, právo uvedené v odstavci 1, jsou-li pověřeny hájit společné zájmy podnikatelských uživatelů nebo uživatelů firemních internetových stránek nebo zajišťovat dodržování požadavků tohoto nařízení, v souladu s vnitrostátním právem dotčeného členského státu.
+
+
+5.   Členské státy mohou určit:
+
+
+a)
+
+
+organizace nebo sdružení usazené v daném členském státě, které splňují alespoň požadavky stanovené v odstavci 3, a to na jejich žádost;
+
+
+b)
+
+
+veřejné subjekty v nich zřízené, které splňují požadavky stanovené v odstavci 4,
+
+
+kterým přiznají právo uvedené v odstavci 1. Členské státy sdělí Komisi název a účel veškerých těchto určených organizací, sdružení nebo veřejných subjektů.
+
+
+6.   Komise sestaví seznam organizací, sdružení a veřejných subjektů určených podle odstavce 5. Tento seznam uvádí účel těchto organizací, sdružení a veřejných subjektů. Zveřejní se v Úředním věstníku Evropské unie . Změny tohoto seznamu se zveřejní bez prodlevy a aktualizovaný seznam se v každém případě sestavuje a zveřejňuje každých šest měsíců.
+
+
+7.   Soudy uznávají seznam uvedený v odstavci 6 jako důkaz právní způsobilosti organizace, sdružení nebo veřejného subjektu, aniž je dotčeno právo soudu zkoumat v konkrétním případě, zda účel žalobce opravňuje k podání žaloby.
+
+
+8.   Vyjádří-li některý členský stát nebo Komise obavy ohledně toho, zda určitá organizace nebo sdružení splňuje kritéria stanovená v odstavci 3 nebo zda veřejný subjekt splňuje kritéria stanovená v odstavci 4, členský stát, jenž danou organizaci, sdružení nebo veřejný subjekt určil v souladu s odstavcem 5, tyto obavy prověří a případně takové určení zruší, není-li splněno jedno nebo více kritérií.
+
+
+9.   Právem uvedeným v odstavci 1 nejsou dotčena práva podnikatelských uživatelů a uživatelů firemních internetových stránek podat jakoukoli žalobu u příslušných vnitrostátních soudů v souladu s právem členského státu, v němž je podána žaloba, která vychází z individuálních práv a směřuje k tomu, aby poskytovatel online zprostředkovatelských služeb nebo poskytovatel internetového vyhledávače ukončil jakékoli porušování příslušných požadavků, jež jsou stanoveny v tomto nařízení.
+
+
+Článek 15
+
+
+Vymáhání
+
+
+1.   Každý členský stát zajistí přiměřené a účinné vymáhání tohoto nařízení.
+
+
+2.   Členské státy stanoví pravidla pro ukládání opatření za porušení tohoto nařízení a zajistí jejich uplatňování. Tato opatření musí být účinná, přiměřená a odrazující.
+
+
+Článek 16
+
+
+Sledování
+
+
+Komise v úzké spolupráci s členskými státy důkladně sleduje dopad tohoto nařízení na vztahy mezi online zprostředkovatelskými službami a jejich podnikatelskými uživateli a mezi internetovými vyhledávači a uživateli firemních internetových stránek. Za tímto účelem shromažďuje relevantní informace s cílem sledovat změny v těchto vztazích, a to i prováděním příslušných studií. Členské státy pomáhají Komisi tím, že jí na požádání poskytují veškeré relevantní shromážděné informace včetně informací o konkrétních případech. Pro účely tohoto článku a článku 18 může Komise usilovat o shromáždění informací od poskytovatelů online zprostředkovatelských služeb.
+
+
+Článek 17
+
+
+Kodexy chování
+
+
+1.   Komise vybízí poskytovatele online zprostředkovatelských služeb a organizace a sdružení, které je zastupují, společně s podnikatelskými uživateli, včetně malých a středních podniků, a s organizacemi, které je zastupují, aby vypracovali kodexy chování, jejichž účelem je přispět k náležitému uplatňování tohoto nařízení s přihlédnutím ke zvláštním rysům různých odvětví, v nichž jsou online zprostředkovatelské služby poskytovány, a také ke zvláštním rysům malých a středních podniků.
+
+
+2.   Komise vybízí poskytovatele internetových vyhledávačů a organizace a sdružení, které je zastupují, k tomu, aby vypracovali kodexy chování, jejichž specifickým účelem je přispět k náležitému uplatňování článku 5.
+
+
+3.   Komise vybízí poskytovatele online zprostředkovatelských služeb k tomu, aby přijali a uplatňovali odvětvové kodexy chování, pokud existují a jsou široce používány.
+
+
+Článek 18
+
+
+Přezkum
+
+
+1.   Do 13. ledna 2022 a poté každé tři roky Komise vyhodnotí toto nařízení a podá zprávu Evropskému parlamentu, Radě a Evropskému hospodářskému a sociálnímu výboru.
+
+
+2.   První hodnocení tohoto nařízení bude provedeno zejména za účelem:
+
+
+a)
+
+
+posouzení dodržování povinností stanovených v článcích 3 až 10 a jejich dopadu na ekonomiku online platforem;
+
+
+b)
+
+
+posouzení dopadu a účinnosti veškerých zavedených kodexů chování na zlepšování spravedlnosti a transparentnosti;
+
+
+c)
+
+
+dalšího zkoumání problémů způsobených závislostí podnikatelských uživatelů na online zprostředkovatelských službách a problémů způsobených nekalými obchodními praktikami poskytovatelů online zprostředkovatelských služeb a dále za účelem zjištění, nakolik jsou tyto praktiky stále rozšířeny;
+
+
+d)
+
+
+zkoumání toho, zda konkurence mezi zbožím a službami, jež spotřebitelům nabízí podnikatelský uživatel, a zbožím a službami, jež nabízí nebo kontroluje poskytovatel online zprostředkovatelských služeb, představuje spravedlivou hospodářskou soutěž a zda poskytovatelé online zprostředkovatelských služeb v této souvislosti nezneužívají privilegované údaje;
+
+
+e)
+
+
+posouzení účinku tohoto nařízení na případnou nerovnováhu ve vztazích mezi poskytovateli operačních systémů a jejich podnikatelskými uživateli;
+
+
+f)
+
+
+posouzení toho, zda oblast působnosti tohoto nařízení, zejména v souvislosti s definicí „podnikatelského uživatele“, vyhovuje v tom smyslu, že nepodporuje falešnou samostatně výdělečnou činnost.
+
+
+V rámci prvního a následných hodnocení se zjistí, zda jsou zapotřebí dodatečná pravidla, včetně pravidel týkajících se vymáhání, v zájmu zajištění spravedlivého, udržitelného a důvěryhodného online podnikatelského prostředí v rámci vnitřního trhu. Komise v návaznosti na tato hodnocení přijme vhodná opatření, která mohou zahrnovat legislativní návrhy.
+
+
+3.   Členské státy poskytnou veškeré relevantní informace, kterými disponují a které Komise může požadovat pro účely vypracování zprávy uvedené v odstavci 1.
+
+
+4.   Komise při provádění hodnocení tohoto nařízení zohlední mimo jiné stanoviska a zprávy, které jí předloží expertní skupina pro sledování ekonomiky online platforem. Tam, kde je to vhodné, přihlédne rovněž k obsahu a fungování všech kodexů chování uvedených v článku 17.
+
+
+Článek 19
+
+
+Vstup v platnost a použitelnost
+
+
+1.   Toto nařízení vstupuje v platnost dvacátým dnem po vyhlášení v Úředním věstníku Evropské unie .
+
+
+2.   Toto nařízení se použije od 12. července 2020.
+
+
+Toto nařízení je závazné v celém rozsahu a přímo použitelné ve všech členských státech.
+
+
+V Bruselu dne 20. června 2019.
+
+
+Za Evropský parlament
+
+
+předseda
+
+
+A. TAJANI
+
+
+Za Radu
+
+
+předseda
+
+
+G. CIAMBA
+
+
+( 1 )
+Úř. věst. C 440, 6.12.2008, s. 177 .
+
+
+( 2 )   Postoj Evropského parlamentu ze dne 17. dubna 2019 (dosud nezveřejněný v Úředním věstníku) a rozhodnutí Rady ze dne 14. června 2019.
+
+
+( 3 )   Nařízení Evropského parlamentu a Rady (EU) č. 1215/2012 ze dne 12. prosince 2012 o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech ( Úř. věst. L 351, 20.12.2012, s. 1 ).
+
+
+( 4 )   Nařízení Evropského parlamentu a Rady (ES) č. 593/2008 ze dne 17. června 2008 o právu rozhodném pro smluvní závazkové vztahy (Řím I) ( Úř. věst. L 177, 4.7.2008, s. 6 ).
+
+
+( 5 )   Směrnice Evropského parlamentu a Rady (EU) 2016/943 ze dne 8. června 2016 o ochraně nezveřejněného know-how a obchodních informací (obchodního tajemství) před jejich neoprávněným získáním, využitím a zpřístupněním ( Úř. věst. L 157, 15.6.2016, s. 1 ).
+
+
+( 6 )   Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů) ( Úř. věst. L 119, 4.5.2016, s. 1 ).
+
+
+( 7 )   Směrnice Evropského parlamentu a Rady (EU) 2016/680 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů příslušnými orgány za účelem prevence, vyšetřování, odhalování či stíhání trestných činů nebo výkonu trestů, o volném pohybu těchto údajů a o zrušení rámcového rozhodnutí Rady 2008/977/SVV ( Úř. věst. L 119, 4.5.2016, s. 89 ).
+
+
+( 8 )   Směrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických telekomunikací (směrnice o soukromí a elektronických komunikacích) ( Úř. věst. L 201, 31.7.2002, s. 37 ).
+
+
+( 9 )   Doporučení Komise 2003/361/ES ze dne 6. května 2003 o definici mikropodniků, malých a středních podniků ( Úř. věst. L 124, 20.5.2003, s. 36 ).
+
+
+( 10 )   Směrnice Evropského parlamentu a Rady 2008/52/ES ze dne 21. května 2008 o některých aspektech mediace v občanských a obchodních věcech ( Úř. věst. L 136, 24.5.2008, s. 3 ).
+
+
+( 11 )   Rozhodnutí Rady 2010/48/ES ze dne 26. listopadu 2009 o uzavření Úmluvy Organizace spojených národů o právech osob se zdravotním postižením Evropským společenstvím ( Úř. věst. L 23, 27.1.2010, s. 37 ).
+
+
+( 12 )   Směrnice Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti ( Úř. věst. L 241, 17.9.2015, s. 1 ).
+
+
+( 13 )   Nařízení Rady (ES) č. 139/2004 ze dne 20. ledna 2004 o kontrole spojování podniků (nařízení ES o spojování), ( Úř. věst. L 24, 29.1.2004, s. 1 ).

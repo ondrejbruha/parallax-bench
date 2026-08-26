@@ -1,0 +1,16 @@
+{
+  "adapter": "baseline_local",
+  "lexical": {
+    "type": "bm25-okapi",
+    "k1": 1.5,
+    "b": 0.75
+  },
+  "dense": {
+    "embedding_model": null
+  },
+  "fusion": null,
+  "chunking": {
+    "type": "paragraph-greedy",
+    "target_chars": 1200
+  }
+}
