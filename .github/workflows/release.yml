@@ -1,10 +1,19 @@
 name: release
 on:
+  push:
+    tags: ["v*"]
+  # a release created by hand in the GitHub UI on an already-pushed tag
+  # still needs to build & publish:
   release:
     types: [published]
   # manual re-publish of an existing tag (e.g. the release event got lost):
   #   gh workflow run release.yml --ref v0.1.0
   workflow_dispatch:
+
+# a UI-created release on a new tag fires both push and release events —
+# serialise the two runs instead of racing on PyPI
+concurrency:
+  group: release-${{ github.ref_name }}
 
 jobs:
   build:
@@ -36,3 +45,28 @@ jobs:
       - uses: actions/download-artifact@v4
         with: { name: dist, path: dist/ }
       - uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          # the push and release events can both build the same tag —
+          # an already-uploaded file is not an error then
+          skip-existing: true
+
+  github-release:
+    # tag push (or manual dispatch on a tag) creates the GitHub release,
+    # which is what fires the Zenodo webhook; skip when the release
+    # itself triggered this run
+    if: github.event_name != 'release'
+    needs: publish
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { name: dist, path: dist/ }
+      - name: create release if it does not exist yet
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1 \
+            || gh release create "$TAG" dist/* --repo "$GITHUB_REPOSITORY" \
+                 --title "$TAG" --generate-notes
