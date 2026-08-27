@@ -1,5 +1,7 @@
 # parallax-bench
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22123082.svg)](https://doi.org/10.5281/zenodo.22123082)
+
 *Measuring language-induced retrieval displacement in RAG systems using
 parallel corpora.*
 

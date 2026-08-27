@@ -7,6 +7,8 @@ authors:
     given-names: "Ondřej"
     email: "ondrej.bruha@alphacodes.eu"
 repository-code: "https://github.com/ondrejbruha/parallax-bench"
+# concept DOI — always resolves to the latest archived version on Zenodo
+doi: 10.5281/zenodo.22123082
 license: Apache-2.0
 keywords:
   - retrieval-augmented generation
