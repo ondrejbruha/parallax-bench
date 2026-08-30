@@ -66,8 +66,10 @@ repeating collection; raw rankings are stored in full.
 
 The convenience command `parallax-bench experiment --system <id>` orchestrates
 validation, fetch, source verification, both experiment phases, scoring, and
-reporting in that order. It calls the same separated phase implementations;
-it does not merge collection with scoring or weaken resumability/provenance.
+reporting in that order. It ingests once before retrieval, then reuses the same
+language indexes for generation. It calls the same separated phase
+implementations; it does not merge collection with scoring or weaken
+resumability/provenance.
 
 ## Metrics
 

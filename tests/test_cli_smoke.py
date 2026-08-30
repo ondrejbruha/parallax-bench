@@ -6,6 +6,7 @@ import pandas as pd
 import pytest
 from typer.testing import CliRunner
 
+import parallax_bench.cli as cli_module
 from parallax_bench.cli import app
 
 REPO = Path(__file__).resolve().parent.parent
@@ -106,6 +107,38 @@ def test_generation_phase_on_smoke(workdir):
     assert result.exit_code == 0, result.output
     assert "generation (mechanical metrics)" in result.output
     assert "no retrieval metrics" in result.output
+
+
+def test_experiment_ingests_once_for_both_phases(workdir, monkeypatch):
+    ingest_calls = 0
+    real_ingest = cli_module.do_ingest
+
+    def counting_ingest(*args, **kwargs):
+        nonlocal ingest_calls
+        ingest_calls += 1
+        return real_ingest(*args, **kwargs)
+
+    monkeypatch.setattr(cli_module, "do_ingest", counting_ingest)
+    monkeypatch.setattr(cli_module, "report", lambda **kwargs: None)
+    result = runner.invoke(
+        app,
+        [
+            "experiment",
+            "--system",
+            "baseline-local",
+            "--subset",
+            "smoke",
+            "--data-dir",
+            str(REPO / "benchmark"),
+            "--skip-fetch",
+            "--skip-verify",
+        ],
+    )
+    assert result.exit_code == 0, result.output
+    assert "experiment complete" in result.output
+    assert "retrieval:" in result.output
+    assert "generation:" in result.output
+    assert ingest_calls == 1
 
 
 def test_one_command_experiment_workflow(workdir):

@@ -47,6 +47,9 @@ reports), configure a system and run:
 parallax-bench experiment --system baseline-local --subset v1
 ```
 
+The corpus is ingested once per `experiment`; the generation phase reuses the
+same language indexes created for retrieval.
+
 The workflow remains decomposable and resumable through the individual
 commands. For an already fetched/frozen corpus, or a retrieval-only pass, use
 `--skip-fetch`, `--skip-verify`, or `--skip-generation` as appropriate.

@@ -459,7 +459,7 @@ def experiment(
     phases = ["retrieval"] if skip_generation else ["retrieval", "generation"]
     engine = q.get_engine(db)
     completed: list[tuple[str, str]] = []
-    for phase in phases:
+    for phase_number, phase in enumerate(phases):
         typer.echo(f"\n=== {phase} run: {system} ===")
         run(
             system=system,
@@ -470,7 +470,9 @@ def experiment(
             db=db,
             index_prefix=index_prefix,
             resume=None,
-            no_ingest=False,
+            # Both phases target the same language indexes. Ingest once at the
+            # start of the experiment; generation reuses the retrieval indexes.
+            no_ingest=phase_number > 0,
             k=k,
             modes=modes,
             max_attempts=max_attempts,
