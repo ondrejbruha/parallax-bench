@@ -54,3 +54,48 @@ def test_rrf_fusion_order():
     fused = _rrf([["a", "b", "c"], ["b", "a", "c"]])
     assert fused[:2] == ["a", "b"] or fused[:2] == ["b", "a"]
     assert fused[2] == "c"
+
+
+def test_dense_mode_requires_model():
+    import pytest
+
+    with pytest.raises(ValueError, match="requires embedding_model"):
+        BaselineLocalSystem(retrieval_mode="dense")
+
+
+def test_embedding_model_alone_preserves_hybrid_mode():
+    system = BaselineLocalSystem(embedding_model="example/model")
+    assert system.describe()["retrieval_mode"] == "hybrid"
+
+
+def test_e5_dense_mode_uses_prefixes_and_cosine(tmp_path):
+    import numpy as np
+
+    class FakeEncoder:
+        def __init__(self):
+            self.inputs = []
+
+        def encode(self, texts, normalize_embeddings):
+            assert normalize_embeddings is True
+            self.inputs.extend(texts)
+            vectors = []
+            for text in texts:
+                vectors.append([1.0, 0.0] if "withdrawal" in text else [0.0, 1.0])
+            return np.asarray(vectors)
+
+    system = BaselineLocalSystem(
+        data_dir=str(tmp_path),
+        retrieval_mode="dense",
+        embedding_model="intfloat/multilingual-e5-large",
+    )
+    system.index(_docs(), "bench_en")
+    encoder = FakeEncoder()
+    system._encoder = encoder
+    assert system.search("withdrawal", "bench_en", 1) == ["D1"]
+    assert any(text.startswith("passage: ") for text in encoder.inputs)
+    assert encoder.inputs[-1].startswith("query: ")
+    description = system.describe()
+    assert description["retrieval_mode"] == "dense"
+    assert description["lexical"] is None
+    assert description["dense"]["embedding_model"] == "intfloat/multilingual-e5-large"
+    assert description["dense"]["e5_prefixes"] is True

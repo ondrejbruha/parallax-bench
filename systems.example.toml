@@ -17,8 +17,10 @@ adapter = "parallax_bench.adapters.edge_ant:EdgeAntSystem"
 # prefetch_k == result_count makes Edge Ant skip the reranker
 config = { base_url = "${EDGE_ANT_BASE_URL}", jwt_secret = "${EDGE_ANT_JWT_SECRET}", mail = "${EDGE_ANT_MAIL}", prefetch_k = 10, result_count = 10 }
 
-# Local baseline with the dense half enabled (pip install 'parallax-bench[baseline]')
+# Pure multilingual dense baseline (pip install 'parallax-bench[baseline]').
+# E5 query/passage prefixes and normalized cosine similarity are applied by
+# the existing local adapter; the exact model and mode are recorded in provenance.
 [[systems]]
-id = "baseline-hybrid"
+id = "multilingual-e5-large"
 adapter = "parallax_bench.adapters.baseline_local:BaselineLocalSystem"
-config = { embedding_model = "intfloat/multilingual-e5-small" }
+config = { retrieval_mode = "dense", embedding_model = "intfloat/multilingual-e5-large", data_dir = ".parallax/e5-large" }

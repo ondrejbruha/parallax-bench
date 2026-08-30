@@ -6,14 +6,15 @@ importantly, the second adapter that keeps the protocol from being shaped
 around any single system.
 
 BM25 runs over passage chunks and aggregates to document level (max over
-chunks), which mirrors what real RAG pipelines do.  With ``embedding_model``
-set (requires the ``baseline`` extra), a dense ranking is fused with BM25 via
-reciprocal rank fusion.  Indexes persist on disk so ``ingest`` and ``run`` can
-be separate CLI invocations.
+chunks), which mirrors what real RAG pipelines do. With ``embedding_model``
+set (requires the ``baseline`` extra), retrieval can be dense-only or fuse
+dense and BM25 rankings via reciprocal rank fusion. Indexes persist on disk
+so ``ingest`` and ``run`` can be separate CLI invocations.
 """
 
 from __future__ import annotations
 
+import hashlib
 import json
 import math
 import re
@@ -98,6 +99,7 @@ class BaselineLocalSystem:
         self,
         data_dir: str = ".parallax/baseline_local",
         embedding_model: str | None = None,
+        retrieval_mode: str | None = None,
         k1: float = 1.5,
         b: float = 0.75,
         chunk_chars: int = 1200,
@@ -105,6 +107,15 @@ class BaselineLocalSystem:
     ) -> None:
         self.data_dir = Path(data_dir)
         self.embedding_model = embedding_model
+        # Preserve the original configuration contract: setting only an
+        # embedding model means BM25+dense RRF. Explicit ``dense`` selects the
+        # new pure multilingual dense baseline.
+        retrieval_mode = retrieval_mode or ("hybrid" if embedding_model else "bm25")
+        if retrieval_mode not in {"bm25", "dense", "hybrid"}:
+            raise ValueError("retrieval_mode must be 'bm25', 'dense', or 'hybrid'")
+        if retrieval_mode in {"dense", "hybrid"} and not embedding_model:
+            raise ValueError(f"retrieval_mode={retrieval_mode!r} requires embedding_model")
+        self.retrieval_mode = retrieval_mode
         self.k1, self.b = k1, b
         self.chunk_chars = chunk_chars
         self.rrf_k = rrf_k
@@ -117,9 +128,27 @@ class BaselineLocalSystem:
     def describe(self) -> dict:
         return {
             "adapter": "baseline_local",
-            "lexical": {"type": "bm25-okapi", "k1": self.k1, "b": self.b},
-            "dense": {"embedding_model": self.embedding_model},
-            "fusion": {"type": "rrf", "k": self.rrf_k} if self.embedding_model else None,
+            "retrieval_mode": self.retrieval_mode,
+            "lexical": (
+                {"type": "bm25-okapi", "k1": self.k1, "b": self.b}
+                if self.retrieval_mode in {"bm25", "hybrid"}
+                else None
+            ),
+            "dense": (
+                {
+                    "embedding_model": self.embedding_model,
+                    "similarity": "cosine",
+                    "normalized_embeddings": True,
+                    "e5_prefixes": self._uses_e5_prefixes,
+                }
+                if self.retrieval_mode in {"dense", "hybrid"}
+                else None
+            ),
+            "fusion": (
+                {"type": "rrf", "k": self.rrf_k}
+                if self.retrieval_mode == "hybrid"
+                else None
+            ),
             "chunking": {"type": "paragraph-greedy", "target_chars": self.chunk_chars},
         }
 
@@ -147,14 +176,15 @@ class BaselineLocalSystem:
         # invalidate caches; embeddings are (re)built lazily on first search
         self._bm25_cache.pop(index_name, None)
         self._dense_cache.pop(index_name, None)
-        emb = index_dir / "embeddings.npy"
-        if emb.is_file():
+        for emb in index_dir.glob("embeddings-*.npy"):
             emb.unlink()
 
     def search(self, query: str, index_name: str, k: int) -> list[str]:
+        if self.retrieval_mode == "dense":
+            return self._dense_rank(query, index_name)[:k]
         bm25 = self._load_bm25(index_name)
         lexical = self._rank_docs(bm25, bm25.score(query))
-        if not self.embedding_model:
+        if self.retrieval_mode == "bm25":
             return lexical[:k]
         dense = self._dense_rank(query, index_name)
         return _rrf([lexical, dense], self.rrf_k)[:k]
@@ -229,22 +259,38 @@ class BaselineLocalSystem:
             self._encoder = SentenceTransformer(self.embedding_model, device="cpu")
         return self._encoder
 
+    @property
+    def _uses_e5_prefixes(self) -> bool:
+        return bool(self.embedding_model and "e5" in self.embedding_model.lower())
+
+    def _embedding_text(self, text: str, kind: str) -> str:
+        if self._uses_e5_prefixes:
+            prefix = "query" if kind == "query" else "passage"
+            return f"{prefix}: {text}"
+        return text
+
     def _dense_rank(self, query: str, index_name: str) -> list[str]:
         import numpy as np
 
         if index_name not in self._dense_cache:
             chunks = self._load_chunks(index_name)
-            emb_path = self.data_dir / index_name / "embeddings.npy"
+            cache_key = hashlib.sha256(
+                f"{self.embedding_model}|e5={self._uses_e5_prefixes}".encode()
+            ).hexdigest()[:16]
+            emb_path = self.data_dir / index_name / f"embeddings-{cache_key}.npy"
             if emb_path.is_file():
                 matrix = np.load(emb_path)
             else:
                 matrix = self._get_encoder().encode(
-                    [text for _, text in chunks], normalize_embeddings=True
+                    [self._embedding_text(text, "passage") for _, text in chunks],
+                    normalize_embeddings=True,
                 )
                 np.save(emb_path, matrix)
             self._dense_cache[index_name] = ([doc_id for doc_id, _ in chunks], matrix)
         doc_ids, matrix = self._dense_cache[index_name]
-        q = self._get_encoder().encode([query], normalize_embeddings=True)[0]
+        q = self._get_encoder().encode(
+            [self._embedding_text(query, "query")], normalize_embeddings=True
+        )[0]
         sims = matrix @ q
         best: dict[str, float] = {}
         for doc_id, sim in zip(doc_ids, sims, strict=True):

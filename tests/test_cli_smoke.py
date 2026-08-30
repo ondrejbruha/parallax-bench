@@ -48,10 +48,24 @@ def test_quickstart_run_score_report(workdir):
     # drops, ingest or scoring broke — not the baseline
     assert (diag["mean"] > 0.9).all(), diag
     assert (metrics[metrics.metric == "ndcg@10"].missing_rate == 0).all()
+    assert (out_dirs[0] / "parallax_summary.csv").is_file()
+    assert (out_dirs[0] / "parallax_summary.json").is_file()
+    assert (out_dirs[0] / "matrices" / "ndcg_at_10.csv").is_file()
+    assert (out_dirs[0] / "matrices" / "ndcg_at_10_clp.csv").is_file()
+    assert (out_dirs[0] / "matrices" / "ndcg_at_10_en_delta.csv").is_file()
+    assert (out_dirs[0] / "matrices" / "origin_translated" / "ndcg_at_10.csv").is_file()
 
+    pytest.importorskip("matplotlib", reason="heatmap dependency is not installed")
     result = runner.invoke(app, ["report"])
     assert result.exit_code == 0, result.output
     assert "ndcg@10" in result.output
+    assert "Cross-Lingual Penalty" in result.output
+    assert (out_dirs[0] / "matrices" / "absolute_ndcg_at_10_matrix.png").is_file()
+    assert (out_dirs[0] / "matrices" / "parallax_ndcg_at_10_matrix.png").is_file()
+
+    result = runner.invoke(app, ["report", "--origin", "native"])
+    assert result.exit_code == 0, result.output
+    assert "not available" in result.output
 
 
 def test_run_is_resumable(workdir):
@@ -88,3 +102,36 @@ def test_generation_phase_on_smoke(workdir):
     # so on the mono diagonal the detected language must match the query language
     mono = gen[gen.regime == "mono"]
     assert (mono.lang_correct.dropna().astype(bool)).mean() > 0.8
+    result = runner.invoke(app, ["report"])
+    assert result.exit_code == 0, result.output
+    assert "generation (mechanical metrics)" in result.output
+    assert "no retrieval metrics" in result.output
+
+
+def test_one_command_experiment_workflow(workdir):
+    pytest.importorskip("matplotlib", reason="heatmap dependency is not installed")
+    result = runner.invoke(
+        app,
+        [
+            "experiment",
+            "--system",
+            "baseline-local",
+            "--subset",
+            "smoke",
+            "--data-dir",
+            str(REPO / "benchmark"),
+            "--skip-fetch",
+            "--skip-verify",
+        ],
+    )
+    assert result.exit_code == 0, result.output
+    assert "experiment complete" in result.output
+    assert "retrieval:" in result.output
+    assert "generation:" in result.output
+    out_dirs = list((workdir / "runs").iterdir())
+    assert len(out_dirs) == 2
+    retrieval_dir = next(path for path in out_dirs if "-retrieval-" in path.name)
+    generation_dir = next(path for path in out_dirs if "-generation-" in path.name)
+    assert (retrieval_dir / "parallax_summary.json").is_file()
+    assert (generation_dir / "generation.csv").is_file()
+    assert not (generation_dir / "parallax_summary.json").exists()
