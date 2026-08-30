@@ -141,6 +141,37 @@ def test_experiment_ingests_once_for_both_phases(workdir, monkeypatch):
     assert ingest_calls == 1
 
 
+def test_experiment_no_ingest_reuses_existing_indexes(workdir, monkeypatch):
+    data = ["--data-dir", str(REPO / "benchmark")]
+    result = runner.invoke(
+        app, ["ingest", "--system", "baseline-local", "--subset", "smoke", *data]
+    )
+    assert result.exit_code == 0, result.output
+
+    def unexpected_ingest(*args, **kwargs):
+        raise AssertionError("experiment must not ingest with --no-ingest")
+
+    monkeypatch.setattr(cli_module, "do_ingest", unexpected_ingest)
+    monkeypatch.setattr(cli_module, "score", lambda **kwargs: None)
+    monkeypatch.setattr(cli_module, "report", lambda **kwargs: None)
+    result = runner.invoke(
+        app,
+        [
+            "experiment",
+            "--system",
+            "baseline-local",
+            "--subset",
+            "smoke",
+            *data,
+            "--skip-fetch",
+            "--skip-verify",
+            "--no-ingest",
+        ],
+    )
+    assert result.exit_code == 0, result.output
+    assert "experiment complete" in result.output
+
+
 def test_one_command_experiment_workflow(workdir):
     pytest.importorskip("matplotlib", reason="heatmap dependency is not installed")
     result = runner.invoke(

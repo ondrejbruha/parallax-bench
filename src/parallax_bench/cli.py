@@ -445,6 +445,9 @@ def experiment(
     skip_fetch: bool = typer.Option(False, "--skip-fetch"),
     skip_verify: bool = typer.Option(False, "--skip-verify"),
     skip_generation: bool = typer.Option(False, "--skip-generation"),
+    no_ingest: bool = typer.Option(
+        False, "--no-ingest", help="Reuse existing indexes; skip corpus ingest"
+    ),
 ) -> None:
     """Run the complete validate→fetch→verify→run→score→report workflow."""
     typer.echo(f"=== validate {subset} ===")
@@ -472,7 +475,7 @@ def experiment(
             resume=None,
             # Both phases target the same language indexes. Ingest once at the
             # start of the experiment; generation reuses the retrieval indexes.
-            no_ingest=phase_number > 0,
+            no_ingest=no_ingest or phase_number > 0,
             k=k,
             modes=modes,
             max_attempts=max_attempts,

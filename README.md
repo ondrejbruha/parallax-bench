@@ -48,11 +48,13 @@ parallax-bench experiment --system baseline-local --subset v1
 ```
 
 The corpus is ingested once per `experiment`; the generation phase reuses the
-same language indexes created for retrieval.
+same language indexes created for retrieval. Pass `--no-ingest` to reuse
+indexes populated before starting the experiment.
 
 The workflow remains decomposable and resumable through the individual
 commands. For an already fetched/frozen corpus, or a retrieval-only pass, use
-`--skip-fetch`, `--skip-verify`, or `--skip-generation` as appropriate.
+`--skip-fetch`, `--skip-verify`, `--skip-generation`, or `--no-ingest` as
+appropriate.
 
 `score` writes the standard IR results plus absolute, Cross-Lingual Penalty,
 and English-relative language matrices as CSV. `report` reads those scored
