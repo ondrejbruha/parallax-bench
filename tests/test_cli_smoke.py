@@ -130,4 +130,8 @@ def test_one_command_experiment_workflow(workdir):
     assert "generation:" in result.output
     out_dirs = list((workdir / "runs").iterdir())
     assert len(out_dirs) == 2
-    assert all((path / "parallax_summary.json").is_file() for path in out_dirs)
+    retrieval_dir = next(path for path in out_dirs if "-retrieval-" in path.name)
+    generation_dir = next(path for path in out_dirs if "-generation-" in path.name)
+    assert (retrieval_dir / "parallax_summary.json").is_file()
+    assert (generation_dir / "generation.csv").is_file()
+    assert not (generation_dir / "parallax_summary.json").exists()
