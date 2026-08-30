@@ -277,6 +277,8 @@ def score(
     baseline_lang: str = typer.Option("en", "--baseline-lang"),
 ) -> None:
     """Compute metrics over a finished run. Never runs during collection."""
+    import pandas as pd
+
     from parallax_bench.scoring import (
         diagonal_stats,
         score_generation,
@@ -290,15 +292,34 @@ def score(
         cfg = run_row.config_json
         ds = load_dataset(cfg["data_version"], data_dir)
         prefix = cfg.get("index_prefix", "bench_")
-        aggregated, per_query = score_retrieval(session, run_row, ds, prefix)
-        stats = (
-            diagonal_stats(per_query, baseline_lang)
-            if not per_query.empty
-            else per_query
-        )
+        if cfg.get("phase") == "generation":
+            aggregated = pd.DataFrame(
+                columns=[
+                    "query_lang", "index_lang", "metric", "mean", "ci_lo", "ci_hi",
+                    "n", "missing_rate",
+                ]
+            )
+            per_query = pd.DataFrame(
+                columns=[
+                    "query_id", "query_group", "origin", "query_lang", "index_lang",
+                    "metric", "value", "measured",
+                ]
+            )
+            stats = pd.DataFrame()
+        else:
+            aggregated, per_query = score_retrieval(session, run_row, ds, prefix)
+            stats = diagonal_stats(per_query, baseline_lang) if not per_query.empty else per_query
         generation = score_generation(session, run_row, ds, prefix)
         out_dir = out / f"{run_row.created_at:%Y-%m-%d}-{run_row.name}-{run_row.id}"
-        write_outputs(run_row, out_dir, aggregated, per_query, stats, generation)
+        write_outputs(
+            run_row,
+            out_dir,
+            aggregated,
+            per_query,
+            stats,
+            generation,
+            ds.languages,
+        )
         typer.echo(f"wrote {out_dir}/")
         typer.echo(f"next: parallax-bench report --run {run_row.id}")
 
@@ -308,9 +329,13 @@ def report(
     run_id: str | None = typer.Option(None, "--run", help="Run id or name (default: latest)"),
     db: str | None = _DB,
     metric: str = typer.Option("ndcg@10", "--metric"),
+    origin: str = typer.Option("all", "--origin", help="all | translated | native"),
+    compare: str | None = typer.Option(
+        None, "--compare", help="Additional scored run ids/names, comma-separated"
+    ),
     out: Path = typer.Option(Path("runs"), "--out"),
 ) -> None:
-    """Human-readable summary: the X×X matrix for one metric + progress."""
+    """Render scored matrices, summaries, heatmaps, and optional run comparison."""
     import pandas as pd
 
     engine = q.get_engine(db)
@@ -325,15 +350,68 @@ def report(
             typer.echo("no metrics.csv yet — run `parallax-bench score` first")
             raise typer.Exit(code=1)
         df = pd.read_csv(metrics_csv)
-        sub = df[df.metric == metric]
-        if sub.empty:
-            raise typer.BadParameter(
-                f"metric {metric!r} not in metrics.csv; available: "
-                + ", ".join(sorted(df.metric.unique()))
+        if not df.empty:
+            from parallax_bench.reporting import comparison_table, load_matrix, write_heatmaps
+
+            if metric not in set(df.metric):
+                raise typer.BadParameter(
+                    f"metric {metric!r} not in metrics.csv; available: "
+                    + ", ".join(sorted(df.metric.unique()))
+                )
+            try:
+                matrix = load_matrix(out_dir, metric, "absolute", origin)
+                clp = load_matrix(out_dir, metric, "clp", origin)
+                en_delta = load_matrix(out_dir, metric, "en_delta", origin)
+            except FileNotFoundError:
+                available = ["all"] + sorted(
+                    path.name.removeprefix("origin_")
+                    for path in (out_dir / "matrices").glob("origin_*")
+                    if path.is_dir()
+                )
+                typer.echo(
+                    f"query origin {origin!r} is not available for this run; "
+                    f"available: {', '.join(available)}"
+                )
+                return
+            typer.echo(
+                f"\n{metric} absolute ({origin}; rows: query language, "
+                "columns: index language)\n"
             )
-        matrix = sub.pivot(index="query_lang", columns="index_lang", values="mean")
-        typer.echo(f"\n{metric} (rows: query language, columns: index language)\n")
-        typer.echo(matrix.round(4).to_string())
+            typer.echo(matrix.round(4).to_string())
+            typer.echo("\nCross-Lingual Penalty: S(q,d) - S(q,q)\n")
+            typer.echo(clp.round(4).to_string())
+            typer.echo("\nEnglish-relative delta: S(q,d) - S(en,en)\n")
+            typer.echo(en_delta.round(4).to_string())
+            summary = pd.read_csv(out_dir / "parallax_summary.csv")
+            summary_row = summary[(summary.metric == metric) & (summary.origin == origin)]
+            if not summary_row.empty:
+                typer.echo("\nParallax summary\n")
+                typer.echo(summary_row.round(4).to_string(index=False))
+            images = write_heatmaps(
+                out_dir,
+                metric,
+                system=run_row.config_json.get("system_id", run_row.name),
+                data_version=run_row.config_json.get("data_version", "unknown"),
+                origin=origin,
+            )
+            typer.echo(f"\nheatmaps: {images[0]}, {images[1]}")
+
+            comparison_runs = [(run_row.config_json.get("system_id", run_row.name), out_dir)]
+            identifiers = [
+                item.strip() for item in (compare or "").split(",") if item.strip()
+            ]
+            for identifier in identifiers:
+                other = _resolve_run(session, identifier)
+                other_dir = out / f"{other.created_at:%Y-%m-%d}-{other.name}-{other.id}"
+                comparison_runs.append(
+                    (other.config_json.get("system_id", other.name), other_dir)
+                )
+            if len(comparison_runs) > 1:
+                table = comparison_table(comparison_runs, metric, origin)
+                typer.echo("\nsystem comparison\n")
+                typer.echo(table.round(4).to_string(index=False))
+        else:
+            typer.echo("\nno retrieval metrics in this generation-only run")
         gen_csv = out_dir / "generation.csv"
         if gen_csv.is_file():
             gen = pd.read_csv(gen_csv)
@@ -349,6 +427,85 @@ def report(
         if stats_csv.is_file():
             typer.echo("\npaired Wilcoxon vs baseline language (diagonal, Holm-corrected)\n")
             typer.echo(pd.read_csv(stats_csv).round(4).to_string(index=False))
+
+
+@app.command()
+def experiment(
+    system: str = typer.Option(..., "--system"),
+    subset: str = typer.Option("v1", "--subset", "--data-version"),
+    data_dir: Path | None = _DATA_DIR,
+    systems_toml: Path | None = _SYSTEMS_TOML,
+    db: str | None = _DB,
+    out: Path = typer.Option(Path("runs"), "--out"),
+    index_prefix: str = typer.Option("bench_", "--index-prefix"),
+    k: int = typer.Option(100, "--k"),
+    modes: str = typer.Option("direct", "--modes"),
+    max_attempts: int = typer.Option(3, "--max-attempts"),
+    baseline_lang: str = typer.Option("en", "--baseline-lang"),
+    skip_fetch: bool = typer.Option(False, "--skip-fetch"),
+    skip_verify: bool = typer.Option(False, "--skip-verify"),
+    skip_generation: bool = typer.Option(False, "--skip-generation"),
+) -> None:
+    """Run the complete validate→fetch→verify→run→score→report workflow."""
+    typer.echo(f"=== validate {subset} ===")
+    validate(subset=subset, data_dir=data_dir)
+    if not skip_fetch:
+        typer.echo(f"\n=== fetch {subset} ===")
+        fetch(subset=subset, data_dir=data_dir)
+    if not skip_verify:
+        typer.echo(f"\n=== verify source drift for {subset} ===")
+        verify(subset=subset, data_dir=data_dir)
+
+    phases = ["retrieval"] if skip_generation else ["retrieval", "generation"]
+    engine = q.get_engine(db)
+    completed: list[tuple[str, str]] = []
+    for phase in phases:
+        typer.echo(f"\n=== {phase} run: {system} ===")
+        run(
+            system=system,
+            phase=phase,
+            subset=subset,
+            data_dir=data_dir,
+            systems_toml=systems_toml,
+            db=db,
+            index_prefix=index_prefix,
+            resume=None,
+            no_ingest=False,
+            k=k,
+            modes=modes,
+            max_attempts=max_attempts,
+        )
+        with Session(engine) as session:
+            created = session.execute(
+                select(q.Run)
+                .where(q.Run.name == f"{subset}-{system}-{phase}")
+                .order_by(q.Run.created_at.desc())
+            ).scalars().first()
+            if created is None:  # pragma: no cover - defensive: run() just created it
+                raise RuntimeError(f"could not resolve newly created {phase} run")
+            created_id = created.id
+        typer.echo(f"\n=== score {phase} run {created_id} ===")
+        score(
+            run_id=created_id,
+            db=db,
+            data_dir=data_dir,
+            out=out,
+            baseline_lang=baseline_lang,
+        )
+        typer.echo(f"\n=== report {phase} run {created_id} ===")
+        report(
+            run_id=created_id,
+            db=db,
+            metric="ndcg@10",
+            origin="all",
+            compare=None,
+            out=out,
+        )
+        completed.append((phase, created_id))
+
+    typer.echo("\nexperiment complete")
+    for phase, created_id in completed:
+        typer.echo(f"  {phase}: {created_id}")
 
 
 if __name__ == "__main__":

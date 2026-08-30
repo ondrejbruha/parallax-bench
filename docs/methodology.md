@@ -28,9 +28,10 @@ index, and one variable moves (language) while everything else holds
   pair → a degradation matrix)
 - **MultiRAG** = one assistant over all indexes
 
-English is in the matrix as the **baseline**, not as a goal: every claim has
-the form "language L performs like this *relative to English* under
-otherwise identical conditions".
+English remains available as a secondary common reference, not as a goal. The
+primary degradation comparison uses each query language's own monolingual
+diagonal, which better isolates the effect of changing document language. See
+[`parallax-metrics.md`](parallax-metrics.md).
 
 ## Ground truth
 
@@ -63,18 +64,30 @@ Retrieval is cheap; generation is not. The design separates them:
 `score` is separate from `run`, so metric definitions can change without
 repeating collection; raw rankings are stored in full.
 
+The convenience command `parallax-bench experiment --system <id>` orchestrates
+validation, fetch, source verification, both experiment phases, scoring, and
+reporting in that order. It calls the same separated phase implementations;
+it does not merge collection with scoring or weaken resumability/provenance.
+
 ## Metrics
 
 - **Retrieval:** nDCG@10, Recall@10, Recall@100, MRR@100, Success@1 —
   trec_eval definitions, tested against `pytrec_eval`.
+- **Parallax (derived retrieval):** Cross-Lingual Penalty, English-relative
+  delta, mean penalty, normalized matrix norm, row-wise stability and gaps,
+  and directional asymmetry. These quantify language sensitivity and are
+  reported beside—not instead of—the absolute IR metrics. Full definitions
+  are in [`parallax-metrics.md`](parallax-metrics.md).
 - **Generation (mechanical):** citation accuracy (cited docs ∈ retrieved
   set; cited docs relevant per qrels), response language correctness
   (did the system answer in the query's language — in cross-lingual mode a
   finding of its own, not a sanity check), latency.
 - **Generation (LLM-judge):** faithfulness, answer relevancy — pluggable
   `Judge` protocol; the judge model must differ from the generator model.
-- **Statistics:** bootstrap CIs over queries; paired Wilcoxon across
-  languages via `query_group`; Holm correction. Missing measurements are
+- **Statistics:** bootstrap CIs over queries; the mean Cross-Lingual Penalty
+  CI resamples whole `query_group` units so translated variants are never
+  treated as independent; paired Wilcoxon across languages via `query_group`;
+  Holm correction. Missing measurements are
   reported as a missing rate — a systematically higher failure rate in one
   language is a result, not noise.
 

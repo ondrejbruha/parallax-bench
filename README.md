@@ -39,6 +39,24 @@ document texts and the local baseline (BM25, optionally + dense via
 `pip install 'parallax-bench[baseline]'`) runs anywhere. CI runs exactly these
 commands on every PR.
 
+To run the complete experiment lifecycle with one command (validation, corpus
+fetch, source-drift verification, retrieval and generation runs, scoring, and
+reports), configure a system and run:
+
+```bash
+parallax-bench experiment --system baseline-local --subset v1
+```
+
+The workflow remains decomposable and resumable through the individual
+commands. For an already fetched/frozen corpus, or a retrieval-only pass, use
+`--skip-fetch`, `--skip-verify`, or `--skip-generation` as appropriate.
+
+`score` writes the standard IR results plus absolute, Cross-Lingual Penalty,
+and English-relative language matrices as CSV. `report` reads those scored
+artifacts and renders annotated PNG heatmaps; it never reruns retrieval. See
+[docs/parallax-metrics.md](docs/parallax-metrics.md) for definitions and file
+names. Smoke output validates the pipeline only and is not research evidence.
+
 ## Benchmarking a real system
 
 ```bash
@@ -57,6 +75,28 @@ adapter class plus configuration. Ablations are expressed as two configured
 instances of the same adapter — never as extra protocol parameters. The
 adapter protocol has exactly four methods (`describe`, `index`, `search`,
 `generate`); see [docs/adding-a-system.md](docs/adding-a-system.md).
+
+The example configuration includes four recommended retrieval runs: the
+built-in lexical BM25 baseline, a pure `intfloat/multilingual-e5-large` dense
+baseline, and Edge Ant with and without reranking. These are separate configured
+systems/runs; reranking is not a benchmark protocol option. Install the dense
+extra before running E5:
+
+```bash
+pip install 'parallax-bench[baseline]'
+cp systems.example.toml systems.toml
+parallax-bench run --system multilingual-e5-large --subset v1
+```
+
+For an already scored run, select a query-origin subset or compare systems:
+
+```bash
+parallax-bench report --run <run_id> --metric ndcg@10 --origin translated
+parallax-bench report --run <bm25_run> --compare <e5_run>,<edge_ant_run>
+```
+
+An unavailable origin (for example `native` in the current `v1`) is reported
+as unavailable and does not make the report fail.
 
 `run` is resumable: the task queue lives in a database (SQLite by default,
 any SQLAlchemy URL — e.g. Heroku Postgres — via `--db` or `$DATABASE_URL`).

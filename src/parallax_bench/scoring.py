@@ -9,6 +9,10 @@ collection.  Outputs land in ``runs/<run>/`` as small, diffable CSVs:
 - ``per_query.csv``  — per-query metric values (the input to any custom stats)
 - ``stats.csv``      — paired Wilcoxon of every language against the baseline
   language on the diagonal, Holm-corrected
+- ``matrices/``      — absolute, Cross-Lingual Penalty, English-relative delta,
+  and directional-asymmetry CSVs, including available query-origin subsets
+- ``parallax_summary.csv/json`` — global Parallax metrics and grouped-bootstrap
+  confidence intervals
 - ``generation.csv`` — mechanical generation metrics, when the run has them
 - ``config.json`` / ``system.json`` — the frozen provenance of every number
 """
@@ -25,6 +29,15 @@ from sqlalchemy.orm import Session
 
 from parallax_bench.data import Dataset
 from parallax_bench.metrics.generation import citation_accuracy
+from parallax_bench.metrics.parallax import (
+    bootstrap_mean_parallax_ci,
+    build_score_matrix,
+    cross_lingual_penalty,
+    directional_asymmetries,
+    english_relative_delta,
+    metric_slug,
+    summarize_parallax,
+)
 from parallax_bench.metrics.retrieval import DEFAULT_METRICS, score_run
 from parallax_bench.metrics.stats import bootstrap_ci, holm_correction, paired_wilcoxon
 from parallax_bench.runner.plan import MULTI_SEPARATOR
@@ -67,6 +80,7 @@ def score_retrieval(
     for q in ds.queries:
         queries_by_lang[q.lang].append(q.query_id)
     group_of = {q.query_id: q.query_group for q in ds.queries}
+    origin_of = {q.query_id: q.origin for q in ds.queries}
 
     rankings = load_rankings(session, run.id, prefix)
     agg_rows, pq_rows = [], []
@@ -83,6 +97,7 @@ def score_retrieval(
                         {
                             "query_id": qid,
                             "query_group": group_of.get(qid),
+                            "origin": origin_of.get(qid),
                             "query_lang": query_lang,
                             "index_lang": index_lang,
                             "metric": metric,
@@ -195,6 +210,8 @@ def write_outputs(
     per_query: pd.DataFrame,
     stats: pd.DataFrame,
     generation: pd.DataFrame | None,
+    languages: list[str] | None = None,
+    baseline_lang: str = "en",
 ) -> Path:
     out_dir.mkdir(parents=True, exist_ok=True)
     aggregated.to_csv(out_dir / "metrics.csv", index=False)
@@ -203,6 +220,10 @@ def write_outputs(
         stats.to_csv(out_dir / "stats.csv", index=False)
     if generation is not None and not generation.empty:
         generation.to_csv(out_dir / "generation.csv", index=False)
+    if languages and not per_query.empty:
+        write_parallax_outputs(
+            out_dir, aggregated, per_query, languages, baseline_lang=baseline_lang
+        )
     (out_dir / "config.json").write_text(
         json.dumps(run.config_json, indent=2, ensure_ascii=False), encoding="utf-8"
     )
@@ -226,8 +247,80 @@ def write_outputs(
         f"`system.json` (read from the running system), `manifest.lock` "
         f"({len(run.lock_json or [])} indexed documents, binding sha256_text "
         f"each). Aggregated metrics in `metrics.csv`; per-query values in "
-        f"`per_query.csv`. Raw rankings live in the run database / release "
+        f"`per_query.csv`. Parallax matrices and summaries are in `matrices/`, "
+        f"`parallax_summary.csv`, and `parallax_summary.json`. Raw rankings "
+        f"live in the run database / release "
         f"assets, not in git.\n",
         encoding="utf-8",
     )
     return out_dir
+
+
+def write_parallax_outputs(
+    out_dir: Path,
+    aggregated: pd.DataFrame,
+    per_query: pd.DataFrame,
+    languages: list[str],
+    *,
+    baseline_lang: str = "en",
+) -> tuple[pd.DataFrame, Path]:
+    """Write absolute/delta matrices and global summaries for all query origins."""
+    if baseline_lang not in languages:
+        raise ValueError(
+            f"baseline language {baseline_lang!r} unavailable; choose one of {languages}"
+        )
+    matrices_root = out_dir / "matrices"
+    matrices_root.mkdir(parents=True, exist_ok=True)
+    origins = ["all", *sorted(str(v) for v in per_query["origin"].dropna().unique())]
+    summary_rows: list[dict] = []
+    for origin in origins:
+        subset = per_query if origin == "all" else per_query[per_query["origin"] == origin]
+        subset_aggregated = (
+            aggregated
+            if origin == "all"
+            else (
+                subset.groupby(["query_lang", "index_lang", "metric"], sort=True)["value"]
+                .mean()
+                .reset_index()
+                .rename(columns={"value": "mean"})
+            )
+        )
+        matrix_dir = matrices_root if origin == "all" else matrices_root / f"origin_{origin}"
+        matrix_dir.mkdir(parents=True, exist_ok=True)
+        for metric in sorted(str(v) for v in subset_aggregated["metric"].unique()):
+            absolute = build_score_matrix(subset_aggregated, metric, languages)
+            clp = cross_lingual_penalty(absolute)
+            en_delta = english_relative_delta(absolute, baseline_lang)
+            slug = metric_slug(metric)
+            _write_matrix(absolute, matrix_dir / f"{slug}.csv")
+            _write_matrix(clp, matrix_dir / f"{slug}_clp.csv")
+            _write_matrix(en_delta, matrix_dir / f"{slug}_en_delta.csv")
+            directional_asymmetries(clp).to_csv(
+                matrix_dir / f"{slug}_asymmetry.csv", index=False, float_format="%.10g"
+            )
+            ci = bootstrap_mean_parallax_ci(subset, metric, languages)
+            summary_rows.append(summarize_parallax(absolute, metric, origin, ci).as_dict())
+
+    summary = pd.DataFrame(summary_rows).sort_values(["origin", "metric"]).reset_index(drop=True)
+    summary.to_csv(out_dir / "parallax_summary.csv", index=False, float_format="%.10g")
+    records = [_json_safe(row) for row in summary.to_dict("records")]
+    summary_json = out_dir / "parallax_summary.json"
+    summary_json.write_text(
+        json.dumps(records, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+    return summary, matrices_root
+
+
+def _write_matrix(matrix: pd.DataFrame, path: Path) -> None:
+    matrix.to_csv(path, index=True, index_label="query_lang", float_format="%.10g")
+
+
+def _json_safe(value):
+    if isinstance(value, dict):
+        return {key: _json_safe(item) for key, item in value.items()}
+    if isinstance(value, list):
+        return [_json_safe(item) for item in value]
+    if pd.isna(value):
+        return None
+    return value
